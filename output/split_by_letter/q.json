@@ -1,0 +1,282 @@
+[
+    {
+        "term": "q",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "huruf ke-17 abjad Rumi."
+            }
+        ]
+    },
+    {
+        "term": "qada",
+        "roman_numeral": "I",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "~ hajat (besar)  buang air (besar)."
+            }
+        ]
+    },
+    {
+        "term": "qada",
+        "roman_numeral": "II",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "menggantikan (mencukupkan, membayar) fardu yg ketinggalan;  ~ puasa  berpuasa utk mencukupkan (membayar) puasa yg tertinggal;  ~  sembahyang   bersembahyang  utk  mengganti  (membayar)  sembahyang yg tertinggal;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mengqada",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "melakukan qada:  kalau sakit dibolehkan tidak berpuasa,  tetapi mesti ~nya pd hari yg lain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "qadak",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "hukum atau takdir Allah:  ~ dan qadar."
+            }
+        ]
+    },
+    {
+        "term": "qadar",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "keputusan (ketentuan) Tuhan, takdir, untung:  orang Islam mesti  percaya akan ~ baik dan jahat."
+            }
+        ]
+    },
+    {
+        "term": "qadim",
+        "roman_numeral": "I",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "tiada permulaan dan tiada pengakhirannya:  Tuhan yg ~;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "keqadiman",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "keadaan atau perihal qadim:  ~   alam ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "qadim",
+        "roman_numeral": "II",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "masa yg akan datang, kemudian hari;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mengqadimkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menelah, meramalkan."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "qaf",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "huruf ke-21 abjad Arab (mempunyai nilai 100);"
+            },
+            {
+                "sense": "2",
+                "definition": "huruf ke-24 abjad  Jawi."
+            }
+        ]
+    },
+    {
+        "term": "qalqalah",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "bunyi akhir huruf (qaf, ta (tO), ba, jim, dal) dgn nyata dan  melantun ketika wakaf."
+            }
+        ]
+    },
+    {
+        "term": "qanaah",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "sikap berpada-pada, iaitu berpuas hati dgn apa yg ada."
+            }
+        ]
+    },
+    {
+        "term": "qari",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "pembaca Quran (lelaki)."
+            }
+        ]
+    },
+    {
+        "term": "qariah",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "pembaca Quran (wanita)."
+            }
+        ]
+    },
+    {
+        "term": "qasar",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "kelonggaran yg dibenarkan bagi musafir utk memendekkan solat  fardu yg empat rakaat kpd dua rakaat (dgn syarat yg dibolehkan):  sembahyang ~;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mengqasarkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memendekkan solat fardu empat rakaat kpd dua  rakaat dgn syarat yg dibolehkan."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "qasidah",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "sj syair Arab yg dilagukan;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berqasidah",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menyanyikan qasidah."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "qiamullail",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "berjaga pd waktu malam utk beribadat (spt bersembahyang  sunat, berzikir, berdoa)."
+            }
+        ]
+    },
+    {
+        "term": "qidam",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "tiada permulaan dan tiada pengakhirannya (bkn sifat Allah)."
+            }
+        ]
+    },
+    {
+        "term": "qiraah",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "bacaan:  al-Quran disempurnakan dgn ~ yg berlainan."
+            }
+        ]
+    },
+    {
+        "term": "qiran",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "=  haji ~  ibadah haji dan umrah yg dikerjakan serentak dlm bulan  haji, dan dikenakan dam."
+            }
+        ]
+    },
+    {
+        "term": "qisas",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "=  hukum ~  hukuman bunuh (sbg pembalasan)."
+            }
+        ]
+    },
+    {
+        "term": "qunut",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "=  doa ~  doa supaya dijauhkan sesuatu bala atau memohon sesuatu  pertolongan drpd Allah yg dibaca pd waktu tertentu (pd rakaat kedua  sembahyang subuh, bermula pd malam ke-15 bertarawih pd bulan  Ramadan, dll)."
+            }
+        ]
+    },
+    {
+        "term": "Quraisy",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "suku bangsa Arab."
+            }
+        ]
+    },
+    {
+        "term": "Quran",
+        "origin": "Ar",
+        "definitions": [
+            {
+                "sense": "1",
+                "definition": "=  al-~  kitab suci yg diturunkan oleh Allah kpd Nabi Muhammad  SAW utk menjadi panduan hidup manusia (utk dunia dan akhirat):   membaca dan menghafaz ~; ~ buruk  ki sesuatu yg tidak boleh  diharapkan atau tidak berguna lagi tetapi masih dihormati kerana  sebab-sebab tertentu."
+            }
+        ]
+    }
+]
