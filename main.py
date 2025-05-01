@@ -34,7 +34,7 @@ def extract_dictionary_entries(pdf_path):
                         bbox = span["bbox"]
                         
                         # Terms are bold and positioned at x < 100
-                        if bbox[0] < 100 and font == 'Times New Roman,Bold' and text.strip():
+                        if bbox[0] < 100 and (font == 'Times New Roman,Bold' or font == 'Times New Roman,BoldItalic' or font == 'TimesNewRoman,Bold') and text.strip():
                             # If we already have an entry being processed, save it
                             if current_entry:
 
@@ -103,15 +103,17 @@ def extract_dictionary_entries(pdf_path):
             "sub_terms": sub_terms
         })
     
-    # print(entries)
     # Process each entry with regex to extract more structured information
     structured_entries = []
     for entry in entries:
-        processed_entry = process_entry_content(entry["term"], entry["content"], entry["sub_terms"])
-        structured_entries.append(processed_entry)
+        try:
+            processed_entry = process_entry_content(entry["term"], entry["content"], entry["sub_terms"])
+            structured_entries.append(processed_entry)
+        except Exception as e:
+            print(f"Error processing entry: {entry['term']}")
+            print(str(e))
     
     return structured_entries
-    # return entries
 
 
 def process_entry_content(term, content, sub_terms):
