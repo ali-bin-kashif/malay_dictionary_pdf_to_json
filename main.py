@@ -74,7 +74,7 @@ def extract_dictionary_entries(pdf_path):
                         else:
                             # Add to current entry's content
                             if current_entry:
-                                if bbox[0] > 126 and bbox[0] < 127 and font == 'Times New Roman,Bold' and text.strip():
+                                if bbox[0] > 126 and bbox[0] < 127 and (font == 'Times New Roman,Bold' or font == 'TimesNewRoman,Bold') and text.strip():
                                     if subterm:
                                         if subterm[-2:].strip() in ['1.', '1']:
                                             sub_terms.append({

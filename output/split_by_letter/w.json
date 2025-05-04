@@ -51,7 +51,18 @@
             },
             {
                 "sense": "2",
-                "definition": "sampai janjinya (ajalnya);  datang ~ Allah  atasnya  sampai janjinya, mati;    berwaad  membuat (mengikat) perjanjian, berjanji:  jikalau tuanku  mahu anak patik itu, mahulah Duli Yang Dipertuan ~ dgn patik."
+                "definition": "sampai janjinya (ajalnya);  datang ~ Allah  atasnya  sampai janjinya, mati;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwaad",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "membuat (mengikat) perjanjian, berjanji:  jikalau tuanku  mahu anak patik itu, mahulah Duli Yang Dipertuan ~ dgn patik."
+                    }
+                ]
             }
         ]
     },
@@ -70,7 +81,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "perjanjian;    berwaadat  berjanji, membuat perjanjian:  perjanjian atau ~ itu  semacam bertentangan dgn asas keutuhan asal-usul raja itu."
+                "definition": "perjanjian;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwaadat",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "berjanji, membuat perjanjian:  perjanjian atau ~ itu  semacam bertentangan dgn asas keutuhan asal-usul raja itu."
+                    }
+                ]
             }
         ]
     },
@@ -99,10 +121,35 @@
             {
                 "sense": "1",
                 "definition": "sj penyakit menular, (berjangkit) yg merebak:  ~ cacar; ~ taun;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "2.",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "kejadian atau perbuatan buruk (spt penagihan dadah, perbuatan  jenayah, dll) yg merebak ke merata tempat:  ~ dadah perlu  dibanteras; ~ kepincangan yg melanda koperasi;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "kejadian atau perbuatan buruk (spt penagihan dadah, perbuatan  jenayah, dll) yg merebak ke merata tempat:  ~ dadah perlu  dibanteras; ~ kepincangan yg melanda koperasi;    mewabak  merebak dgn cepat:  ruapan itu ~ hingga memenuhi  setiap ruang tanah itu; bayangan hitam itu ~ ke hati Raid yg  memaksanya mengasak terus;    mewabakkan  menyebabkan merebak, merebakkan : aku tahu  jawaban itu akan ~ suasana tegang ke seluruh pelosok rumah  kami."
+                "sub_term": "mewabak",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "merebak dgn cepat:  ruapan itu ~ hingga memenuhi  setiap ruang tanah itu; bayangan hitam itu ~ ke hati Raid yg  memaksanya mengasak terus;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewabakkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menyebabkan merebak, merebakkan : aku tahu  jawaban itu akan ~ suasana tegang ke seluruh pelosok rumah  kami."
+                    }
+                ]
             }
         ]
     },
@@ -129,7 +176,18 @@
             },
             {
                 "sense": "3",
-                "definition": "kesatuan fikiran yg  utuh, sama ada dlm bentuk lisan (spt pidato, khutbah) atau tulisan  (spt surat, artikel, novel, cerpen):  kita merindui dunia subur  kritikan sastera yg dibajai oleh pengetahuan tentang teori dan ~  sastera yg mendalam dan pembacaan karya sastera yg banyak;      mewacanakan  menjadikan sesuatu sbg wacana:  para ilmuan cuba  berbincang dan membuat analisis terhadap tajuk-tajuk yg dipilih  utk diwacanakan secara objektif."
+                "definition": "kesatuan fikiran yg  utuh, sama ada dlm bentuk lisan (spt pidato, khutbah) atau tulisan  (spt surat, artikel, novel, cerpen):  kita merindui dunia subur  kritikan sastera yg dibajai oleh pengetahuan tentang teori dan ~  sastera yg mendalam dan pembacaan karya sastera yg banyak;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewacanakan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan sesuatu sbg wacana:  para ilmuan cuba  berbincang dan membuat analisis terhadap tajuk-tajuk yg dipilih  utk diwacanakan secara objektif."
+                    }
+                ]
             }
         ]
     },
@@ -138,7 +196,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "bilik atau bahagian di sesebuah hospital yg menjadi tempat tinggal  para pesakit, biasanya mereka yg mengalami penyakit yg sama,  utk menjalani rawatan:  ~ kecemasan; ~ ortopedik; ~ bersalin;    mengewadkan  memasukkan seseorang ke dlm wad:  Selvamuthu  telah diwadkan selama tiga minggu ."
+                "definition": "bilik atau bahagian di sesebuah hospital yg menjadi tempat tinggal  para pesakit, biasanya mereka yg mengalami penyakit yg sama,  utk menjalani rawatan:  ~ kecemasan; ~ ortopedik; ~ bersalin;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mengewadkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memasukkan seseorang ke dlm wad:  Selvamuthu  telah diwadkan selama tiga minggu ."
+                    }
+                ]
             }
         ]
     },
@@ -151,7 +220,27 @@
             },
             {
                 "sense": "2",
-                "definition": "alat, asas,  medan, saluran (utk melakukan atau menyampaikan sesuatu):  pihak penganjur berharap seminar sedemikian akan menjadi ~ utk  para pendidik bahasa dan sastera Melayu bertukar-tukar  pendapat; ada orang melihatnya berfungsi sbg ~ pengiklanan,  medan propaganda, suatu saluran utk menyampaikan informasi,  dan bermacam-macam lagi;    berwadahkan  menggunakan atau mempunyai sesuatu sbg wadah:  kita telah dapat mengemukakan penyelesaian agama dgn ~ ilmu  pengetahuan, sains dan teknologi, di samping berdoa dan  bertawakal kpd Allah;    mewadahi  menjadi wadah kpd (atau bagi):  kebosanannya sudah  lama ~ kekecewaan utk mendapatkan sebarang kerja."
+                "definition": "alat, asas,  medan, saluran (utk melakukan atau menyampaikan sesuatu):  pihak penganjur berharap seminar sedemikian akan menjadi ~ utk  para pendidik bahasa dan sastera Melayu bertukar-tukar  pendapat; ada orang melihatnya berfungsi sbg ~ pengiklanan,  medan propaganda, suatu saluran utk menyampaikan informasi,  dan bermacam-macam lagi;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwadahkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menggunakan atau mempunyai sesuatu sbg wadah:  kita telah dapat mengemukakan penyelesaian agama dgn ~ ilmu  pengetahuan, sains dan teknologi, di samping berdoa dan  bertawakal kpd Allah;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewadahi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadi wadah kpd (atau bagi):  kebosanannya sudah  lama ~ kekecewaan utk mendapatkan sebarang kerja."
+                    }
+                ]
             }
         ]
     },
@@ -309,7 +398,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ", bh meninggal dunia (digunakan utk nabi dan  rasul):  setelah  Nabi ~, Abu Bakar dilantik menjadi Khalifah;     kewafatan  kematian (nabi dan rasul):  selepas ~ Rasulullah,  sayidina Abu Bakar telah dilantik menjadi khalifah pertama."
+                "definition": ", bh meninggal dunia (digunakan utk nabi dan  rasul):  setelah  Nabi ~, Abu Bakar dilantik menjadi Khalifah;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewafatan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "kematian (nabi dan rasul):  selepas ~ Rasulullah,  sayidina Abu Bakar telah dilantik menjadi khalifah pertama."
+                    }
+                ]
             }
         ]
     },
@@ -399,11 +499,31 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "menduga,  menyangka-nyangka;"
+                "definition": "sangkaan atau alasan yg samar-samar (jauh drpd yakin), was- was:  tiga kali saya mengangkat takbir barulah berasa betul bersih  dan tidak ada syak dan ~;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewahamkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menduga,  menyangka-nyangka;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "mencurigakan, meragu-ragukan, mengesyaki;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "mencurigakan, meragu-ragukan, mengesyaki;    kewahaman  sesuatu yg diwahamkan (dicurigai):  ilmu al-Yaqin itu  tidak mengandungi sebarang keraguan, kesalahan, dan ~."
+                "sub_term": "kewahaman",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sesuatu yg diwahamkan (dicurigai):  ilmu al-Yaqin itu  tidak mengandungi sebarang keraguan, kesalahan, dan ~."
+                    }
+                ]
             }
         ]
     },
@@ -412,7 +532,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "saluran atau perantaraan (yg memungkinkan sesuatu dilakukan,  disampaikan, atau dicapai):  bahasa baku sajalah yg layak menjadi  bahasa ilmu utk ~ pemikiran dan utk pengembangan budaya  bangsa; lukisan kartun sering digunakan orang sbg ~  propaganda; RTM seharusnya menjadi ~ komunikasi ilmu dan  sekali gus ~ komunikasi budaya yg berkesan;    berwahanakan  menggunakan sesuatu (spt bahasa) sbg wahana:   keperluan khusus yg ~ bahasa asing."
+                "definition": "saluran atau perantaraan (yg memungkinkan sesuatu dilakukan,  disampaikan, atau dicapai):  bahasa baku sajalah yg layak menjadi  bahasa ilmu utk ~ pemikiran dan utk pengembangan budaya  bangsa; lukisan kartun sering digunakan orang sbg ~  propaganda; RTM seharusnya menjadi ~ komunikasi ilmu dan  sekali gus ~ komunikasi budaya yg berkesan;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwahanakan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menggunakan sesuatu (spt bahasa) sbg wahana:   keperluan khusus yg ~ bahasa asing."
+                    }
+                ]
             }
         ]
     },
@@ -479,7 +610,27 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "firman (kalam) Allah yg dibacakan kpd nabi dan rasul-Nya yg  disampaikan sama ada melalui malaikat (Jibril) ataupun tanpa  melaluinya:  Nabi  Muhammad  SAW  menerima  ~  utk  mengembangkan agama Islam;    mewahyukan  menurunkan wahyu kpd, menyampaikan petunjuk  (pengajaran dll) dgn wahyu:  wahyu disampaikan kpd Nabi oleh  Jibril,  dan  segala  apa  yg  diwahyukan  kepadanya  itu  disampaikannya pula kpd sahabat-sahabatnya;     pewahyuan  proses menyampaikan wahyu:  ~ dan penyebaran al- Quran."
+                "definition": "firman (kalam) Allah yg dibacakan kpd nabi dan rasul-Nya yg  disampaikan sama ada melalui malaikat (Jibril) ataupun tanpa  melaluinya:  Nabi  Muhammad  SAW  menerima  ~  utk  mengembangkan agama Islam;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewahyukan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menurunkan wahyu kpd, menyampaikan petunjuk  (pengajaran dll) dgn wahyu:  wahyu disampaikan kpd Nabi oleh  Jibril,  dan  segala  apa  yg  diwahyukan  kepadanya  itu  disampaikannya pula kpd sahabat-sahabatnya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewahyuan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "proses menyampaikan wahyu:  ~ dan penyebaran al- Quran."
+                    }
+                ]
             }
         ]
     },
@@ -567,7 +718,27 @@
             },
             {
                 "sense": "2",
-                "definition": "(bkn semangat, cita-cita, dsb)  kuat:  Afifi berani dan punya cita-cita ~ ;    berwaja  menjadi teguh:  keyakinan ~ di hatinya;    kewajaan  sifat atau keadaan waja, kekuatan:  yg penting ialah ~  semangat kaum tani dlm menghasilkan tuaian mereka."
+                "definition": "(bkn semangat, cita-cita, dsb)  kuat:  Afifi berani dan punya cita-cita ~ ;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwaja",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadi teguh:  keyakinan ~ di hatinya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewajaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sifat atau keadaan waja, kekuatan:  yg penting ialah ~  semangat kaum tani dlm menghasilkan tuaian mereka."
+                    }
+                ]
             }
         ]
     },
@@ -580,7 +751,40 @@
             },
             {
                 "sense": "2",
-                "definition": "keadaan  luaran (spt pemandangan dll), rupa atau keadaan (sesuatu)  sebagaimana yg dapat dilihat:  ~ kampung itu sudah berubah  sekarang; sekiranya itu dapat memberikan nafas serta ~ baru, ia  pasti menggembirakan;    berwajah"
+                "definition": "keadaan  luaran (spt pemandangan dll), rupa atau keadaan (sesuatu)  sebagaimana yg dapat dilihat:  ~ kampung itu sudah berubah  sekarang; sekiranya itu dapat memberikan nafas serta ~ baru, ia  pasti menggembirakan;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwajah",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai (menampakkan) wajah;  ~ sedih (suka,  lesu, dsb);"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "mempunyai atau menampakkan wajah (rupa atau  keadaan sebagaimana yg dapat dilihat):  sesuai dgn struktur  pembinaannya, dekor banglo ~ antik ini turut melahirkan imej  sebagaimana yg dikehendaki oleh tuannya; buku lama ~ baru;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berwajahkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menggunakan atau mempunyai sesuatu sbg wajah:  masyarakat gempar apabila menjumpai  ikan yg ~ manusia;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewajahi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memberikan keadaan atau rupa luaran kpd:  begitulah  sastera hipermodenisme yg akan ~ sastera dunia."
+                    }
+                ]
             }
         ]
     },
@@ -603,15 +807,57 @@
             },
             {
                 "sense": "2",
-                "definition": "sebagaimana yg  sepatutnya (bersesuaian, kena pd tempatnya, dsb), dapat diterima  atau dipertahankan sbg munasabah, seharusnya, semestinya,  sepatutnya:  kaum wanita harus mendapat tempat yg ~ dlm  masyarakat; tuntutan rakyat yg ~ utk keperluan hidup;    sewajar;  ~ dgn  sama halnya dgn, selaras dgn, setimbal dgn, sesuai  dgn;    sewajarnya"
+                "definition": "sebagaimana yg  sepatutnya (bersesuaian, kena pd tempatnya, dsb), dapat diterima  atau dipertahankan sbg munasabah, seharusnya, semestinya,  sepatutnya:  kaum wanita harus mendapat tempat yg ~ dlm  masyarakat; tuntutan rakyat yg ~ utk keperluan hidup;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "sewajar;",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "~ dgn  sama halnya dgn, selaras dgn, setimbal dgn, sesuai  dgn;"
+                    }
+                ]
             },
             {
-                "sense": "3",
-                "definition": "dgn begitu sahaja, tidak  dibuat-buat (dipaksa-paksa), dgn sendirinya:  jangan dihalang  fikiran kanak-kanak yg tumbuh dgn ~;"
+                "sub_term": "sewajarnya",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memang begitu halnya (keadaannya dll),  sebenarnya (demikian), sememangnya:  sbg seorang yg dilahirkan  di Negeri Sembilan, maka sudah ~ pula saya sentiasa bersimpati  dgn perjalanan adat Perpatih di Negeri Sembilan;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "memang  begitu sifatnya (kudratnya, tabiatnya), sudah semestinya begitu:  pertengkaran antara puak pembangkang dgn puak kerajaan yg  berlaku dlm parlimen itu sudah ~;"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "dgn begitu sahaja, tidak  dibuat-buat (dipaksa-paksa), dgn sendirinya:  jangan dihalang  fikiran kanak-kanak yg tumbuh dgn ~;"
+                    },
+                    {
+                        "sense": "4",
+                        "definition": "sesuai dgn yg  seharusnya, sebagaimana mestinya, sebagaimana patut:  kandungan  Quran itu harus difahami dgn ~;"
+                    }
+                ]
             },
             {
-                "sense": "4",
-                "definition": "sesuai dgn yg  seharusnya, sebagaimana mestinya, sebagaimana patut:  kandungan  Quran itu harus difahami dgn ~;    mewajarkan  menjadikan dapat diterima atau dianggap sbg  sepatutnya  atau  seharusnya  demikian,  menjadikan  (memperlihatkan dsb) wajar:  filem ini tidak berusaha utk ~  kekuasaan kolonial bangsa kulit putih; saya tidak nampak  sebarang alasan atau hujah yg kuat yg dapat ~ kita bertindak  menghapuskan tulisan Jawi;    kewajaran  perihal  wajar:  perbincangan  di  atas  telah  menunjukkan ~ pendirian ini; apakah ada ~ atau tidak utk  bertindak sedemikian?"
+                "sub_term": "mewajarkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan dapat diterima atau dianggap sbg  sepatutnya  atau  seharusnya  demikian,  menjadikan  (memperlihatkan dsb) wajar:  filem ini tidak berusaha utk ~  kekuasaan kolonial bangsa kulit putih; saya tidak nampak  sebarang alasan atau hujah yg kuat yg dapat ~ kita bertindak  menghapuskan tulisan Jawi;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewajaran",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal  wajar:  perbincangan  di  atas  telah  menunjukkan ~ pendirian ini; apakah ada ~ atau tidak utk  bertindak sedemikian?"
+                    }
+                ]
             }
         ]
     },
@@ -629,7 +875,62 @@
             },
             {
                 "sense": "3",
-                "definition": "sudah  seharusnya (sepantasnya, sepatutnya):  kita ~ mengucapkan syukur  dan berterima kasih kpd orang yg telah menolong kita;    ~ belajar  kemestian menuntut ilmu (belajar);  ~ pajak  Id orang yg  wajib membayar cukai;    sewajibnya  semestinya, sewajarnya, seharusnya:  ~lah mereka  bersatu padu dan bekerjasama utk mencapai kemajuan;    berwajib  bertanggungjawab mengelolakan atau mengurus sesuatu  (bkn orang, institusi, dll yg):  bantahan itu sudah disampaikan kpd  yg ~; bidang ini juga melibatkan DBP, pihak-pihak yg ~, dan  orang ramai dlm menentukan taraf bahasa Melayu di negara ini;    mewajibkan"
+                "definition": "sudah  seharusnya (sepantasnya, sepatutnya):  kita ~ mengucapkan syukur  dan berterima kasih kpd orang yg telah menolong kita;    ~ belajar  kemestian menuntut ilmu (belajar);  ~ pajak  Id orang yg  wajib membayar cukai;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "sewajibnya",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "semestinya, sewajarnya, seharusnya:  ~lah mereka  bersatu padu dan bekerjasama utk mencapai kemajuan;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berwajib",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bertanggungjawab mengelolakan atau mengurus sesuatu  (bkn orang, institusi, dll yg):  bantahan itu sudah disampaikan kpd  yg ~; bidang ini juga melibatkan DBP, pihak-pihak yg ~, dan  orang ramai dlm menentukan taraf bahasa Melayu di negara ini;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewajibkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan wajib (dilakukan, diamalkan, dll),  menjadikan kemestian, memestikan, mengharuskan:  Islamkah  engkau kalau engkau tidak mengikut syarat dan undang yg  diwajibkan ke atas seorang Islam?"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menyerahkan tugas (kerja  dll) kpd, memestikan sesuatu kpd:  kerajaan ~ suntikan cacar;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewajiban,",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sesuatu yg diwajibkan, kemestian,  keharusan:  ia setia kpd suaminya, dan suaminya itu pun tidak  melupakan ~nya;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "tugas (tanggungjawab) yg harus dilakukan  atas perintah:  kami datang ini kerana ~, bukan untuk mengugut;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berkewajiban,",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "berkewajipan  mempunyai  kewajiban  (tanggungjawab), bertanggungjawab:  suamilah yg ~ mencari sara  hidup."
+                    }
+                ]
             }
         ]
     },
@@ -683,7 +984,36 @@
             },
             {
                 "sense": "2",
-                "definition": "badan (institusi) yg dibentuk yg ada kaitan dgn agama Islam;    berwakaf  memberikan sesuatu (tanah, harta, dll) utk keperluan  (kegunaan) umum atau keagamaan;    mewakafkan  memberikan (tanah, harta, dll) utk kegunaan orang  ramai, memberikan sesuatu utk hal atau keperluan yg berkaitan  dgn agama:  pokok manggis itu diwakafkan kpd sesiapa yg tidak  mempunyai pokok manggis dlm paraknya;    pewakaf  orang yg mewakafkan sesuatu:  ~ berkuasa menentukan  orang yg bertanggungjawab sbg pentadbir harta wakafnya."
+                "definition": "badan (institusi) yg dibentuk yg ada kaitan dgn agama Islam;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwakaf",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memberikan sesuatu (tanah, harta, dll) utk keperluan  (kegunaan) umum atau keagamaan;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewakafkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memberikan (tanah, harta, dll) utk kegunaan orang  ramai, memberikan sesuatu utk hal atau keperluan yg berkaitan  dgn agama:  pokok manggis itu diwakafkan kpd sesiapa yg tidak  mempunyai pokok manggis dlm paraknya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewakaf",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "orang yg mewakafkan sesuatu:  ~ berkuasa menentukan  orang yg bertanggungjawab sbg pentadbir harta wakafnya."
+                    }
+                ]
             }
         ]
     },
@@ -725,11 +1055,74 @@
             },
             {
                 "sense": "4",
-                "definition": "Id jawatan yg  kedua tingginya (di bawah jawatan yg disebutkan berikutnya),  naib, penolong, timbalan:  ~ kedua; ~ presiden;     ~ dagang  orang yg dilantik utk mengurus perdagangan;  ~ mutlak  wakil yg diberi kuasa (hak dll) yg penuh;  ~ nikah  orang yg  menjadi wakil pengantin dlm pernikahan;  ~ (pejabat) pos  pejabat  pos kecil (yg biasanya menjadi wakil urusan pos di kampung- kampung dan tidak mempunyai bangunan yg khas);  ~ rakyat  seseorang yg telah dipilih dlm pilihan raya utk menjadi wakil  penduduk di kawasan pilihan rayanya (dlm parlimen dsb), ahli  parlimen, ahli majlis undangan negeri;  ~ tetap  orang dll yg  dilantik menjadi wakil utk waktu yg berpanjangan;  ~ tunggal  wakil perdagangan yg satu-satunya (tidak ada wakil yg lain);    berwakil  mempunyai (memakai) wakil, melantik (memberi kuasa  dsb kpd) seseorang utk berlaku sbg wakil:  masalahnya, dia sendiri  tidak hadir dan tidak pula ~;     berwakilkan  menggunakan (melantik dll) sbg wakil:  pelabur- pelabur yg ~ pejabat pos akan menerima surat akuan penerimaan  dr Ibu Pejabat ASNB;    mewakili  menjadi wakil kpd, bertindak sbg wakil atau pengganti  kpd atau bagi pihak (seseorang dll), menyulihi:  peguam yg telah  disahkan oleh mahkamah tertinggi boleh hadir di mana-mana  mahkamah utk ~ orang;    mewakilkan"
+                "definition": "Id jawatan yg  kedua tingginya (di bawah jawatan yg disebutkan berikutnya),  naib, penolong, timbalan:  ~ kedua; ~ presiden;     ~ dagang  orang yg dilantik utk mengurus perdagangan;  ~ mutlak  wakil yg diberi kuasa (hak dll) yg penuh;  ~ nikah  orang yg  menjadi wakil pengantin dlm pernikahan;  ~ (pejabat) pos  pejabat  pos kecil (yg biasanya menjadi wakil urusan pos di kampung- kampung dan tidak mempunyai bangunan yg khas);  ~ rakyat  seseorang yg telah dipilih dlm pilihan raya utk menjadi wakil  penduduk di kawasan pilihan rayanya (dlm parlimen dsb), ahli  parlimen, ahli majlis undangan negeri;  ~ tetap  orang dll yg  dilantik menjadi wakil utk waktu yg berpanjangan;  ~ tunggal  wakil perdagangan yg satu-satunya (tidak ada wakil yg lain);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwakil",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai (memakai) wakil, melantik (memberi kuasa  dsb kpd) seseorang utk berlaku sbg wakil:  masalahnya, dia sendiri  tidak hadir dan tidak pula ~;"
+                    }
+                ]
             },
             {
-                "sense": "5",
-                "definition": "wakil (pejabat yg mewakili)  perdagangan:  majalah ini dapat dibeli melalui ~nya."
+                "sub_term": "berwakilkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menggunakan (melantik dll) sbg wakil:  pelabur- pelabur yg ~ pejabat pos akan menerima surat akuan penerimaan  dr Ibu Pejabat ASNB;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewakili",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadi wakil kpd, bertindak sbg wakil atau pengganti  kpd atau bagi pihak (seseorang dll), menyulihi:  peguam yg telah  disahkan oleh mahkamah tertinggi boleh hadir di mana-mana  mahkamah utk ~ orang;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewakilkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memberi kuasa kpd seseorang utk menjadi wakil,  menunjuk (melantik) seseorang lain utk mewakili:  semua ahli  mesti hadir sendiri, tidak boleh ~ orang lain;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menyerahkan kpd  orang  yg  dipercayai  utk  diurus  dsb,  mempercayakan  (mengamanahkan) kpd:  perahu besar itu tinggal di pangkalan  Saleh, diwakilkannya kpd orang di situ;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwakilan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "segala sesuatu mengenai wakil, perihal wakil- mewakili:  soal ~ pelajar utk duduk bersama dlm parlimen telah  dibincangkan dlm mesyuarat itu;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "beberapa orang utusan  (pemerintah dll), perutusan:  menteri itu telah mengetuai satu ~  seramai lima orang utk menghadiri persidangan Pembangunan  Ekonomi Asia Tenggara;"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "para wakil, majlis wakil-wakil, tempat  wakil-wakil:  dewan (majlis) ~ rakyat;"
+                    },
+                    {
+                        "sense": "4",
+                        "definition": "wakil (pejabat yg  mewakili) sesebuah negara sebelum ada duta:  ia berhak mendapat  perlindungan apabila berada di luar negeri menerusi duta-duta  atau ~ negerinya di negeri itu;"
+                    },
+                    {
+                        "sense": "5",
+                        "definition": "wakil (pejabat yg mewakili)  perdagangan:  majalah ini dapat dibeli melalui ~nya."
+                    }
+                ]
             }
         ]
     },
@@ -759,6 +1152,35 @@
             {
                 "sense": "6",
                 "definition": "keadaan hari dll,  suasana:  tubuhnya panas tiap-tiap petang dan berpeluh pd ~  malam;   W~ Min Greenwich  waktu piawai di Great Britain yg digunakan  sbg asas pengiraan waktu di tempat-tempat lain di dunia;  ~ pejabat  waktu urusan sesebuah organisasi (kementerian, jabatan atau  pejabat) dijalankan, biasanya antara"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "sewaktu",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "dlm waktu yg sama, pd masa (ketika), semasa:  nelayan  itu telah dirompak ~ menangkap ikan;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "sewaktu-waktu",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bila-bila sahaja, sebarang waktu:  ~ kami dapat  ditangkap;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berwaktu",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai waktu yg tertentu, memakai waktu;  sembahyang diberi ~, janji diberi berketika  prb sesuatu pekerjaan  hendaklah ditetapkan waktunya supaya selamat dan sempurna."
+                    }
+                ]
             }
         ]
     },
@@ -805,7 +1227,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "ark;  mewalakkan  menaruh, meletakkan;    terwalak  terletak."
+                "definition": "ark;  mewalakkan  menaruh, meletakkan;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "terwalak",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "terletak."
+                    }
+                ]
             }
         ]
     },
@@ -829,7 +1262,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "=  ~ hati = berhati ~  bersusah (bersedih) hati, dukacita, gelisah,  khuatir;    berwalang;  ~ hati  walang hati."
+                "definition": "=  ~ hati = berhati ~  bersusah (bersedih) hati, dukacita, gelisah,  khuatir;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwalang;",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "~ hati  walang hati."
+                    }
+                ]
             }
         ]
     },
@@ -938,7 +1382,62 @@
             },
             {
                 "sense": "4",
-                "definition": "orang  yg memerintah sesebuah daerah (negeri dll);    ~ akrab, ~ ikrab  a) orang yg layak menjadi wali yg sangat rapat  hubungannya dgn pengantin perempuan (iaitu ayah, abang yg  sulung, atau ayah saudara; b) ayah atau ibu kpd anak yatim yg  layak mengurus harta si anak sehingga ia dewasa;  ~ kota  Id datuk  bandar;  ~ negara  Id ketua negara bahagian (pd zaman penjajahan  Belanda dan zaman Republik Indonesia Serikat);  ~ negeri  Id a)  ketua negeri; b) Gabenor Jeneral;  ~ rumah  mamak yg berkuasa  dlm rumah adat, tungganai;    berwalikan  mempunyai seseorang sbg wali;    mewalikan  bertindak sbg wali, menjadi wali utk;    memperwalikan  menjadikan seseorang (sbg) wali, menunjuk  seseorang sbg wali;    kewalian  darjat sbg seorang wali:  sesiapa yg menafikan ~nya  dituduh jahil;    perwalian"
+                "definition": "orang  yg memerintah sesebuah daerah (negeri dll);    ~ akrab, ~ ikrab  a) orang yg layak menjadi wali yg sangat rapat  hubungannya dgn pengantin perempuan (iaitu ayah, abang yg  sulung, atau ayah saudara; b) ayah atau ibu kpd anak yatim yg  layak mengurus harta si anak sehingga ia dewasa;  ~ kota  Id datuk  bandar;  ~ negara  Id ketua negara bahagian (pd zaman penjajahan  Belanda dan zaman Republik Indonesia Serikat);  ~ negeri  Id a)  ketua negeri; b) Gabenor Jeneral;  ~ rumah  mamak yg berkuasa  dlm rumah adat, tungganai;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwalikan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai seseorang sbg wali;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewalikan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bertindak sbg wali, menjadi wali utk;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "memperwalikan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan seseorang (sbg) wali, menunjuk  seseorang sbg wali;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewalian",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "darjat sbg seorang wali:  sesiapa yg menafikan ~nya  dituduh jahil;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwalian",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal wali;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "pengasuhan anak yatim serta  penjagaan hartanya;"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "pengasuh negara yg belum boleh berkuasa  sendiri."
+                    }
+                ]
             }
         ]
     },
@@ -976,7 +1475,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "orang yg bukan waris (mis raja, kadi, dll) yg boleh  menikahkan pengantin perempuan jikalau ketiadaan walinya (spt  bapanya, datuknya, abangnya, dll);    berwalihakimkan  menggunakan seseorang sbg wali hakim:   pernikahannya ~ kadi daerah."
+                "definition": "orang yg bukan waris (mis raja, kadi, dll) yg boleh  menikahkan pengantin perempuan jikalau ketiadaan walinya (spt  bapanya, datuknya, abangnya, dll);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwalihakimkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menggunakan seseorang sbg wali hakim:   pernikahannya ~ kadi daerah."
+                    }
+                ]
             }
         ]
     },
@@ -1191,7 +1701,72 @@
             },
             {
                 "sense": "3",
-                "definition": "sl duit  yg bernilai satu pertiga tali:  pd masa itu di Melaka, segala jenis  makanan pun mahallah, telur ayam tiga buah dua ~, dan ayam  seekor satu rupiah;     tiga   ~  setali;  ~ adat  Id wang utk perbicaraan di mahkamah;  ~  bandar  wang yg dipertaruhkan dlm perjudian;  ~ belanja  a) wang  utk kegunaan hari-hari; b) ark gaji;  ~ cengkeram (muka,  pendahuluan)  wang yg dibayar dahulu utk menandakan setuju  membeli (menyewa) sesuatu barang, panjar;  ~ duduk (sidang)  Id  wang upah utk anggota dewan dll ketika menghadiri persidangan;  ~ duka (sungkawa)  Id wang yg diberikan kpd ahli waris yg  meninggal semasa mengerjakan tugasnya;  ~ hangat  (Eko) wang yg  beredar (dr negeri ke negeri) kerana kadar bunga yg rendah;  ~  hantaran  wang yg dihantarkan oleh pihak pengantin lelaki kpd  pihak pengantin perempuan (dlm perkahwinan);  ~ jaga-jaga  (cadangan)  wang persediaan utk digunakan apabila diperlukan;  ~  jantan  Id wang yg dibawa utk digunakan apabila diperlukan;  ~  jalan  wang utk bekal dlm perjalanan;  ~ jasa  a) wang yg diberikan  sbg pembalas jasa; b) bunga wang, faedah;  ~ kancing  sj wang utk  jaminan;  ~ karun  a) wang yg terjumlah dlm harta karun; b) wang  yg diperoleh secara haram;  ~ kecil (pecah-receh)  duit yg rendah  nilaiannya (sen dll);  ~ keras  wang yg tetap nilaiannya (dlm  pertukaran antarabangsa);  ~ kertas  wang yg berupa kertas;  ~  kontan  Id wang tunai;  ~ kopi (jerih, sirih, teh)  wang yg diberi sbg  hadiah (kerana mengerjakan sesuatu);  ~ kuliah  Id wang  perbelanjaan belajar di sekolah tinggi;  ~ kunci (tiap)  wang yg  dibayar kpd tuan rumah yg disewa rumahnya;  ~ lembur  Id wang  upah kerana kerja lebih masa;  ~ logam (emas, perak,  dll);  ~ luar  wang (pendapatan) yg diterima hasil membuat kerja luar;  ~ mahar  (wang) mas kahwin;  ~ makan  wang bayaran makan (semasa  menjalankan tugas);  ~ meja  Id wang pembayaran perbicaraan di  mahkamah;  ~ panas  a) (Eko) wang yg dipindahkan dr sebuah  negara ke sebuah negara yg lain, atau dr satu jenis pelaburan yg  lain, utk mendapatkan kadar pulangan yg terbaik; b) Id wang  pinjaman dgn bunga yg banyak; c) Id wang yg berlebih-lebih (dlm  peredaran); d) Id wang yg senang dapat dan senang habisnya;  ~  pangkal  wang yg harus dibayar dahulu ketika mula-mula masuk  persatuan dll (bayaran masuk);  ~ perlindungan  wang yg dibayar  oleh seseorang kpd kongsi gelap atau samseng agar harta benda,  perniagaan atau nyawanya dsb tidak diganggu atau diancam oleh  kongsi gelap atau samseng;  ~ pertaruhan  wang yg dibayar sbg  tanda sanggup menerima sesuatu tawaran (menjadi ahli dll);  ~  plastik  ki kad kredit ; ~ poket  bp  = ~ saku  wang yg dibawa utk  digunakan apabila diperlukan;  ~ pokok  wang yg menjadi modal  dlm perniagaan;  ~ pos  kepingan kertas yg mempunyai nilai  tertentu yg boleh ditunaikan, yg dijual kpd pelanggan oleh pejabat  pos dgn mengenakan komisen;  ~ ringgit  a) sl sj mata wang drpd  perak; b) satuan mata wang Malaysia; c) segala macam kekayaan;  ~ sagu hati  a) wang yg diberikan sbg membalas jasa; b) wang yg  diberikan kpd ahli waris anggota (polis, tentera, dll) yg meninggal  semasa bertugas;  ~ sekolah  wang bayaran sekolah;  ~ sembah  Jk  wang yg diberikan oleh pihak laki-laki kpd bakal mentua sesudah  pinangan diterima;  ~ syiling  duit kecil yg dibuat drpd logam;  ~  simpanan  wang yg disimpan utk masa depan;  ~ sogok (sorok,  suap)  wang yg diberikan utk menyogok (menyuap);  ~ songsongan  wang berlebih yg dikembalikan selepas membayar (sesuatu):  ~  sumbangan  wang yg diberikan sebagai hadiah (sumbangan);  ~  tambang  wang utk membayar sewa atau tambang (kenaikan);  ~  tegur (penegur)  Jk wang yg diberikan kpd isteri utk memulakan  pergaulan sbg suami isteri;  ~ tengahan  Id setengah rupiah, suku  (50 sen);  ~ terjun  Id wang tambahan utk ahli pasukan payung  terjun;  ~ tinta  wang upah kpd orang yg membuatkan surat  (menandatangani surat keterangan dll);  ~ tunai  wang yg boleh  digunakan pd bila-bila masa;    ada ~ abang saya, tak ada ~ abang paya (payah) = ada ~ abang  sayang, tak ada ~ abang melayang  prb orang yg disukai semasa ia  kaya (berharta) sahaja;  setali tiga ~  prb sama sahaja keadaannya  (halnya);    wang-wangan  mata wang tiruan, wang palsu;    berwang"
+                "definition": "sl duit  yg bernilai satu pertiga tali:  pd masa itu di Melaka, segala jenis  makanan pun mahallah, telur ayam tiga buah dua ~, dan ayam  seekor satu rupiah;     tiga   ~  setali;  ~ adat  Id wang utk perbicaraan di mahkamah;  ~  bandar  wang yg dipertaruhkan dlm perjudian;  ~ belanja  a) wang  utk kegunaan hari-hari; b) ark gaji;  ~ cengkeram (muka,  pendahuluan)  wang yg dibayar dahulu utk menandakan setuju  membeli (menyewa) sesuatu barang, panjar;  ~ duduk (sidang)  Id  wang upah utk anggota dewan dll ketika menghadiri persidangan;  ~ duka (sungkawa)  Id wang yg diberikan kpd ahli waris yg  meninggal semasa mengerjakan tugasnya;  ~ hangat  (Eko) wang yg  beredar (dr negeri ke negeri) kerana kadar bunga yg rendah;  ~  hantaran  wang yg dihantarkan oleh pihak pengantin lelaki kpd  pihak pengantin perempuan (dlm perkahwinan);  ~ jaga-jaga  (cadangan)  wang persediaan utk digunakan apabila diperlukan;  ~  jantan  Id wang yg dibawa utk digunakan apabila diperlukan;  ~  jalan  wang utk bekal dlm perjalanan;  ~ jasa  a) wang yg diberikan  sbg pembalas jasa; b) bunga wang, faedah;  ~ kancing  sj wang utk  jaminan;  ~ karun  a) wang yg terjumlah dlm harta karun; b) wang  yg diperoleh secara haram;  ~ kecil (pecah-receh)  duit yg rendah  nilaiannya (sen dll);  ~ keras  wang yg tetap nilaiannya (dlm  pertukaran antarabangsa);  ~ kertas  wang yg berupa kertas;  ~  kontan  Id wang tunai;  ~ kopi (jerih, sirih, teh)  wang yg diberi sbg  hadiah (kerana mengerjakan sesuatu);  ~ kuliah  Id wang  perbelanjaan belajar di sekolah tinggi;  ~ kunci (tiap)  wang yg  dibayar kpd tuan rumah yg disewa rumahnya;  ~ lembur  Id wang  upah kerana kerja lebih masa;  ~ logam (emas, perak,  dll);  ~ luar  wang (pendapatan) yg diterima hasil membuat kerja luar;  ~ mahar  (wang) mas kahwin;  ~ makan  wang bayaran makan (semasa  menjalankan tugas);  ~ meja  Id wang pembayaran perbicaraan di  mahkamah;  ~ panas  a) (Eko) wang yg dipindahkan dr sebuah  negara ke sebuah negara yg lain, atau dr satu jenis pelaburan yg  lain, utk mendapatkan kadar pulangan yg terbaik; b) Id wang  pinjaman dgn bunga yg banyak; c) Id wang yg berlebih-lebih (dlm  peredaran); d) Id wang yg senang dapat dan senang habisnya;  ~  pangkal  wang yg harus dibayar dahulu ketika mula-mula masuk  persatuan dll (bayaran masuk);  ~ perlindungan  wang yg dibayar  oleh seseorang kpd kongsi gelap atau samseng agar harta benda,  perniagaan atau nyawanya dsb tidak diganggu atau diancam oleh  kongsi gelap atau samseng;  ~ pertaruhan  wang yg dibayar sbg  tanda sanggup menerima sesuatu tawaran (menjadi ahli dll);  ~  plastik  ki kad kredit ; ~ poket  bp  = ~ saku  wang yg dibawa utk  digunakan apabila diperlukan;  ~ pokok  wang yg menjadi modal  dlm perniagaan;  ~ pos  kepingan kertas yg mempunyai nilai  tertentu yg boleh ditunaikan, yg dijual kpd pelanggan oleh pejabat  pos dgn mengenakan komisen;  ~ ringgit  a) sl sj mata wang drpd  perak; b) satuan mata wang Malaysia; c) segala macam kekayaan;  ~ sagu hati  a) wang yg diberikan sbg membalas jasa; b) wang yg  diberikan kpd ahli waris anggota (polis, tentera, dll) yg meninggal  semasa bertugas;  ~ sekolah  wang bayaran sekolah;  ~ sembah  Jk  wang yg diberikan oleh pihak laki-laki kpd bakal mentua sesudah  pinangan diterima;  ~ syiling  duit kecil yg dibuat drpd logam;  ~  simpanan  wang yg disimpan utk masa depan;  ~ sogok (sorok,  suap)  wang yg diberikan utk menyogok (menyuap);  ~ songsongan  wang berlebih yg dikembalikan selepas membayar (sesuatu):  ~  sumbangan  wang yg diberikan sebagai hadiah (sumbangan);  ~  tambang  wang utk membayar sewa atau tambang (kenaikan);  ~  tegur (penegur)  Jk wang yg diberikan kpd isteri utk memulakan  pergaulan sbg suami isteri;  ~ tengahan  Id setengah rupiah, suku  (50 sen);  ~ terjun  Id wang tambahan utk ahli pasukan payung  terjun;  ~ tinta  wang upah kpd orang yg membuatkan surat  (menandatangani surat keterangan dll);  ~ tunai  wang yg boleh  digunakan pd bila-bila masa;    ada ~ abang saya, tak ada ~ abang paya (payah) = ada ~ abang  sayang, tak ada ~ abang melayang  prb orang yg disukai semasa ia  kaya (berharta) sahaja;  setali tiga ~  prb sama sahaja keadaannya  (halnya);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "wang-wangan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mata wang tiruan, wang palsu;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berwang",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai wang:  dia tidak ~, satu sen pun tidak ada;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "2.",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "ki kaya, berharta;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mengewangi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memberi modal kpd, membelanjai, membiayai;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mengewangkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menukarkan kiriman wang dll dgn wang;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewangan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal wang (keadaan atau urusan wang), segala  sesuatu yg berkaitan dgn wang;  Kementerian K~  kementerian yg  menguruskan wang negara;  kesukaran ~  kesukaran (kekurangan)  wang dll;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwangan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "keadaan dan pengurusan wang."
+                    }
+                ]
             }
         ]
     },
@@ -1236,7 +1811,72 @@
             },
             {
                 "sense": "2",
-                "definition": "ki terkenal,  harum:  namanya menjadi ~ di seluruh negeri;    berwangi-wangian  memakai wangi-wangian:  si isteri juga  digalakkan ~ ketika suami berada di rumah;    mewangi  berbau harum, semerbak harum:  sbg batik Lasam, makin  dibasuh makin ~ baunya;     mewangikan  menjadikan wangi, mengharumkan:  teh ini dibubuh  sehiris limau nipis yg bertikam cengkih, bukan utk menghiasnya  tetapi utk ~nya;    wangian  bau (minyak) wangi:  lebih semerbak drpd ~ kasturi;    wangi-wangian  segala sesuatu yg harum, bau-bauan yg harum;    kewangian  perihal wangi, bau wangi, keharuman;    pewangi  sesuatu yg mewangikan (menjadikan berbau wangi),  pengharum:  di Mesir, upacara keagamaan, terutama kematian  mestilah dilengkapi dgn penggunaan ~;"
+                "definition": "ki terkenal,  harum:  namanya menjadi ~ di seluruh negeri;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwangi-wangian",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memakai wangi-wangian:  si isteri juga  digalakkan ~ ketika suami berada di rumah;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewangi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "berbau harum, semerbak harum:  sbg batik Lasam, makin  dibasuh makin ~ baunya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewangikan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan wangi, mengharumkan:  teh ini dibubuh  sehiris limau nipis yg bertikam cengkih, bukan utk menghiasnya  tetapi utk ~nya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "wangian",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bau (minyak) wangi:  lebih semerbak drpd ~ kasturi;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "wangi-wangian",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "segala sesuatu yg harum, bau-bauan yg harum;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewangian",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal wangi, bau wangi, keharuman;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewangi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sesuatu yg mewangikan (menjadikan berbau wangi),  pengharum:  di Mesir, upacara keagamaan, terutama kematian  mestilah dilengkapi dgn penggunaan ~;"
+                    }
+                ]
             }
         ]
     },
@@ -1284,11 +1924,31 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "perkembangan ciri-ciri kewanitaan;"
+                "definition": "bh orang perempuan, lwn lelaki:  fikirannya tertumpu kpd ~-~  genit sahaja; kaum ~  kaum ibu, kaum puteri;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewanitaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal wanita, sifat-sifat wanita, keputerian:  Rohaya  mempunyai sifat ~ yg cukup lemah-lembut serta paras yg cantik;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "pencetusan atau perkembangan ciri-ciri seks sekunder wanita pd  lelaki."
+                "sub_term": "pewanitaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perkembangan ciri-ciri kewanitaan;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "pencetusan atau perkembangan ciri-ciri seks sekunder wanita pd  lelaki."
+                    }
+                ]
             }
         ]
     },
@@ -1307,11 +1967,58 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "memanaskan (memasukkan) dgn wap air panas,  mengukus:  segala pakaian orang itu hendaklah direbus atau  diwapkan supaya mati segala hama;"
+                "definition": "gas yg terjadi drpd air (cecair) yg dipanaskan;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwap",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mengeluarkan wap:  menghirup teh yg ~;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "menjadikan berwap,  mengeluarkan wap:  ~ sesuatu bererti menukarkan bentuknya drpd  cecair menjadi gas;    pengewapan  proses mengewap (mengewapi, mengewapkan)."
+                "sub_term": "mengewap",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadi wap, meruap:  air dlm belanga sedang ~;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mengewapi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mengasapi dgn wap, mengukus;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mengewapkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memanaskan (memasukkan) dgn wap air panas,  mengukus:  segala pakaian orang itu hendaklah direbus atau  diwapkan supaya mati segala hama;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menjadikan berwap,  mengeluarkan wap:  ~ sesuatu bererti menukarkan bentuknya drpd  cecair menjadi gas;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pengewapan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "proses mengewap (mengewapi, mengewapkan)."
+                    }
+                ]
             }
         ]
     },
@@ -1350,7 +2057,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "taat dan patuh kpd Allah, tidak melanggar larangan agama;    kewarakan  sifat warak:  agar kehidupan setiap manusia terisi dgn  kebijaksanaan, semangat wira dan ~ mestilah dipupuk."
+                "definition": "taat dan patuh kpd Allah, tidak melanggar larangan agama;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewarakan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sifat warak:  agar kehidupan setiap manusia terisi dgn  kebijaksanaan, semangat wira dan ~ mestilah dipupuk."
+                    }
+                ]
             }
         ]
     },
@@ -1424,7 +2142,36 @@
             },
             {
                 "sense": "3",
-                "definition": "berdasarkan taakulan (bkn pertimbangan, keputusan dsb),  menurut pertimbangan atau fikiran yg wajar, rasional:  keputusan  itu dibuat mengikut pertimbangan yg saksama dan ~;    mewaraskan  mewajarkan tindakan, emosi dsb dgn memberikan  penjelasan, fakta dsb yg logik atau dapat diterima akal,  merasionalkan:  sambil menghirup kopi, dia mencari-cari alasan  bagi ~ tindakannya tidak pulang ke kampung selama itu; dia  hanya diminta ~ fakta atau pandangan yg dikemukakan dlm  rencananya;    kewarasan  perihal waras, keadaan sihat (tubuh), keupayaan  berfikir (bkn otak atau fikiran);    ketidakwarasan  perihal atau keadaan tidak waras (tubuh, otak)."
+                "definition": "berdasarkan taakulan (bkn pertimbangan, keputusan dsb),  menurut pertimbangan atau fikiran yg wajar, rasional:  keputusan  itu dibuat mengikut pertimbangan yg saksama dan ~;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewaraskan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mewajarkan tindakan, emosi dsb dgn memberikan  penjelasan, fakta dsb yg logik atau dapat diterima akal,  merasionalkan:  sambil menghirup kopi, dia mencari-cari alasan  bagi ~ tindakannya tidak pulang ke kampung selama itu; dia  hanya diminta ~ fakta atau pandangan yg dikemukakan dlm  rencananya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewarasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal waras, keadaan sihat (tubuh), keupayaan  berfikir (bkn otak atau fikiran);"
+                    }
+                ]
+            },
+            {
+                "sub_term": "ketidakwarasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal atau keadaan tidak waras (tubuh, otak)."
+                    }
+                ]
             }
         ]
     },
@@ -1470,10 +2217,17 @@
             {
                 "sense": "1",
                 "definition": "orang yg bertanggungjawab menjaga seseorang atau sesuatu;"
-            },
+            }
+        ],
+        "sub_terms": [
             {
-                "sense": "2",
-                "definition": "pegawai kerajaan yg bertanggungjawab dlm penguatkuasaan  undang-undang atau peraturan tertentu:  permit sementara itu  hendaklah dikemukakan kpd polis, para pegawai JPJ atau ~ lalu  lintas apabila dikehendaki berbuat demikian."
+                "sub_term": "2.",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "pegawai kerajaan yg bertanggungjawab dlm penguatkuasaan  undang-undang atau peraturan tertentu:  permit sementara itu  hendaklah dikemukakan kpd polis, para pegawai JPJ atau ~ lalu  lintas apabila dikehendaki berbuat demikian."
+                    }
+                ]
             }
         ]
     },
@@ -1495,7 +2249,18 @@
             },
             {
                 "sense": "2",
-                "definition": "ark  tingkatan masyarakat dlm agama Hindu, kasta;    kewargaan  keanggotaan."
+                "definition": "ark  tingkatan masyarakat dlm agama Hindu, kasta;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewargaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "keanggotaan."
+                    }
+                ]
             }
         ]
     },
@@ -1504,7 +2269,36 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "rakyat sesebuah negara (yg terdiri drpd penduduk asli  tempatan ataupun orang asing yg telah diterima menjadi rakyat  mengikut undang-undang):  ~   Malaysia;    mewarganegarakan  menjadikan warganegara;    kewarganegaraan  perihal warganegara, kerakyatan sesebuah  negara:  tidak seorang pun boleh dilucuti ~nya secara sewenang- wenang;    pewarganegaraan  perihal mewarganegarakan."
+                "definition": "rakyat sesebuah negara (yg terdiri drpd penduduk asli  tempatan ataupun orang asing yg telah diterima menjadi rakyat  mengikut undang-undang):  ~   Malaysia;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewarganegarakan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan warganegara;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewarganegaraan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal warganegara, kerakyatan sesebuah  negara:  tidak seorang pun boleh dilucuti ~nya secara sewenang- wenang;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewarganegaraan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal mewarganegarakan."
+                    }
+                ]
             }
         ]
     },
@@ -1564,7 +2358,97 @@
             },
             {
                 "sense": "3",
-                "definition": "=  warisan  harta pusaka, harta  peninggalan:  anak cucu akan menerima ~ ayah bondanya;    ~ ahli  waris yg sebenarnya (anak dll);  ~   kuat (yg karib)  waris yg  hampir sekali (anak, cucu, dll);  ~   negeri  sl waris yg bakal  menggantikan sultan;  ~   sah  orang yg berhak menjadi waris  menurut hukum (adat, agama, dll);    berwaris  meninggalkan waris, ada warisnya:  bagi orang mati yg  tidak ~, urusan harta peninggalannya terserah kpd pemerintah;    mewarisi"
+                "definition": "=  warisan  harta pusaka, harta  peninggalan:  anak cucu akan menerima ~ ayah bondanya;    ~ ahli  waris yg sebenarnya (anak dll);  ~   kuat (yg karib)  waris yg  hampir sekali (anak, cucu, dll);  ~   negeri  sl waris yg bakal  menggantikan sultan;  ~   sah  orang yg berhak menjadi waris  menurut hukum (adat, agama, dll);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwaris",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "meninggalkan waris, ada warisnya:  bagi orang mati yg  tidak ~, urusan harta peninggalannya terserah kpd pemerintah;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewarisi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menerima harta pusaka drpd, mempusakai:  dia telah  ~ tanah getah ibunya;  2 .  menurut dan membawa perangai (rupa,  sifat, dll) orang tua dll, mengikut jejak orang dll yg sebelumnya  (dlm pekerjaan dll):  Martinah ~ muka ibunya; Semaun ~ sifat-sifat  Pak Kasa; ayah seorang lelaki yg ~ zamannya;"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "ki menerima  apa yg ditinggalkan:  pegawai-pegawai tinggi Melayu yg sudah  memang biasa di kelab itu sejak zaman lampau, berasa diri  mereka ~ sisa-sisa nikmat menjadi tuan yg ditinggalkan oleh  pegawai kolonial;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewariskan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "meninggalkan harta pusaka kpd, memberikan  pusaka atau peninggalan kpd:  aku akan ~ hasil-hasil seni ini kpd  rakyatku;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menjadikan seseorang sbg waris;"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "ark mewarisi;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "warisan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "harta peninggalan, harta pusaka:  Mimi pergi ke  Bandung utk suatu urusan ~;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "sesuatu yg diwarisi, sesuatu yg  turun-temurun, peninggalan:  kata jongos merupakan kata ~  kolonial;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewarisan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mendapat warisan;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwarisan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "hal yg berkaitan dgn berwaris:  undang-undang ~; hak  ~;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewarisan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal mewarisi (mewariskan):  penyelidikan tentang  asal-usul dan ~ segala gagasan bahasa merupakan bidang  sejarah linguistik;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewaris",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "orang (pihak) yg mewarisi, waris:  kita adalah ~  kebudayaan yg terkaya dlm dunia; ~ ilmu Yunani; beliau muncul  sbg ~ jawatan Perdana Menteri."
+                    }
+                ]
             }
         ]
     },
@@ -1619,7 +2503,58 @@
             },
             {
                 "sense": "4",
-                "definition": "ark kasta atau golongan (dlm masyarakat):  masyarakat Hindu  mempunyai empat ~;    ~ biji remia  Kd warna ungu;  ~ dasar (utama)  warna iaitu merah,  biru dan kuning, yg menjadi dasar utk memperoleh warna lain;  ~   karat  warna coklat gelap dgn campuran warna merah atau  kekuningan;  ~ primer  warna dasar (utama);  ~ sekunder  warna yg  terhasil drpd dua warna primer;    berwarna"
+                "definition": "ark kasta atau golongan (dlm masyarakat):  masyarakat Hindu  mempunyai empat ~;    ~ biji remia  Kd warna ungu;  ~ dasar (utama)  warna iaitu merah,  biru dan kuning, yg menjadi dasar utk memperoleh warna lain;  ~   karat  warna coklat gelap dgn campuran warna merah atau  kekuningan;  ~ primer  warna dasar (utama);  ~ sekunder  warna yg  terhasil drpd dua warna primer;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwarna",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai warna (spt merah, hijau, dll), ada  warnanya:  kain tabir ~ biru tua; bangsa (kulit) ~  bangsa yg  kulitnya hitam (coklat dll), bukan bangsa kulit putih;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menarik,  istimewa, berlainan drpd sesuatu yg biasa:  pelbagai kaum  mempunyai cara hidup, kepercayaan, dan sifat semula jadi sendiri  dan ini menjadikan suasana di sini lebih ~ dan unik;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berwarna-warna",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "=  berwarna-warni."
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewarnai",
+                "definitions": [
+                    {
+                        "sense": "2",
+                        "definition": "ki meragamkan, mencorakkan, memberikan  corak (yg tertentu) kpd:  kedua-dua ciri inilah yg ~ sesuatu  budaya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewarnaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal atau proses mewarnakan (mewarnai):  mulakan  dgn ~ pipi;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewarna",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bahan utk mewarnakan (mewarnai)."
+                    }
+                ]
             }
         ]
     },
@@ -1664,7 +2599,31 @@
             },
             {
                 "sense": "2",
-                "definition": "berbagai- bagai ragam atau corak, aneka ragam:  ~   dlm puisi Malaysia  mutakhir;    berwarna-warni"
+                "definition": "berbagai- bagai ragam atau corak, aneka ragam:  ~   dlm puisi Malaysia  mutakhir;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwarna-warni",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai warna yg berbagai-bagai,  bermacam-macam warnanya, beraneka warna:  hulu keris itu  dihiasi dgn permata yg ~;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "mempunyai atau menunjukkan ragam  atau corak yg berbagai-bagai, beraneka ragam:  tiga belas esei dlm  terbitan ini membicarakan tiga belas bidang budaya yg ~ dan  beragam;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewarna-warnikan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan berwarna-warni."
+                    }
+                ]
             }
         ]
     },
@@ -1682,7 +2641,45 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "berita, khabar:  tidak pernah kami dengar ~ bahawa manusia  menjadi binatang; juru~  jurukhabar, wartawan;    ~   berita  berbagai-bagai berita;  ~   harian  surat khabar yg  diterbitkan setiap hari;  ~   kerajaan  risalah yg diterbitkan oleh  kerajaan utk menyiarkan undang-undang (pelantikan dll) yg telah  disahkan oleh kerajaan;  ~   sepekan  Id majalah yg dikeluarkan  seminggu sekali;    ~   dibawa pikat dan langau  sl perkhabaran yg belum sah, khabar  angin;    mewartakan  memaklumkan, memberitahukan, mengkhabarkan:  pemberita kita di Melaka ~ bahawa pemilihan johan bagi negeri  itu telah selesai;    terwarta  telah diwartakan:  teks ~;    pewartaan  perihal mewartakan, pemberitaan, pengkhabaran,  pemberitahuan;    pewarta  orang yg memberitakan, pemberita."
+                "definition": "berita, khabar:  tidak pernah kami dengar ~ bahawa manusia  menjadi binatang; juru~  jurukhabar, wartawan;    ~   berita  berbagai-bagai berita;  ~   harian  surat khabar yg  diterbitkan setiap hari;  ~   kerajaan  risalah yg diterbitkan oleh  kerajaan utk menyiarkan undang-undang (pelantikan dll) yg telah  disahkan oleh kerajaan;  ~   sepekan  Id majalah yg dikeluarkan  seminggu sekali;    ~   dibawa pikat dan langau  sl perkhabaran yg belum sah, khabar  angin;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewartakan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memaklumkan, memberitahukan, mengkhabarkan:  pemberita kita di Melaka ~ bahawa pemilihan johan bagi negeri  itu telah selesai;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "terwarta",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "telah diwartakan:  teks ~;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewartaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal mewartakan, pemberitaan, pengkhabaran,  pemberitahuan;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewarta",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "orang yg memberitakan, pemberita."
+                    }
+                ]
             }
         ]
     },
@@ -1691,7 +2688,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "orang yg menulis berita atau rencana utk surat khabar atau  majalah;  ~   bebas  wartawan yg bebas menulis utk sebarang akhbar  (majalah);    kewartawanan  yg berkaitan dgn bidang tugas (kegiatan dll)  wartawan, segala yg berkaitan dgn hal penerbitan dan penulisan  surat khabar atau majalah:  saya memilih jurusan ~ ; serentak dgn  perkembangan pesat media elektronik, timbul pula tuntutan  supaya wartawan generasi sekarang tidak semata-mata terlatih  dlm bidang komunikasi biasa tetapi perlu juga dilatih dlm disiplin  ~ penyiaran."
+                "definition": "orang yg menulis berita atau rencana utk surat khabar atau  majalah;  ~   bebas  wartawan yg bebas menulis utk sebarang akhbar  (majalah);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewartawanan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "yg berkaitan dgn bidang tugas (kegiatan dll)  wartawan, segala yg berkaitan dgn hal penerbitan dan penulisan  surat khabar atau majalah:  saya memilih jurusan ~ ; serentak dgn  perkembangan pesat media elektronik, timbul pula tuntutan  supaya wartawan generasi sekarang tidak semata-mata terlatih  dlm bidang komunikasi biasa tetapi perlu juga dilatih dlm disiplin  ~ penyiaran."
+                    }
+                ]
             }
         ]
     },
@@ -1737,7 +2745,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "kedai kecil tempat menjual makanan dan minuman, lepau:  ~   makan; ~ kopi;    berwarung  mempunyai (berniaga) di warung, berlepau."
+                "definition": "kedai kecil tempat menjual makanan dan minuman, lepau:  ~   makan; ~ kopi;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwarung",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai (berniaga) di warung, berlepau."
+                    }
+                ]
             }
         ]
     },
@@ -1756,7 +2775,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "=  syak ~  syak dan sangka, curiga, kecurigaan, kebimbangan  hati, khuatir (bimbang, ragu-ragu), sangsi:  tegur sapa orang  dijawabnya dgn tulus dgn tiada menaruh syak ~ sedikit jua;    berwasangka  menaruh syak wasangka:  janganlah kita begitu  mudah ~ terhadap orang lain."
+                "definition": "=  syak ~  syak dan sangka, curiga, kecurigaan, kebimbangan  hati, khuatir (bimbang, ragu-ragu), sangsi:  tegur sapa orang  dijawabnya dgn tulus dgn tiada menaruh syak ~ sedikit jua;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwasangka",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menaruh syak wasangka:  janganlah kita begitu  mudah ~ terhadap orang lain."
+                    }
+                ]
             }
         ]
     },
@@ -1765,7 +2795,36 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "wap yg terbebas drpd cecair mudah meruap yg kelihatan spt asap,  biasanya beracun dan kuat baunya;                          mewasapi  mengenakan atau menyemburkan wasap pd sesuatu  tempat dsb utk membasmi hama, serangga dsb:  pihak berkuasa  tempatan telah ~ kawasan perumahan itu utk mencegah  pembiakan nyamuk Aedes;    pewasapan  perihal (proses, perbuatan dsb) mewasapi:  ~ ini akan  membasmi segala serangga perosak yg mungkin terdapat bahan  tumbuhan itu;    pewasap  bahan atau alat yg digunakan utk mewasapi:  kaedah ini  juga melibatkan pendedahan kpd bahan kimia spt asap dan bahan  ~."
+                "definition": "wap yg terbebas drpd cecair mudah meruap yg kelihatan spt asap,  biasanya beracun dan kuat baunya;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewasapi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mengenakan atau menyemburkan wasap pd sesuatu  tempat dsb utk membasmi hama, serangga dsb:  pihak berkuasa  tempatan telah ~ kawasan perumahan itu utk mencegah  pembiakan nyamuk Aedes;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewasapan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal (proses, perbuatan dsb) mewasapi:  ~ ini akan  membasmi segala serangga perosak yg mungkin terdapat bahan  tumbuhan itu;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewasap",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bahan atau alat yg digunakan utk mewasapi:  kaedah ini  juga melibatkan pendedahan kpd bahan kimia spt asap dan bahan  ~."
+                    }
+                ]
             }
         ]
     },
@@ -1785,7 +2844,36 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "kehendak yg penghabisan yg disampaikan oleh orang yg hampir  meninggal (bkn harta benda dll), pesan yg terakhir:  aku telah  satukan kamu semua dgn seberapa daya yg boleh spt ~ ibu engkau  itu; surat ~  surat yg menyatakan kehendak orang yg meninggal;    berwasiat  membuat wasiat, berpesan:  dia ~ kalau dia mati segala  hartanya diberikan kpd isteri dan ibunya; Khalifah Abu bakar  telah ~ kpd Usamah dan tenteranya;    mewasiatkan  memberi wasiat, menentukan orang sbg waris,  mewariskan:  maksud hamba yg kedua ialah hendak ~ sekalian  harta;    pewasiat  orang yg membuat (meninggalkan) wasiat."
+                "definition": "kehendak yg penghabisan yg disampaikan oleh orang yg hampir  meninggal (bkn harta benda dll), pesan yg terakhir:  aku telah  satukan kamu semua dgn seberapa daya yg boleh spt ~ ibu engkau  itu; surat ~  surat yg menyatakan kehendak orang yg meninggal;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwasiat",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "membuat wasiat, berpesan:  dia ~ kalau dia mati segala  hartanya diberikan kpd isteri dan ibunya; Khalifah Abu bakar  telah ~ kpd Usamah dan tenteranya;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewasiatkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memberi wasiat, menentukan orang sbg waris,  mewariskan:  maksud hamba yg kedua ialah hendak ~ sekalian  harta;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewasiat",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "orang yg membuat (meninggalkan) wasiat."
+                    }
+                ]
             }
         ]
     },
@@ -1893,7 +2981,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "=  berwaspada  tidak cuai, berawas-awas, berhati-hati, berjaga- jaga, beringat-ingat:  dia selalu ~ dan berhati-hati benar;     kewaspadaan  perihal atau keadaan waspada:  ~   tentera kita  diperhebat lagi."
+                "definition": "=  berwaspada  tidak cuai, berawas-awas, berhati-hati, berjaga- jaga, beringat-ingat:  dia selalu ~ dan berhati-hati benar;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewaspadaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal atau keadaan waspada:  ~   tentera kita  diperhebat lagi."
+                    }
+                ]
             }
         ]
     },
@@ -1925,7 +3024,27 @@
             },
             {
                 "sense": "3",
-                "definition": "khuatir:  janganlah  Datuk berasa ~ terhadap perkataan hamba;    mewaswaskan  menyebabkan berasa waswas:  saya ingat tidak ada  apa-apa lagi yg boleh ~ hati;    kewaswasan  rasa (keadaan) waswas:  dlm dirinya ada ~ tentang  kesahan sembahyangnya;"
+                "definition": "khuatir:  janganlah  Datuk berasa ~ terhadap perkataan hamba;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewaswaskan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menyebabkan berasa waswas:  saya ingat tidak ada  apa-apa lagi yg boleh ~ hati;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewaswasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "rasa (keadaan) waswas:  dlm dirinya ada ~ tentang  kesahan sembahyangnya;"
+                    }
+                ]
             }
         ]
     },
@@ -1958,7 +3077,49 @@
             },
             {
                 "sense": "2",
-                "definition": "tokoh atau pelaku dlm karya sastera atau seni  (spt novel, cerpen dan drama, dsb):  penulis itu memberikan  personaliti kpd tiap-tiap ~nya;    berwatak  mempunyai watak, berbudi pekerti, berkeperibadian:  dia sendiri memang sudah ~ seniman;    berwatakkan  mempunyai atau menggunakan sesuatu sbg watak:  nama Parameswara tidak pernah disebut dlm Sejarah Melayu,  tetapi yg disebut ialah Raja Iskandar Syah yg tentunya ~ Islam;    memperwatakkan  membentuk watak (seseorang pelaku dlm  cerita), menggambarkan (memaparkan dsb) watak:  ketaralah  bahawa kejadian-kejadian dlm drama \"Tamu di Bukit Kenny\"  tertumpu kpd fikiran, kelakuan, dan tindakan Si Pegawai yg  diperwatakkan sbg manusia yg agak baik;    perwatakan"
+                "definition": "tokoh atau pelaku dlm karya sastera atau seni  (spt novel, cerpen dan drama, dsb):  penulis itu memberikan  personaliti kpd tiap-tiap ~nya;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwatak",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai watak, berbudi pekerti, berkeperibadian:  dia sendiri memang sudah ~ seniman;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berwatakkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai atau menggunakan sesuatu sbg watak:  nama Parameswara tidak pernah disebut dlm Sejarah Melayu,  tetapi yg disebut ialah Raja Iskandar Syah yg tentunya ~ Islam;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "memperwatakkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "membentuk watak (seseorang pelaku dlm  cerita), menggambarkan (memaparkan dsb) watak:  ketaralah  bahawa kejadian-kejadian dlm drama \"Tamu di Bukit Kenny\"  tertumpu kpd fikiran, kelakuan, dan tindakan Si Pegawai yg  diperwatakkan sbg manusia yg agak baik;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwatakan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "watak (seseorang) keseluruhannya, keseluruhan  watak:  ~   Panji Semirang pd keseluruhannya tidak lari drpd sifat  asasinya sbg seorang perempuan;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "pembentukan watak,  penggambaran (pemaparan dsb) watak."
+                    }
+                ]
             }
         ]
     },
@@ -1968,7 +3129,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "tanah air, tanah tumpah darah:  rela berkorban utk berbakti kpd  ~;    kewatanan  semangat utk membela nasib bangsa dan negara:   faham kebangsaan Melayu berdasarkan ~, rasa kemanusiaan, dan  persaudaraan."
+                "definition": "tanah air, tanah tumpah darah:  rela berkorban utk berbakti kpd  ~;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewatanan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "semangat utk membela nasib bangsa dan negara:   faham kebangsaan Melayu berdasarkan ~, rasa kemanusiaan, dan  persaudaraan."
+                    }
+                ]
             }
         ]
     },
@@ -1998,7 +3170,36 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "batas, perenggan, sempadan:  sebatang sungai mengalir dekat  ~ kebun itu;    berwatas, berwatasan  berbatasan, berperenggan, bersempadan:  di sebelah utara Tanah Arab, ~ dgn daerah Kerajaan Rom;    mewatasi  membatasi, menyempadani;    perwatasan  perbatasan."
+                "definition": "batas, perenggan, sempadan:  sebatang sungai mengalir dekat  ~ kebun itu;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwatas, berwatasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "berbatasan, berperenggan, bersempadan:  di sebelah utara Tanah Arab, ~ dgn daerah Kerajaan Rom;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewatasi",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "membatasi, menyempadani;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwatasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perbatasan."
+                    }
+                ]
             }
         ]
     },
@@ -2029,10 +3230,17 @@
             {
                 "sense": "1",
                 "definition": "bp sj alat utk menentukan rata tidaknya (permukaan dll);"
-            },
+            }
+        ],
+        "sub_terms": [
             {
-                "sense": "2",
-                "definition": "rata (permukaan dll)."
+                "sub_term": "2.",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "rata (permukaan dll)."
+                    }
+                ]
             }
         ]
     },
@@ -2151,7 +3359,36 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "soal jawab antara wartawan dsb dgn orang yg terkemuka dll  utk mendapatkan keterangan (pandangan dsb) utk disiarkan, temu  ramah, temu bual, interviu;    berwawancara  bersoal jawab antara wartawan dgn orang yg  terkemuka dll, bertemu ramah, bertemu bual;    mewawancara,  mewawancarai  mengadakan  (melakukan)  wawancara, menemuramah, menemu bual, menginterviu:  dr siang  tadi sampai petang ini rajin sekali doktor Robert Winata  memeriksa  sambil  mewawancarai  diriku;  sebuah  akhbar  mingguan telah ~ beberapa orang pemuda bukan Melayu;    pewawancara  orang (wartawan dsb) yg mewawancara, penemu  ramah, penemu bual, penginterviu."
+                "definition": "soal jawab antara wartawan dsb dgn orang yg terkemuka dll  utk mendapatkan keterangan (pandangan dsb) utk disiarkan, temu  ramah, temu bual, interviu;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwawancara",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bersoal jawab antara wartawan dgn orang yg  terkemuka dll, bertemu ramah, bertemu bual;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "mewawancara,",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mewawancarai  mengadakan  (melakukan)  wawancara, menemuramah, menemu bual, menginterviu:  dr siang  tadi sampai petang ini rajin sekali doktor Robert Winata  memeriksa  sambil  mewawancarai  diriku;  sebuah  akhbar  mingguan telah ~ beberapa orang pemuda bukan Melayu;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewawancara",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "orang (wartawan dsb) yg mewawancara, penemu  ramah, penemu bual, penginterviu."
+                    }
+                ]
             }
         ]
     },
@@ -2160,7 +3397,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "ark wawancara;    berwawansabda  berhubung:  memungkinkan insan ~ dgn  pencipta-Nya."
+                "definition": "ark wawancara;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwawansabda",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "berhubung:  memungkinkan insan ~ dgn  pencipta-Nya."
+                    }
+                ]
             }
         ]
     },
@@ -2169,11 +3417,31 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "fahaman atau tanggapan bkn sesuatu hal, pandangan,  konsepsi:  pola penceritaannya lebih kelihatan spt main-main,  iaitu tidak didukung oleh kematangan ~;"
+                "definition": "menghasilkan wawasan:  jika mahu membentuk  masyarakat Malaysia yg bertaraf maju spt yg diwawaskan,  sembilan cabaran hendaklah diatasi;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "wawasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "fahaman atau tanggapan bkn sesuatu hal, pandangan,  konsepsi:  pola penceritaannya lebih kelihatan spt main-main,  iaitu tidak didukung oleh kematangan ~;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "pandangan jauh  (terutamanya yg berkaitan dgn perkembangan masa depan) bagi  mencapai matlamat penting sesebuah organisasi atau negara, visi:  W~ 2020; kita mestilah proaktif dan ada ~ jika ingin berjaya dgn  cemerlang;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "pandangan jauh  (terutamanya yg berkaitan dgn perkembangan masa depan) bagi  mencapai matlamat penting sesebuah organisasi atau negara, visi:  W~ 2020; kita mestilah proaktif dan ada ~ jika ingin berjaya dgn  cemerlang;  berwawasan  mempunyai pandangan jauh tentang kemajuan atau  perkembangan masa depan sesuatu:  agama Islam berjaya  membentuk tamadun yg harmoni, merdeka dan ~ tinggi;  sememangnya dia seorang pemimpin yg ~."
+                "sub_term": "berwawasan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai pandangan jauh tentang kemajuan atau  perkembangan masa depan sesuatu:  agama Islam berjaya  membentuk tamadun yg harmoni, merdeka dan ~ tinggi;  sememangnya dia seorang pemimpin yg ~."
+                    }
+                ]
             }
         ]
     },
@@ -2190,7 +3458,18 @@
             },
             {
                 "sense": "3",
-                "definition": "=  ~   gambar = ~ gelap  pertunjukan gambar hidup yg berupa cerita dsb (yg ditayangkan pd  layar putih):  budak-budak di situ dapat menonton ~ gambar di  sebuah panggung tempatan;     panggung ~  tempat wayang gambar dipertunjukkan (ditayangkan);  ~   bangsawan  sj pertunjukan pentas (sandiwara dan nyanyi- nyanyian);  ~   Cina = ~ potehi  sj permainan pentas orang Cina;  ~  golek = ~ kelitik = ~ kerucil = ~ patung = ~ tongkol  wayang yg  dibuat drpd kayu (berupa anak-anakan dll);  ~   kulit = ~ purwa  wayang drpd patung-patung yg diperbuat drpd kulit;  ~   orang  sj  sandiwara Jawa dgn tarian yg diiringi oleh gamelan (melakonkan  cerita-cerita yg berasal drpd kitab Mahabharata);  ~   suluh  Id  wayang kulit yg dimainkan dlm bahasa Indonesia;    mewayangkan  memainkan wayang, menjadikan lakonan wayang,  melakonkan, mendalangkan."
+                "definition": "=  ~   gambar = ~ gelap  pertunjukan gambar hidup yg berupa cerita dsb (yg ditayangkan pd  layar putih):  budak-budak di situ dapat menonton ~ gambar di  sebuah panggung tempatan;     panggung ~  tempat wayang gambar dipertunjukkan (ditayangkan);  ~   bangsawan  sj pertunjukan pentas (sandiwara dan nyanyi- nyanyian);  ~   Cina = ~ potehi  sj permainan pentas orang Cina;  ~  golek = ~ kelitik = ~ kerucil = ~ patung = ~ tongkol  wayang yg  dibuat drpd kayu (berupa anak-anakan dll);  ~   kulit = ~ purwa  wayang drpd patung-patung yg diperbuat drpd kulit;  ~   orang  sj  sandiwara Jawa dgn tarian yg diiringi oleh gamelan (melakonkan  cerita-cerita yg berasal drpd kitab Mahabharata);  ~   suluh  Id  wayang kulit yg dimainkan dlm bahasa Indonesia;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "mewayangkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memainkan wayang, menjadikan lakonan wayang,  melakonkan, mendalangkan."
+                    }
+                ]
             }
         ]
     },
@@ -2277,7 +3556,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "ketua daerah;    kewedanaan  pejabat (tempat kediaman atau daerah) wedana."
+                "definition": "ketua daerah;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewedanaan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "pejabat (tempat kediaman atau daerah) wedana."
+                    }
+                ]
             }
         ]
     },
@@ -2306,7 +3596,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "kebal;    kewedukan  ilmu kekebalan."
+                "definition": "kebal;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewedukan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "ilmu kekebalan."
+                    }
+                ]
             }
         ]
     },
@@ -2344,11 +3645,22 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "ajaran, nasihat, tunjuk ajar:  demikianlah ~ ayah yg  tidak pernah kulupakan;"
-            },
+                "definition": ";  diwejang  diberi nasihat (tunjuk ajar dll);"
+            }
+        ],
+        "sub_terms": [
             {
-                "sense": "2",
-                "definition": "pidato yg bertujuan utk menyampaikan  pengajaran:  setiap orang ingin melihat pemimpinnya, menyentuh  pemimpinnya, mendengarkan ~nya."
+                "sub_term": "wejangan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "ajaran, nasihat, tunjuk ajar:  demikianlah ~ ayah yg  tidak pernah kulupakan;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "pidato yg bertujuan utk menyampaikan  pengajaran:  setiap orang ingin melihat pemimpinnya, menyentuh  pemimpinnya, mendengarkan ~nya."
+                    }
+                ]
             }
         ]
     },
@@ -2424,15 +3736,53 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "(membuat sesuatu)  dgn sekehendak hati sahaja, dgn semahu-mahunya:  kita tidak  boleh membiarkan kaum bapa ~ sahaja bertindak terhadap kaum  ibu;"
+                "definition": "wewenang;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwenang",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai hak (utk berbuat sesuatu):  ketua regu itu  ~ utk menuntut ketaatan anggota regu;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "bermaharajalela (melakukan sesuatu), kejam, zalim:  tawanan mereka telah disakiti dgn cara yg kejam dan ~;"
+                "sub_term": "sewenang-wenang, bersewenang-wenang",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "(membuat sesuatu)  dgn sekehendak hati sahaja, dgn semahu-mahunya:  kita tidak  boleh membiarkan kaum bapa ~ sahaja bertindak terhadap kaum  ibu;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "bermaharajalela (melakukan sesuatu), kejam, zalim:  tawanan mereka telah disakiti dgn cara yg kejam dan ~;"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "melakukan sesuatu tidak dgn teliti (dgn sembarangan sahaja, tidak  dgn usul periksa):  kata nasional yg digunakan dgn ~ itu sangatlah  mengelirukan;"
+                    }
+                ]
             },
             {
-                "sense": "3",
-                "definition": "melakukan sesuatu tidak dgn teliti (dgn sembarangan sahaja, tidak  dgn usul periksa):  kata nasional yg digunakan dgn ~ itu sangatlah  mengelirukan;    kesewenang-wenangan  perbuatan sewenang-wenang, kezaliman;    kewenangan  hak dan kekuasaan utk berbuat sesuatu."
+                "sub_term": "kesewenang-wenangan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perbuatan sewenang-wenang, kezaliman;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewenangan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "hak dan kekuasaan utk berbuat sesuatu."
+                    }
+                ]
             }
         ]
     },
@@ -2549,7 +3899,18 @@
             },
             {
                 "sense": "2",
-                "definition": "sifat atau keistimewaan sesuatu, spt sesebuah  institusi  atau  terbitan  yg  menjadikannya  dapat  dipertanggungjawabkan atau dijadikan pegangan:  ~ Dewan  Bahasa dan Pustaka sbg badan pembinaan dan pengembangan  bahasa;    berwibawa  =  berkewibawaan  mempunyai  wibawa  (kewibawaan):  penggunaan kata ini akan diterima orang akhirnya  jika kamus tersebut ~; utk menjadi media massa yg ~, maka gaya,  isi, dan pendekatannya harus ditumpukan pd manusia dan  permasalahannya yg sebenar; pemimpin juga harus cekap  berfikir, cekap berpidato, mempunyai karisma tertentu, ~ tinggi,  serta sentiasa bercakap positif."
+                "definition": "sifat atau keistimewaan sesuatu, spt sesebuah  institusi  atau  terbitan  yg  menjadikannya  dapat  dipertanggungjawabkan atau dijadikan pegangan:  ~ Dewan  Bahasa dan Pustaka sbg badan pembinaan dan pengembangan  bahasa;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwibawa",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "=  berkewibawaan  mempunyai  wibawa  (kewibawaan):  penggunaan kata ini akan diterima orang akhirnya  jika kamus tersebut ~; utk menjadi media massa yg ~, maka gaya,  isi, dan pendekatannya harus ditumpukan pd manusia dan  permasalahannya yg sebenar; pemimpin juga harus cekap  berfikir, cekap berpidato, mempunyai karisma tertentu, ~ tinggi,  serta sentiasa bercakap positif."
+                    }
+                ]
             }
         ]
     },
@@ -2692,7 +4053,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "jajahan, daerah, kawasan, negeri, provinsi:  ~   Jawa Barat; ~- ~ Afrika Tengah; hak ~  Id hak utk menguasai tanah dll (tetapi  tidak memiliki);    kewilayahan  sifat yg mementingkan wilayah atau daerah sendiri."
+                "definition": "jajahan, daerah, kawasan, negeri, provinsi:  ~   Jawa Barat; ~- ~ Afrika Tengah; hak ~  Id hak utk menguasai tanah dll (tetapi  tidak memiliki);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewilayahan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sifat yg mementingkan wilayah atau daerah sendiri."
+                    }
+                ]
             }
         ]
     },
@@ -2731,7 +4103,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "jangka waktu yg lamanya lapan tahun, daur kecil;    berwindu-windu  beberapa windu (lamanya)."
+                "definition": "jangka waktu yg lamanya lapan tahun, daur kecil;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwindu-windu",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "beberapa windu (lamanya)."
+                    }
+                ]
             }
         ]
     },
@@ -2750,7 +4133,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "suci dan keramat, muhtasyam;    kewingitan  keadaan wingit, kekeramatan:  malam terus bening,  disepuh ~ yg turun bersama rintik-rintik pawitera dr puncak  wisesa."
+                "definition": "suci dan keramat, muhtasyam;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewingitan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "keadaan wingit, kekeramatan:  malam terus bening,  disepuh ~ yg turun bersama rintik-rintik pawitera dr puncak  wisesa."
+                    }
+                ]
             }
         ]
     },
@@ -2759,7 +4153,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pahlawan, lelaki;     kewiraan  sifat-sifat sbg seorang wira:  ternyata bahawa ~  Benjamin tidak sama dgn ~ Ratu Bongsu."
+                "definition": "sl pahlawan, lelaki;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "kewiraan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sifat-sifat sbg seorang wira:  ternyata bahawa ~  Benjamin tidak sama dgn ~ Ratu Bongsu."
+                    }
+                ]
             }
         ]
     },
@@ -2816,10 +4221,26 @@
             {
                 "sense": "1",
                 "definition": "petikan drpd Quran yg ditentukan utk dibaca (dipelajari dll);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "2.",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "zikir yg dibaca selepas sembahyang;"
+                    }
+                ]
             },
             {
-                "sense": "2",
-                "definition": "zikir yg dibaca selepas sembahyang;    berwirid  membaca wirid, berzikir:  lepas sembahyang, mereka ~  membilang tasbih."
+                "sub_term": "berwirid",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "membaca wirid, berzikir:  lepas sembahyang, mereka ~  membilang tasbih."
+                    }
+                ]
             }
         ]
     },
@@ -2847,7 +4268,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": "lipatan (pd kain dll);    berwiru-wiru  berlipat-lipatan (kain dll)."
+                "definition": "lipatan (pd kain dll);"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwiru-wiru",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "berlipat-lipatan (kain dll)."
+                    }
+                ]
             }
         ]
     },
@@ -3042,7 +4474,27 @@
             },
             {
                 "sense": "2",
-                "definition": "air  sembahyang;  ada ~  ada air sembahyang atau berada dlm keadaan  yg membolehkan seseorang beribadah, spt bersembahyang,  membaca al-Quran, dll;      berwuduk  menyucikan diri (sebelum sembahyang), mengambil  air sembahyang:  tidak sah ~ kalau tidak disertakan niat;  tawaduk  II."
+                "definition": "air  sembahyang;  ada ~  ada air sembahyang atau berada dlm keadaan  yg membolehkan seseorang beribadah, spt bersembahyang,  membaca al-Quran, dll;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwuduk",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menyucikan diri (sebelum sembahyang), mengambil  air sembahyang:  tidak sah ~ kalau tidak disertakan niat;  tawaduk"
+                    }
+                ]
+            },
+            {
+                "sub_term": "II.",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": ""
+                    }
+                ]
             }
         ]
     },
@@ -3070,11 +4522,87 @@
             },
             {
                 "sense": "3",
-                "definition": "benda yg nyata (bukan roh dll), rupa dll  yg dapat dilihat;    berwujud"
+                "definition": "benda yg nyata (bukan roh dll), rupa dll  yg dapat dilihat;"
+            }
+        ],
+        "sub_terms": [
+            {
+                "sub_term": "berwujud",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "memang ada (boleh dipandang, dipegang, dll),  berupa benda yg nyata;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "konkrit, maujud, nyata;"
+                    }
+                ]
             },
             {
-                "sense": "4",
-                "definition": "pelaksanaan (cita-cita dll);    pewujudan  perbuatan atau proses mewujudkan."
+                "sub_term": "mewujudkan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "menjadikan berwujud (berbentuk, berupa, dll),  mengadakan:  kadang-kadang  amanah  diwujudkan  melalui  perjanjian secara lisan di kalangan keluarga;"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "melaksanakan  (cita-cita dll);"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "menerangkan (memperlihatkan) dgn benda yg  nyata;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "terwujud",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "sudah diwujudkan (dilaksanakan):  ada suatu waktu  ketika alam belum lagi ~;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "kewujudan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perihal wujud (sesuatu), adanya (sesuatu);"
+                    }
+                ]
+            },
+            {
+                "sub_term": "perwujudan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "bentuk atau rupa (yg benar-benar dapat dilihat  dll);"
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "sesuatu yg berwujud (kelihatan dlm mimpi dll);"
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "sesuatu  yg konkrit (maujud, nyata);"
+                    },
+                    {
+                        "sense": "4",
+                        "definition": "pelaksanaan (cita-cita dll);"
+                    }
+                ]
+            },
+            {
+                "sub_term": "pewujudan",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "perbuatan atau proses mewujudkan."
+                    }
+                ]
             }
         ]
     },
