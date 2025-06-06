@@ -72,9 +72,14 @@ def extract_dictionary_entries(pdf_path):
                             current_content = []
                             sub_terms = []
                         else:
+                            
                             # Add to current entry's content
                             if current_entry:
-                                if bbox[0] > 126 and bbox[0] < 127 and (font == 'Times New Roman,Bold' or font == 'TimesNewRoman,Bold') and text.strip():
+                                if (
+                                    bbox[0] > 126 and bbox[0] < 127 and 
+                                    (font == 'Times New Roman,Bold' or font == 'TimesNewRoman,Bold') and text.strip() and 
+                                    not re.match(r'^\d+\.$', text.strip())
+                                ):
                                     if subterm:
                                         if subterm[-2:].strip() in ['1.', '1']:
                                             sub_terms.append({
@@ -129,9 +134,22 @@ def process_entry_content(term, content, sub_terms):
     
     # Extract definitions
     definitions = []
+
+
     numbered_defs = re.findall(r'(\d+)\.\s+(.*?)(?=\s+\d+\.|$)~*;*', content, re.DOTALL)
     
     if numbered_defs:
+
+        # Extract any word(s) before the first numbered definition and add to term
+        pre_numbered_match = re.match(r'^([^\d]+?)(?=\d+\.\s)', content)
+        if pre_numbered_match:
+            pre_numbered = pre_numbered_match.group(0).strip()
+            if pre_numbered:
+                term = f"{term} {pre_numbered}"
+            # Remove the pre-numbered part from content for further processing
+            content = content[len(pre_numbered):].lstrip()
+
+
         def_nums = []
         for def_text in numbered_defs:
             sense = def_text[0].strip()
@@ -151,12 +169,19 @@ def process_entry_content(term, content, sub_terms):
             "definition": content.strip()
         })
     
-   
-    term_parts = re.match(r'([a-zA-Z\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
-    
-    base_term = term_parts.group(1) if term_parts else term
-    roman_numeral = term_parts.group(2) if term_parts and term_parts.group(2) else None
-    equals_part = term_parts.group(3) if term_parts and term_parts.group(3) else None
+    if numbered_defs:
+        term_parts = re.match(r'([a-zA-Z ;()é,\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
+        
+        base_term = term_parts.group(1) if term_parts else term
+        roman_numeral = term_parts.group(2) if term_parts and term_parts.group(2) else None
+        equals_part = term_parts.group(3) if term_parts and term_parts.group(3) else None
+    else:
+        
+        term_parts = re.match(r'([a-zA-Z\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
+
+        base_term = term_parts.group(1) if term_parts else term
+        roman_numeral = term_parts.group(2) if term_parts and term_parts.group(2) else None
+        equals_part = term_parts.group(3) if term_parts and term_parts.group(3) else None
     
     # Build the structured entry
     structured_entry = {
