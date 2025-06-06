@@ -273,8 +273,7 @@
         ]
     },
     {
-        "term": "gabuk",
-        "roman_numeral": "I",
+        "term": "gabuk I",
         "origin": "Jw",
         "definitions": [
             {
@@ -431,8 +430,7 @@
         ]
     },
     {
-        "term": "gabus",
-        "roman_numeral": "I",
+        "term": "gabus I",
         "definitions": [
             {
                 "sense": "1",
@@ -644,7 +642,7 @@
         ]
     },
     {
-        "term": "gadai",
+        "term": "gadai janji",
         "origin": "(Eko)",
         "definitions": [
             {
@@ -780,8 +778,7 @@
         ]
     },
     {
-        "term": "gading",
-        "roman_numeral": "I",
+        "term": "gading I",
         "definitions": [
             {
                 "sense": "1",
@@ -832,8 +829,7 @@
         ]
     },
     {
-        "term": "gading-gading",
-        "roman_numeral": "I",
+        "term": "gading-gading I",
         "definitions": [
             {
                 "sense": "1",
@@ -846,7 +842,7 @@
         ]
     },
     {
-        "term": "gading-gading",
+        "term": "gading-gading II",
         "definitions": [
             {
                 "sense": "1",
@@ -863,8 +859,7 @@
         ]
     },
     {
-        "term": "gadis",
-        "roman_numeral": "I",
+        "term": "gadis I",
         "definitions": [
             {
                 "sense": "1",
@@ -952,8 +947,7 @@
         ]
     },
     {
-        "term": "gaduh",
-        "roman_numeral": "I",
+        "term": "gaduh I",
         "definitions": [
             {
                 "sense": "1",
@@ -1513,7 +1507,7 @@
         ]
     },
     {
-        "term": "gah",
+        "term": "gah sl",
         "definitions": [
             {
                 "sense": "1",
@@ -1522,17 +1516,14 @@
             {
                 "sense": "2",
                 "definition": "keangkuhan, kebanggaan;  ~ dan takbur  kesombongan;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "kelihatan hebat:   syarikat pengilangan yg ~ dr segi fizikalnya."
-                    }
-                ]
+                "sense": "3",
+                "definition": "ki, bp menjadi buah pertuturan orang, termasyhur:  maka ~lah ke  seluruh dunia akan kehandalan pahlawan itu;"
+            },
+            {
+                "sense": "4",
+                "definition": "kelihatan hebat:   syarikat pengilangan yg ~ dr segi fizikalnya."
             }
         ]
     },
@@ -1569,7 +1560,7 @@
         ]
     },
     {
-        "term": "gahar",
+        "term": "gahar; menggahar",
         "definitions": [
             {
                 "sense": "1",
@@ -1661,14 +1652,9 @@
                     {
                         "sense": "1",
                         "definition": "menarik buah (perahu dll) supaya dekat, mengait:  hendak dipanjat kerengga, mahu pula digait galah tidak sampai;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "mengambil wang orang dgn menipu, mencopet:  tujuannya  memang hendak ~ saku saya."
                     }
                 ]
@@ -2025,8 +2011,7 @@
         ]
     },
     {
-        "term": "galak",
-        "roman_numeral": "I",
+        "term": "galak I",
         "definitions": [
             {
                 "sense": "1",
@@ -2421,14 +2406,9 @@
                     {
                         "sense": "1",
                         "definition": "membuat lubang dlm tanah dgn menggunakan alat,  mesin, dll (utk mendapat air, menanam, mengambil sesuatu dr dlm  tanah, dll), mengorek, menambang;  ~ kubur (longkang, lubang,  dll)  membuat kubur (longkang, lubang, dll) dgn menggali tanah;  ~  ubi (emas dll)  mengeluarkan atau mengambil ubi dll dr dlm tanah;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki menyelidiki, mendalami:  mereka merasakan perlunya ~  kembali kekayaan hukum adat nenek moyangnya; menjadi idaman  A. Samad Said bukannya utk memfokuskan mengapa hal-hal itu  terjadi, tetapi cuba ~ sikap dan tindakan manusia;     ~ lubang menutup lubang  prb menebus hutang dgn meminjam  wang;  nan digali dalam, nan digantungkan tinggi  prb yg sudah  dirundingkan matang-matang mendapat persetujuan;"
                     }
                 ]
@@ -2581,22 +2561,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "sl perak;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sl perak;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "permata (intan) sbg sebutan utk puteri raja."
-                    }
-                ]
+                "sense": "2",
+                "definition": "permata (intan) sbg sebutan utk puteri raja."
             }
         ]
     },
@@ -2834,18 +2803,13 @@
             {
                 "sense": "1",
                 "definition": "tidak dapat berbuat apa-apa kerana terkejut dll:  dia menjadi ~;"
+            },
+            {
+                "sense": "2",
+                "definition": "=  tergamam  gelisah, ragu-ragu:  dia menegur dgn suara ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  tergamam  gelisah, ragu-ragu:  dia menegur dgn suara ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "tergamam",
                 "definitions": [
@@ -3578,8 +3542,7 @@
         ]
     },
     {
-        "term": "ganda",
-        "roman_numeral": "I",
+        "term": "ganda I",
         "definitions": [
             {
                 "sense": "1",
@@ -3684,8 +3647,7 @@
         ]
     },
     {
-        "term": "ganda",
-        "roman_numeral": "III",
+        "term": "ganda III",
         "origin": "Jk",
         "definitions": [
             {
@@ -3756,8 +3718,7 @@
         ]
     },
     {
-        "term": "gandar",
-        "roman_numeral": "I",
+        "term": "gandar I",
         "definitions": [
             {
                 "sense": "1",
@@ -3916,8 +3877,7 @@
         ]
     },
     {
-        "term": "ganding",
-        "roman_numeral": "I",
+        "term": "ganding I; bergandingan, berganding",
         "definitions": [
             {
                 "sense": "1",
@@ -4199,8 +4159,7 @@
         ]
     },
     {
-        "term": "ganggang",
-        "roman_numeral": "I",
+        "term": "ganggang I; berganggang",
         "definitions": [
             {
                 "sense": "1",
@@ -4224,8 +4183,7 @@
         ]
     },
     {
-        "term": "ganggang",
-        "roman_numeral": "II",
+        "term": "ganggang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -4244,14 +4202,9 @@
                     {
                         "sense": "1",
                         "definition": "bercelah, merenggang:  sambung kayu itu mulai ~ ;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "bercerai (bkn suami isteri):  laki bini itu sudah ~;"
                     }
                 ]
@@ -4287,7 +4240,7 @@
         ]
     },
     {
-        "term": "ganggu",
+        "term": "ganggu; mengganggu",
         "definitions": [
             {
                 "sense": "1",
@@ -4510,7 +4463,7 @@
         ]
     },
     {
-        "term": "ganjak",
+        "term": "ganjak; berganjak",
         "definitions": [
             {
                 "sense": "1",
@@ -4568,7 +4521,7 @@
         ]
     },
     {
-        "term": "ganjar",
+        "term": "ganjar; mengganjar, mengganjari",
         "definitions": [
             {
                 "sense": "1",
@@ -5144,7 +5097,7 @@
         ]
     },
     {
-        "term": "ganyah",
+        "term": "ganyah; mengganyah",
         "definitions": [
             {
                 "sense": "1",
@@ -5157,7 +5110,7 @@
         ]
     },
     {
-        "term": "ganyang",
+        "term": "ganyang; mengganyang",
         "definitions": [
             {
                 "sense": "1",
@@ -5204,17 +5157,10 @@
             {
                 "sense": "1",
                 "definition": "tidak lunak (walaupun direbus), basau, engkah-engkah, ganyar;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sangat tua:  Cu Hawa sudah tua dan ~."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sangat tua:  Cu Hawa sudah tua dan ~."
             }
         ]
     },
@@ -5503,18 +5449,13 @@
             {
                 "sense": "2",
                 "definition": "(Kim) sebatian kimia yg diperoleh drpd tindakan asid atas logam;"
+            },
+            {
+                "sense": "3",
+                "definition": "sj pupuk;     ~ abu  alkali;  ~ asid  (Kim) garam yg mempunyai satu atau lebih  hidrogen yg boleh diionkan, mis kalium hidrogen sulfat;  ~ bes  (Kim)   garam yg terbentuk apabila sesetengah ion oksida atau  hidroksida sesuatu bes diganti dgn ion negatif lain, mis plumbum  (II) klorida hidroksida;  ~ dapur  garam utk masakan;  ~ darat  =  ~  galian  garam dr dlm tanah;  ~ hempedu  (Bio) garam yg terdapat  dlm hempedu, gunanya utk membantu pengemulsian lemak  sewaktu pencernaan;  ~ jantan  buku garam;  ~ kontang  (Kim) garam  yg air penghablurannya telah disingkirkan, mis kuprum(II) sulfat;  ~ laut  garam dr air laut;  ~ siam  garam yg halus spt gula pasir;  ~  terhidrat  (Kim) garam yg mempunyai air penghabluran;  merendang ~  bunyi mendedas;  banyak makan ~  =  tahu diasin ~  =  banyak menelan ~ hidup  mempunyai banyak pengalaman hidup;     ~ dikulumnya tak hancur  prb seorang yg pintar menyimpan rahsia;  ~ jatuh di air  prb cepat meresap atau segera dimengerti (bkn  nasihat, pelajaran, dll);  ~ tumpah apakah tempatnya  prb kematian  orang miskin atau hina tidak dihiraukan;  dicecah orang bagai ~  prb Mn hal perempuan yg tidak lama bersuami, lalu bercerai;  membuang ~ ke laut  prb membuat pekerjaan yg tidak  mendatangkan faedah;  sbg ~ dgn asam  prb sudah padan benar (spt  suami isteri);  sayang ~ sececah, busuk kerbau seekor  prb kerana  takut rugi sedikit, akhirnya mendapat kerugian banyak;  sudah  seasam se~nya  prb tiada bercela;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj pupuk;     ~ abu  alkali;  ~ asid  (Kim) garam yg mempunyai satu atau lebih  hidrogen yg boleh diionkan, mis kalium hidrogen sulfat;  ~ bes  (Kim)   garam yg terbentuk apabila sesetengah ion oksida atau  hidroksida sesuatu bes diganti dgn ion negatif lain, mis plumbum  (II) klorida hidroksida;  ~ dapur  garam utk masakan;  ~ darat  =  ~  galian  garam dr dlm tanah;  ~ hempedu  (Bio) garam yg terdapat  dlm hempedu, gunanya utk membantu pengemulsian lemak  sewaktu pencernaan;  ~ jantan  buku garam;  ~ kontang  (Kim) garam  yg air penghablurannya telah disingkirkan, mis kuprum(II) sulfat;  ~ laut  garam dr air laut;  ~ siam  garam yg halus spt gula pasir;  ~  terhidrat  (Kim) garam yg mempunyai air penghabluran;  merendang ~  bunyi mendedas;  banyak makan ~  =  tahu diasin ~  =  banyak menelan ~ hidup  mempunyai banyak pengalaman hidup;     ~ dikulumnya tak hancur  prb seorang yg pintar menyimpan rahsia;  ~ jatuh di air  prb cepat meresap atau segera dimengerti (bkn  nasihat, pelajaran, dll);  ~ tumpah apakah tempatnya  prb kematian  orang miskin atau hina tidak dihiraukan;  dicecah orang bagai ~  prb Mn hal perempuan yg tidak lama bersuami, lalu bercerai;  membuang ~ ke laut  prb membuat pekerjaan yg tidak  mendatangkan faedah;  sbg ~ dgn asam  prb sudah padan benar (spt  suami isteri);  sayang ~ sececah, busuk kerbau seekor  prb kerana  takut rugi sedikit, akhirnya mendapat kerugian banyak;  sudah  seasam se~nya  prb tiada bercela;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bergaram",
                 "definitions": [
@@ -5626,8 +5567,7 @@
         ]
     },
     {
-        "term": "garang",
-        "roman_numeral": "I",
+        "term": "garang I",
         "definitions": [
             {
                 "sense": "1",
@@ -5915,8 +5855,7 @@
         ]
     },
     {
-        "term": "garis",
-        "roman_numeral": "I",
+        "term": "garis I",
         "definitions": [
             {
                 "sense": "1",
@@ -6052,7 +5991,7 @@
         ]
     },
     {
-        "term": "garis",
+        "term": "garis kasar",
         "definitions": [
             {
                 "sense": "1",
@@ -6493,8 +6432,7 @@
         ]
     },
     {
-        "term": "gasang",
-        "roman_numeral": "I",
+        "term": "gasang I",
         "definitions": [
             {
                 "sense": "1",
@@ -7066,8 +7004,7 @@
         ]
     },
     {
-        "term": "gawang",
-        "roman_numeral": "I",
+        "term": "gawang I",
         "definitions": [
             {
                 "sense": "1",
@@ -7394,8 +7331,7 @@
         ]
     },
     {
-        "term": "gayung",
-        "roman_numeral": "II",
+        "term": "gayung II",
         "definitions": [
             {
                 "sense": "1",
@@ -7426,14 +7362,9 @@
                     {
                         "sense": "1",
                         "definition": "menetak, menikam, menombak dll (dgn senjata);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "mengucapkan mantera utk membunuh musuh dll."
                     }
                 ]
@@ -7710,8 +7641,7 @@
         ]
     },
     {
-        "term": "gebu",
-        "roman_numeral": "I",
+        "term": "gebu I",
         "definitions": [
             {
                 "sense": "1",
@@ -7756,23 +7686,15 @@
         ]
     },
     {
-        "term": "gecar",
-        "roman_numeral": "I",
+        "term": "gecar I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "keluar air liur (kerana melihat makanan yg sedap-sedap dsb);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "cair (bubur, darah, dll)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "cair (bubur, darah, dll)."
             }
         ]
     },
@@ -7978,23 +7900,15 @@
         ]
     },
     {
-        "term": "gedebung",
-        "roman_numeral": "I",
+        "term": "gedebung I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "kain empat persegi utk pembungkus sirih atau tembakau;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tabung bambu."
-                    }
-                ]
+                "sense": "2",
+                "definition": "tabung bambu."
             }
         ]
     },
@@ -8206,7 +8120,7 @@
         ]
     },
     {
-        "term": "gedor",
+        "term": "gedor ;  menggedor",
         "origin": "Jk",
         "definitions": [
             {
@@ -8624,7 +8538,7 @@
         ]
     },
     {
-        "term": "geger",
+        "term": "geger (gégér)",
         "definitions": [
             {
                 "sense": "1",
@@ -8721,22 +8635,15 @@
         ]
     },
     {
-        "term": "geiser",
+        "term": "geiser (géiser) (Geo)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "mata air yg darinya terpancut air panas dan wap;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pancutan air panas dan wap dr mata air."
-                    }
-                ]
+                "sense": "2",
+                "definition": "pancutan air panas dan wap dr mata air."
             }
         ]
     },
@@ -8908,8 +8815,7 @@
         ]
     },
     {
-        "term": "geladak",
-        "roman_numeral": "II",
+        "term": "geladak II",
         "definitions": [
             {
                 "sense": "1",
@@ -9117,7 +9023,7 @@
         ]
     },
     {
-        "term": "gelandang",
+        "term": "gelandang I  Id;  bergelandangan",
         "definitions": [
             {
                 "sense": "1",
@@ -9163,8 +9069,7 @@
         ]
     },
     {
-        "term": "gelang",
-        "roman_numeral": "I",
+        "term": "gelang I",
         "definitions": [
             {
                 "sense": "1",
@@ -9259,18 +9164,13 @@
             {
                 "sense": "3",
                 "definition": "lingkaran di sekeliling bulan (matahari, susu, luka, dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "ki ruangan atau tempat perjuangan sesuatu bidang:  institusi  sastera terus menjadi ~ bertembung, berdialog, dan berdirinya  pemikiran yg kritis; tak pernah masuk ~ bergong  prb tercengang- cengang (kehairanan);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki ruangan atau tempat perjuangan sesuatu bidang:  institusi  sastera terus menjadi ~ bertembung, berdialog, dan berdirinya  pemikiran yg kritis; tak pernah masuk ~ bergong  prb tercengang- cengang (kehairanan);"
-                    }
-                ]
-            },
             {
                 "sub_term": "bergelanggang",
                 "definitions": [
@@ -9372,18 +9272,13 @@
             {
                 "sense": "3",
                 "definition": "tidak cerah (bkn  kehidupan atau masa depan seseorang dsb), menghadapi kesulitan;"
+            },
+            {
+                "sense": "4",
+                "definition": "(secara) haram, (secara) tidak sah, (secara) rahsia;  barang ~  barang yg diimport (dijual dll) secara gelap;  mata-mata ~  ampama  (pengintip rahsia, polis rahsia);  pasar ~  tempat berjual beli barang- barang haram (yg ditegah oleh kerajaan);     ~ buta  =  ~ -guguk  =  ~ -gelita  =  ~-gelemat  =  ~-katup  =  ~-pekat   sangat gelap;  ~ fikiran  =  ~ mata  a) tidak dapat berfikir lagi kerana  marah dsb (sehingga mengamuk, memukul, dsb); b) pitam:  dia  dibawa ke hospital setelah dia berasa ~ mata;   ~ hati  sukar (tidak  mudah) belajar;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "(secara) haram, (secara) tidak sah, (secara) rahsia;  barang ~  barang yg diimport (dijual dll) secara gelap;  mata-mata ~  ampama  (pengintip rahsia, polis rahsia);  pasar ~  tempat berjual beli barang- barang haram (yg ditegah oleh kerajaan);     ~ buta  =  ~ -guguk  =  ~ -gelita  =  ~-gelemat  =  ~-katup  =  ~-pekat   sangat gelap;  ~ fikiran  =  ~ mata  a) tidak dapat berfikir lagi kerana  marah dsb (sehingga mengamuk, memukul, dsb); b) pitam:  dia  dibawa ke hospital setelah dia berasa ~ mata;   ~ hati  sukar (tidak  mudah) belajar;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bergelap",
                 "definitions": [
@@ -9482,8 +9377,7 @@
         ]
     },
     {
-        "term": "gelar",
-        "roman_numeral": "I",
+        "term": "gelar I ",
         "definitions": [
             {
                 "sense": "1",
@@ -9908,7 +9802,7 @@
         ]
     },
     {
-        "term": "gelegak",
+        "term": "gelegak; menggelegak",
         "definitions": [
             {
                 "sense": "1",
@@ -10451,7 +10345,7 @@
         ]
     },
     {
-        "term": "gelenyeh",
+        "term": "gelenyeh (gelényéh) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -10662,7 +10556,7 @@
         ]
     },
     {
-        "term": "geletek",
+        "term": "geletek (geléték)",
         "definitions": [
             {
                 "sense": "1",
@@ -10690,7 +10584,7 @@
         ]
     },
     {
-        "term": "geletik",
+        "term": "geletik; menggeletik",
         "definitions": [
             {
                 "sense": "1",
@@ -10754,8 +10648,7 @@
         ]
     },
     {
-        "term": "geli",
-        "roman_numeral": "I",
+        "term": "geli I",
         "definitions": [
             {
                 "sense": "1",
@@ -11166,7 +11059,7 @@
         ]
     },
     {
-        "term": "gelincat",
+        "term": "gelincat; tergelincat",
         "definitions": [
             {
                 "sense": "1",
@@ -11641,8 +11534,7 @@
         ]
     },
     {
-        "term": "gelogok",
-        "roman_numeral": "I",
+        "term": "gelogok I; menggelogok",
         "definitions": [
             {
                 "sense": "1",
@@ -11884,22 +11776,15 @@
         ]
     },
     {
-        "term": "gelontor",
+        "term": "gelontor; menggelontor",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "menyimbah dgn banyak air (supaya hanyut);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bk minum banyak-banyak."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bk minum banyak-banyak."
             }
         ]
     },
@@ -11922,18 +11807,13 @@
             {
                 "sense": "2",
                 "definition": "=  musim ~  musim hujan dan badai, musim air bah;"
+            },
+            {
+                "sense": "3",
+                "definition": "perasaan yg bergolak (tidak tenang);  ~ hati  perasaan hati yg  bergolak-golak;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "perasaan yg bergolak (tidak tenang);  ~ hati  perasaan hati yg  bergolak-golak;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bergelora, menggelora",
                 "definitions": [
@@ -12197,8 +12077,7 @@
         ]
     },
     {
-        "term": "gelung",
-        "roman_numeral": "I",
+        "term": "gelung I",
         "definitions": [
             {
                 "sense": "1",
@@ -12273,8 +12152,7 @@
         ]
     },
     {
-        "term": "gelung",
-        "roman_numeral": "III",
+        "term": "gelung III",
         "origin": "Kl",
         "definitions": [
             {
@@ -12782,8 +12660,7 @@
         ]
     },
     {
-        "term": "gembala",
-        "roman_numeral": "I",
+        "term": "gembala I",
         "definitions": [
             {
                 "sense": "1",
@@ -12963,7 +12840,7 @@
         ]
     },
     {
-        "term": "gembleng",
+        "term": "gembleng (gembléng);  menggembleng",
         "definitions": [
             {
                 "sense": "1",
@@ -13024,7 +12901,7 @@
         ]
     },
     {
-        "term": "gembong",
+        "term": "gembong (gémbong) Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -14110,8 +13987,7 @@
         ]
     },
     {
-        "term": "gendang",
-        "roman_numeral": "I",
+        "term": "gendang I",
         "definitions": [
             {
                 "sense": "1",
@@ -14236,7 +14112,7 @@
         ]
     },
     {
-        "term": "gender",
+        "term": "gender (génder)",
         "definitions": [
             {
                 "sense": "1",
@@ -14327,7 +14203,7 @@
         ]
     },
     {
-        "term": "gendong",
+        "term": "gendong (géndong);  menggendong",
         "definitions": [
             {
                 "sense": "1",
@@ -14434,7 +14310,7 @@
         ]
     },
     {
-        "term": "generasi",
+        "term": "generasi (génerasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -14447,7 +14323,7 @@
         ]
     },
     {
-        "term": "generatif",
+        "term": "generatif (géneratif)",
         "definitions": [
             {
                 "sense": "1",
@@ -14496,7 +14372,7 @@
         ]
     },
     {
-        "term": "genetik",
+        "term": "genetik (génétik) (Bio)",
         "definitions": [
             {
                 "sense": "1",
@@ -14669,7 +14545,7 @@
         ]
     },
     {
-        "term": "gengsi",
+        "term": "gengsi (géngsi)",
         "definitions": [
             {
                 "sense": "1",
@@ -14714,18 +14590,13 @@
             {
                 "sense": "1",
                 "definition": "Id suka bergaya, banyak tingkah, keletah:  gadis manis tetapi ~;"
+            },
+            {
+                "sense": "2",
+                "definition": "kecil dan lincah lagi menarik (bkn gadis);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kecil dan lincah lagi menarik (bkn gadis);"
-                    }
-                ]
-            },
             {
                 "sub_term": "kegenitan",
                 "definitions": [
@@ -14834,7 +14705,7 @@
         ]
     },
     {
-        "term": "genjang",
+        "term": "genjang (génjang)",
         "definitions": [
             {
                 "sense": "1",
@@ -14904,7 +14775,7 @@
         ]
     },
     {
-        "term": "genotip",
+        "term": "genotip (génotip) (Bio)",
         "definitions": [
             {
                 "sense": "1",
@@ -14931,18 +14802,13 @@
             {
                 "sense": "1",
                 "definition": "loceng kecil-kecil (utk perhiasan gelang kaki, leher lembu, dll);"
+            },
+            {
+                "sense": "2",
+                "definition": "loceng besar (pd gereja dll);     ~ alamat  genta yg dibunyikan kalau terjadi sesuatu hal yg penting  dlm  negeri;  anak  ~   pemukul  loceng;  menggerakkan  (menggoyangkan) ~  membunyikan loceng;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "loceng besar (pd gereja dll);     ~ alamat  genta yg dibunyikan kalau terjadi sesuatu hal yg penting  dlm  negeri;  anak  ~   pemukul  loceng;  menggerakkan  (menggoyangkan) ~  membunyikan loceng;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bergenta",
                 "definitions": [
@@ -15017,14 +14883,9 @@
                     {
                         "sense": "2",
                         "definition": "menjadikan gentar, menakutkan:  hal itu tidak ~ hatinya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "merusuhkan, menggemparkan:  orang yg gelap itu ~ seluruh  kampung;"
                     }
                 ]
@@ -15183,8 +15044,7 @@
         ]
     },
     {
-        "term": "genting",
-        "roman_numeral": "I",
+        "term": "genting I",
         "definitions": [
             {
                 "sense": "1",
@@ -15469,7 +15329,7 @@
         ]
     },
     {
-        "term": "geosentrik",
+        "term": "geosentrik (géoséntrik) (Ast)",
         "definitions": [
             {
                 "sense": "1",
@@ -15608,7 +15468,7 @@
         ]
     },
     {
-        "term": "gera",
+        "term": "gera; menggera",
         "definitions": [
             {
                 "sense": "1",
@@ -15667,8 +15527,7 @@
         ]
     },
     {
-        "term": "gerabak",
-        "roman_numeral": "IV",
+        "term": "gerabak IV ;  ",
         "origin": "Jk",
         "definitions": [
             {
@@ -15747,7 +15606,7 @@
         ]
     },
     {
-        "term": "geragot",
+        "term": "geragot ;  menggeragoti",
         "origin": "Jw",
         "definitions": [
             {
@@ -15821,8 +15680,7 @@
         ]
     },
     {
-        "term": "gerai",
-        "roman_numeral": "I",
+        "term": "gerai I",
         "definitions": [
             {
                 "sense": "1",
@@ -15969,12 +15827,11 @@
                     {
                         "sense": "1",
                         "definition": "hasil bergerak, perbuatan bergerak:  ~ bumi; ~ tentera;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "usaha, kegiatan:  ~ hendak menghapuskan buta huruf; bilik ~   bilik tempat mengendalikan sesuatu usaha (kegiatan dll);  ~ bawah  tanah  gerakan sulit utk menjatuhkan kerajaan dll;"
+                    },
                     {
                         "sense": "3",
                         "definition": "="
@@ -16262,7 +16119,7 @@
         ]
     },
     {
-        "term": "geranyam",
+        "term": "geranyam ;  menggeranyam",
         "origin": "Mn",
         "definitions": [
             {
@@ -16437,8 +16294,7 @@
         ]
     },
     {
-        "term": "gerayang",
-        "roman_numeral": "II",
+        "term": "gerayang II ;  menggerayang",
         "origin": "Mn",
         "definitions": [
             {
@@ -16499,8 +16355,7 @@
         ]
     },
     {
-        "term": "gerbang",
-        "roman_numeral": "II",
+        "term": "gerbang II",
         "definitions": [
             {
                 "sense": "1",
@@ -16509,17 +16364,10 @@
             {
                 "sense": "2",
                 "definition": "ki alam:  memasuki ~ perkahwinan;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "(Komp) portal."
-                    }
-                ]
+                "sense": "3",
+                "definition": "(Komp) portal."
             }
         ]
     },
@@ -16637,7 +16485,7 @@
         ]
     },
     {
-        "term": "gereja",
+        "term": "gereja (geréja)",
         "definitions": [
             {
                 "sense": "1",
@@ -16702,14 +16550,9 @@
                     {
                         "sense": "1",
                         "definition": "menggunakan sesuatu (jara dll) utk menggerek;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menggerek utk orang lain;"
                     }
                 ]
@@ -16781,7 +16624,7 @@
         ]
     },
     {
-        "term": "gerenek",
+        "term": "gerenek (gerénék)",
         "definitions": [
             {
                 "sense": "1",
@@ -17149,18 +16992,17 @@
             {
                 "sense": "1",
                 "definition": "sj makhluk besar yg suka makan orang, raksasa bersiung, bota;"
+            },
+            {
+                "sense": "2",
+                "definition": "ki seseorang atau sesuatu (spt jentera, alat, dll) yg sangat besar,  atau yg mempunyai kebolehan (kemampuan) yg luar biasa:  kebolehan komputer dilihat sbg ~ mesin kira yg cepat; saksikanlah  ~ bola sepak beraksi dlm kejohanan ini;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki kuasa besar dlm  sesuatu lapangan atau bidang:  ada kalangan yg masih merendah- rendahkan kemampuan Jepun menjadi ~ ekonomi;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "ki kuasa besar dlm  sesuatu lapangan atau bidang:  ada kalangan yg masih merendah- rendahkan kemampuan Jepun menjadi ~ ekonomi;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menggergasi",
                 "definitions": [
@@ -17848,7 +17690,7 @@
         ]
     },
     {
-        "term": "gernyut",
+        "term": "gernyut; menggernyut",
         "definitions": [
             {
                 "sense": "1",
@@ -17911,8 +17753,7 @@
         ]
     },
     {
-        "term": "gerobok",
-        "roman_numeral": "II",
+        "term": "gerobok II",
         "definitions": [
             {
                 "sense": "1",
@@ -18243,8 +18084,7 @@
         ]
     },
     {
-        "term": "gerpak",
-        "roman_numeral": "I",
+        "term": "gerpak I",
         "origin": "Kl",
         "definitions": [
             {
@@ -18399,14 +18239,9 @@
                     {
                         "sense": "2",
                         "definition": "perkakas utk menggertak;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "benda utk memberanikan."
                     }
                 ]
@@ -18563,8 +18398,7 @@
         ]
     },
     {
-        "term": "geruh",
-        "roman_numeral": "II",
+        "term": "geruh II; menggeruh",
         "definitions": [
             {
                 "sense": "1",
@@ -19163,7 +18997,7 @@
         ]
     },
     {
-        "term": "geser",
+        "term": "geser (gésér);  bergeser",
         "definitions": [
             {
                 "sense": "1",
@@ -19291,7 +19125,7 @@
         ]
     },
     {
-        "term": "get",
+        "term": "get (gét)  I  (Komp)",
         "definitions": [
             {
                 "sense": "1",
@@ -19344,8 +19178,7 @@
         ]
     },
     {
-        "term": "getah",
-        "roman_numeral": "I",
+        "term": "getah I",
         "definitions": [
             {
                 "sense": "1",
@@ -19594,8 +19427,7 @@
         ]
     },
     {
-        "term": "getas",
-        "roman_numeral": "I",
+        "term": "getas I",
         "definitions": [
             {
                 "sense": "1",
@@ -19702,8 +19534,7 @@
         ]
     },
     {
-        "term": "getik",
-        "roman_numeral": "I",
+        "term": "getik I; menggetik",
         "definitions": [
             {
                 "sense": "1",
@@ -19841,7 +19672,7 @@
         ]
     },
     {
-        "term": "getu",
+        "term": "getu; menggetu",
         "definitions": [
             {
                 "sense": "1",
@@ -19895,7 +19726,7 @@
         ]
     },
     {
-        "term": "gewang",
+        "term": "gewang (géwang)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -20168,22 +19999,15 @@
         ]
     },
     {
-        "term": "ghetto",
+        "term": "ghetto (géto)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "kawasan bandar yg didiami oleh sesuatu etnik atau  kumpulan sosial minoriti, biasanya hidup dlm keadaan miskin,  perumahan yg sesak dan daif, terasing dsb:  ~ bukan sahaja  dikaitkan dgn kualiti tempat kediaman yg merosot dan usang,  tetapi juga dgn ciri-ciri kaum yg menghuninya; ramai pekerja kulit  hitam yg terpaksa tinggal di ~ di Chicago, Detroit atau New York;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kawasan di sesebuah bandar raya di Eropah yg dahulunya  menjadi tempat kediaman penduduk Yahudi."
-                    }
-                ]
+                "sense": "2",
+                "definition": "kawasan di sesebuah bandar raya di Eropah yg dahulunya  menjadi tempat kediaman penduduk Yahudi."
             }
         ]
     },
@@ -20472,8 +20296,7 @@
         ]
     },
     {
-        "term": "gigi",
-        "roman_numeral": "I",
+        "term": "gigi I",
         "definitions": [
             {
                 "sense": "1",
@@ -20570,7 +20393,7 @@
         ]
     },
     {
-        "term": "gigil",
+        "term": "gigil; menggigil",
         "definitions": [
             {
                 "sense": "1",
@@ -20974,7 +20797,7 @@
         ]
     },
     {
-        "term": "gilas",
+        "term": "gilas; menggilas",
         "definitions": [
             {
                 "sense": "1",
@@ -21016,7 +20839,7 @@
         ]
     },
     {
-        "term": "gili",
+        "term": "gili; menggili, menggili-gili",
         "definitions": [
             {
                 "sense": "1",
@@ -21333,7 +21156,7 @@
         ]
     },
     {
-        "term": "gimbul",
+        "term": "gimbul Pn;  menggimbul",
         "definitions": [
             {
                 "sense": "1",
@@ -21733,7 +21556,7 @@
         ]
     },
     {
-        "term": "giring",
+        "term": "giring; menggiring",
         "definitions": [
             {
                 "sense": "1",
@@ -21803,7 +21626,7 @@
         ]
     },
     {
-        "term": "gisar",
+        "term": "gisar; menggisar",
         "definitions": [
             {
                 "sense": "1",
@@ -21987,7 +21810,7 @@
         ]
     },
     {
-        "term": "glic",
+        "term": "glic (Komp)",
         "definitions": [
             {
                 "sense": "1",
@@ -22385,7 +22208,7 @@
         ]
     },
     {
-        "term": "goda",
+        "term": "goda; menggoda, menggodai",
         "definitions": [
             {
                 "sense": "1",
@@ -22890,8 +22713,7 @@
         ]
     },
     {
-        "term": "golak",
-        "roman_numeral": "II",
+        "term": "golak II; bergolak",
         "definitions": [
             {
                 "sense": "1",
@@ -22937,8 +22759,7 @@
         ]
     },
     {
-        "term": "golek",
-        "roman_numeral": "I",
+        "term": "golek I (golék)",
         "definitions": [
             {
                 "sense": "1",
@@ -23060,8 +22881,7 @@
         ]
     },
     {
-        "term": "golok",
-        "roman_numeral": "I",
+        "term": "golok I",
         "definitions": [
             {
                 "sense": "1",
@@ -23115,7 +22935,7 @@
         ]
     },
     {
-        "term": "golong",
+        "term": "golong; menggolongkan",
         "definitions": [
             {
                 "sense": "1",
@@ -23245,7 +23065,7 @@
         ]
     },
     {
-        "term": "gombeng",
+        "term": "gombeng (gombéng)  II  Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -23365,7 +23185,7 @@
         ]
     },
     {
-        "term": "goncang",
+        "term": "goncang ",
         "definitions": [
             {
                 "sense": "1",
@@ -23464,7 +23284,7 @@
         ]
     },
     {
-        "term": "gondeng",
+        "term": "gondeng (gondéng) Kl;  bergondeng",
         "definitions": [
             {
                 "sense": "1",
@@ -23514,8 +23334,7 @@
         ]
     },
     {
-        "term": "gondol",
-        "roman_numeral": "I",
+        "term": "gondol I ",
         "definitions": [
             {
                 "sense": "1",
@@ -23547,8 +23366,7 @@
         ]
     },
     {
-        "term": "gondol",
-        "roman_numeral": "II",
+        "term": "gondol II; menggondol",
         "definitions": [
             {
                 "sense": "1",
@@ -23597,8 +23415,7 @@
         ]
     },
     {
-        "term": "gong",
-        "roman_numeral": "I",
+        "term": "gong I",
         "definitions": [
             {
                 "sense": "1",
@@ -23622,8 +23439,7 @@
         ]
     },
     {
-        "term": "gong",
-        "roman_numeral": "II",
+        "term": "gong II",
         "definitions": [
             {
                 "sense": "1",
@@ -23636,8 +23452,7 @@
         ]
     },
     {
-        "term": "gong",
-        "roman_numeral": "III",
+        "term": "gong III",
         "origin": "Kl",
         "definitions": [
             {
@@ -23682,8 +23497,7 @@
         ]
     },
     {
-        "term": "gonggong",
-        "roman_numeral": "I",
+        "term": "gonggong I; menggonggong",
         "definitions": [
             {
                 "sense": "1",
@@ -23851,7 +23665,7 @@
         ]
     },
     {
-        "term": "gonyel",
+        "term": "gonyel (gonyél);  menggonyel",
         "definitions": [
             {
                 "sense": "1",
@@ -23978,7 +23792,7 @@
         ]
     },
     {
-        "term": "goreng",
+        "term": "goreng (goréng)",
         "definitions": [
             {
                 "sense": "1",
@@ -24135,8 +23949,7 @@
         ]
     },
     {
-        "term": "gori",
-        "roman_numeral": "II",
+        "term": "gori II ;  bergori",
         "origin": "Kl",
         "definitions": [
             {
@@ -24271,14 +24084,9 @@
                 "sub_term": "menggosok-gosok",
                 "definitions": [
                     {
-                        "sense": "1",
-                        "definition": "membangkit-bangkitkan  kemarahan,  menghasut:  jika tiada orang yg ~ tidak mungkin ia mahu melawan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                        "sense": "4",
+                        "definition": "menggilap (mengasah, menyerodi) permata dll;"
+                    },
                     {
                         "sense": "5",
                         "definition": "ark  menggesek (biola dsb);"
@@ -24517,8 +24325,7 @@
         ]
     },
     {
-        "term": "goyang",
-        "roman_numeral": "I",
+        "term": "goyang I",
         "definitions": [
             {
                 "sense": "1",
@@ -24846,7 +24653,7 @@
         ]
     },
     {
-        "term": "gred",
+        "term": "gred (gréd)",
         "definitions": [
             {
                 "sense": "1",
@@ -24918,7 +24725,7 @@
         ]
     },
     {
-        "term": "grid",
+        "term": "grid (Komp)",
         "definitions": [
             {
                 "sense": "1",
@@ -25040,8 +24847,7 @@
         ]
     },
     {
-        "term": "gu",
-        "roman_numeral": "I",
+        "term": "gu I",
         "definitions": [
             {
                 "sense": "1",
@@ -25216,8 +25022,7 @@
         ]
     },
     {
-        "term": "gubah",
-        "roman_numeral": "I",
+        "term": "gubah I; menggubah",
         "definitions": [
             {
                 "sense": "1",
@@ -25504,7 +25309,7 @@
         ]
     },
     {
-        "term": "gudi",
+        "term": "gudi ark",
         "definitions": [
             {
                 "sense": "1",
@@ -25556,7 +25361,7 @@
         ]
     },
     {
-        "term": "gugah",
+        "term": "gugah ;  menggugah",
         "origin": "Jw",
         "definitions": [
             {
@@ -25570,24 +25375,18 @@
         ]
     },
     {
-        "term": "gugat",
-        "roman_numeral": "I",
+        "term": "gugat I; menggugat",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "mendakwa, mengadukan (perkara) kpd  mahkamah;  ~ pusaka  mengadukan perkara pusaka kpd mahkamah;"
+            },
+            {
+                "sense": "2",
+                "definition": "mendesak supaya menepati janji, membangkitkan perkara yg  sudah-sudah, mengkritik dgn keras, mencela, membantah,  menyanggah:  ahli Dewan Rakyat itu digugat oleh ahli-ahli  partinya kerana tidak menepati janji;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "mendesak supaya menepati janji, membangkitkan perkara yg  sudah-sudah, mengkritik dgn keras, mencela, membantah,  menyanggah:  ahli Dewan Rakyat itu digugat oleh ahli-ahli  partinya kerana tidak menepati janji;"
-                    }
-                ]
-            },
             {
                 "sub_term": "gugatan",
                 "definitions": [
@@ -25649,7 +25448,7 @@
         ]
     },
     {
-        "term": "gugu",
+        "term": "gugu NS;  menggugu",
         "definitions": [
             {
                 "sense": "1",
@@ -25662,7 +25461,7 @@
         ]
     },
     {
-        "term": "guguh",
+        "term": "guguh ;  mengguguh",
         "origin": "Mn",
         "definitions": [
             {
@@ -25756,22 +25555,21 @@
             {
                 "sense": "3",
                 "definition": "lahir sebelum cukup bulan (anak kecil):  anak ~;"
+            },
+            {
+                "sense": "4",
+                "definition": "runtuh (tanah dll);"
+            },
+            {
+                "sense": "5",
+                "definition": "mati (terkorban) dlm pertempuran:  telah  banyak pahlawan Kedah yg ~;"
+            },
+            {
+                "sense": "6",
+                "definition": "hilang, habis (hak dll):  kalau  sesebuah negara tidak membayar hutangnya sampai dua tahun  lamanya akan ~ haknya utk mengundi dlm majlis perhimpunan  agung;     ~ hati  jatuh hati, jatuh cinta;  ~ talak  jatuh talak (diceraikan);  bunga  ~, putik pun ~  prb setiap yg hidup akan mati (dgn tidak  memandang umur);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "mati (terkorban) dlm pertempuran:  telah  banyak pahlawan Kedah yg ~;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "hilang, habis (hak dll):  kalau  sesebuah negara tidak membayar hutangnya sampai dua tahun  lamanya akan ~ haknya utk mengundi dlm majlis perhimpunan  agung;     ~ hati  jatuh hati, jatuh cinta;  ~ talak  jatuh talak (diceraikan);  bunga  ~, putik pun ~  prb setiap yg hidup akan mati (dgn tidak  memandang umur);"
-                    }
-                ]
-            },
             {
                 "sub_term": "berguguran",
                 "definitions": [
@@ -25791,12 +25589,11 @@
                     {
                         "sense": "2",
                         "definition": "mengeluarkan anak sebelum cukup bulan (dgn  sengaja):  dgn diam-diam anak yg dlm kandungannya digugurkan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "mengeluarkan drpd (tidak memasukkan ke dlm) pasukan dll:  Persatuan Bola Sepak Amatur Kelantan ~ lima pemain drpd skuad  Piala Malaysia Kelantan tahun ini;"
+                    },
                     {
                         "sense": "4",
                         "definition": "tidak menggunakan,  meniadakan atau menghilangkan (drpd penggunaan):  dlm situasi  ini tiap-tiap penutur ~ ciri-ciri kedaerahan masing-masing dan  sebaliknya berusaha menggunakan ciri-ciri bahasa yg difikirkan  lebih umum; contoh-contoh tersebut memperlihatkan bahawa kata  sendi sama ada di, dari, ke, daripada ,  ataupun oleh   tidak boleh  digugurkan;"
@@ -25911,7 +25708,7 @@
         ]
     },
     {
-        "term": "guit",
+        "term": "guit; mengguit",
         "definitions": [
             {
                 "sense": "1",
@@ -26134,7 +25931,7 @@
         ]
     },
     {
-        "term": "gulat",
+        "term": "gulat; bergulat",
         "definitions": [
             {
                 "sense": "1",
@@ -26314,8 +26111,7 @@
         ]
     },
     {
-        "term": "gulung",
-        "roman_numeral": "I",
+        "term": "gulung I",
         "definitions": [
             {
                 "sense": "1",
@@ -26709,7 +26505,7 @@
         ]
     },
     {
-        "term": "guna",
+        "term": "guna I",
         "definitions": [
             {
                 "sense": "1",
@@ -26890,7 +26686,7 @@
         ]
     },
     {
-        "term": "gunawan",
+        "term": "gunawan sl",
         "definitions": [
             {
                 "sense": "1",
@@ -27008,8 +26804,7 @@
         ]
     },
     {
-        "term": "gundal",
-        "roman_numeral": "I",
+        "term": "gundal I",
         "definitions": [
             {
                 "sense": "1",
@@ -27316,14 +27111,9 @@
                     {
                         "sense": "1",
                         "definition": "memotong dgn gunting, memangkas (rambut dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "Id menipu, mencatut;     ~ hati  menyakitkan hati orang;  ~ dlm lipatan  prb membinasakan  sahabat (bangsa dll) sendiri;"
                     }
                 ]
@@ -28042,7 +27832,7 @@
         ]
     },
     {
-        "term": "gutik",
+        "term": "gutik; menggutik",
         "definitions": [
             {
                 "sense": "1",

@@ -259,7 +259,7 @@
         ]
     },
     {
-        "term": "dad",
+        "term": "dad (d d)",
         "definitions": [
             {
                 "sense": "1",
@@ -471,8 +471,7 @@
         ]
     },
     {
-        "term": "dadu",
-        "roman_numeral": "I",
+        "term": "dadu I",
         "definitions": [
             {
                 "sense": "1",
@@ -557,7 +556,7 @@
         ]
     },
     {
-        "term": "daerah",
+        "term": "daerah (daérah)",
         "definitions": [
             {
                 "sense": "1",
@@ -574,18 +573,13 @@
             {
                 "sense": "4",
                 "definition": "kawasan yg berada di bawah  sesuatu pengaruh (kekuasaan, keadaan, dll):  ~ darurat; ~ tentera;"
+            },
+            {
+                "sense": "5",
+                "definition": "ki skop, bidang:  menyimpan rahsia termasuk dlm ~ amanah;      ~ mata air  daerah yg mendapat (bekalan) air dr mata air;  ~  pedalaman  daerah yg jauh dr pantai (yg terletak di ceruk pelosok  atau di hulu negeri), hulu;  ~ seberang laut(an)  daerah jajahan;  ~  sungai  kawasan yg mendapat air dr sungai;  ~ takluk  tanah jajahan;  ~ tidak bertuan  daerah yg tidak dikuasai oleh mana-mana kerajaan  (pemerintahan);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki skop, bidang:  menyimpan rahsia termasuk dlm ~ amanah;      ~ mata air  daerah yg mendapat (bekalan) air dr mata air;  ~  pedalaman  daerah yg jauh dr pantai (yg terletak di ceruk pelosok  atau di hulu negeri), hulu;  ~ seberang laut(an)  daerah jajahan;  ~  sungai  kawasan yg mendapat air dr sungai;  ~ takluk  tanah jajahan;  ~ tidak bertuan  daerah yg tidak dikuasai oleh mana-mana kerajaan  (pemerintahan);"
-                    }
-                ]
-            },
             {
                 "sub_term": "sedaerah",
                 "definitions": [
@@ -726,8 +720,7 @@
         ]
     },
     {
-        "term": "dagang",
-        "roman_numeral": "I",
+        "term": "dagang I",
         "definitions": [
             {
                 "sense": "1",
@@ -980,8 +973,7 @@
         ]
     },
     {
-        "term": "dahaga",
-        "roman_numeral": "I",
+        "term": "dahaga I",
         "definitions": [
             {
                 "sense": "1",
@@ -1188,7 +1180,7 @@
         ]
     },
     {
-        "term": "dahar",
+        "term": "dahar; mendahar",
         "definitions": [
             {
                 "sense": "1",
@@ -1783,8 +1775,7 @@
         ]
     },
     {
-        "term": "daki",
-        "roman_numeral": "II",
+        "term": "daki II; mendaki",
         "definitions": [
             {
                 "sense": "1",
@@ -2113,27 +2104,15 @@
         ]
     },
     {
-        "term": "dal",
-        "roman_numeral": "I",
+        "term": "dal I",
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "huruf kelapan abjad Arab (mempunyai nilai empat);"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "huruf kelapan abjad Arab (mempunyai nilai empat);"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "huruf  kesembilan abjad Jawi."
-                    }
-                ]
+                "sense": "2",
+                "definition": "huruf  kesembilan abjad Jawi."
             }
         ]
     },
@@ -2171,22 +2150,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "Ar orang tengah, wakil penjual, ejen;  ~ surat khabar  wakil  penjual surat khabar;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Ar orang tengah, wakil penjual, ejen;  ~ surat khabar  wakil  penjual surat khabar;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "bayaran (biasanya peratusan) yg dibayar  kpd ejen, jurujual yg menjalankan perniagaan atau yg memberikan  perkhidmatan, komisen:  ~ antara 15% hingga 25% drpd harga  buku diberikan kpd penjual."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bayaran (biasanya peratusan) yg dibayar  kpd ejen, jurujual yg menjalankan perniagaan atau yg memberikan  perkhidmatan, komisen:  ~ antara 15% hingga 25% drpd harga  buku diberikan kpd penjual."
             }
         ]
     },
@@ -2223,8 +2191,7 @@
         ]
     },
     {
-        "term": "dalam",
-        "roman_numeral": "I",
+        "term": "dalam I",
         "definitions": [
             {
                 "sense": "1",
@@ -2241,30 +2208,29 @@
             {
                 "sense": "4",
                 "definition": "mengandungi makna yg tidak mudah difahami (bkn perkataan,  ungkapan, dsb), lebih drpd yg terzahir:  perkataan ini ~ maknanya;"
+            },
+            {
+                "sense": "5",
+                "definition": "tidak ceper (leper), jeluk (bkn pinggan atau piring);"
+            },
+            {
+                "sense": "6",
+                "definition": "bahagian  atau ruang (rumah, bilik, peti, almari, dll) yg lawannya luar:  diambilnya sepucuk surat dr ~ laci itu dan dihulurkannya kpd  saya; dia memasukkan bungkusan itu ke ~ keretanya;"
+            },
+            {
+                "sense": "7",
+                "definition": "yg  berkaitan dgn atau terbatas pd lingkungan sesuatu (spt negeri,  keluarga, dll) itu sendiri:  urusan ~ negeri; masalah ~ keluarga;"
+            },
+            {
+                "sense": "8",
+                "definition": "yg tidak nampak atau ketara dr luar:  penyakit ~;"
+            },
+            {
+                "sense": "9",
+                "definition": "yg dipakai  sebelum dipakai pakaian selengkapnya:  baju ~; seluar ~; ~  berselam, dangkal (cetek) berjingkat (bertimba)  prb berpada dgn  yg sedikit;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "6",
-                        "definition": "bahagian  atau ruang (rumah, bilik, peti, almari, dll) yg lawannya luar:  diambilnya sepucuk surat dr ~ laci itu dan dihulurkannya kpd  saya; dia memasukkan bungkusan itu ke ~ keretanya;"
-                    },
-                    {
-                        "sense": "7",
-                        "definition": "yg  berkaitan dgn atau terbatas pd lingkungan sesuatu (spt negeri,  keluarga, dll) itu sendiri:  urusan ~ negeri; masalah ~ keluarga;"
-                    },
-                    {
-                        "sense": "8",
-                        "definition": "yg tidak nampak atau ketara dr luar:  penyakit ~;"
-                    },
-                    {
-                        "sense": "9",
-                        "definition": "yg dipakai  sebelum dipakai pakaian selengkapnya:  baju ~; seluar ~; ~  berselam, dangkal (cetek) berjingkat (bertimba)  prb berpada dgn  yg sedikit;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sedalam",
                 "definitions": [
@@ -2280,14 +2246,9 @@
                     {
                         "sense": "1",
                         "definition": "seberapa dalam yg mungkin:  menggali ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "dgn seberapa teliti atau terperinci:  perlu difikirkan ~ cadangan  yg dikemukakan itu sebelum dibuat sesuatu keputusan;"
                     }
                 ]
@@ -2311,14 +2272,9 @@
                     {
                         "sense": "2",
                         "definition": "menjadi kukuh dan tidak mudah luput (bkn  perasaan, kepercayaan terhadap sesuatu dll), menjadi berat,  melarat (bkn penyakit dll):  perasaan cintanya terhadap Bibah  semakin ~; kebencian yg ~; tradisi lama di kampungku terlalu ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "sampai ke peringkat yg terperinci (bkn kajian dsb), luas dan  teliti (meliputi banyak aspek):  kajiannya tentang sastera Melayu  kurang ~;"
                     }
                 ]
@@ -2405,8 +2361,7 @@
         ]
     },
     {
-        "term": "dalam",
-        "roman_numeral": "II",
+        "term": "dalam II",
         "definitions": [
             {
                 "sense": "1",
@@ -2738,8 +2693,7 @@
         ]
     },
     {
-        "term": "dam",
-        "roman_numeral": "I",
+        "term": "dam I",
         "definitions": [
             {
                 "sense": "1",
@@ -2826,14 +2780,9 @@
                     {
                         "sense": "1",
                         "definition": "membaikkan dua pihak  (negara dsb) dgn menamatkan atau menyelesaikan perselisihan  dsb, mewujudkan (memulihkan) perhubungan berbaik-baik antara  dua atau beberapa pihak (negara dsb) yg bermusuhan (berperang,  bertelingkah, berselisihan, dsb):  Amerika Syarikat dan Britain  berharap agar negeri Jepun berusaha ~ Indonesia dgn Malaysia;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "membincangkan atau merundingkan utk mencapai persetujuan:  sebelum menduduki rumah, lebih baik kita damaikan dahulu  tentang sewanya;"
                     }
                 ]
@@ -2932,8 +2881,7 @@
         ]
     },
     {
-        "term": "damar",
-        "roman_numeral": "I",
+        "term": "damar I",
         "definitions": [
             {
                 "sense": "1",
@@ -3276,8 +3224,7 @@
         ]
     },
     {
-        "term": "damping",
-        "roman_numeral": "I",
+        "term": "damping I",
         "definitions": [
             {
                 "sense": "1",
@@ -3435,8 +3382,7 @@
         ]
     },
     {
-        "term": "dan",
-        "roman_numeral": "I",
+        "term": "dan I",
         "definitions": [
             {
                 "sense": "1",
@@ -3631,8 +3577,7 @@
         ]
     },
     {
-        "term": "dandan",
-        "roman_numeral": "III",
+        "term": "dandan III",
         "definitions": [
             {
                 "sense": "1",
@@ -3645,8 +3590,7 @@
         ]
     },
     {
-        "term": "dandang",
-        "roman_numeral": "I",
+        "term": "dandang I",
         "definitions": [
             {
                 "sense": "1",
@@ -3688,8 +3632,7 @@
         ]
     },
     {
-        "term": "dandi",
-        "roman_numeral": "I",
+        "term": "dandi I",
         "definitions": [
             {
                 "sense": "1",
@@ -3826,8 +3769,7 @@
         ]
     },
     {
-        "term": "dangkal",
-        "roman_numeral": "I",
+        "term": "dangkal I",
         "definitions": [
             {
                 "sense": "1",
@@ -3864,8 +3806,7 @@
         ]
     },
     {
-        "term": "dangkal",
-        "roman_numeral": "II",
+        "term": "dangkal II",
         "origin": "Jk",
         "definitions": [
             {
@@ -4341,8 +4282,7 @@
         ]
     },
     {
-        "term": "dara",
-        "roman_numeral": "I",
+        "term": "dara I",
         "definitions": [
             {
                 "sense": "1",
@@ -4431,8 +4371,7 @@
         ]
     },
     {
-        "term": "darah",
-        "roman_numeral": "I",
+        "term": "darah I",
         "definitions": [
             {
                 "sense": "1",
@@ -4552,7 +4491,7 @@
         ]
     },
     {
-        "term": "darah",
+        "term": "darah daging",
         "definitions": [
             {
                 "sense": "1",
@@ -4591,7 +4530,7 @@
         ]
     },
     {
-        "term": "daras",
+        "term": "daras; mendaras",
         "definitions": [
             {
                 "sense": "1",
@@ -4624,8 +4563,7 @@
         ]
     },
     {
-        "term": "darat",
-        "roman_numeral": "I",
+        "term": "darat I",
         "definitions": [
             {
                 "sense": "1",
@@ -4742,18 +4680,13 @@
             {
                 "sense": "4",
                 "definition": "sendi kata  yg menerangkan (menyatakan) titik atau pusat tumpuan permulaan  sesuatu kegiatan (pergerakan dll):  pasukan itu melancarkan  serangan ~ kawasan pergunungan; usaha membina pengetahuan  tentang bahasa perlu dimulakan ~ peringkat sekolah rendah lagi;"
+            },
+            {
+                "sense": "5",
+                "definition": "sendi nama yg menyatakan (menunjukkan) tempat asal  seseorang (sesuatu barang dll):  dia berasal ~ Medan; surat ~  London; dia mengangkat air ~ perigi ke dapur;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sendi nama yg menyatakan (menunjukkan) tempat asal  seseorang (sesuatu barang dll):  dia berasal ~ Medan; surat ~  London; dia mengangkat air ~ perigi ke dapur;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sedari",
                 "definitions": [
@@ -4805,21 +4738,18 @@
             {
                 "sense": "5",
                 "definition": "sendi kata yg digunakan sewaktu  menyatakan sesuatu perubahan (perkembangan dsb):  harga daging  telah naik ~ RM8.00 sekilo menjadi RM9.50 sekilo; bilangan  pelajar yg lulus merosot ~ 68% tahun lalu menjadi 66% tahun ini;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "6.",
-                "definitions": [
-                    {
-                        "sense": "7",
-                        "definition": "sendi kata yg menyatakan  (menunjukkan) punca atau asas dsb sesuatu tindakan (kesimpulan  dll):  ~ apa yg saya dengar, pemandu lori itu yg patut  dipersalahkan; masjid itu dibina ~ desakan penduduk di kawasan  itu;"
-                    },
-                    {
-                        "sense": "8",
-                        "definition": "sendi kata yg memperkaitkan atau memperhubungkan  sesuatu atau sesuatu bahagian dgn sesuatu keseluruhan atau  jumlah dsb:  satu ~ sebab-sebab; hanya tiga orang ~ sejumlah 40  orang pelajar telah gagal dlm peperiksaan itu; sepertiga ~  keuntungan yg diperoleh dijadikan modal."
-                    }
-                ]
+                "sense": "6",
+                "definition": "sendi kata  yg  digunakan sebelum menyatakan atau  menyebutkan unsur (akibat dll) yg hendak dielakkan (dicegah,  dihindar, dsb):  mempertahankan diri ~ serangan musuh;  menjauhkan diri ~ bahaya; langkah-langkah utk mengelakkan  hal-hal demikian ~ berlaku lagi;"
+            },
+            {
+                "sense": "7",
+                "definition": "sendi kata yg menyatakan  (menunjukkan) punca atau asas dsb sesuatu tindakan (kesimpulan  dll):  ~ apa yg saya dengar, pemandu lori itu yg patut  dipersalahkan; masjid itu dibina ~ desakan penduduk di kawasan  itu;"
+            },
+            {
+                "sense": "8",
+                "definition": "sendi kata yg memperkaitkan atau memperhubungkan  sesuatu atau sesuatu bahagian dgn sesuatu keseluruhan atau  jumlah dsb:  satu ~ sebab-sebab; hanya tiga orang ~ sejumlah 40  orang pelajar telah gagal dlm peperiksaan itu; sepertiga ~  keuntungan yg diperoleh dijadikan modal."
             }
         ]
     },
@@ -4865,31 +4795,25 @@
             {
                 "sense": "1",
                 "definition": "tingkatan atau taraf kedudukan dlm masyarakat (sebagaimana  yg biasanya ditentukan atau dipengaruhi oleh asal keturunan,  kekayaan dll), tingkatan kedudukan (dlm pengertian yg luas),  martabat:  ayahnya masih tetap mempertahankan ~ keturunannya;"
+            },
+            {
+                "sense": "2",
+                "definition": "ark taraf (besar kecilnya dll), darjah, tingkatan:  denda yg  dikenakan adalah mengikut ~ atau takrif kesalahan yg dilakukan;"
+            },
+            {
+                "sense": "3",
+                "definition": "Id darjah:  sekolah yg sama ~nya dgn S.M.A;"
+            },
+            {
+                "sense": "4",
+                "definition": "Id unit ukuran  (sudut, suhu):  sudut 45 ~; 15 ~ C;"
+            },
+            {
+                "sense": "5",
+                "definition": "Id gelaran kpd pelajar yg  lulus dlm peperiksaan peringkat universiti;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ark taraf (besar kecilnya dll), darjah, tingkatan:  denda yg  dikenakan adalah mengikut ~ atau takrif kesalahan yg dilakukan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "Id unit ukuran  (sudut, suhu):  sudut 45 ~; 15 ~ C;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "Id gelaran kpd pelajar yg  lulus dlm peperiksaan peringkat universiti;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sedarjat",
                 "definitions": [
@@ -4918,14 +4842,9 @@
                     {
                         "sense": "1",
                         "definition": "menjadikan berdarjat (bertaraf, berkedudukan);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "membaikkan (menaikkan) mutu atau keadaan;  ~ baka  membaikkan mutu baka;"
                     }
                 ]
@@ -4979,7 +4898,7 @@
         ]
     },
     {
-        "term": "darmawisata",
+        "term": "darmawisata ",
         "origin": "Id",
         "definitions": [
             {
@@ -5208,8 +5127,7 @@
         ]
     },
     {
-        "term": "das",
-        "roman_numeral": "I",
+        "term": "das I",
         "definitions": [
             {
                 "sense": "1",
@@ -5521,12 +5439,11 @@
                     {
                         "sense": "2",
                         "definition": "(yg) datang dr tempat lain (tidak asli):  penyesuaian sosioekonomi  dicorakkan bukan sahaja oleh ciri-ciri yg didatangkan atau ~,  tetapi oleh ciri-ciri yg sudah sedia ada; orang ~  orang yg datang  atau berasal dr negeri lain (bukan bumiputera atau penduduk asli);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "ark terbitan;  kata-kata ~  kata-kata terbitan;"
+                    },
                     {
                         "sense": "4",
                         "definition": "akan datang:  kalaulah perjanjian pd masa ~ dapat mengurangkan pengeluaran  senjata;    pucuk dicita ulam ~  prb yg diperoleh lebih baik drpd yg  dikehendaki;"
@@ -5569,14 +5486,9 @@
                     {
                         "sense": "1",
                         "definition": "membawa (memasukkan, memanggil) dr tempat  lain:  air tambahan ini didatangkan dr kolam dan terusan air;  pihak universiti akan ~ beberapa orang pensyarah dr luar negeri;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyebabkan  (mengakibatkan,  menjadikan)  berlakunya  (wujudnya, terdapatnya, dll) sesuatu, menimbulkan:  demokrasi di  Malaysia ini akan ~ kebahagiaan dan kesejahteraan kpd negara  kita; moga-moga usaha ini akan ~ faedah kpd kita bersama;  peperangan akan ~ berbagai-bagai keburukan semata-mata;"
                     }
                 ]
@@ -5760,8 +5672,7 @@
         ]
     },
     {
-        "term": "datu",
-        "roman_numeral": "I",
+        "term": "datu I",
         "definitions": [
             {
                 "sense": "1",
@@ -5803,8 +5714,7 @@
         ]
     },
     {
-        "term": "datuk",
-        "roman_numeral": "I",
+        "term": "datuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -5848,8 +5758,7 @@
         ]
     },
     {
-        "term": "Datuk",
-        "roman_numeral": "II",
+        "term": "Datuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -5977,8 +5886,7 @@
         ]
     },
     {
-        "term": "daun",
-        "roman_numeral": "I",
+        "term": "daun I",
         "definitions": [
             {
                 "sense": "1",
@@ -6165,8 +6073,7 @@
         ]
     },
     {
-        "term": "daya",
-        "roman_numeral": "I",
+        "term": "daya I",
         "definitions": [
             {
                 "sense": "1",
@@ -6396,7 +6303,7 @@
         ]
     },
     {
-        "term": "daya",
+        "term": "daya upaya",
         "definitions": [
             {
                 "sense": "1",
@@ -6429,7 +6336,7 @@
         ]
     },
     {
-        "term": "dayu",
+        "term": "dayu; mendayu",
         "definitions": [
             {
                 "sense": "1",
@@ -6819,7 +6726,7 @@
         ]
     },
     {
-        "term": "debek",
+        "term": "debek (débék)",
         "definitions": [
             {
                 "sense": "1",
@@ -6892,7 +6799,7 @@
         ]
     },
     {
-        "term": "debit",
+        "term": "debit (débit)",
         "definitions": [
             {
                 "sense": "1",
@@ -7383,7 +7290,7 @@
         ]
     },
     {
-        "term": "dedah",
+        "term": "dedah; mendedahkan",
         "definitions": [
             {
                 "sense": "1",
@@ -7713,7 +7620,7 @@
         ]
     },
     {
-        "term": "dedes",
+        "term": "dedes (dédés)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -7741,7 +7648,7 @@
         ]
     },
     {
-        "term": "dedes",
+        "term": "dedes (dédés)  II  Id",
         "definitions": [
             {
                 "sense": "1",
@@ -7754,7 +7661,7 @@
         ]
     },
     {
-        "term": "dedikasi",
+        "term": "dedikasi (dédikasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -7796,7 +7703,7 @@
         ]
     },
     {
-        "term": "deduksi",
+        "term": "deduksi (déduksi)",
         "definitions": [
             {
                 "sense": "1",
@@ -8296,7 +8203,7 @@
         ]
     },
     {
-        "term": "dek",
+        "term": "dek (dék)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -8448,7 +8355,7 @@
         ]
     },
     {
-        "term": "dekam",
+        "term": "dekam; berdekam, mendekam",
         "definitions": [
             {
                 "sense": "1",
@@ -8809,7 +8716,7 @@
         ]
     },
     {
-        "term": "deking",
+        "term": "deking (déking) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -8897,7 +8804,7 @@
         ]
     },
     {
-        "term": "deklarasi",
+        "term": "deklarasi (déklarasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -8919,7 +8826,7 @@
         ]
     },
     {
-        "term": "dekor",
+        "term": "dekor (dékor)",
         "definitions": [
             {
                 "sense": "1",
@@ -8932,7 +8839,7 @@
         ]
     },
     {
-        "term": "dekorasi",
+        "term": "dekorasi (dékorasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -9181,7 +9088,7 @@
         ]
     },
     {
-        "term": "delegasi",
+        "term": "delegasi (délégasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -9190,18 +9097,13 @@
             {
                 "sense": "2",
                 "definition": "tindakan  mengamanahkan  atau  menurunkan  hak  (kuasa,  tugas,  tanggungjawab, dsb) kpd seseorang lain (mis kpd penolong dsb);"
+            },
+            {
+                "sense": "3",
+                "definition": "Id pemindahan wang atau hutang kpd orang lain;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Id pemindahan wang atau hutang kpd orang lain;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mendelegasikan",
                 "definitions": [
@@ -9644,22 +9546,21 @@
             {
                 "sense": "1",
                 "definition": "sebaik sahaja (didengar, dilihat, dll), pd ketika:  dia jatuh  pengsan ~ didengarnya berita kemalangan yg menimpa anaknya;"
+            },
+            {
+                "sense": "2",
+                "definition": "dengan, atas (nama Tuhan dll, diucapkan sewaktu bersumpah,  berikrar, dsb);  ~ Allah, saya berkata benar;"
+            },
+            {
+                "sense": "3",
+                "definition": "kerana, untuk:  ~  kepentingan  dan  kebajikan  rakyat,  maka  berbagai-bagai  rancangan pembangunan yg besar dijalankan;"
+            },
+            {
+                "sense": "4",
+                "definition": "yg satu  (seorang) mengikuti yg lain, lepas (satu atau seorang diikuti pula  oleh yg lainnya);  dilihat dan ditiliknya gambar itu, satu ~ satu;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "kerana, untuk:  ~  kepentingan  dan  kebajikan  rakyat,  maka  berbagai-bagai  rancangan pembangunan yg besar dijalankan;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "yg satu  (seorang) mengikuti yg lain, lepas (satu atau seorang diikuti pula  oleh yg lainnya);  dilihat dan ditiliknya gambar itu, satu ~ satu;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berdemi",
                 "definitions": [
@@ -9824,7 +9725,7 @@
         ]
     },
     {
-        "term": "demokrasi",
+        "term": "demokrasi (démokrasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -9879,7 +9780,7 @@
         ]
     },
     {
-        "term": "demokratik",
+        "term": "demokratik (démokratik)",
         "definitions": [
             {
                 "sense": "1",
@@ -9921,7 +9822,7 @@
         ]
     },
     {
-        "term": "demonstrasi",
+        "term": "demonstrasi (démonstrasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -9990,8 +9891,7 @@
         ]
     },
     {
-        "term": "dempak",
-        "roman_numeral": "I",
+        "term": "dempak I",
         "definitions": [
             {
                 "sense": "1",
@@ -10476,8 +10376,7 @@
         ]
     },
     {
-        "term": "dendang",
-        "roman_numeral": "II",
+        "term": "dendang II",
         "definitions": [
             {
                 "sense": "1",
@@ -10558,7 +10457,7 @@
         ]
     },
     {
-        "term": "dendeng",
+        "term": "dendeng (déndéng)  II; mendendeng",
         "definitions": [
             {
                 "sense": "1",
@@ -10638,8 +10537,7 @@
         ]
     },
     {
-        "term": "dengan",
-        "roman_numeral": "I",
+        "term": "dengan I",
         "definitions": [
             {
                 "sense": "1",
@@ -10680,8 +10578,7 @@
         ]
     },
     {
-        "term": "dengan",
-        "roman_numeral": "II",
+        "term": "dengan II",
         "definitions": [
             {
                 "sense": "1",
@@ -10698,7 +10595,7 @@
         ]
     },
     {
-        "term": "dengap",
+        "term": "dengap; berdengap",
         "definitions": [
             {
                 "sense": "1",
@@ -10992,7 +10889,7 @@
         ]
     },
     {
-        "term": "dengkel",
+        "term": "dengkel (déngkél)",
         "definitions": [
             {
                 "sense": "1",
@@ -11116,7 +11013,7 @@
         ]
     },
     {
-        "term": "dengkol",
+        "term": "dengkol (déngkol)",
         "definitions": [
             {
                 "sense": "1",
@@ -11346,14 +11243,9 @@
                     {
                         "sense": "1",
                         "definition": "mengeluarkan bunyi dengung (bunyi  bergema):  gong yg dipalu itu pun ~ bunyi yg memekakkan telinga;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  mendengung-dengungkan  ki  menghebah-hebahkan,  menyebarkan  (berita):  pihak  musuh  sering  mendengung- dengungkan keburukan yg berlaku dlm negeri kita;"
                     }
                 ]
@@ -11462,7 +11354,7 @@
         ]
     },
     {
-        "term": "denotasi",
+        "term": "denotasi (dénotasi) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -11797,8 +11689,7 @@
         ]
     },
     {
-        "term": "depak",
-        "roman_numeral": "I",
+        "term": "depak I ;  mendepak",
         "origin": "Jk",
         "definitions": [
             {
@@ -11962,7 +11853,7 @@
         ]
     },
     {
-        "term": "depang",
+        "term": "depang; mendepang",
         "definitions": [
             {
                 "sense": "1",
@@ -12022,7 +11913,7 @@
         ]
     },
     {
-        "term": "departemen",
+        "term": "departemen (départemén) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -12089,7 +11980,7 @@
         ]
     },
     {
-        "term": "depoh",
+        "term": "depoh (dépoh)",
         "definitions": [
             {
                 "sense": "1",
@@ -12111,7 +12002,7 @@
         ]
     },
     {
-        "term": "deposit",
+        "term": "deposit (déposit)",
         "definitions": [
             {
                 "sense": "1",
@@ -12180,8 +12071,7 @@
         ]
     },
     {
-        "term": "depu",
-        "roman_numeral": "I",
+        "term": "depu I",
         "definitions": [
             {
                 "sense": "1",
@@ -12363,8 +12253,7 @@
         ]
     },
     {
-        "term": "derai",
-        "roman_numeral": "II",
+        "term": "derai II; berderai, berderai-derai",
         "definitions": [
             {
                 "sense": "1",
@@ -12373,22 +12262,21 @@
             {
                 "sense": "2",
                 "definition": "dgn banyak dan  tidak menentu (bkn buah, daun, dll yg gugur atau jatuh ke tanah);"
+            },
+            {
+                "sense": "3",
+                "definition": "berduyun-duyun dgn tidak teratur, berderet-deret tetapi tidak  dgn teratur (bkn orang ramai yg meninggalkan sesuatu tempat):  orang berderai-derai keluar dr gereja;"
+            },
+            {
+                "sense": "4",
+                "definition": "berbiji-biji, berbutir- butir, hancur atau pecah halus-halus (bkn tanah dll):  buah bidara  dlm bakul itu jatuh ~ ke tanah; ketul-ketul tanah itu hancur ~ dlm  genggamannya;"
+            },
+            {
+                "sense": "5",
+                "definition": "(jatuh) bertitik-titik (bkn air mata dll), menitis  (titik demi titik):  bila tersentuh, air yg bermanik-manik itu jatuh ~  ke bumi; kokok berderai-derai, ekor bergelumang tahi  prb orang  yg bercakap besar sedang keluarganya melarat;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "berbiji-biji, berbutir- butir, hancur atau pecah halus-halus (bkn tanah dll):  buah bidara  dlm bakul itu jatuh ~ ke tanah; ketul-ketul tanah itu hancur ~ dlm  genggamannya;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "(jatuh) bertitik-titik (bkn air mata dll), menitis  (titik demi titik):  bila tersentuh, air yg bermanik-manik itu jatuh ~  ke bumi; kokok berderai-derai, ekor bergelumang tahi  prb orang  yg bercakap besar sedang keluarganya melarat;"
-                    }
-                ]
-            },
             {
                 "sub_term": "deraian",
                 "definitions": [
@@ -12575,8 +12463,7 @@
         ]
     },
     {
-        "term": "derap",
-        "roman_numeral": "I",
+        "term": "derap I",
         "definitions": [
             {
                 "sense": "1",
@@ -12634,8 +12521,7 @@
         ]
     },
     {
-        "term": "deras",
-        "roman_numeral": "I",
+        "term": "deras I",
         "definitions": [
             {
                 "sense": "1",
@@ -12700,14 +12586,9 @@
                     {
                         "sense": "1",
                         "definition": "perihal deras, kelajuan, kecepatan:  oleh sebab ~ Tun  Hamzah mengamuk, lalu pecahlah perang orang-orang Pasai itu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "kadar pergerakan (dlm sesuatu jangka waktu), kelajuan,  kecepatan:  lori itu dipandunya dgn ~ 60 kilometer sejam;"
                     }
                 ]
@@ -12745,8 +12626,7 @@
         ]
     },
     {
-        "term": "deras",
-        "roman_numeral": "II",
+        "term": "deras II; menderas",
         "definitions": [
             {
                 "sense": "1",
@@ -12897,7 +12777,7 @@
         ]
     },
     {
-        "term": "deret",
+        "term": "deret (dérét)",
         "definitions": [
             {
                 "sense": "1",
@@ -13177,8 +13057,7 @@
         ]
     },
     {
-        "term": "dering",
-        "roman_numeral": "I",
+        "term": "dering I",
         "definitions": [
             {
                 "sense": "1",
@@ -13774,7 +13653,7 @@
         ]
     },
     {
-        "term": "desa",
+        "term": "desa (désa)",
         "definitions": [
             {
                 "sense": "1",
@@ -14139,7 +14018,7 @@
         ]
     },
     {
-        "term": "desersi",
+        "term": "desersi (désérsi) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -14882,7 +14761,7 @@
         ]
     },
     {
-        "term": "dewa",
+        "term": "dewa (déwa)",
         "definitions": [
             {
                 "sense": "1",
@@ -14946,7 +14825,7 @@
         ]
     },
     {
-        "term": "dewan",
+        "term": "dewan (déwan)",
         "definitions": [
             {
                 "sense": "1",
@@ -14981,7 +14860,7 @@
         ]
     },
     {
-        "term": "dewani",
+        "term": "dewani (déwani) ark",
         "definitions": [
             {
                 "sense": "1",
@@ -14994,7 +14873,7 @@
         ]
     },
     {
-        "term": "dewasa",
+        "term": "dewasa (déwasa)",
         "definitions": [
             {
                 "sense": "1",
@@ -15061,7 +14940,7 @@
         ]
     },
     {
-        "term": "dewata",
+        "term": "dewata (déwata) sl",
         "definitions": [
             {
                 "sense": "1",
@@ -15103,7 +14982,7 @@
         ]
     },
     {
-        "term": "dewi",
+        "term": "dewi (déwi)",
         "definitions": [
             {
                 "sense": "1",
@@ -15136,8 +15015,7 @@
         ]
     },
     {
-        "term": "di",
-        "roman_numeral": "I",
+        "term": "di I",
         "definitions": [
             {
                 "sense": "1",
@@ -15409,8 +15287,7 @@
         ]
     },
     {
-        "term": "diam",
-        "roman_numeral": "I",
+        "term": "diam I",
         "definitions": [
             {
                 "sense": "1",
@@ -15822,7 +15699,7 @@
         ]
     },
     {
-        "term": "didih",
+        "term": "didih; mendidih; berdidih ark",
         "definitions": [
             {
                 "sense": "1",
@@ -15844,14 +15721,9 @@
                     {
                         "sense": "1",
                         "definition": "memasak (memanaskan) air dll hingga mendidih;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menjadikan  berkobar-kobar  (semangat):  keberaniannya  menentang kezaliman itu ~ darah keperwiraan dlm jasad  bangsanya;"
                     }
                 ]
@@ -15985,22 +15857,15 @@
             {
                 "sense": "3",
                 "definition": "=  komedi ~  ark sj wayang patung;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ark pertunjukan tari-menari dan muzik."
-                    }
-                ]
+                "sense": "4",
+                "definition": "ark pertunjukan tari-menari dan muzik."
             }
         ]
     },
     {
-        "term": "diesel",
+        "term": "diesel (disél)",
         "definitions": [
             {
                 "sense": "1",
@@ -16223,23 +16088,14 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "ucapan (doa) utk memuji-muji Rasul, biasanya dgn berlagu  (lazimnya diadakan ketika Maulud Nabi);"
+            },
+            {
+                "sense": "2",
+                "definition": "lagu atau nyanyian  dgn berpantun yg dilakukan beramai-ramai;  ~ barat  Kl lagu  (nyanyian) beramai-ramai sambil berbalas-balas pantun;  ~ jelotah  sj tarian berserta dgn dikir beramai-ramai dlm upacara mengirik  padi selepas menuai;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ucapan (doa) utk memuji-muji Rasul, biasanya dgn berlagu  (lazimnya diadakan ketika Maulud Nabi);"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "lagu atau nyanyian  dgn berpantun yg dilakukan beramai-ramai;  ~ barat  Kl lagu  (nyanyian) beramai-ramai sambil berbalas-balas pantun;  ~ jelotah  sj tarian berserta dgn dikir beramai-ramai dlm upacara mengirik  padi selepas menuai;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berdikir",
                 "definitions": [
@@ -16557,7 +16413,7 @@
         ]
     },
     {
-        "term": "dimensi",
+        "term": "dimensi (diménsi)",
         "definitions": [
             {
                 "sense": "1",
@@ -16745,7 +16601,7 @@
         ]
     },
     {
-        "term": "dinar",
+        "term": "dinar sl",
         "definitions": [
             {
                 "sense": "1",
@@ -16764,26 +16620,18 @@
             {
                 "sense": "1",
                 "definition": "jabatan (kerajaan yg mengurus tugas tertentu):  ~ kehaiwanan;"
-            }
-        ],
-        "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sesuatu yg bersangkutan dgn jabatan:  pakaian ~; rahsia ~;  ikatan ~  perjanjian utk bekerja dgn kerajaan apabila tamat belajar;"
-                    }
-                ]
             },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "sedang  bertugas (bekerja)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sesuatu yg bersangkutan dgn jabatan:  pakaian ~; rahsia ~;  ikatan ~  perjanjian utk bekerja dgn kerajaan apabila tamat belajar;"
+            },
+            {
+                "sense": "3",
+                "definition": "masa berkhidmat (dgn kerajaan, syarikat, dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "sedang  bertugas (bekerja)."
             }
         ]
     },
@@ -16927,18 +16775,13 @@
             {
                 "sense": "4",
                 "definition": "ki basi (bkn berita, cerita, dsb), kasip;"
+            },
+            {
+                "sense": "5",
+                "definition": "menghilang (bkn kemarahan), reda;  perang ~  perselisihan dgn  tidak menggunakan kekerasan senjata;     ~ hati  tidak riang (berminat, bersemangat, dll);  ~ kepala  berfikiran  tenang dan waras;  ~-~ panas  sekejap dingin sekejap panas;  ~  tangan  selalu berhasil membuat pekerjaan (spt bertanam,  mengubat, dll);  nasi tak ~ pinggan tak retak  prb perihal cermatnya  melakukan sesuatu;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "menghilang (bkn kemarahan), reda;  perang ~  perselisihan dgn  tidak menggunakan kekerasan senjata;     ~ hati  tidak riang (berminat, bersemangat, dll);  ~ kepala  berfikiran  tenang dan waras;  ~-~ panas  sekejap dingin sekejap panas;  ~  tangan  selalu berhasil membuat pekerjaan (spt bertanam,  mengubat, dll);  nasi tak ~ pinggan tak retak  prb perihal cermatnya  melakukan sesuatu;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mendingin",
                 "definitions": [
@@ -17357,8 +17200,7 @@
         ]
     },
     {
-        "term": "diri",
-        "roman_numeral": "I",
+        "term": "diri I",
         "definitions": [
             {
                 "sense": "1",
@@ -17386,8 +17228,7 @@
         ]
     },
     {
-        "term": "diri",
-        "roman_numeral": "II",
+        "term": "diri II; berdiri",
         "definitions": [
             {
                 "sense": "1",
@@ -18443,7 +18284,7 @@
         ]
     },
     {
-        "term": "dobrak",
+        "term": "dobrak ;  mendobrak",
         "origin": "Jk",
         "definitions": [
             {
@@ -18693,8 +18534,7 @@
         ]
     },
     {
-        "term": "dogol",
-        "roman_numeral": "I",
+        "term": "dogol I",
         "definitions": [
             {
                 "sense": "1",
@@ -19220,7 +19060,7 @@
         ]
     },
     {
-        "term": "domestik",
+        "term": "domestik (doméstik)",
         "definitions": [
             {
                 "sense": "1",
@@ -19291,17 +19131,10 @@
             {
                 "sense": "1",
                 "definition": "bongkah leper, berbentuk segi empat bujur yg permukaannya  ditandai dgn titik-titik dr 1 hingga 6 spt pd permukaan dadu;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj permainan yg menggunakan 28 domino."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj permainan yg menggunakan 28 domino."
             }
         ]
     },
@@ -19552,7 +19385,7 @@
         ]
     },
     {
-        "term": "dongak",
+        "term": "dongak; mendongak, terdongak",
         "definitions": [
             {
                 "sense": "1",
@@ -19586,7 +19419,7 @@
         ]
     },
     {
-        "term": "dongeng",
+        "term": "dongeng (dongéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -19699,8 +19532,7 @@
         ]
     },
     {
-        "term": "dongkol",
-        "roman_numeral": "I",
+        "term": "dongkol I",
         "definitions": [
             {
                 "sense": "1",
@@ -19916,7 +19748,7 @@
         ]
     },
     {
-        "term": "dorong",
+        "term": "dorong; mendorong",
         "definitions": [
             {
                 "sense": "1",
@@ -20029,8 +19861,7 @@
         ]
     },
     {
-        "term": "dos",
-        "roman_numeral": "I",
+        "term": "dos I",
         "origin": "IB",
         "definitions": [
             {
@@ -20100,7 +19931,7 @@
         ]
     },
     {
-        "term": "dosej",
+        "term": "dosej (doséj)",
         "definitions": [
             {
                 "sense": "1",
@@ -20510,7 +20341,7 @@
         ]
     },
     {
-        "term": "dramatisasi",
+        "term": "dramatisasi; mendramatisasikan",
         "definitions": [
             {
                 "sense": "1",
@@ -20703,14 +20534,9 @@
                     {
                         "sense": "1",
                         "definition": "=  berdua-dua  tiap-tiap kali dua (orang dll), dlm  kelompok-kelompok dua:  ia duduk di atas kerusi dikipas ~ orang;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  dua-duanya  dua kesemuanya:  ~(nya) sama sahaja;"
                     }
                 ]
@@ -21062,34 +20888,33 @@
             {
                 "sense": "3",
                 "definition": "terletak, berada:  sebuah lampu yg ~nya 3 meter dr  lantai; rumah kediaman bapa Busu ~nya di hujung suatu lorong;"
+            },
+            {
+                "sense": "4",
+                "definition": "=  kedudukan  keadaan yg sebenarnya (bkn sesuatu hal dll):  pekerjaan berternak kuda lain ~nya dgn bercucuk tanam;"
+            },
+            {
+                "sense": "5",
+                "definition": "tinggal (di), diam (di), menetap, berumah:  maka ~lah dia di  Sungai Baharu menjadi khatib; sudah bertahun-tahun mereka ~ di  rumah itu;"
+            },
+            {
+                "sense": "6",
+                "definition": "terus berada (di sesuatu tempat), tinggal:  malam itu  selepas makan, Bakar ~ di biliknya spt biasa;"
+            },
+            {
+                "sense": "7",
+                "definition": "berkahwin,  bernikah, bersatu:  Tun Teja sudahlah bertunangan dgn raja  Pahang dan hampirlah akan ~;"
+            },
+            {
+                "sense": "8",
+                "definition": "hampas (kopi, teh, dll);"
+            },
+            {
+                "sense": "9",
+                "definition": "="
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "tinggal (di), diam (di), menetap, berumah:  maka ~lah dia di  Sungai Baharu menjadi khatib; sudah bertahun-tahun mereka ~ di  rumah itu;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "terus berada (di sesuatu tempat), tinggal:  malam itu  selepas makan, Bakar ~ di biliknya spt biasa;"
-                    },
-                    {
-                        "sense": "7",
-                        "definition": "berkahwin,  bernikah, bersatu:  Tun Teja sudahlah bertunangan dgn raja  Pahang dan hampirlah akan ~;"
-                    },
-                    {
-                        "sense": "8",
-                        "definition": "hampas (kopi, teh, dll);"
-                    },
-                    {
-                        "sense": "9",
-                        "definition": "="
-                    }
-                ]
-            },
             {
                 "sub_term": "terduduk",
                 "definitions": [
@@ -21288,7 +21113,7 @@
         ]
     },
     {
-        "term": "dudut",
+        "term": "dudut; mendudut",
         "definitions": [
             {
                 "sense": "1",
@@ -21319,14 +21144,9 @@
                     {
                         "sense": "1",
                         "definition": "berpadu suara (dua orang) menyanyikan sebuah lagu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "berdua memainkan sebuah lagu."
                     }
                 ]
@@ -21334,8 +21154,7 @@
         ]
     },
     {
-        "term": "duga",
-        "roman_numeral": "I",
+        "term": "duga I",
         "definitions": [
             {
                 "sense": "1",
@@ -21972,7 +21791,7 @@
         ]
     },
     {
-        "term": "dulang",
+        "term": "dulang I",
         "definitions": [
             {
                 "sense": "1",
@@ -22294,22 +22113,21 @@
             {
                 "sense": "2",
                 "definition": "perihal hidup,  kehidupan:  ~ hari ini penuh dgn penindasan dan kepura-puraan;"
+            },
+            {
+                "sense": "3",
+                "definition": "segala manusia yg hidup di bumi:  seluruh ~ turut bersedih atas  kematian Presiden John. F. Kennedy;"
+            },
+            {
+                "sense": "4",
+                "definition": "bidang, lapangan, alam:   dlm ~ perniagaan orang Melayu masih jauh ketinggalan;"
+            },
+            {
+                "sense": "5",
+                "definition": "bahagian dunia (negara dll), masyarakat:  ~ sebelah sini masih lagi  dlm keadaan huru-hara; ~ barat;     ~ akhirat  sepanjang masa, di dunia dan di akhirat:  ~ kanak-kanak  perihal hidup kanak-kanak:  ~ luar  masyarakat (negeri dll) luar:  ~  ramai  masyarakat ramai (umum):  ~ sukan  lapangan sukan;    ~ diadang, kikir diperbuat, ~ diadang, saku dijahit  prb bersuka- suka mahu, tetapi mengeluarkan wang enggan;  memakai ~  berganti-ganti, yg hidup sesarkan mati, dgn mati itu bernanti- nanti  prb baka yg turun-temurun tidak akan putus;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "bidang, lapangan, alam:   dlm ~ perniagaan orang Melayu masih jauh ketinggalan;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "bahagian dunia (negara dll), masyarakat:  ~ sebelah sini masih lagi  dlm keadaan huru-hara; ~ barat;     ~ akhirat  sepanjang masa, di dunia dan di akhirat:  ~ kanak-kanak  perihal hidup kanak-kanak:  ~ luar  masyarakat (negeri dll) luar:  ~  ramai  masyarakat ramai (umum):  ~ sukan  lapangan sukan;    ~ diadang, kikir diperbuat, ~ diadang, saku dijahit  prb bersuka- suka mahu, tetapi mengeluarkan wang enggan;  memakai ~  berganti-ganti, yg hidup sesarkan mati, dgn mati itu bernanti- nanti  prb baka yg turun-temurun tidak akan putus;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sedunia",
                 "definitions": [
@@ -22366,14 +22184,9 @@
                     {
                         "sense": "1",
                         "definition": "bersifat dunia, mengenai sesuatu yg tidak kekal;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "perihal terlalu mementingkan keduniaan (kebendaan dsb)."
                     }
                 ]
@@ -22457,7 +22270,7 @@
         ]
     },
     {
-        "term": "dupleks",
+        "term": "dupleks (dupléks)",
         "definitions": [
             {
                 "sense": "1",
@@ -22604,8 +22417,7 @@
         ]
     },
     {
-        "term": "duri",
-        "roman_numeral": "I",
+        "term": "duri I",
         "definitions": [
             {
                 "sense": "1",
@@ -22665,8 +22477,7 @@
         ]
     },
     {
-        "term": "duri",
-        "roman_numeral": "III",
+        "term": "duri III",
         "definitions": [
             {
                 "sense": "1",
@@ -22808,7 +22619,7 @@
         ]
     },
     {
-        "term": "dusin",
+        "term": "dusin ;  mendusin",
         "origin": "Jk",
         "definitions": [
             {
@@ -22904,24 +22715,18 @@
         ]
     },
     {
-        "term": "dusun",
-        "roman_numeral": "I",
+        "term": "dusun I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "kampung yg terpencil, dukuh;  orang ~  orang kampung (desa);"
+            },
+            {
+                "sense": "2",
+                "definition": "kebun buah-buahan:  ~ yg sudah tua tidak lagi dapat  mengeluarkan hasil yg memuaskan;     berfikiran ~nya itu alam ini, belalang disangkakan helang  prb  orang yg terlalu sempit (terhad) pengetahuannya:  jikalau kerana  sebuah ~ maka binasa negeri, haruslah ~ itu dibuangkan  prb  orang yg menyebabkan kacau-bilau di sesuatu tempat haruslah  dinyahkan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kebun buah-buahan:  ~ yg sudah tua tidak lagi dapat  mengeluarkan hasil yg memuaskan;     berfikiran ~nya itu alam ini, belalang disangkakan helang  prb  orang yg terlalu sempit (terhad) pengetahuannya:  jikalau kerana  sebuah ~ maka binasa negeri, haruslah ~ itu dibuangkan  prb  orang yg menyebabkan kacau-bilau di sesuatu tempat haruslah  dinyahkan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berdusun",
                 "definitions": [
@@ -23424,7 +23229,7 @@
         ]
     },
     {
-        "term": "dwiseksual",
+        "term": "dwiseksual (dwiséksual)",
         "definitions": [
             {
                 "sense": "1",

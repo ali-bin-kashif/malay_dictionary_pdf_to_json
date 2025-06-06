@@ -18,8 +18,7 @@
         ]
     },
     {
-        "term": "ha",
-        "roman_numeral": "I",
+        "term": "ha I",
         "definitions": [
             {
                 "sense": "1",
@@ -32,8 +31,7 @@
         ]
     },
     {
-        "term": "ha",
-        "roman_numeral": "II",
+        "term": "ha II",
         "definitions": [
             {
                 "sense": "1",
@@ -46,7 +44,7 @@
         ]
     },
     {
-        "term": "ha",
+        "term": "ha (h a)",
         "definitions": [
             {
                 "sense": "1",
@@ -128,7 +126,7 @@
         ]
     },
     {
-        "term": "habanera",
+        "term": "habanera (habanéra) (Sepanyol)   (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -298,14 +296,9 @@
                     {
                         "sense": "2",
                         "definition": "menghapuskan, menghilangkan:  habisilah  perasaan itu abang, jangan diperkesankan di muka orang banyak;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "menamatkan riwayat, membunuh:  seorang leftenan muda  mengancam mahu ~ orang tangkapan itu; ~ nyawanya  membunuh  diri;"
                     }
                 ]
@@ -1666,8 +1659,7 @@
         ]
     },
     {
-        "term": "hakim",
-        "roman_numeral": "I",
+        "term": "hakim I",
         "definitions": [
             {
                 "sense": "1",
@@ -1748,7 +1740,7 @@
         ]
     },
     {
-        "term": "hakis",
+        "term": "hakis; menghakis",
         "definitions": [
             {
                 "sense": "1",
@@ -1869,8 +1861,7 @@
         ]
     },
     {
-        "term": "hal",
-        "roman_numeral": "I",
+        "term": "hal I",
         "definitions": [
             {
                 "sense": "1",
@@ -2194,23 +2185,18 @@
         ]
     },
     {
-        "term": "halau",
+        "term": "halau; menghalau",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "melakukan sesuatu yg mengarahkan binatang  menuju ke sesuatu tempat, menggiring:  ~ lembu masuk kandang;"
+            },
+            {
+                "sense": "2",
+                "definition": "=  menghalaukan  mengenyah(kan), mengusir:  tangannya  bergerak-gerak spt orang ~ nyamuk; maka Maharaja Isap  dihalaukan oleh Tun Kecil;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  menghalaukan  mengenyah(kan), mengusir:  tangannya  bergerak-gerak spt orang ~ nyamuk; maka Maharaja Isap  dihalaukan oleh Tun Kecil;"
-                    }
-                ]
-            },
             {
                 "sub_term": "penghalauan",
                 "definitions": [
@@ -2245,7 +2231,7 @@
         ]
     },
     {
-        "term": "halban",
+        "term": "halban, haleban",
         "definitions": [
             {
                 "sense": "1",
@@ -2745,8 +2731,7 @@
         ]
     },
     {
-        "term": "hamba",
-        "roman_numeral": "I",
+        "term": "hamba I",
         "definitions": [
             {
                 "sense": "1",
@@ -3013,7 +2998,7 @@
         ]
     },
     {
-        "term": "hambung",
+        "term": "hambung; menghambungkan",
         "definitions": [
             {
                 "sense": "1",
@@ -3037,8 +3022,7 @@
         ]
     },
     {
-        "term": "hambur",
-        "roman_numeral": "I",
+        "term": "hambur I; berhamburan",
         "definitions": [
             {
                 "sense": "1",
@@ -3047,18 +3031,13 @@
             {
                 "sense": "2",
                 "definition": "berselerak, berserak-serak, bersepah-sepah;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki bercucuran, berderai-derai (air mata):  ia tidak berkata apa- apa pun hanya air matanya sahaja yg ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki bercucuran, berderai-derai (air mata):  ia tidak berkata apa- apa pun hanya air matanya sahaja yg ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menghamburi",
                 "definitions": [
@@ -3328,14 +3307,9 @@
                     {
                         "sense": "1",
                         "definition": "perasaan kecewa (kerana tidak mendapat,  menemui, mencapai dsb sesuatu yg dihajati atau dicita-citakan),  kekecewaan:  kebanyakan para orientalis menyatakan ~ mereka  terhadap kekurangan tradisi kesusasteraan Islam; ia pergi dlm ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki ketiadaan pengetahuan, kebodohan, kedunguan."
                     }
                 ]
@@ -3437,14 +3411,9 @@
                     {
                         "sense": "1",
                         "definition": "sesuatu yg dihamparkan (spt permaidani, tikar, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "sesuatu yg kelihatan terhampar atau terbentang luas (spt sawah  padi, pantai, dsb):  ~ sawah padi yg menguning ;  ~ elektronik  lejar  atau helaian kerja saintifik (dgn ruang yg tersusun mengikut baris  dan lajur) yg dicipta, diolah, dan dipaparkan oleh komputer;"
                     }
                 ]
@@ -3488,26 +3457,25 @@
             {
                 "sense": "1",
                 "definition": "berdampil (dgn seseorang), berdamping (dgn seseorang),  dekat, rapat:  marilah anakanda ~ dgn ayahanda; ~ kpd  mendekati;"
+            },
+            {
+                "sense": "2",
+                "definition": "tidak jauh (bkn jarak, perhubungan), dekat, rapat:  Petaling Jaya  bandar yg ~ sekali dgn Kuala Lumpur; Nabi Muhammad SAW  mula-mula menyampaikan ajaran Islam kpd orang yg paling ~  dengannya iaitu isterinya Khadijah;"
+            },
+            {
+                "sense": "3",
+                "definition": "kurang sedikit drpd  (waktu, bilangan berikutnya, kuantiti, jumlah seluruhnya), dekat:  carilah hingga sen yg ~ sekali bunga biasa di atas RM 760 bagi  tempoh 80 hari dgn kadar 3 % setahun; sudah ~ setengah jam dia  menunggu di situ ; ~ seratus orang hadir dlm majlis itu; mangkuk  getahnya ~ penuh dgn susu getah;"
+            },
+            {
+                "sense": "4",
+                "definition": "nyaris, sedikit lagi akan ...:  ~  mati  nyaris mati;"
+            },
+            {
+                "sense": "5",
+                "definition": "tidak lama lagi akan, dlm sedikit masa lagi:  sekolah sudah ~ dibuka; ~ siap dibina; ~ selesai;     ~ gurun  (Geog) (kawasan, daerah) yg berhampiran (dan keadaan  iklimnya hampir sama) dgn gurun;  wang ~  (Eko) harta yg mudah  dijadikan wang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "kurang sedikit drpd  (waktu, bilangan berikutnya, kuantiti, jumlah seluruhnya), dekat:  carilah hingga sen yg ~ sekali bunga biasa di atas RM 760 bagi  tempoh 80 hari dgn kadar 3 % setahun; sudah ~ setengah jam dia  menunggu di situ ; ~ seratus orang hadir dlm majlis itu; mangkuk  getahnya ~ penuh dgn susu getah;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "nyaris, sedikit lagi akan ...:  ~  mati  nyaris mati;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "tidak lama lagi akan, dlm sedikit masa lagi:  sekolah sudah ~ dibuka; ~ siap dibina; ~ selesai;     ~ gurun  (Geog) (kawasan, daerah) yg berhampiran (dan keadaan  iklimnya hampir sama) dgn gurun;  wang ~  (Eko) harta yg mudah  dijadikan wang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "hampir-hampir",
                 "definitions": [
@@ -4175,14 +4143,9 @@
                     {
                         "sense": "4",
                         "definition": "perihal hangat (meriah), kemeriahan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "5.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "5",
                         "definition": "perihal hangat (tegang, genting), ketegangan, kegentingan:  ~  perdebatan itu meresahkan orang ramai."
                     }
                 ]
@@ -4528,7 +4491,7 @@
         ]
     },
     {
-        "term": "hantu",
+        "term": "hantu I",
         "definitions": [
             {
                 "sense": "1",
@@ -4595,8 +4558,7 @@
         ]
     },
     {
-        "term": "hantu",
-        "roman_numeral": "II",
+        "term": "hantu II; burung ",
         "definitions": [
             {
                 "sense": "1",
@@ -4949,7 +4911,7 @@
         ]
     },
     {
-        "term": "hapus",
+        "term": "hapus kira",
         "origin": "(Eko)",
         "definitions": [
             {
@@ -5279,22 +5241,15 @@
         ]
     },
     {
-        "term": "harem",
+        "term": "harem (harém)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tempat tinggal gundik-gundik raja (orang kaya) Arab;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "perempuan simpanan penghuni harem:  Fatima tinggal di istana  keluarga Tonsson spt hidup di sebuah ~."
-                    }
-                ]
+                "sense": "2",
+                "definition": "perempuan simpanan penghuni harem:  Fatima tinggal di istana  keluarga Tonsson spt hidup di sebuah ~."
             }
         ]
     },
@@ -5325,18 +5280,17 @@
             {
                 "sense": "1",
                 "definition": "nilai sesuatu barang dgn (kiraan) wang:  kalau adapun barang  itu ~nya mahal; letak ~  bp a) menetapkan harga; b) menetapkan  harga (nilai) yg tinggi (apabila mengetahui bahawa sesuatu atau  seseorang itu sangat-sangat dikehendaki);  tarik ~  bp a) meletakkan  harga yg tinggi; b) (bkn pihak yg menyedari bahawa dirinya  dikehendaki ramai) mengambil kesempatan memilih atau  mengenakan syarat-syarat tertentu kpd pihak yg menghendakinya;"
+            },
+            {
+                "sense": "2",
+                "definition": "ki kehormatan (diri), maruah:  kami tahu ~ diri kami;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki  faedah, erti, guna, manfaat, kepentingan:  nasihat yg baik sudah  tidak ada ~nya lagi;     ~ benderol  Id a) meterai yg berbentuk pita yg menyatakan harga  (rokok dll); b) =  ~ pemerintah  =  ~ E. Z.  Id harga yg ditetapkan  oleh kerajaan;  ~ beli (pembelian)  harga pd ketika membeli;  ~  borong  harga sesuatu barang yg dibeli atau dijual secara borong,  biasanya lebih murah drpd harga runcit;  ~ bumbung  (Eko) harga  maksimum sesuatu barang yg ditetapkan dan dibenarkan oleh  pihak berkuasa, harga siling;  ~ damai  harga yg masih boleh  ditawar (lwn harga tetap atau harga mati);  ~ diri  maruah,  kehormatan diri;  ~ gelap  harga yg tidak menurut ketetapan  kerajaan;  ~ gila  Id bp harga yg terlalu murah atau terlalu mahal;  ~  jualan  (Eko) harga barang di kedai, harga yg ditetapkan oleh  penjual;  ~ kos  (Eko) harga barang yg dijual oleh pengeluar kpd  penjual;  ~ lantai  (Eko) harga paling rendah yg ditentukan  (dibenarkan);  ~ mati  =  ~ pasti  =  ~ tetap  harga yg muktamad;  ~  melawan  bp Id harga yg lebih murah drpd harga penjual lain;  ~  modal  harga pokok;  ~ namaan  harga yg tertera pd saham (bukan  nilai pasarannya atau nilainya yg sebenar);  ~ pasar   harga barang  di kedai, harga jualan;  ~ pasaran  (Eko) a) harga terbaru yg  dipersetujui oleh pembeli dan penjual barang atau perkhidmatan,  sebagaimana yg ditentukan melalui permintaan dan penawaran; b)  harga selepas diskaun yg terdapat pd tarikh tutup perakaunan; c)  harga yg terakhir pd masa jual beli saham, yg disenaraikan dlm  bursa saham;  ~ penutup  (Eko) harga terakhir sesuatu saham dsb yg  diniagakan sejurus sebelum waktu dagangan harian ditutup;  ~  pokok  harga yg dibayar oleh penjual pd masa membeli (drpd  pengeluar dsb);  ~ runcit  harga sesuatu barang yg dibeli atau dijual  secara runcit;  ~ runtuh  harga murah yg ditawarkan oleh pusat  membeli belah utk melariskan barang jualan dlm musim tertentu  (biasanya musim perayaan); ~ senarai  (Eko) harga barang sebelum  ditolak potongan (dalal dsb);  ~ siling  (Eko) harga maksimum  sesuatu barang yg ditetapkan dan dibenarkan oleh pihak berkuasa,  harga bumbung;  ~ tunai  harga jika dibayar tunai;  ada rupa ada ~   prb harga sesuatu barang itu mengikut keadaannya atau mutunya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "ki  faedah, erti, guna, manfaat, kepentingan:  nasihat yg baik sudah  tidak ada ~nya lagi;     ~ benderol  Id a) meterai yg berbentuk pita yg menyatakan harga  (rokok dll); b) =  ~ pemerintah  =  ~ E. Z.  Id harga yg ditetapkan  oleh kerajaan;  ~ beli (pembelian)  harga pd ketika membeli;  ~  borong  harga sesuatu barang yg dibeli atau dijual secara borong,  biasanya lebih murah drpd harga runcit;  ~ bumbung  (Eko) harga  maksimum sesuatu barang yg ditetapkan dan dibenarkan oleh  pihak berkuasa, harga siling;  ~ damai  harga yg masih boleh  ditawar (lwn harga tetap atau harga mati);  ~ diri  maruah,  kehormatan diri;  ~ gelap  harga yg tidak menurut ketetapan  kerajaan;  ~ gila  Id bp harga yg terlalu murah atau terlalu mahal;  ~  jualan  (Eko) harga barang di kedai, harga yg ditetapkan oleh  penjual;  ~ kos  (Eko) harga barang yg dijual oleh pengeluar kpd  penjual;  ~ lantai  (Eko) harga paling rendah yg ditentukan  (dibenarkan);  ~ mati  =  ~ pasti  =  ~ tetap  harga yg muktamad;  ~  melawan  bp Id harga yg lebih murah drpd harga penjual lain;  ~  modal  harga pokok;  ~ namaan  harga yg tertera pd saham (bukan  nilai pasarannya atau nilainya yg sebenar);  ~ pasar   harga barang  di kedai, harga jualan;  ~ pasaran  (Eko) a) harga terbaru yg  dipersetujui oleh pembeli dan penjual barang atau perkhidmatan,  sebagaimana yg ditentukan melalui permintaan dan penawaran; b)  harga selepas diskaun yg terdapat pd tarikh tutup perakaunan; c)  harga yg terakhir pd masa jual beli saham, yg disenaraikan dlm  bursa saham;  ~ penutup  (Eko) harga terakhir sesuatu saham dsb yg  diniagakan sejurus sebelum waktu dagangan harian ditutup;  ~  pokok  harga yg dibayar oleh penjual pd masa membeli (drpd  pengeluar dsb);  ~ runcit  harga sesuatu barang yg dibeli atau dijual  secara runcit;  ~ runtuh  harga murah yg ditawarkan oleh pusat  membeli belah utk melariskan barang jualan dlm musim tertentu  (biasanya musim perayaan); ~ senarai  (Eko) harga barang sebelum  ditolak potongan (dalal dsb);  ~ siling  (Eko) harga maksimum  sesuatu barang yg ditetapkan dan dibenarkan oleh pihak berkuasa,  harga bumbung;  ~ tunai  harga jika dibayar tunai;  ada rupa ada ~   prb harga sesuatu barang itu mengikut keadaannya atau mutunya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "seharga",
                 "definitions": [
@@ -5369,12 +5323,11 @@
                     {
                         "sense": "1",
                         "definition": "memberi (menetapkan) harga, menaksir harga,  menilaikan:  barang jualannya dihargainya terlalu tinggi; aku  tidak mahu menjual kereta itu kerana orang ~nya terlalu rendah;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "memberikan  penghormatan  (pujian,  sanjungan,  dsb),  menganggap penting (berfaedah):  penerbit belum tahu ~ karya  pengarang; khidmat dan sumbangannya tidak dihargai orang;"
+                    },
                     {
                         "sense": "3",
                         "definition": "menghormati, memuliakan, mengendahkan:  dia tidak ~ orang  tuanya;"
@@ -5424,26 +5377,25 @@
             {
                 "sense": "2",
                 "definition": "=  siang ~  masa dr matahari terbit  hingga matahari terbenam:  dua ~ dua malam; hari ini kami  bekerja setengah ~; tengah ~  waktu ketika matahari sangat tinggi;"
+            },
+            {
+                "sense": "3",
+                "definition": "bahagian dr masa antara matahari terbit hingga matahari terbit  sekali lagi:  malam ~  bahagian sebelah malam;  pagi ~  bahagian  sebelah pagi;  petang ~  bahagian sebelah petang;"
+            },
+            {
+                "sense": "4",
+                "definition": "keadaan (alam,  cuaca, udara, dll):  kerana ~ hujan, dia tidak keluar rumah;  apabila aku balik dr hutan, ~ pun sudah malam;"
+            },
+            {
+                "sense": "5",
+                "definition": "masa kerja dlm  satu hari:  dia mendapat gaji tiga ringgit satu ~; gaji ~  gaji  berdasarkan bilangan hari seseorang itu sebenarnya bekerja;"
+            },
+            {
+                "sense": "6",
+                "definition": "masa yg lalu atau yg akan datang:  dia telah membeli sebuah  rumah utk ~ tuanya; belakang (kemudian) ~  masa yg akan datang;  tempoh ~  dahulu;     ~ acara  Id ark hari diadakan pemeriksaan perkara;  ~ akhirat  =  ~  kemudian  masa sesudah berakhirnya kehidupan di dunia yg ada  sekarang ini;  ~ Asyura  hari yg kesepuluh bulan Muharam;  ~ baik  bulan baik  Hari Raya (Krismas bagi orang Kristian, Hari Raya  Puasa dan Hari Raya Haji bagi orang Islam, perayaan Tahun Baru  bagi orang Cina, Deepavali bagi orang India, dsb);  ~ bapa  hari (pd  Ahad ketiga dlm bulan Jun) utk mengenang atau memperingati  jasa bapa;  ~ batal  ark =  ~ jatuh  Id waktu yg ditentukan sbg had yg  terakhir bagi membuat sesuatu tuntutan dll;  ~ besar  hari yg  dirayakan kerana memperingati sesuatu peristiwa penting;  ~ bulan  tanggal, tarikh;  ~ Buruh  hari cuti am sbg penghormatan kpd kaum  buruh;  ~ depan (nanti)  masa yg akan datang;  ~ gaji  hari para  pekerja dibayar gaji atau upah, mis pd akhir setiap bulan dsb;  ~  guru  hari (pd 16 Mei) yg disambut utk mengenang atau  memperingati jasa guru;  ~ ibu  hari (pd Ahad kedua dlm bulan  Mei) utk mengenang atau memperingati jasa ibu;  ~ ibu bapa  hari  perayaan sekolah (ibu bapa dijemput);  ~ jadi  =  ~ lahir  hari  memperingati lahirnya seseorang;  ~ Jumaat Besar  Id hari  kematian Jesus;  ~ kebangkitan  hari apabila manusia dibangkitkan  (drpd mati) utk dihisab segala amalannya dan diberi pembalasan;  ~  Kebangsaan  hari (yg tertentu tarikhnya) yg dirayakan oleh seluruh  rakyat sesebuah negara sbg memperingati kemerdekaan dsb;  ~  kelepasan  =  ~ libur  hari cuti, hari rehat;  H~ (Memperingati)  Kekasih  hari (pd 14 Februari) yg diraikan oleh pasangan kekasih,  suami isteri dsb, yg juga dikenali sbg  Valentine’s Day;    ~  Kemerdekaan  =  ~ Merdeka  hari menyambut atau memperingati  kemerdekaan negara;  ~ keputeraan  hari lahir (nabi, raja);  ~ kerja   hari orang biasanya bekerja (bukan hari cuti atau hari minggu);  ~  lebaran  Id Hari Raya;  ~ mahsyar  =  ~ hisab  hari diperhitungkan  segala dosa dan pahala manusia di akhirat;  ~ matahari  hari yg  panjangnya ditentukan oleh matahari;  ~ muka  hari depan;  ~ Natal  hari jadi Jesus;  ~   Pahlawan  hari memperingati pahlawan yg  terkorban;  ~ pembalasan  hari apabila manusia menerima balasan  atas segala amalan baik dan buruk di dunia;  ~ penamaan (calon)  (Udg) hari yg ditetapkan utk menamakan calon pilihan raya;  ~  perniagaan  hari berlakunya urusan atau kegiatan perniagaan;  ~  Raya  a) =  ~ Raya Puasa (Aidilfitri)  hari yg dirayakan sesudah  puasa (pd 1 Syawal); b) =  ~ Raya Haji (Korban)  =  ~ Raya  Aidiladha  hari besar Islam yg dirayakan pd 10 Zulhijah (selepas  berhenti di Arafah);  ~ sekolah  hari waktu bersekolah;  ~ syak  hari  yg mungkin 30 Syaaban dan mungkin juga 1 Ramadan (belum  pasti mula wajib berpuasa bagi orang Islam);  ~ tasyrik  hari yg  disunatkan menyembelih korban (11, 12 dan 13 Zulhijah);  ~ tua  masa seseorang sudah tua;  ~ ulang tahun  hari yg bertepatan dgn  hari bulan dan bulan seseorang dilahirkan, atau sesuatu  (perkahwinan, penubuhan organisasi dsb) berlaku:  ~ ulang  tahunnya adalah pd 1 Januari;    pasangan itu menyambut ~ ulang  tahun perkahwinannya yg ke-50; ~ wuquf  hari jemaah haji  berhimpun di padang Arafah (9 Zulhijah);     ~ baik (pagi) dibuang-buang, ~ buruk (petang) dikejar-kejar  prb  membiarkan peluang yg baik berlalu, kemudian apabila sudah  terlambat baru terkejar-kejar;  ada ~ ada nasi  prb selalu akan  beroleh rezeki sekiranya masih hidup;  ia sepanjang ~ janji  sepanjang jalan  prb mudah mengucapkan janji tetapi sukar  menepatinya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "keadaan (alam,  cuaca, udara, dll):  kerana ~ hujan, dia tidak keluar rumah;  apabila aku balik dr hutan, ~ pun sudah malam;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "masa kerja dlm  satu hari:  dia mendapat gaji tiga ringgit satu ~; gaji ~  gaji  berdasarkan bilangan hari seseorang itu sebenarnya bekerja;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "masa yg lalu atau yg akan datang:  dia telah membeli sebuah  rumah utk ~ tuanya; belakang (kemudian) ~  masa yg akan datang;  tempoh ~  dahulu;     ~ acara  Id ark hari diadakan pemeriksaan perkara;  ~ akhirat  =  ~  kemudian  masa sesudah berakhirnya kehidupan di dunia yg ada  sekarang ini;  ~ Asyura  hari yg kesepuluh bulan Muharam;  ~ baik  bulan baik  Hari Raya (Krismas bagi orang Kristian, Hari Raya  Puasa dan Hari Raya Haji bagi orang Islam, perayaan Tahun Baru  bagi orang Cina, Deepavali bagi orang India, dsb);  ~ bapa  hari (pd  Ahad ketiga dlm bulan Jun) utk mengenang atau memperingati  jasa bapa;  ~ batal  ark =  ~ jatuh  Id waktu yg ditentukan sbg had yg  terakhir bagi membuat sesuatu tuntutan dll;  ~ besar  hari yg  dirayakan kerana memperingati sesuatu peristiwa penting;  ~ bulan  tanggal, tarikh;  ~ Buruh  hari cuti am sbg penghormatan kpd kaum  buruh;  ~ depan (nanti)  masa yg akan datang;  ~ gaji  hari para  pekerja dibayar gaji atau upah, mis pd akhir setiap bulan dsb;  ~  guru  hari (pd 16 Mei) yg disambut utk mengenang atau  memperingati jasa guru;  ~ ibu  hari (pd Ahad kedua dlm bulan  Mei) utk mengenang atau memperingati jasa ibu;  ~ ibu bapa  hari  perayaan sekolah (ibu bapa dijemput);  ~ jadi  =  ~ lahir  hari  memperingati lahirnya seseorang;  ~ Jumaat Besar  Id hari  kematian Jesus;  ~ kebangkitan  hari apabila manusia dibangkitkan  (drpd mati) utk dihisab segala amalannya dan diberi pembalasan;  ~  Kebangsaan  hari (yg tertentu tarikhnya) yg dirayakan oleh seluruh  rakyat sesebuah negara sbg memperingati kemerdekaan dsb;  ~  kelepasan  =  ~ libur  hari cuti, hari rehat;  H~ (Memperingati)  Kekasih  hari (pd 14 Februari) yg diraikan oleh pasangan kekasih,  suami isteri dsb, yg juga dikenali sbg  Valentine’s Day;    ~  Kemerdekaan  =  ~ Merdeka  hari menyambut atau memperingati  kemerdekaan negara;  ~ keputeraan  hari lahir (nabi, raja);  ~ kerja   hari orang biasanya bekerja (bukan hari cuti atau hari minggu);  ~  lebaran  Id Hari Raya;  ~ mahsyar  =  ~ hisab  hari diperhitungkan  segala dosa dan pahala manusia di akhirat;  ~ matahari  hari yg  panjangnya ditentukan oleh matahari;  ~ muka  hari depan;  ~ Natal  hari jadi Jesus;  ~   Pahlawan  hari memperingati pahlawan yg  terkorban;  ~ pembalasan  hari apabila manusia menerima balasan  atas segala amalan baik dan buruk di dunia;  ~ penamaan (calon)  (Udg) hari yg ditetapkan utk menamakan calon pilihan raya;  ~  perniagaan  hari berlakunya urusan atau kegiatan perniagaan;  ~  Raya  a) =  ~ Raya Puasa (Aidilfitri)  hari yg dirayakan sesudah  puasa (pd 1 Syawal); b) =  ~ Raya Haji (Korban)  =  ~ Raya  Aidiladha  hari besar Islam yg dirayakan pd 10 Zulhijah (selepas  berhenti di Arafah);  ~ sekolah  hari waktu bersekolah;  ~ syak  hari  yg mungkin 30 Syaaban dan mungkin juga 1 Ramadan (belum  pasti mula wajib berpuasa bagi orang Islam);  ~ tasyrik  hari yg  disunatkan menyembelih korban (11, 12 dan 13 Zulhijah);  ~ tua  masa seseorang sudah tua;  ~ ulang tahun  hari yg bertepatan dgn  hari bulan dan bulan seseorang dilahirkan, atau sesuatu  (perkahwinan, penubuhan organisasi dsb) berlaku:  ~ ulang  tahunnya adalah pd 1 Januari;    pasangan itu menyambut ~ ulang  tahun perkahwinannya yg ke-50; ~ wuquf  hari jemaah haji  berhimpun di padang Arafah (9 Zulhijah);     ~ baik (pagi) dibuang-buang, ~ buruk (petang) dikejar-kejar  prb  membiarkan peluang yg baik berlalu, kemudian apabila sudah  terlambat baru terkejar-kejar;  ada ~ ada nasi  prb selalu akan  beroleh rezeki sekiranya masih hidup;  ia sepanjang ~ janji  sepanjang jalan  prb mudah mengucapkan janji tetapi sukar  menepatinya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sehari",
                 "definitions": [
@@ -5945,8 +5897,7 @@
         ]
     },
     {
-        "term": "harum",
-        "roman_numeral": "I",
+        "term": "harum I",
         "definitions": [
             {
                 "sense": "1",
@@ -6033,8 +5984,7 @@
         ]
     },
     {
-        "term": "harung",
-        "roman_numeral": "I",
+        "term": "harung I; mengharung, mengharungi",
         "definitions": [
             {
                 "sense": "1",
@@ -6172,7 +6122,7 @@
         ]
     },
     {
-        "term": "hasad",
+        "term": "hasad ",
         "origin": "Ar",
         "definitions": [
             {
@@ -6440,7 +6390,7 @@
         ]
     },
     {
-        "term": "hasut",
+        "term": "hasut; menghasut",
         "definitions": [
             {
                 "sense": "1",
@@ -6500,7 +6450,7 @@
         ]
     },
     {
-        "term": "hasyiah",
+        "term": "hasyiah, hasyiat",
         "origin": "Ar",
         "definitions": [
             {
@@ -6699,8 +6649,7 @@
         ]
     },
     {
-        "term": "haus",
-        "roman_numeral": "I",
+        "term": "haus I",
         "definitions": [
             {
                 "sense": "1",
@@ -6803,8 +6752,7 @@
         ]
     },
     {
-        "term": "hawa",
-        "roman_numeral": "I",
+        "term": "hawa I",
         "definitions": [
             {
                 "sense": "1",
@@ -7112,14 +7060,9 @@
                     {
                         "sense": "1",
                         "definition": "menyiarkan, memberitahukan kpd orang ramai  (melalui akhbar, televisyen, dll):  pemimpin-pemimpin negara ~  rancangan pembangunan luar bandar kpd tamu-tamu luar negeri;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyebarkan, mengumumkan, mendiayahkan (agama, fahaman  politik, dll):  Nabi Muhammad SAW ialah orang yg mula-mula ~  ajaran Islam;"
                     }
                 ]
@@ -7185,7 +7128,7 @@
         ]
     },
     {
-        "term": "hebat",
+        "term": "hebat (hébat)",
         "definitions": [
             {
                 "sense": "1",
@@ -7249,7 +7192,7 @@
         ]
     },
     {
-        "term": "heboh",
+        "term": "heboh (héboh)",
         "definitions": [
             {
                 "sense": "1",
@@ -7313,7 +7256,7 @@
         ]
     },
     {
-        "term": "hegeh",
+        "term": "hegeh (hégéh);  terhegeh-hegeh",
         "definitions": [
             {
                 "sense": "1",
@@ -7464,7 +7407,7 @@
         ]
     },
     {
-        "term": "hela",
+        "term": "hela (héla)  I; menghela",
         "definitions": [
             {
                 "sense": "1",
@@ -7515,7 +7458,7 @@
         ]
     },
     {
-        "term": "helah",
+        "term": "helah (hélah)",
         "definitions": [
             {
                 "sense": "1",
@@ -7565,7 +7508,7 @@
         ]
     },
     {
-        "term": "helai",
+        "term": "helai I",
         "definitions": [
             {
                 "sense": "1",
@@ -7653,7 +7596,7 @@
         ]
     },
     {
-        "term": "heliograf",
+        "term": "heliograf (héliograf)",
         "definitions": [
             {
                 "sense": "1",
@@ -7675,7 +7618,7 @@
         ]
     },
     {
-        "term": "heliosentrik",
+        "term": "heliosentrik (hélioséntrik) (Ast)",
         "definitions": [
             {
                 "sense": "1",
@@ -7843,7 +7786,7 @@
         ]
     },
     {
-        "term": "hemat",
+        "term": "hemat (hémat)",
         "definitions": [
             {
                 "sense": "1",
@@ -8200,12 +8143,11 @@
                     {
                         "sense": "1",
                         "definition": "membanting, menjatuhkan (diri):  ia ~ ke katilnya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "memukul (bkn ombak dll):  ombak ~ pantai dgn keras dan tidak  henti-hentinya;"
+                    },
                     {
                         "sense": "3",
                         "definition": "menutup pintu, tingkap, dsb dgn melepaskannya  dgn kuat:  Hamid ~ pintu bilik utk menunjukkan kemarahannya; ~  tulang urat  =  ~ tulang empat kerat  menggunakan tenaga  (kekuatan) sendiri membanting tulang utk mengerjakan sesuatu;"
@@ -8486,7 +8428,7 @@
         ]
     },
     {
-        "term": "henjar",
+        "term": "henjar ;  menghenjar",
         "origin": "Kl",
         "definitions": [
             {
@@ -8496,7 +8438,7 @@
         ]
     },
     {
-        "term": "hentak",
+        "term": "hentak; menghentak",
         "definitions": [
             {
                 "sense": "1",
@@ -8986,7 +8928,7 @@
         ]
     },
     {
-        "term": "heret",
+        "term": "heret (hérét);  mengheret",
         "definitions": [
             {
                 "sense": "1",
@@ -9082,7 +9024,7 @@
         ]
     },
     {
-        "term": "hero",
+        "term": "hero (héro)",
         "definitions": [
             {
                 "sense": "1",
@@ -9163,14 +9105,9 @@
                     {
                         "sense": "1",
                         "definition": "sesuatu yg tidak tepat, kecacatan:  ilmu pengetahuan  mereka begitu bebas drpd ~ yg disebabkan oleh pengaruh sosial;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "(Komp) perubahan rupa bentuk pd gelombang isyarat penerima  berbanding dgn isyarat asal."
                     }
                 ]
@@ -9288,7 +9225,7 @@
         ]
     },
     {
-        "term": "heteroseksual",
+        "term": "heteroseksual (héteroséksual)",
         "definitions": [
             {
                 "sense": "1",
@@ -9702,7 +9639,7 @@
         ]
     },
     {
-        "term": "hidang",
+        "term": "hidang; menghidangkan",
         "definitions": [
             {
                 "sense": "1",
@@ -10181,7 +10118,7 @@
         ]
     },
     {
-        "term": "hidu",
+        "term": "hidu; menghidu",
         "definitions": [
             {
                 "sense": "1",
@@ -10296,38 +10233,37 @@
             {
                 "sense": "9",
                 "definition": "masih menyala (api dll);"
+            },
+            {
+                "sense": "10",
+                "definition": "masih dipakai (jalan, sungai, bahasa, dll):  bahasa yg ~;"
+            },
+            {
+                "sense": "11",
+                "definition": "masih segar atau baru (sayur-mayur, ikan, dll);"
+            },
+            {
+                "sense": "12",
+                "definition": "bergerak cergas  (perniagaan, kegiatan, dsb):  dgn tamatnya konfrontasi perniagaan  Indonesia-Malaysia ~ kembali;"
+            },
+            {
+                "sense": "13",
+                "definition": "spt keadaan yg sebenarnya  atau dilihat (lukisan, cerita, dll);"
+            },
+            {
+                "sense": "14",
+                "definition": "bukan yg dikeringkan,  diasinkan, dijeruk dsb (bkn cili, halia, kunyit, ikan, dsb):  kunyit ~;  ikan ~;"
+            },
+            {
+                "sense": "15",
+                "definition": "bukan yg telah dikeringkan atau direka oleh manusia  drpd plastik, kertas, dsb:  bunga ~ ;"
+            },
+            {
+                "sense": "16",
+                "definition": "(bkn wayar dsb) ada aliran  arus elektrik:  wayar ~;      ~ dikandung adat, mati dikandung tanah  prb waktu hidup  hendaklah mengikut peraturan dan kebiasaan yg berlaku, setelah  mati terserahlah kpd Tuhan;  ~ di hujung gurun orang  prb orang yg  hidup melarat;  ~ dua muara  prb hidup dgn dua macam pencarian;  ~ kayu berbuah, ~ manusia biar berjasa  prb pd ketika hidup  eloklah berbuat baik utk diri sendiri dan utk masyarakat;  ~ sandar- menyandar umpama aur dgn tebing  prb a) suami isteri yg  berkasih-kasihan; b) sahabat yg setia dan bertolong-tolongan;  ~  segan mati tak mau  prb orang yg hidup melarat (miskin atau selalu  sakit-sakit);  ~ tidak kerana doa, mati tidak kerana sumpah  prb  berusahalah dgn tenaga dan fikiran sendiri dan jangan  mengharapkan sangat pertolongan orang lain;  drpd ~ bercermin  bangkai, lebih baik mati berkalang tanah  prb drpd hidup  menanggung malu, lebih baik mati;  jauh berjalan banyak dilihat,  lama ~ banyak dirasa  prb sudah banyak pengalaman;  kalau  bangkai galikan kuburnya, kalau ~ sediakan buaiannya  prb  tunggu dahulu dgn tenang apa yg akan terjadi, kemudian barulah  dibuat pertimbangan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "10.",
-                "definitions": [
-                    {
-                        "sense": "11",
-                        "definition": "masih segar atau baru (sayur-mayur, ikan, dll);"
-                    },
-                    {
-                        "sense": "12",
-                        "definition": "bergerak cergas  (perniagaan, kegiatan, dsb):  dgn tamatnya konfrontasi perniagaan  Indonesia-Malaysia ~ kembali;"
-                    },
-                    {
-                        "sense": "13",
-                        "definition": "spt keadaan yg sebenarnya  atau dilihat (lukisan, cerita, dll);"
-                    },
-                    {
-                        "sense": "14",
-                        "definition": "bukan yg dikeringkan,  diasinkan, dijeruk dsb (bkn cili, halia, kunyit, ikan, dsb):  kunyit ~;  ikan ~;"
-                    },
-                    {
-                        "sense": "15",
-                        "definition": "bukan yg telah dikeringkan atau direka oleh manusia  drpd plastik, kertas, dsb:  bunga ~ ;"
-                    },
-                    {
-                        "sense": "16",
-                        "definition": "(bkn wayar dsb) ada aliran  arus elektrik:  wayar ~;      ~ dikandung adat, mati dikandung tanah  prb waktu hidup  hendaklah mengikut peraturan dan kebiasaan yg berlaku, setelah  mati terserahlah kpd Tuhan;  ~ di hujung gurun orang  prb orang yg  hidup melarat;  ~ dua muara  prb hidup dgn dua macam pencarian;  ~ kayu berbuah, ~ manusia biar berjasa  prb pd ketika hidup  eloklah berbuat baik utk diri sendiri dan utk masyarakat;  ~ sandar- menyandar umpama aur dgn tebing  prb a) suami isteri yg  berkasih-kasihan; b) sahabat yg setia dan bertolong-tolongan;  ~  segan mati tak mau  prb orang yg hidup melarat (miskin atau selalu  sakit-sakit);  ~ tidak kerana doa, mati tidak kerana sumpah  prb  berusahalah dgn tenaga dan fikiran sendiri dan jangan  mengharapkan sangat pertolongan orang lain;  drpd ~ bercermin  bangkai, lebih baik mati berkalang tanah  prb drpd hidup  menanggung malu, lebih baik mati;  jauh berjalan banyak dilihat,  lama ~ banyak dirasa  prb sudah banyak pengalaman;  kalau  bangkai galikan kuburnya, kalau ~ sediakan buaiannya  prb  tunggu dahulu dgn tenang apa yg akan terjadi, kemudian barulah  dibuat pertimbangan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sehidup",
                 "definitions": [
@@ -10635,18 +10571,13 @@
             {
                 "sense": "1",
                 "definition": "perpindahan Nabi Muhammad SAW dr Mekah ke Madinah;"
+            },
+            {
+                "sense": "2",
+                "definition": "=  tahun H~  tahun Islam yg bermula dr tarikh perpindahan Nabi  Muhammad SAW ke Madinah (pd tahun 622 Masihi):  Nabi  Muhammad SAW wafat pd tahun 13 H~ ;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  tahun H~  tahun Islam yg bermula dr tarikh perpindahan Nabi  Muhammad SAW ke Madinah (pd tahun 622 Masihi):  Nabi  Muhammad SAW wafat pd tahun 13 H~ ;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berhijrah",
                 "definitions": [
@@ -10890,7 +10821,7 @@
         ]
     },
     {
-        "term": "hilau",
+        "term": "hilau ;  berhilau, berhilau-hilau",
         "origin": "Mn",
         "definitions": [
             {
@@ -11125,14 +11056,9 @@
                     {
                         "sense": "1",
                         "definition": "menindih (menekan dll) dgn barang yg berat,  mengapit, menyesak:  nasi itu kemudiannya dihimpit dgn lesung  batu utk memadatkannya; pd perasaannya bumi ini hendak ~ dia;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki menekan (dlm erti kiasan), mengasak, menyusahkan:  kemiskinan ~ kehidupan keluarganya;"
                     }
                 ]
@@ -11189,7 +11115,7 @@
         ]
     },
     {
-        "term": "himpun",
+        "term": "himpun (Komp)",
         "definitions": [
             {
                 "sense": "1",
@@ -11478,8 +11404,7 @@
         ]
     },
     {
-        "term": "Hindu",
-        "roman_numeral": "II",
+        "term": "Hindu II",
         "definitions": [
             {
                 "sense": "1",
@@ -12237,7 +12162,7 @@
         ]
     },
     {
-        "term": "hirup",
+        "term": "hirup; menghirup",
         "definitions": [
             {
                 "sense": "1",
@@ -12569,14 +12494,9 @@
                     {
                         "sense": "1",
                         "definition": "membuat kira-kira (spt mencampur, menjumlah, dll),  berkira-kira:  apa benar sukarnya berniaga, asal pandai membeli  dan menjual, dan pandai ~ sedikit; ~ kepala  mencongak, mengira;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "Mn memeriksa untung rugi (perniagaan dll);"
                     }
                 ]
@@ -12871,7 +12791,7 @@
         ]
     },
     {
-        "term": "hogoh",
+        "term": "hogoh ;  terhogoh-hogoh",
         "origin": "Pr",
         "definitions": [
             {
@@ -13208,7 +13128,7 @@
         ]
     },
     {
-        "term": "homoseksual",
+        "term": "homoseksual (homoséksual)",
         "definitions": [
             {
                 "sense": "1",
@@ -13365,7 +13285,7 @@
         ]
     },
     {
-        "term": "hongoh",
+        "term": "hongoh ;  hongoh-hongoh, terhongoh-hongoh",
         "origin": "Kl",
         "definitions": [
             {
@@ -13675,8 +13595,7 @@
         ]
     },
     {
-        "term": "hos",
-        "roman_numeral": "II",
+        "term": "hos II",
         "definitions": [
             {
                 "sense": "1",
@@ -13829,7 +13748,7 @@
         ]
     },
     {
-        "term": "hubaya-hubaya",
+        "term": "hubaya-hubaya sl",
         "definitions": [
             {
                 "sense": "1",
@@ -13856,7 +13775,7 @@
         ]
     },
     {
-        "term": "hubung",
+        "term": "hubung; berhubung",
         "definitions": [
             {
                 "sense": "1",
@@ -13925,12 +13844,11 @@
                     {
                         "sense": "2",
                         "definition": "=  memperhubungkan   mempertalikan (dgn), mengaitkan (dgn):  perdaganganlah yg ~  negeri Melaka dgn kawasan-kawasan di sekelilingnya; rakyat  Hirahlah yg menjadi perantaraan ~ orang Parsi dgn orang Arab;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "=  memperhubungkan  mempertemukan dgn, menjadikan satu  dgn, menggabungkan dgn:  ia pun ~ dirinya dgn pergerakan  wanita setempat; mereka memperhubungkan kami dgn sekeluarga  orang perantauan lain;"
+                    },
                     {
                         "sense": "4",
                         "definition": "menjadikan supaya berhubungan atau  bertemu:  ada jalan kereta api yg ~ Bangkok dgn Saigon;"
@@ -14359,7 +14277,7 @@
         ]
     },
     {
-        "term": "hujung",
+        "term": "hujung I",
         "definitions": [
             {
                 "sense": "1",
@@ -14736,8 +14654,7 @@
         ]
     },
     {
-        "term": "hulur",
-        "roman_numeral": "I",
+        "term": "hulur I; menghulur",
         "definitions": [
             {
                 "sense": "1",
@@ -15157,7 +15074,7 @@
         ]
     },
     {
-        "term": "hunjam",
+        "term": "hunjam; menghunjam",
         "definitions": [
             {
                 "sense": "1",
@@ -15345,32 +15262,22 @@
             {
                 "sense": "3",
                 "definition": "bp berjalan dgn tidak tentu tujuan:  janganlah ~ ke sana ke mari dgn kawan-kawan pd waktu malam;"
+            },
+            {
+                "sense": "4",
+                "definition": "keadaan kacau-bilau:  ahli nujum meramalkan bahawa ~ akan  berlaku di negeri itu dlm tahun 1990-an;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "keadaan kacau-bilau:  ahli nujum meramalkan bahawa ~ akan  berlaku di negeri itu dlm tahun 1990-an;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menghuru-harakan",
                 "definitions": [
                     {
                         "sense": "1",
                         "definition": "menyebabkan huru-hara, mengacau- bilaukan:  gerila-gerila komunis cuba ~ negara kita, tetapi gagal;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyebabkan huru-hara, menjadikan (keadaan) kelam kabut:  kekecohan itu telah ~ mereka;"
                     }
                 ]

@@ -27,8 +27,7 @@
         ]
     },
     {
-        "term": "ya",
-        "roman_numeral": "I",
+        "term": "ya I",
         "definitions": [
             {
                 "sense": "1",
@@ -41,8 +40,7 @@
         ]
     },
     {
-        "term": "ya",
-        "roman_numeral": "II",
+        "term": "ya II",
         "definitions": [
             {
                 "sense": "1",
@@ -80,8 +78,7 @@
         ]
     },
     {
-        "term": "ya",
-        "roman_numeral": "IV",
+        "term": "ya IV",
         "definitions": [
             {
                 "sense": "1",
@@ -407,8 +404,7 @@
         ]
     },
     {
-        "term": "yang",
-        "roman_numeral": "I",
+        "term": "yang I",
         "definitions": [
             {
                 "sense": "1",
@@ -551,17 +547,10 @@
             {
                 "sense": "1",
                 "definition": "pertubuhan yg dibentuk utk mengusahakan sesuatu (spt  sekolah, badan penyelidikan, badan yg mengeluarkan biasiswa,  dll):  Universiti Harvard dan Yale di Amerika dibiayai oleh satu ~;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bangunan khas utk tujuan tertentu (spt rumah sakit, rumah anak  yatim, dll)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bangunan khas utk tujuan tertentu (spt rumah sakit, rumah anak  yatim, dll)."
             }
         ]
     },

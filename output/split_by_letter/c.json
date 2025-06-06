@@ -96,8 +96,7 @@
         ]
     },
     {
-        "term": "cabang",
-        "roman_numeral": "I",
+        "term": "cabang I",
         "definitions": [
             {
                 "sense": "1",
@@ -294,8 +293,7 @@
         ]
     },
     {
-        "term": "cabar",
-        "roman_numeral": "II",
+        "term": "cabar II",
         "origin": "Mn",
         "definitions": [
             {
@@ -319,8 +317,7 @@
         ]
     },
     {
-        "term": "cabik",
-        "roman_numeral": "I",
+        "term": "cabik I",
         "definitions": [
             {
                 "sense": "1",
@@ -487,29 +484,24 @@
         ]
     },
     {
-        "term": "cabuk",
-        "roman_numeral": "IV",
+        "term": "cabuk IV",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "buruk dan tidak berguna lagi:  kasut yg sudah ~ dibuangnya ;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "rendah nilainya  atau kurang bermutu (bkn sesuatu benda):  aku naik kereta ~ saja,  lainlah engkau."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bp rendah kedudukannya atau kurang dikenali (dihormati,  disegani dsb):  aku hanyalah seorang pegawai ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "rendah nilainya  atau kurang bermutu (bkn sesuatu benda):  aku naik kereta ~ saja,  lainlah engkau."
             }
         ]
     },
     {
-        "term": "cabul",
-        "roman_numeral": "I",
+        "term": "cabul I",
         "definitions": [
             {
                 "sense": "1",
@@ -518,18 +510,13 @@
             {
                 "sense": "2",
                 "definition": "melanggar adat dan kebiasaan (bkn  kelakuan dsb), (sangat) buruk:  apa sahaja yg dibuatnya ~ belaka;"
+            },
+            {
+                "sense": "3",
+                "definition": "melanggar larangan (pantang);    ~ di hutan (laut)  mengeluarkan perkataan-perkataan yg  memarahkan hantu-hantu hutan (laut);  perempuan ~  perempuan  jalang, perempuan sundal, pelacur;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "melanggar larangan (pantang);    ~ di hutan (laut)  mengeluarkan perkataan-perkataan yg  memarahkan hantu-hantu hutan (laut);  perempuan ~  perempuan  jalang, perempuan sundal, pelacur;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bercabul",
                 "definitions": [
@@ -617,8 +604,7 @@
         ]
     },
     {
-        "term": "cabut",
-        "roman_numeral": "I",
+        "term": "cabut I",
         "definitions": [
             {
                 "sense": "1",
@@ -864,8 +850,7 @@
         ]
     },
     {
-        "term": "cacah",
-        "roman_numeral": "IV",
+        "term": "cacah IV",
         "origin": "Jw",
         "definitions": [
             {
@@ -963,8 +948,7 @@
         ]
     },
     {
-        "term": "cacak",
-        "roman_numeral": "II",
+        "term": "cacak II ;  mencacak",
         "origin": "Mn",
         "definitions": [
             {
@@ -1632,8 +1616,7 @@
         ]
     },
     {
-        "term": "cagak",
-        "roman_numeral": "I",
+        "term": "cagak I",
         "definitions": [
             {
                 "sense": "1",
@@ -1650,18 +1633,17 @@
             {
                 "sense": "4",
                 "definition": "Id tiang telefon;"
+            },
+            {
+                "sense": "5",
+                "definition": "sokongan, tunjangan, pertolongan;  ~ hidup  Id bunga wang yg  harus dibayar kpd seseorang semasa hidupnya atau utk beberapa  tahun;"
+            },
+            {
+                "sense": "6",
+                "definition": "Kl pengandar rumput:  dia memotong rumput dua ~ sehari  utk lembunya;   7 . alat (drpd kayu, buluh, logam) yg bulat, panjang,  kukuh, dan ringan yg digunakan sbg penyidai kain;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "6",
-                        "definition": "Kl pengandar rumput:  dia memotong rumput dua ~ sehari  utk lembunya;   7 . alat (drpd kayu, buluh, logam) yg bulat, panjang,  kukuh, dan ringan yg digunakan sbg penyidai kain;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bercagak",
                 "definitions": [
@@ -1705,8 +1687,7 @@
         ]
     },
     {
-        "term": "cagak",
-        "roman_numeral": "II",
+        "term": "cagak II; mencagak",
         "definitions": [
             {
                 "sense": "1",
@@ -1719,18 +1700,13 @@
             {
                 "sense": "3",
                 "definition": "kelihatan jelas di mata kerana tegak (mencuar dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "tangkas pergerakan badan dan petah berkata-kata;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tangkas pergerakan badan dan petah berkata-kata;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mencagakkan",
                 "definitions": [
@@ -1752,7 +1728,7 @@
         ]
     },
     {
-        "term": "cagar",
+        "term": "cagar ",
         "definitions": [
             {
                 "sense": "1",
@@ -1842,7 +1818,7 @@
         ]
     },
     {
-        "term": "cah",
+        "term": "cah sr",
         "definitions": [
             {
                 "sense": "1",
@@ -1902,18 +1878,13 @@
             {
                 "sense": "2",
                 "definition": "kilauan (emas, intan, berlian, dll):  ~ permata;"
+            },
+            {
+                "sense": "3",
+                "definition": "seri, kejernihan (air muka);  ~ mata  a) kilau mata, sinar mata; b)  kekasih, buah hati; c) anak;  ~ muka  a) rupa air muka; b) seri yg  kelihatan pd muka;  4 . penyuluh (kpd rohani), petunjuk:   sesungguhnya telah datang kpd kamu ~ kebenaran drpd Allah;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "seri, kejernihan (air muka);  ~ mata  a) kilau mata, sinar mata; b)  kekasih, buah hati; c) anak;  ~ muka  a) rupa air muka; b) seri yg  kelihatan pd muka;  4 . penyuluh (kpd rohani), petunjuk:   sesungguhnya telah datang kpd kamu ~ kebenaran drpd Allah;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bercahaya",
                 "definitions": [
@@ -2291,14 +2262,9 @@
                     {
                         "sense": "2",
                         "definition": "berbahasa:  ~ Melayu"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "berbual, berborak, bersembang;"
                     }
                 ]
@@ -2362,8 +2328,7 @@
         ]
     },
     {
-        "term": "cakap",
-        "roman_numeral": "II",
+        "term": "cakap II",
         "definitions": [
             {
                 "sense": "1",
@@ -2437,8 +2402,7 @@
         ]
     },
     {
-        "term": "cakar",
-        "roman_numeral": "I",
+        "term": "cakar I",
         "definitions": [
             {
                 "sense": "1",
@@ -2696,8 +2660,7 @@
         ]
     },
     {
-        "term": "cakup",
-        "roman_numeral": "I",
+        "term": "cakup I; mencakup",
         "definitions": [
             {
                 "sense": "1",
@@ -2730,8 +2693,7 @@
         ]
     },
     {
-        "term": "cakup",
-        "roman_numeral": "II",
+        "term": "cakup II ark;  mencakup",
         "origin": "Jw",
         "definitions": [
             {
@@ -2911,8 +2873,7 @@
         ]
     },
     {
-        "term": "calang",
-        "roman_numeral": "II",
+        "term": "calang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3348,14 +3309,9 @@
                     {
                         "sense": "3",
                         "definition": "muncul, terbit, lahir:  Minah menjeling tajam, kemudian  ~ juga sebuah senyuman di bibirnya; usianya yg mendekati empat  puluhan dan masih membujang itu membuatkan ~ suatu harapan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "4",
                         "definition": "ada banyak, ada (terdapat) di merata-rata tempat:  di surau dan  madrasah yg ~ di tanah air kita ini;"
                     }
                 ]
@@ -3748,12 +3704,11 @@
                     {
                         "sense": "1",
                         "definition": "menggaulkan  (supaya  menjadi  satu),  menjadikan bercampur:  kedua-dua jenis tepung itu dicampurkan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menjadikan bercampur dua atau lebih benda (hal):  jangan  dicampurkan barang itu;"
+                    },
                     {
                         "sense": "3",
                         "definition": "menghubungkan atau mengaitkan:  saya tidak ada perhubungan dgn pemerintah, tidak ada niat saya ~  nya;  4 .  menaruh atau memasukkan (benda lain) sehingga sesuatu  itu tidak asli atau tulen lagi;"
@@ -4129,8 +4084,7 @@
         ]
     },
     {
-        "term": "canda",
-        "roman_numeral": "I",
+        "term": "canda I",
         "definitions": [
             {
                 "sense": "1",
@@ -4214,8 +4168,7 @@
         ]
     },
     {
-        "term": "candan",
-        "roman_numeral": "I",
+        "term": "candan I",
         "definitions": [
             {
                 "sense": "1",
@@ -4469,8 +4422,7 @@
         ]
     },
     {
-        "term": "cang",
-        "roman_numeral": "IV",
+        "term": "cang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -4615,8 +4567,7 @@
         ]
     },
     {
-        "term": "canggah",
-        "roman_numeral": "I",
+        "term": "canggah I",
         "definitions": [
             {
                 "sense": "1",
@@ -4737,8 +4688,7 @@
         ]
     },
     {
-        "term": "canggih",
-        "roman_numeral": "II",
+        "term": "canggih II",
         "definitions": [
             {
                 "sense": "1",
@@ -4802,8 +4752,7 @@
         ]
     },
     {
-        "term": "canggung",
-        "roman_numeral": "I",
+        "term": "canggung I",
         "definitions": [
             {
                 "sense": "1",
@@ -5078,8 +5027,7 @@
         ]
     },
     {
-        "term": "cangkuk",
-        "roman_numeral": "I",
+        "term": "cangkuk I ",
         "definitions": [
             {
                 "sense": "1",
@@ -5130,8 +5078,7 @@
         ]
     },
     {
-        "term": "cangkuk",
-        "roman_numeral": "II",
+        "term": "cangkuk II ",
         "definitions": [
             {
                 "sense": "1",
@@ -5302,14 +5249,9 @@
                     {
                         "sense": "1",
                         "definition": "dicantas dgn tidak sengaja, terpangkas:  banyak anak  pokok durian di dlm semak itu yg ~ semasa kerja menebas dibuat;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki dikeluarkan atau digugurkan drpd senarai (kumpulan, pasaran  dsb):  namanya ~ drpd senarai peserta yg terpilih;"
                     }
                 ]
@@ -5474,8 +5416,7 @@
         ]
     },
     {
-        "term": "canting",
-        "roman_numeral": "I",
+        "term": "canting I",
         "definitions": [
             {
                 "sense": "1",
@@ -5542,7 +5483,7 @@
         ]
     },
     {
-        "term": "cantum",
+        "term": "cantum; bercantum",
         "definitions": [
             {
                 "sense": "1",
@@ -5551,18 +5492,17 @@
             {
                 "sense": "2",
                 "definition": "bertemu dan melekat atau bersambungan (spt zip, bulu ayam, dll);"
+            },
+            {
+                "sense": "3",
+                "definition": "bergabung, bersambung:  tiap-tiap kawasan ~ dgn kawasan yg di  sebelahnya;"
+            },
+            {
+                "sense": "4",
+                "definition": "ada memuat atau berisi (karangan dll);  carik-carik  bulu ayam lama-lama ~ juga  prb perkelahian sesama saudara itu  akhirnya berbaik juga;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "ada memuat atau berisi (karangan dll);  carik-carik  bulu ayam lama-lama ~ juga  prb perkelahian sesama saudara itu  akhirnya berbaik juga;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mencantum",
                 "definitions": [
@@ -5586,12 +5526,11 @@
                     {
                         "sense": "1",
                         "definition": "merapatkan (benda atau hal) supaya bertaut  (melekat, bersatu, dll), memautkan, melekatkan, menyatukan,  memadukan, menempelkan;  2 . menyematkan (dgn jarum, pin, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "menikamkan:  dicantumkannya keris pusaka itu pd dada terus ke  belikat ;"
+                    },
                     {
                         "sense": "4",
                         "definition": "memasukkan atau menyertakan (dlm majalah, acara,  dll):  nama peserta-peserta mesyuarat itu telah dicantumkan dlm  surat edaran;"
@@ -5640,8 +5579,7 @@
         ]
     },
     {
-        "term": "cap",
-        "roman_numeral": "I",
+        "term": "cap I",
         "definitions": [
             {
                 "sense": "1",
@@ -5710,12 +5648,11 @@
                     {
                         "sense": "1",
                         "definition": "ark perihal (perbuatan, kerja, dll) mengecap(kan);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "percetakan;"
+                    },
                     {
                         "sense": "3",
                         "definition": "perusahaan cap-mengecap, pencetakan."
@@ -5791,14 +5728,9 @@
                     {
                         "sense": "1",
                         "definition": "berpecah drpd suatu tumpuan lalu berserak ke  berbagai-bagai arah yg berlainan (bkn sinar cahaya, pemikiran dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menjadi semakin lebar atau besar bukaannya apabila semakin ke  hujung atau ke hadapan (bkn bukaan kaki, jari kaki, jari tangan  dll):  jari-jari tangan dan kakiku ~ ke hadapan;"
                     }
                 ]
@@ -5845,8 +5777,7 @@
         ]
     },
     {
-        "term": "capai",
-        "roman_numeral": "I",
+        "term": "capai I; mencapai",
         "definitions": [
             {
                 "sense": "2",
@@ -6154,8 +6085,7 @@
         ]
     },
     {
-        "term": "caping",
-        "roman_numeral": "I",
+        "term": "caping I",
         "definitions": [
             {
                 "sense": "1",
@@ -6233,7 +6163,7 @@
         ]
     },
     {
-        "term": "caplok",
+        "term": "caplok ;  mencaplok",
         "origin": "Jw",
         "definitions": [
             {
@@ -6347,14 +6277,9 @@
                     {
                         "sense": "2",
                         "definition": "aturan-aturan, contoh-contoh;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "upacara."
                     }
                 ]
@@ -6392,8 +6317,7 @@
         ]
     },
     {
-        "term": "carak",
-        "roman_numeral": "I",
+        "term": "carak I; mencarak",
         "definitions": [
             {
                 "sense": "1",
@@ -6406,8 +6330,7 @@
         ]
     },
     {
-        "term": "carak",
-        "roman_numeral": "II",
+        "term": "carak II; mencarak",
         "definitions": [
             {
                 "sense": "1",
@@ -6671,8 +6594,7 @@
         ]
     },
     {
-        "term": "carik",
-        "roman_numeral": "I",
+        "term": "carik I",
         "definitions": [
             {
                 "sense": "1",
@@ -6681,18 +6603,13 @@
             {
                 "sense": "2",
                 "definition": "=  carikan  cabikan;"
+            },
+            {
+                "sense": "3",
+                "definition": "helai, keping:  se~ kertas; sirih se~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "helai, keping:  se~ kertas; sirih se~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bercarik-carik",
                 "definitions": [
@@ -6768,18 +6685,13 @@
             {
                 "sense": "1",
                 "definition": "peta yg disediakan utk membantu pelayaran atau penerbangan;"
+            },
+            {
+                "sense": "2",
+                "definition": "helaian yg memberikan maklumat (mis mengenai iklim,  kedudukan dan perkembangan perniagaan, struktur organisasi,  prestasi kerja, dll) dlm bentuk graf, jadual, atau gambar rajah;   ~ alir  =  ~ aliran  (Komp) gambar rajah atau perwakilan grafik yg  digunakan utk menunjukkan logik dan urutan sesuatu atur cara  komputer, atau utk memaparkan langkah-langkah pemprosesan yg  dilakukan;  ~ pai  sj gambar rajah atau perwakilan grafik utk  memaparkan pembahagian atau pecahan data, maklumat, dll dlm  bentuk bulatan yg dibahagi-bahagikan;  ~ palang  sj gambar rajah  atau perwakilan grafik yg menggunakan jalur yg sama lebar secara  menegak atau mendatar utk mewakili maklumat atau data;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "helaian yg memberikan maklumat (mis mengenai iklim,  kedudukan dan perkembangan perniagaan, struktur organisasi,  prestasi kerja, dll) dlm bentuk graf, jadual, atau gambar rajah;   ~ alir  =  ~ aliran  (Komp) gambar rajah atau perwakilan grafik yg  digunakan utk menunjukkan logik dan urutan sesuatu atur cara  komputer, atau utk memaparkan langkah-langkah pemprosesan yg  dilakukan;  ~ pai  sj gambar rajah atau perwakilan grafik utk  memaparkan pembahagian atau pecahan data, maklumat, dll dlm  bentuk bulatan yg dibahagi-bahagikan;  ~ palang  sj gambar rajah  atau perwakilan grafik yg menggunakan jalur yg sama lebar secara  menegak atau mendatar utk mewakili maklumat atau data;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mencartakan",
                 "definitions": [
@@ -6850,8 +6762,7 @@
         ]
     },
     {
-        "term": "caruk",
-        "roman_numeral": "I",
+        "term": "caruk I; mencaruk",
         "definitions": [
             {
                 "sense": "1",
@@ -6864,8 +6775,7 @@
         ]
     },
     {
-        "term": "caruk",
-        "roman_numeral": "II",
+        "term": "caruk II",
         "definitions": [
             {
                 "sense": "1",
@@ -7154,17 +7064,10 @@
             {
                 "sense": "1",
                 "definition": "rangka yg menyokong badan kenderaan (mis kereta):  nombor ~;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "rangka yg padanya terletak bahagian-bahagian elektrik radio,  TV, dll."
-                    }
-                ]
+                "sense": "2",
+                "definition": "rangka yg padanya terletak bahagian-bahagian elektrik radio,  TV, dll."
             }
         ]
     },
@@ -7292,7 +7195,7 @@
         ]
     },
     {
-        "term": "catat",
+        "term": "catat; mencatat",
         "definitions": [
             {
                 "sense": "1",
@@ -7446,8 +7349,7 @@
         ]
     },
     {
-        "term": "catuk",
-        "roman_numeral": "I",
+        "term": "catuk I; mencatuk",
         "definitions": [
             {
                 "sense": "1",
@@ -7480,8 +7382,7 @@
         ]
     },
     {
-        "term": "catuk",
-        "roman_numeral": "IV",
+        "term": "catuk IV",
         "definitions": [
             {
                 "sense": "1",
@@ -7596,8 +7497,7 @@
         ]
     },
     {
-        "term": "catut",
-        "roman_numeral": "I",
+        "term": "catut I",
         "definitions": [
             {
                 "sense": "1",
@@ -7621,8 +7521,7 @@
         ]
     },
     {
-        "term": "catut",
-        "roman_numeral": "II",
+        "term": "catut II",
         "definitions": [
             {
                 "sense": "1",
@@ -7745,17 +7644,10 @@
             {
                 "sense": "1",
                 "definition": "bersifat menunjukkan pendirian atau semangat yg keterlaluan  (melampau) dlm memperjuangkan kepentingan kaum atau  golongan tertentu:  tuduhan ini biasanya kurang tepat dan tidak  berasas, malah menimbulkan sikap ~ di kalangan pelbagai kaum;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "orang yg menunjukkan cauvinisme."
-                    }
-                ]
+                "sense": "2",
+                "definition": "orang yg menunjukkan cauvinisme."
             }
         ]
     },
@@ -8182,7 +8074,7 @@
         ]
     },
     {
-        "term": "cebok",
+        "term": "cebok (cébok)",
         "definitions": [
             {
                 "sense": "1",
@@ -8305,8 +8197,7 @@
         ]
     },
     {
-        "term": "cecah",
-        "roman_numeral": "I",
+        "term": "cecah I; sececah",
         "definitions": [
             {
                 "sense": "1",
@@ -8406,8 +8297,7 @@
         ]
     },
     {
-        "term": "cecak",
-        "roman_numeral": "II",
+        "term": "cecak II ;  mencecak",
         "origin": "Mn",
         "definitions": [
             {
@@ -8432,7 +8322,7 @@
         ]
     },
     {
-        "term": "cecap",
+        "term": "cecap; mencecap",
         "definitions": [
             {
                 "sense": "1",
@@ -8576,7 +8466,7 @@
         ]
     },
     {
-        "term": "cedas",
+        "term": "cedas , Kl",
         "origin": "Kd",
         "definitions": [
             {
@@ -8590,8 +8480,7 @@
         ]
     },
     {
-        "term": "cedera",
-        "roman_numeral": "I",
+        "term": "cedera I",
         "definitions": [
             {
                 "sense": "1",
@@ -8689,8 +8578,7 @@
         ]
     },
     {
-        "term": "cedera",
-        "roman_numeral": "III",
+        "term": "cedera III",
         "definitions": [
             {
                 "sense": "1",
@@ -8767,7 +8655,7 @@
         ]
     },
     {
-        "term": "cedok",
+        "term": "cedok (cédok);  mencedok",
         "definitions": [
             {
                 "sense": "1",
@@ -8942,7 +8830,7 @@
         ]
     },
     {
-        "term": "cegak",
+        "term": "cegak (cégak)",
         "definitions": [
             {
                 "sense": "1",
@@ -8975,8 +8863,7 @@
         ]
     },
     {
-        "term": "cegar",
-        "roman_numeral": "III",
+        "term": "cegar III",
         "definitions": [
             {
                 "sense": "1",
@@ -9069,7 +8956,7 @@
         ]
     },
     {
-        "term": "cek",
+        "term": "cek (cék)  III",
         "definitions": [
             {
                 "sense": "1",
@@ -9237,8 +9124,7 @@
         ]
     },
     {
-        "term": "cekal",
-        "roman_numeral": "II",
+        "term": "cekal II ark;  mencekal",
         "definitions": [
             {
                 "sense": "1",
@@ -9444,7 +9330,7 @@
         ]
     },
     {
-        "term": "cekau",
+        "term": "cekau; mencekau",
         "definitions": [
             {
                 "sense": "1",
@@ -9524,7 +9410,7 @@
         ]
     },
     {
-        "term": "ceker",
+        "term": "ceker (cékér)",
         "definitions": [
             {
                 "sense": "1",
@@ -9613,8 +9499,7 @@
         ]
     },
     {
-        "term": "cekik",
-        "roman_numeral": "I",
+        "term": "cekik I; mencekik",
         "definitions": [
             {
                 "sense": "1",
@@ -9623,18 +9508,13 @@
             {
                 "sense": "2",
                 "definition": "ki menekan,  memeras, menindas, menyeksa, menyengsarakan:  mereka dicekik  kemiskinan; mereka mendoakan agar kemarau jangan ~ mereka;"
+            },
+            {
+                "sense": "3",
+                "definition": "bk makan;  ~ darah  memeras (wang, tenaga, dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bk makan;  ~ darah  memeras (wang, tenaga, dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "tercekik",
                 "definitions": [
@@ -9645,14 +9525,9 @@
                     {
                         "sense": "2",
                         "definition": "tersangkut makanan di kerongkong (tekak);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "ki tertekan (oleh kemiskinan dll), berada dlm kesusahan yg amat  sangat:  janganlah kita lupakan golongan yg kehidupannya ~ dan  sentiasa berhempas-pulas utk menyambung hidup sehari-hari;"
                     }
                 ]
@@ -9857,8 +9732,7 @@
         ]
     },
     {
-        "term": "cekup",
-        "roman_numeral": "I",
+        "term": "cekup I; mencekup",
         "definitions": [
             {
                 "sense": "1",
@@ -9871,8 +9745,7 @@
         ]
     },
     {
-        "term": "cekup",
-        "roman_numeral": "II",
+        "term": "cekup II; mencekup",
         "definitions": [
             {
                 "sense": "1",
@@ -10402,7 +10275,7 @@
         ]
     },
     {
-        "term": "celat",
+        "term": "celat ;  mencelat",
         "origin": "Jk",
         "definitions": [
             {
@@ -10600,7 +10473,7 @@
         ]
     },
     {
-        "term": "celengan",
+        "term": "celengan (céléngan)",
         "definitions": [
             {
                 "sense": "1",
@@ -10709,7 +10582,7 @@
         ]
     },
     {
-        "term": "celerek",
+        "term": "celerek (celérék) Kl;  bercelerek",
         "definitions": [
             {
                 "sense": "1",
@@ -10763,8 +10636,7 @@
         ]
     },
     {
-        "term": "celik",
-        "roman_numeral": "I",
+        "term": "celik I",
         "definitions": [
             {
                 "sense": "1",
@@ -11401,8 +11273,7 @@
         ]
     },
     {
-        "term": "cemar",
-        "roman_numeral": "I",
+        "term": "cemar I",
         "definitions": [
             {
                 "sense": "1",
@@ -11515,8 +11386,7 @@
         ]
     },
     {
-        "term": "cemara",
-        "roman_numeral": "I",
+        "term": "cemara I",
         "definitions": [
             {
                 "sense": "1",
@@ -11838,7 +11708,7 @@
         ]
     },
     {
-        "term": "cemeh",
+        "term": "cemeh (céméh)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -12107,7 +11977,7 @@
         ]
     },
     {
-        "term": "cemoyang",
+        "term": "cemoyang ;  bercemoyang",
         "origin": "Pr",
         "definitions": [
             {
@@ -12314,7 +12184,7 @@
         ]
     },
     {
-        "term": "cempiang",
+        "term": "cempiang ark",
         "definitions": [
             {
                 "sense": "1",
@@ -12517,7 +12387,7 @@
         ]
     },
     {
-        "term": "cena",
+        "term": "cena (céna)",
         "definitions": [
             {
                 "sense": "1",
@@ -12951,8 +12821,7 @@
         ]
     },
     {
-        "term": "cendera",
-        "roman_numeral": "I",
+        "term": "cendera I sl",
         "definitions": [
             {
                 "sense": "1",
@@ -13092,18 +12961,17 @@
             {
                 "sense": "2",
                 "definition": "menaruh minat (keinginan,  kasih, dsb) terhadap sesuatu, suka (akan sesuatu atau melakukan  sesuatu), menunjukkan kegemaran kpd:  ia lebih ~ membaca novel;"
+            },
+            {
+                "sense": "3",
+                "definition": "berpihak kpd, memilih pihak, menyebelahi, condong:  hakim yg  adil tidak ~ kpd pihak mana pun;"
+            },
+            {
+                "sense": "4",
+                "definition": "sl lereng bukit (jurang, tebing,  dll) yg curam:  ~ yg tinggi lagi terjal;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "sl lereng bukit (jurang, tebing,  dll) yg curam:  ~ yg tinggi lagi terjal;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mencenderungkan",
                 "definitions": [
@@ -13263,8 +13131,7 @@
         ]
     },
     {
-        "term": "cengam",
-        "roman_numeral": "I",
+        "term": "cengam I; mencengam",
         "definitions": [
             {
                 "sense": "1",
@@ -13325,7 +13192,7 @@
         ]
     },
     {
-        "term": "cengap",
+        "term": "cengap; mencengap",
         "definitions": [
             {
                 "sense": "1",
@@ -13365,7 +13232,7 @@
         ]
     },
     {
-        "term": "cengeng",
+        "term": "cengeng (céngéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -13511,8 +13378,7 @@
         ]
     },
     {
-        "term": "cengkam",
-        "roman_numeral": "I",
+        "term": "cengkam I ",
         "definitions": [
             {
                 "sense": "1",
@@ -13530,12 +13396,11 @@
                     {
                         "sense": "1",
                         "definition": "memegang kuat-kuat dgn kuku (cakar),  mencengkeram:  rambut anaknya itu dicengkamnya lalu ditariknya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "mengapit (menyepit), mencantumkan kain dll (dgn menjahit);"
+                    },
                     {
                         "sense": "3",
                         "definition": "ki menguasai (memeras, menindas):  perjuangan sekarang adalah  utk menghalang kaum kapitalis ~ semula kemakmuran negara;"
@@ -14108,7 +13973,7 @@
         ]
     },
     {
-        "term": "cenok",
+        "term": "cenok (cénok)",
         "definitions": [
             {
                 "sense": "1",
@@ -14201,7 +14066,7 @@
         ]
     },
     {
-        "term": "centeng",
+        "term": "centeng (centéng) Id",
         "definitions": [
             {
                 "sense": "1",
@@ -14218,7 +14083,7 @@
         ]
     },
     {
-        "term": "centet",
+        "term": "centet (centét) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -14240,7 +14105,7 @@
         ]
     },
     {
-        "term": "centong",
+        "term": "centong (céntong)",
         "definitions": [
             {
                 "sense": "1",
@@ -14632,17 +14497,10 @@
             {
                 "sense": "1",
                 "definition": "sj cembul utk tempat tembakau dll (dibuat drpd perak, kayu, dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj kotak drpd mengkuang dll (utk membawa makanan, pakaian,  dll);  ~ debunga  bahagian stamen yg mengandungi debunga, anter;  bagai ~ dgn tudung nya prb sesuai benar (cocok sekali)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj kotak drpd mengkuang dll (utk membawa makanan, pakaian,  dll);  ~ debunga  bahagian stamen yg mengandungi debunga, anter;  bagai ~ dgn tudung nya prb sesuai benar (cocok sekali)."
             }
         ]
     },
@@ -14684,8 +14542,7 @@
         ]
     },
     {
-        "term": "cepuk",
-        "roman_numeral": "II",
+        "term": "cepuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -14865,7 +14722,7 @@
         ]
     },
     {
-        "term": "cerah",
+        "term": "cerah l",
         "definitions": [
             {
                 "sense": "1",
@@ -15146,8 +15003,7 @@
         ]
     },
     {
-        "term": "cerakin",
-        "roman_numeral": "III",
+        "term": "cerakin III; mencerakin, mencerakinkan",
         "definitions": [
             {
                 "sense": "1",
@@ -15296,7 +15152,7 @@
         ]
     },
     {
-        "term": "ceranggah",
+        "term": "ceranggah; berceranggah",
         "definitions": [
             {
                 "sense": "1",
@@ -15686,7 +15542,7 @@
         ]
     },
     {
-        "term": "cerek",
+        "term": "cerek (cérék)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -15826,7 +15682,7 @@
         ]
     },
     {
-        "term": "cerewet",
+        "term": "cerewet (ceréwét)",
         "definitions": [
             {
                 "sense": "1",
@@ -15941,7 +15797,7 @@
         ]
     },
     {
-        "term": "ceri",
+        "term": "ceri (céri)",
         "definitions": [
             {
                 "sense": "1",
@@ -15954,8 +15810,7 @@
         ]
     },
     {
-        "term": "ceria",
-        "roman_numeral": "I",
+        "term": "ceria I",
         "definitions": [
             {
                 "sense": "1",
@@ -16373,14 +16228,9 @@
                     {
                         "sense": "1",
                         "definition": "melakukan sesuatu dgn cermat (teliti, hati-hati);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menghematkan, menjimatkan:  ia memberitahu saya bagaimana  ~ wang belanja;"
                     }
                 ]
@@ -16419,8 +16269,7 @@
         ]
     },
     {
-        "term": "cermin",
-        "roman_numeral": "I",
+        "term": "cermin I",
         "definitions": [
             {
                 "sense": "1",
@@ -16540,8 +16389,7 @@
         ]
     },
     {
-        "term": "cermin",
-        "roman_numeral": "III",
+        "term": "cermin III",
         "definitions": [
             {
                 "sense": "1",
@@ -16558,7 +16406,7 @@
         ]
     },
     {
-        "term": "cerna",
+        "term": "cerna ark",
         "definitions": [
             {
                 "sense": "1",
@@ -16636,8 +16484,7 @@
         ]
     },
     {
-        "term": "ceroboh",
-        "roman_numeral": "I",
+        "term": "ceroboh I",
         "definitions": [
             {
                 "sense": "1",
@@ -16714,7 +16561,7 @@
         ]
     },
     {
-        "term": "ceroboh",
+        "term": "ceroboh II  Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -16955,18 +16802,17 @@
             {
                 "sense": "3",
                 "definition": "pancang-pancang yg dipacak di tepi laut;"
+            },
+            {
+                "sense": "4",
+                "definition": "pangkalan di pelabuhan, jeti;"
+            },
+            {
+                "sense": "5",
+                "definition": "ceracak, cerancang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "ceracak, cerancang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mencerucuk",
                 "definitions": [
@@ -17042,8 +16888,7 @@
         ]
     },
     {
-        "term": "ceruk",
-        "roman_numeral": "I",
+        "term": "ceruk I",
         "definitions": [
             {
                 "sense": "1",
@@ -17052,22 +16897,21 @@
             {
                 "sense": "2",
                 "definition": "lubang, liang, ruang (pd dinding, dlm tanah, dlm  timbunan barang, dll), gua, celah, sela;  ~ gunung  lembah gunung;"
+            },
+            {
+                "sense": "3",
+                "definition": "lekuk (pd geladak kapal, jalan, dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "teluk yg kecil;"
+            },
+            {
+                "sense": "5",
+                "definition": "penjuru  atau sudut jalan, lorong (jalan kecil dll);  di seluruh ~ rantau  di  merata tempat, di mana-mana;  ~-meruk  bermacam-macam ceruk;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "teluk yg kecil;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "penjuru  atau sudut jalan, lorong (jalan kecil dll);  di seluruh ~ rantau  di  merata tempat, di mana-mana;  ~-meruk  bermacam-macam ceruk;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menceruk",
                 "definitions": [
@@ -17220,8 +17064,7 @@
         ]
     },
     {
-        "term": "cerut",
-        "roman_numeral": "I",
+        "term": "cerut I; mencerut",
         "definitions": [
             {
                 "sense": "1",
@@ -17344,7 +17187,7 @@
         ]
     },
     {
-        "term": "cetak",
+        "term": "cetak (cétak )",
         "definitions": [
             {
                 "sense": "1",
@@ -17497,7 +17340,7 @@
         ]
     },
     {
-        "term": "cetek",
+        "term": "cetek (céték)",
         "definitions": [
             {
                 "sense": "1",
@@ -17610,7 +17453,7 @@
         ]
     },
     {
-        "term": "ceti",
+        "term": "ceti (céti)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -17807,7 +17650,7 @@
         ]
     },
     {
-        "term": "cewe",
+        "term": "cewe (céwé)",
         "definitions": [
             {
                 "sense": "1",
@@ -17838,7 +17681,7 @@
         ]
     },
     {
-        "term": "cewek",
+        "term": "cewek (céwék) bp",
         "definitions": [
             {
                 "sense": "1",
@@ -17934,8 +17777,7 @@
         ]
     },
     {
-        "term": "ci",
-        "roman_numeral": "III",
+        "term": "ci III sr",
         "definitions": [
             {
                 "sense": "1",
@@ -18233,23 +18075,15 @@
         ]
     },
     {
-        "term": "cicik",
-        "roman_numeral": "II",
+        "term": "cicik II ark;  mencicik",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "mendesing, mendesis (bunyi air mendidih dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki mengalir keluar (peluh)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "ki mengalir keluar (peluh)."
             }
         ]
     },
@@ -18870,8 +18704,7 @@
         ]
     },
     {
-        "term": "cincang",
-        "roman_numeral": "II",
+        "term": "cincang II",
         "definitions": [
             {
                 "sense": "1",
@@ -18907,8 +18740,7 @@
         ]
     },
     {
-        "term": "cincin",
-        "roman_numeral": "I",
+        "term": "cincin I",
         "definitions": [
             {
                 "sense": "1",
@@ -18958,8 +18790,7 @@
         ]
     },
     {
-        "term": "cindai",
-        "roman_numeral": "I",
+        "term": "cindai I",
         "definitions": [
             {
                 "sense": "1",
@@ -19001,7 +18832,7 @@
         ]
     },
     {
-        "term": "cindur",
+        "term": "cindur; ",
         "definitions": [
             {
                 "sense": "1",
@@ -19182,14 +19013,9 @@
                     {
                         "sense": "1",
                         "definition": "mengasihi, menaruh cinta pd:  ia ingin ~ dan dicintai ;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "merindukan (hendak memperoleh sesuatu dll), mengharap- harapkan, menginginkan:  tidak ada orang yg tak ~ duit;"
                     }
                 ]
@@ -19249,7 +19075,7 @@
         ]
     },
     {
-        "term": "cintamani",
+        "term": "cintamani sl",
         "definitions": [
             {
                 "sense": "1",
@@ -19656,8 +19482,7 @@
         ]
     },
     {
-        "term": "cita",
-        "roman_numeral": "I",
+        "term": "cita I",
         "definitions": [
             {
                 "sense": "1",
@@ -19747,7 +19572,7 @@
         ]
     },
     {
-        "term": "cita",
+        "term": "cita rasa",
         "definitions": [
             {
                 "sense": "1",
@@ -19865,14 +19690,9 @@
                     {
                         "sense": "1",
                         "definition": "menyedut dgn hidung antara satu dgn lain (utk  menyatakan rindu, sayang, dll):  semuanya berpeluk ~ dgn Indrajit;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "berkucup;"
                     }
                 ]
@@ -20022,8 +19842,7 @@
         ]
     },
     {
-        "term": "ciut",
-        "roman_numeral": "II",
+        "term": "ciut II",
         "origin": "Jk",
         "definitions": [
             {
@@ -20565,7 +20384,7 @@
         ]
     },
     {
-        "term": "cokeh",
+        "term": "cokeh (cokéh) Kl, Tr;  mencokeh",
         "definitions": [
             {
                 "sense": "1",
@@ -20795,7 +20614,7 @@
         ]
     },
     {
-        "term": "colek",
+        "term": "colek (colék)  I; secolek",
         "definitions": [
             {
                 "sense": "1",
@@ -20849,7 +20668,7 @@
         ]
     },
     {
-        "term": "colek",
+        "term": "colek (colék)  III  Kl, Tr",
         "definitions": [
             {
                 "sense": "1",
@@ -20901,8 +20720,7 @@
         ]
     },
     {
-        "term": "colok",
-        "roman_numeral": "II",
+        "term": "colok II; mencolok",
         "definitions": [
             {
                 "sense": "1",
@@ -21019,7 +20837,7 @@
         ]
     },
     {
-        "term": "comel",
+        "term": "comel (comél)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -21028,18 +20846,13 @@
             {
                 "sense": "2",
                 "definition": "cantik dan  menarik serta kecil orangnya (bkn gadis atau wanita), kecil molek;"
+            },
+            {
+                "sense": "3",
+                "definition": "kecil dan cantik (bkn benda, binatang, dsb) kecil dan cantik;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kecil dan cantik (bkn benda, binatang, dsb) kecil dan cantik;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mencomelkan",
                 "definitions": [
@@ -21061,7 +20874,7 @@
         ]
     },
     {
-        "term": "comel",
+        "term": "comel (comél)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -21302,7 +21115,7 @@
         ]
     },
     {
-        "term": "conet",
+        "term": "conet (conét)",
         "definitions": [
             {
                 "sense": "1",
@@ -21428,7 +21241,7 @@
         ]
     },
     {
-        "term": "congek",
+        "term": "congek (congék)  I  Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -21829,14 +21642,9 @@
                     {
                         "sense": "1",
                         "definition": "membuat sesuatu dgn mengikut contoh, mengambil  contoh, meniru, meneladani:  guru hendaklah dr mula menunjukkan  tabiat yg baik supaya dapat dicontohi oleh kanak-kanak; kita umat  Islam harus ~ keperibadian dan sifat-sifat Nabi Muhammad SAW;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ark memberi contoh kpd;"
                     }
                 ]
@@ -21869,14 +21677,9 @@
                     {
                         "sense": "1",
                         "definition": "benda-benda yg dijadikan contoh (spt barang  dagangan dll);  nombor   ~  nombor contoh (penerbitan, majalah, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "benda utk ditiru, model:  desa ~ ."
                     }
                 ]
@@ -21894,8 +21697,7 @@
         ]
     },
     {
-        "term": "cop",
-        "roman_numeral": "I",
+        "term": "cop I",
         "origin": "Kd",
         "definitions": [
             {
@@ -22092,8 +21894,7 @@
         ]
     },
     {
-        "term": "corak",
-        "roman_numeral": "I",
+        "term": "corak I",
         "definitions": [
             {
                 "sense": "1",
@@ -22410,16 +22211,7 @@
                 "sub_term": "4",
                 "definitions": [
                     {
-                        "sense": "1",
-                        "definition": ". = ~ lampu  salur kaca utk melindungi nyala lampu, cimni lampu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
+                        "sense": "5",
                         "definition": "teropong (utk melihat jauh);  6 . alat penguat suara, mikrofon;      ~ Baermann  (Bio) radas yg digunakan utk mengasingkan  organisma kecil drpd suatu sampel (biasanya tanah);  ~ dengar  alat  utk mendengar yg dipakai oleh orang yg agak pekak;  ~ radio  alat  yg menangkap suara utk disiarkan melalui radio;  ~ telefon  gagang  telefon;"
                     }
                 ]
@@ -22430,14 +22222,9 @@
                     {
                         "sense": "1",
                         "definition": "bersinar dgn terangnya (bkn lampu, matahari, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyuluhi (menerangi) dgn lampu corong;"
                     }
                 ]
@@ -22518,22 +22305,15 @@
         ]
     },
     {
-        "term": "cotek",
+        "term": "cotek (coték)  II  Kl",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tempat yg tertinggi sekali (spt kemuncak bukit dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki yg tertinggi (teratas)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "ki yg tertinggi (teratas)."
             }
         ]
     },
@@ -22576,7 +22356,7 @@
         ]
     },
     {
-        "term": "cowok",
+        "term": "cowok bp",
         "definitions": [
             {
                 "sense": "1",
@@ -22905,14 +22685,9 @@
                     {
                         "sense": "1",
                         "definition": "sesuatu yg dialami (dilakukan) utk mencuba (menguji),  ujian, dugaan:  kejujuran manusia kelihatan sebelum ia ditimpa ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "usaha (utk mencapai sesuatu):  pd kurun ke-20 telah ada ~ utk  memahami Islam;"
                     }
                 ]
@@ -23241,7 +23016,7 @@
         ]
     },
     {
-        "term": "cucuh",
+        "term": "cucuh; mencucuh",
         "definitions": [
             {
                 "sense": "1",
@@ -23308,8 +23083,7 @@
         ]
     },
     {
-        "term": "cucuk",
-        "roman_numeral": "I",
+        "term": "cucuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -23428,8 +23202,7 @@
         ]
     },
     {
-        "term": "cucuk",
-        "roman_numeral": "II",
+        "term": "cucuk II",
         "origin": "Jw",
         "definitions": [
             {
@@ -24044,8 +23817,7 @@
         ]
     },
     {
-        "term": "cula",
-        "roman_numeral": "I",
+        "term": "cula I",
         "definitions": [
             {
                 "sense": "1",
@@ -24179,8 +23951,7 @@
         ]
     },
     {
-        "term": "culik",
-        "roman_numeral": "II",
+        "term": "culik II",
         "definitions": [
             {
                 "sense": "1",
@@ -24407,8 +24178,7 @@
         ]
     },
     {
-        "term": "cun",
-        "roman_numeral": "II",
+        "term": "cun II bp",
         "definitions": [
             {
                 "sense": "1",
@@ -24714,8 +24484,7 @@
         ]
     },
     {
-        "term": "cup",
-        "roman_numeral": "II",
+        "term": "cup II sr",
         "definitions": [
             {
                 "sense": "1",
@@ -24764,7 +24533,7 @@
         ]
     },
     {
-        "term": "cupak",
+        "term": "cupak I",
         "definitions": [
             {
                 "sense": "1",
@@ -24905,8 +24674,7 @@
         ]
     },
     {
-        "term": "cupu",
-        "roman_numeral": "I",
+        "term": "cupu I, cupu-cupu",
         "definitions": [
             {
                 "sense": "1",
@@ -24981,7 +24749,7 @@
         ]
     },
     {
-        "term": "curah",
+        "term": "curah; mencurah",
         "definitions": [
             {
                 "sense": "1",
@@ -24999,14 +24767,9 @@
                     {
                         "sense": "1",
                         "definition": "mengalir dgn deras, banyak dan dlm tempoh  yg agak lama:  hujan masih turun ~ dan kilat sabung-menyabung;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki datang dgn banyaknya dan tidak putus-putus:  mudah- mudahan ia beroleh rezeki yg ~;"
                     }
                 ]
@@ -25167,8 +24930,7 @@
         ]
     },
     {
-        "term": "curang",
-        "roman_numeral": "I",
+        "term": "curang I",
         "definitions": [
             {
                 "sense": "1",
@@ -25324,8 +25086,7 @@
         ]
     },
     {
-        "term": "curiga",
-        "roman_numeral": "II",
+        "term": "curiga II",
         "definitions": [
             {
                 "sense": "1",
@@ -25404,17 +25165,10 @@
             {
                 "sense": "1",
                 "definition": "bunyi spt bunyi angin keluar dr tiub bola (bara api disiram air dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kata utk menyatakan sesuatu gerakan yg deras spt angin dll."
-                    }
-                ]
+                "sense": "2",
+                "definition": "kata utk menyatakan sesuatu gerakan yg deras spt angin dll."
             }
         ]
     },

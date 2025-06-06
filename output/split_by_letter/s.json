@@ -35,7 +35,7 @@
         ]
     },
     {
-        "term": "saadah",
+        "term": "saadah, saadat",
         "origin": "Ar",
         "definitions": [
             {
@@ -106,8 +106,7 @@
         ]
     },
     {
-        "term": "sabak",
-        "roman_numeral": "I",
+        "term": "sabak I",
         "origin": "Mn",
         "definitions": [
             {
@@ -132,8 +131,7 @@
         ]
     },
     {
-        "term": "sabak",
-        "roman_numeral": "II",
+        "term": "sabak II",
         "definitions": [
             {
                 "sense": "1",
@@ -420,8 +418,7 @@
         ]
     },
     {
-        "term": "sabit",
-        "roman_numeral": "I",
+        "term": "sabit I",
         "definitions": [
             {
                 "sense": "1",
@@ -882,7 +879,7 @@
         ]
     },
     {
-        "term": "sad",
+        "term": "sad d)",
         "definitions": [
             {
                 "sense": "1",
@@ -973,8 +970,7 @@
         ]
     },
     {
-        "term": "sadak",
-        "roman_numeral": "II",
+        "term": "sadak II",
         "definitions": [
             {
                 "sense": "1",
@@ -1483,8 +1479,7 @@
         ]
     },
     {
-        "term": "saga",
-        "roman_numeral": "I",
+        "term": "saga I",
         "definitions": [
             {
                 "sense": "1",
@@ -1511,22 +1506,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "sj ikan laut, cermin,  Caroides armatus;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj ikan laut, cermin,  Caroides armatus;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sj ikan laut,  Ulua  mentalis."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj ikan laut,  Ulua  mentalis."
             }
         ]
     },
@@ -1545,14 +1529,9 @@
                     {
                         "sense": "1",
                         "definition": "menyandarkan (senapang, tombak, dll) pd sagang;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menopang dgn kayu dll yg dipasang condong;"
                     }
                 ]
@@ -1679,8 +1658,7 @@
         ]
     },
     {
-        "term": "sagu",
-        "roman_numeral": "I",
+        "term": "sagu I",
         "definitions": [
             {
                 "sense": "1",
@@ -1906,18 +1884,13 @@
             {
                 "sense": "9",
                 "definition": "sengaja, dgn niat sendiri:  ~ aku  mengerjakan umrah dan ihram dengannya kerana Allah Taala;"
+            },
+            {
+                "sense": "10",
+                "definition": "spt biasa (tidak ditambah-tambah):  dgn mata ~ dapat dilihat  bintang itu; ~ bahasan  prb sudah menjadi kebiasaan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "10.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "spt biasa (tidak ditambah-tambah):  dgn mata ~ dapat dilihat  bintang itu; ~ bahasan  prb sudah menjadi kebiasaan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersahaja, bersahaja-sahaja",
                 "definitions": [
@@ -2413,7 +2386,7 @@
         ]
     },
     {
-        "term": "sain",
+        "term": "sain bp",
         "definitions": [
             {
                 "sense": "1",
@@ -2437,8 +2410,7 @@
         ]
     },
     {
-        "term": "saing",
-        "roman_numeral": "I",
+        "term": "saing I",
         "definitions": [
             {
                 "sense": "1",
@@ -2588,22 +2560,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "ilmu pengetahuan yg teratur (sistematik) yg boleh diuji atau  dibuktikan kebenarannya;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ilmu pengetahuan yg teratur (sistematik) yg boleh diuji atau  dibuktikan kebenarannya;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "cabang ilmu pengetahuan yg  berdasarkan kebenaran atau kenyataan semata-mata (fizik, kimia,  biologi, dll)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "cabang ilmu pengetahuan yg  berdasarkan kebenaran atau kenyataan semata-mata (fizik, kimia,  biologi, dll)."
             }
         ]
     },
@@ -2717,8 +2678,7 @@
         ]
     },
     {
-        "term": "sajak",
-        "roman_numeral": "I",
+        "term": "sajak I",
         "definitions": [
             {
                 "sense": "1",
@@ -2985,8 +2945,7 @@
         ]
     },
     {
-        "term": "saka",
-        "roman_numeral": "II",
+        "term": "saka II",
         "definitions": [
             {
                 "sense": "1",
@@ -3009,8 +2968,7 @@
         ]
     },
     {
-        "term": "saka",
-        "roman_numeral": "IV",
+        "term": "saka IV",
         "origin": "Jw",
         "definitions": [
             {
@@ -3082,7 +3040,7 @@
         ]
     },
     {
-        "term": "sakan",
+        "term": "sakan , Kl, Tr",
         "origin": "Kd",
         "definitions": [
             {
@@ -3733,8 +3691,7 @@
         ]
     },
     {
-        "term": "sal",
-        "roman_numeral": "I",
+        "term": "sal I",
         "definitions": [
             {
                 "sense": "1",
@@ -3804,8 +3761,7 @@
         ]
     },
     {
-        "term": "salah",
-        "roman_numeral": "I",
+        "term": "salah I",
         "definitions": [
             {
                 "sense": "1",
@@ -4117,14 +4073,9 @@
                     {
                         "sense": "1",
                         "definition": "sedang dikeringkan (diasapi, dipanggang) di atas api;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "duduk di atas tempat yg agak tinggi dan di bawahnya terdapat  bara utk memanaskan badan (terutamanya bagi perempuan yg baru  bersalin):  amalan ~ utk menghangatkan badan dan mempercepat  berkurangnya darah nifas dan mengecutkan rahim secara  perlahan-lahan telah hampir lenyap;   bergantung tidak bertali, ~  tidak berapi  prb perempuan yg mengandung di luar nikah;"
                     }
                 ]
@@ -4139,14 +4090,9 @@
                     {
                         "sense": "2",
                         "definition": "memanaskan badan dekat api (bagi perempuan yg baru bersalin);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "memasang lampu (damar dll):  kemudian dian pula yg disalai;"
                     }
                 ]
@@ -4252,8 +4198,7 @@
         ]
     },
     {
-        "term": "salam",
-        "roman_numeral": "I",
+        "term": "salam I",
         "definitions": [
             {
                 "sense": "1",
@@ -4387,8 +4332,7 @@
         ]
     },
     {
-        "term": "salang",
-        "roman_numeral": "II",
+        "term": "salang II",
         "definitions": [
             {
                 "sense": "1",
@@ -5159,14 +5103,9 @@
                     {
                         "sense": "7",
                         "definition": "bp  dengan, berserta:  Ahmad sekarang sudah jarang bermain ~ kami;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "8.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "8",
                         "definition": "sl sambil, seraya:  maka kata Raja Muhammad, “Cih! Jatuh  destar kita oleh Tun Besar,” ~ ia memandang penjawatnya;      ~ ada  apakah, ataukah;  ~ ada ... atau  baik ... mahupun;  ~ bina  mempunyai nilai (kadar, keadaan, dll) yg sama;  ~ dengan  serupa  dengan;  ~ kita  antara kita sahaja;  ~ nilai  (mempunyai) sama  nilaian (ukuran dll);  ~ sahaja  tidak berbeza (berubah);  ~ sahaja  (juga halnya) dgn  tidak ubahnya spt;  ~   segi  (mempunyai) segi yg  sama;  ~ sekali  seluruhnya, segenapnya;  ~ sendap  Kl berpadanan  dan sesuai, cocok;  ~ sendiri  =  satu ~ lain  antara mereka itu  sendiri;  ~ tengah  a) betul-betul di tengah; b) tidak memihak ke  mana-mana, berkecuali;  ~ ukur  kesamaan dlm bentuk (saiz dll)  antara dua bahagian;  ~ unsur  (unsur-unsur yg) sama sifat kimia  nya tetapi berlainan berat atomnya, isotop;    air ~ air, sampah ke tepi juga  prb jangan ikut campur perselisihan  orang bersaudara, apabila mereka berbaik kembali kita akan  tersisih juga;  burung pipit ~ enggang  prb jodoh yg tidak sepadan;  tak ~ getah batang dgn getah daun  prb kasih kpd anak sendiri itu  tidak sama dgn kasih kpd anak saudara;  telentang ~ menadah  embun, tertiarap ~ memakan pasir  =  tertungkup ~ termakan  tanah, tertelentang ~ terminum embun  prb orang yg seia sekata  dlm pergaulan;"
                     }
                 ]
@@ -5228,12 +5167,11 @@
                     {
                         "sense": "1",
                         "definition": "bertepatan dgn, berbetulan dgn:  hari Khamis ~ 20  September; ada dua orang ahli Tasawuf yg ~ waktunya di Acheh;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "hampir sama, hampir serupa;"
+                    },
                     {
                         "sense": "3",
                         "definition": "berbandingan (dgn),  berimbangan (dgn):  30 sentimeter salji ~ dgn"
@@ -5281,12 +5219,11 @@
                     {
                         "sense": "1",
                         "definition": "menjadikan sama (serupa, selaras, dll):  arnab  dapat ~ warna dirinya dgn warna tanah; kerajaan Persekutuan  boleh ~ undang-undang antara sebuah negeri dgn negeri yg lain;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menganggap (memandang) sama sahaja (dgn sesuatu),  menganggap tidak berbeza drpd, menganggap serupa (setara,  setanding, dll):  pendekatan formalistik sering disamakan dgn  pendekatan struktur; gadis Melayu tidak boleh disamakan dgn  gadis Barat;"
+                    },
                     {
                         "sense": "3",
                         "definition": "mengumpamakan, mengibaratkan, menganggap  sama atau seolah-olah spt:  manusia tidak boleh disamakan dengan  jentera;   perbuatan serupa itu dapat disamakan dgn mengusik  anjing tidur;"
@@ -5501,7 +5438,7 @@
         ]
     },
     {
-        "term": "samar",
+        "term": "samar ",
         "definitions": [
             {
                 "sense": "1",
@@ -5869,7 +5806,7 @@
         ]
     },
     {
-        "term": "sambar",
+        "term": "sambar; menyambar",
         "definitions": [
             {
                 "sense": "1",
@@ -6367,7 +6304,7 @@
         ]
     },
     {
-        "term": "sambut",
+        "term": "sambut; bersambut",
         "definitions": [
             {
                 "sense": "1",
@@ -6411,21 +6348,15 @@
                     {
                         "sense": "1",
                         "definition": "menerima (menangkap dll) dgn tangan:  maka surat  itu disambut oleh bentara, dan dipersembahkannya kpd Sultan  Pahang; saya menghulurkan tangan kepadanya dan disambutnya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menerima  (perkhabaran,  cadangan,  dll),  memberi  (menunjukkan) reaksi kpd:  ibu ~ berita itu dgn menghamburkan  air mata; ini dilakukan sbg ~ cadangan Angkatan Sasterawan 50;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "=  menyambuti  sl menerima kedatangan orang, mengalu-alukan  (tetamu dll), menyongsong:  maka pergilah segala bentara dan  biduanda ~ orang dua belas itu;"
+                    },
                     {
                         "sense": "4",
                         "definition": "menjawab (percakapan dll),  menyampuk:  Wan Derus ~ cakap isterinya;"
@@ -6629,32 +6560,30 @@
         ]
     },
     {
-        "term": "sampai",
-        "roman_numeral": "I",
+        "term": "sampai I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tiba (di):  tidak berapa lamanya belayar itu, ~lah ia ke Riau;"
+            },
+            {
+                "sense": "2",
+                "definition": "mencapai tujuan (maksud, niat, dll):  maka terlalulah susah hati  sahaya sebab surat itu tiada ~ ke dalam; apa lagi yg kaufikirkan?  Maksudmu telah ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "sehingga menjadi:  mengapa mak ~ begini  melarat;"
+            },
+            {
+                "sense": "4",
+                "definition": "mencapai had, cukup:  gajinya tidak ~ seratus ringgit  tetapi berlagak macam orang kaya;"
+            },
+            {
+                "sense": "5",
+                "definition": "hingga ke, sehingga:  ~ hari  ini, kami tidak pernah mempedulikan dia lagi;      ~ ajal  meninggal;  ~ akal  boleh diterima oleh fikiran, tidak  mustahil;  ~ bulan(nya)  a) tiba waktu utk melahirkan (anak dlm  kandungan); b) cukup tempoh (yg telah ditetapkan);  ~ hati  =  ~  hemat  berasa tidak segan-segan lagi, tergamak melakukan sesuatu;  ~ tempoh  tiba waktunya atau masanya (yg telah dijanjikan);  ~  umur  a) sudah dewasa; b) sudah lanjut umur;  sudah ~ umurnya  meninggal;  nan dimaksudkan, ~, nan diamalkan pecah  prb sudah  berlaku apa-apa yg dimaksudkan atau yg dicita-citakan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "sehingga menjadi:  mengapa mak ~ begini  melarat;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "mencapai had, cukup:  gajinya tidak ~ seratus ringgit  tetapi berlagak macam orang kaya;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "hingga ke, sehingga:  ~ hari  ini, kami tidak pernah mempedulikan dia lagi;      ~ ajal  meninggal;  ~ akal  boleh diterima oleh fikiran, tidak  mustahil;  ~ bulan(nya)  a) tiba waktu utk melahirkan (anak dlm  kandungan); b) cukup tempoh (yg telah ditetapkan);  ~ hati  =  ~  hemat  berasa tidak segan-segan lagi, tergamak melakukan sesuatu;  ~ tempoh  tiba waktunya atau masanya (yg telah dijanjikan);  ~  umur  a) sudah dewasa; b) sudah lanjut umur;  sudah ~ umurnya  meninggal;  nan dimaksudkan, ~, nan diamalkan pecah  prb sudah  berlaku apa-apa yg dimaksudkan atau yg dicita-citakan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sesampai, sesampainya",
                 "definitions": [
@@ -6747,14 +6676,9 @@
                     {
                         "sense": "1",
                         "definition": "orang yg menyampaikan (surat, khabar, berita, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "(sesuatu) yg menyampaikan:  namun begitu bahasa Malaysia  masih belum menjadi alat ~ perasaan di kalangan mereka."
                     }
                 ]
@@ -6762,8 +6686,7 @@
         ]
     },
     {
-        "term": "sampai",
-        "roman_numeral": "II",
+        "term": "sampai II; menyampai",
         "definitions": [
             {
                 "sense": "1",
@@ -6906,8 +6829,7 @@
         ]
     },
     {
-        "term": "sampang",
-        "roman_numeral": "III",
+        "term": "sampang III ark",
         "definitions": [
             {
                 "sense": "1",
@@ -7010,7 +6932,7 @@
         ]
     },
     {
-        "term": "samper",
+        "term": "samper ;  menyamperi",
         "origin": "Jk",
         "definitions": [
             {
@@ -7272,7 +7194,7 @@
         ]
     },
     {
-        "term": "sampuk",
+        "term": "sampuk ",
         "definitions": [
             {
                 "sense": "1",
@@ -7492,7 +7414,7 @@
         ]
     },
     {
-        "term": "samurai",
+        "term": "samurai (Jepun)",
         "definitions": [
             {
                 "sense": "1",
@@ -7505,8 +7427,7 @@
         ]
     },
     {
-        "term": "sana",
-        "roman_numeral": "I",
+        "term": "sana I",
         "definitions": [
             {
                 "sense": "1",
@@ -7800,12 +7721,11 @@
                     {
                         "sense": "1",
                         "definition": "membawa sesuatu dgn tali dll yg diselendangkan  di bahu:  ~ senapang; ketika bertanya itu, ia sedang ~ kameranya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "memikul, memanggul:  ~ pedang; orang yg membawa  persalinan itu semuanya ~ tetampan kekuningan;"
+                    },
                     {
                         "sense": "3",
                         "definition": "ki  menanggung atau menderita sesuatu (kesusahan, kesakitan, dll):  ~  derita;"
@@ -7875,8 +7795,7 @@
         ]
     },
     {
-        "term": "sandar",
-        "roman_numeral": "I",
+        "term": "sandar I; bersandar",
         "definitions": [
             {
                 "sense": "1",
@@ -8528,8 +8447,7 @@
         ]
     },
     {
-        "term": "sangga",
-        "roman_numeral": "III",
+        "term": "sangga III",
         "origin": "Kl",
         "definitions": [
             {
@@ -8565,8 +8483,7 @@
         ]
     },
     {
-        "term": "sanggah",
-        "roman_numeral": "I",
+        "term": "sanggah I; menyanggah",
         "definitions": [
             {
                 "sense": "1",
@@ -8741,7 +8658,7 @@
         ]
     },
     {
-        "term": "sanggit",
+        "term": "sanggit; bersanggit",
         "definitions": [
             {
                 "sense": "1",
@@ -8915,8 +8832,7 @@
         ]
     },
     {
-        "term": "sangka",
-        "roman_numeral": "I",
+        "term": "sangka I",
         "definitions": [
             {
                 "sense": "1",
@@ -9002,8 +8918,7 @@
         ]
     },
     {
-        "term": "sangkak",
-        "roman_numeral": "I",
+        "term": "sangkak I",
         "definitions": [
             {
                 "sense": "1",
@@ -9031,8 +8946,7 @@
         ]
     },
     {
-        "term": "sangkak",
-        "roman_numeral": "II",
+        "term": "sangkak II; menyangkak, menyangkaki",
         "definitions": [
             {
                 "sense": "1",
@@ -9214,8 +9128,7 @@
         ]
     },
     {
-        "term": "sangkil",
-        "roman_numeral": "I",
+        "term": "sangkil I",
         "definitions": [
             {
                 "sense": "1",
@@ -9416,7 +9329,7 @@
         ]
     },
     {
-        "term": "sangkut",
+        "term": "sangkut paut",
         "definitions": [
             {
                 "sense": "1",
@@ -9563,8 +9476,7 @@
         ]
     },
     {
-        "term": "sangsi",
-        "roman_numeral": "II",
+        "term": "sangsi II",
         "origin": "IB",
         "definitions": [
             {
@@ -9660,7 +9572,7 @@
         ]
     },
     {
-        "term": "sanjung",
+        "term": "sanjung; menyanjung",
         "definitions": [
             {
                 "sense": "1",
@@ -9889,7 +9801,7 @@
         ]
     },
     {
-        "term": "santir",
+        "term": "santir ",
         "origin": "Mn",
         "definitions": [
             {
@@ -10006,7 +9918,7 @@
         ]
     },
     {
-        "term": "sanubari",
+        "term": "sanubari ",
         "definitions": [
             {
                 "sense": "1",
@@ -10217,8 +10129,7 @@
         ]
     },
     {
-        "term": "sapi",
-        "roman_numeral": "I",
+        "term": "sapi I",
         "definitions": [
             {
                 "sense": "1",
@@ -10364,8 +10275,7 @@
         ]
     },
     {
-        "term": "sapu",
-        "roman_numeral": "I",
+        "term": "sapu I",
         "definitions": [
             {
                 "sense": "1",
@@ -10579,8 +10489,7 @@
         ]
     },
     {
-        "term": "sara",
-        "roman_numeral": "I",
+        "term": "sara I",
         "definitions": [
             {
                 "sense": "1",
@@ -10884,8 +10793,7 @@
         ]
     },
     {
-        "term": "sarang",
-        "roman_numeral": "I",
+        "term": "sarang I",
         "definitions": [
             {
                 "sense": "1",
@@ -10997,24 +10905,18 @@
         ]
     },
     {
-        "term": "sarap",
-        "roman_numeral": "II",
+        "term": "sarap II; menyarap",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "=  menyarapi  memberi berlapik atau beralas dgn  barang-barang yg tipis (kain dll):  katil itu disarapi dgn kain putih;"
+            },
+            {
+                "sense": "2",
+                "definition": "makan pagi:  sampai sekarang ia belum ~ lagi;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "makan pagi:  sampai sekarang ia belum ~ lagi;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sarapan",
                 "definitions": [
@@ -11161,7 +11063,7 @@
         ]
     },
     {
-        "term": "sarean",
+        "term": "sarean (saréan)",
         "definitions": [
             {
                 "sense": "1",
@@ -11196,8 +11098,7 @@
         ]
     },
     {
-        "term": "sari",
-        "roman_numeral": "I",
+        "term": "sari I",
         "definitions": [
             {
                 "sense": "1",
@@ -11297,8 +11198,7 @@
         ]
     },
     {
-        "term": "saring",
-        "roman_numeral": "I",
+        "term": "saring I; menyaring",
         "definitions": [
             {
                 "sense": "1",
@@ -11625,8 +11525,7 @@
         ]
     },
     {
-        "term": "sarung",
-        "roman_numeral": "I",
+        "term": "sarung I",
         "definitions": [
             {
                 "sense": "1",
@@ -12024,25 +11923,22 @@
             {
                 "sense": "1",
                 "definition": "bahasa yg digunakan dlm kitab-kitab (bukan bahasa basahan);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "ark kitab suci Hindu;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "sl kitab  ilmu pengetahuan pustaka, kitab yg mengandungi ramalan  (perhitungan dll);"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "sl tulisan, huruf;    ~ bandingan  kajian dan huraian tentang pertalian antara pelbagai  sastera dr berbagai-bagai negara dan bangsa;  ~ hiburan  bentuk  sastera yg bertujuan memberikan keseronokan atau hiburan, mis  yg bertemakan percintaan dsb;  ~ lisan  sastera rakyat;  ~ rakyat  sastera yg berkembang di kalangan rakyat dan disebarkan melalui  pertuturan drpd satu generasi kpd satu generasi yg lain, mis mitos,  lagenda dan mantera."
-                    }
-                ]
+                "sense": "2",
+                "definition": "=  kesusasteraan  hasil seni (karya tulisan) dlm bentuk prosa  atau puisi yg mempunyai ciri-ciri keistimewaan yg tertentu;  ahli ~  (orang yg) pakar dlm hal kesusasteraan;  seni ~  seni karang- mengarang (prosa, puisi, dll);"
+            },
+            {
+                "sense": "3",
+                "definition": "ark kitab suci Hindu;"
+            },
+            {
+                "sense": "4",
+                "definition": "sl kitab  ilmu pengetahuan pustaka, kitab yg mengandungi ramalan  (perhitungan dll);"
+            },
+            {
+                "sense": "5",
+                "definition": "sl tulisan, huruf;    ~ bandingan  kajian dan huraian tentang pertalian antara pelbagai  sastera dr berbagai-bagai negara dan bangsa;  ~ hiburan  bentuk  sastera yg bertujuan memberikan keseronokan atau hiburan, mis  yg bertemakan percintaan dsb;  ~ lisan  sastera rakyat;  ~ rakyat  sastera yg berkembang di kalangan rakyat dan disebarkan melalui  pertuturan drpd satu generasi kpd satu generasi yg lain, mis mitos,  lagenda dan mantera."
             }
         ]
     },
@@ -12572,8 +12468,7 @@
         ]
     },
     {
-        "term": "sau",
-        "roman_numeral": "II",
+        "term": "sau II",
         "definitions": [
             {
                 "sense": "1",
@@ -12889,7 +12784,7 @@
         ]
     },
     {
-        "term": "saute",
+        "term": "saute (sauté) (ERT)",
         "definitions": [
             {
                 "sense": "1",
@@ -13027,8 +12922,7 @@
         ]
     },
     {
-        "term": "sawai",
-        "roman_numeral": "II",
+        "term": "sawai II",
         "definitions": [
             {
                 "sense": "1",
@@ -13359,18 +13253,17 @@
             {
                 "sense": "3",
                 "definition": "kasih, cinta:  dr mana datangnya  ~, dr mata turun ke hati; kasih ~  a) kasih, cinta; b) belas kasihan;"
+            },
+            {
+                "sense": "4",
+                "definition": "bp kekasih, jantung hati:  kenapa ~ bercakap begitu?"
+            },
+            {
+                "sense": "5",
+                "definition": "terasa  kesal (rugi dll):  ~nya Si Tuah tiada; ~, dia tidak datang;     ~ akan  =  sayangkan  suka akan, gemar akan;  sayangkan anak  tangan-tangankan, sayangkan bini tinggal-tinggalkan  prb anak yg  dimanjakan dan isteri yg diuliti selalu itu akhirnya menjadi  sombong;  sayangkan kain, buang baju, sayangkan lain buangkan  aku  prb dikatakan kpd suami yg mencari kekasih lain;  ~ di anak  dilecuti, ~ di negeri ditinggalkan  prb sayangkan anak dimarahi,  sayangkan negeri pergi merantau ke negeri lain;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "terasa  kesal (rugi dll):  ~nya Si Tuah tiada; ~, dia tidak datang;     ~ akan  =  sayangkan  suka akan, gemar akan;  sayangkan anak  tangan-tangankan, sayangkan bini tinggal-tinggalkan  prb anak yg  dimanjakan dan isteri yg diuliti selalu itu akhirnya menjadi  sombong;  sayangkan kain, buang baju, sayangkan lain buangkan  aku  prb dikatakan kpd suami yg mencari kekasih lain;  ~ di anak  dilecuti, ~ di negeri ditinggalkan  prb sayangkan anak dimarahi,  sayangkan negeri pergi merantau ke negeri lain;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersayangan, bersayang-sayangan",
                 "definitions": [
@@ -13670,8 +13563,7 @@
         ]
     },
     {
-        "term": "sayup",
-        "roman_numeral": "I",
+        "term": "sayup I",
         "definitions": [
             {
                 "sense": "1",
@@ -13805,8 +13697,7 @@
         ]
     },
     {
-        "term": "se",
-        "roman_numeral": "I",
+        "term": "se I",
         "definitions": [
             {
                 "sense": "1",
@@ -13819,8 +13710,7 @@
         ]
     },
     {
-        "term": "se",
-        "roman_numeral": "II",
+        "term": "se II",
         "definitions": [
             {
                 "sense": "1",
@@ -14204,8 +14094,7 @@
         ]
     },
     {
-        "term": "sebar",
-        "roman_numeral": "II",
+        "term": "sebar II",
         "definitions": [
             {
                 "sense": "1",
@@ -14218,7 +14107,7 @@
         ]
     },
     {
-        "term": "sebar",
+        "term": "sebar (sébar);  bersebar",
         "definitions": [
             {
                 "sense": "1",
@@ -14580,7 +14469,7 @@
         ]
     },
     {
-        "term": "seberhana",
+        "term": "seberhana sl",
         "definitions": [
             {
                 "sense": "1",
@@ -14611,7 +14500,7 @@
         ]
     },
     {
-        "term": "sebik",
+        "term": "sebik; menyebik",
         "definitions": [
             {
                 "sense": "1",
@@ -14624,7 +14513,7 @@
         ]
     },
     {
-        "term": "sebit",
+        "term": "sebit; menyebit",
         "definitions": [
             {
                 "sense": "1",
@@ -14720,7 +14609,7 @@
         ]
     },
     {
-        "term": "sebuk",
+        "term": "sebuk; menyebuk",
         "definitions": [
             {
                 "sense": "1",
@@ -15055,8 +14944,7 @@
         ]
     },
     {
-        "term": "sedang",
-        "roman_numeral": "I",
+        "term": "sedang I",
         "definitions": [
             {
                 "sense": "1",
@@ -15069,8 +14957,7 @@
         ]
     },
     {
-        "term": "sedang",
-        "roman_numeral": "II",
+        "term": "sedang II",
         "definitions": [
             {
                 "sense": "1",
@@ -15111,8 +14998,7 @@
         ]
     },
     {
-        "term": "sedang",
-        "roman_numeral": "III",
+        "term": "sedang III",
         "definitions": [
             {
                 "sense": "2",
@@ -15299,7 +15185,7 @@
         ]
     },
     {
-        "term": "sedatif",
+        "term": "sedatif (sédatif) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -15595,8 +15481,7 @@
         ]
     },
     {
-        "term": "sedih",
-        "roman_numeral": "II",
+        "term": "sedih II",
         "definitions": [
             {
                 "sense": "2",
@@ -15780,7 +15665,7 @@
         ]
     },
     {
-        "term": "sedut",
+        "term": "sedut; menyedut",
         "definitions": [
             {
                 "sense": "1",
@@ -15974,8 +15859,7 @@
         ]
     },
     {
-        "term": "segan",
-        "roman_numeral": "I",
+        "term": "segan I",
         "definitions": [
             {
                 "sense": "1",
@@ -16057,8 +15941,7 @@
         ]
     },
     {
-        "term": "segan",
-        "roman_numeral": "II",
+        "term": "segan II",
         "definitions": [
             {
                 "sense": "1",
@@ -16089,8 +15972,7 @@
         ]
     },
     {
-        "term": "segar",
-        "roman_numeral": "I",
+        "term": "segar I",
         "definitions": [
             {
                 "sense": "1",
@@ -16934,8 +16816,7 @@
         ]
     },
     {
-        "term": "sejuk",
-        "roman_numeral": "I",
+        "term": "sejuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -17173,8 +17054,7 @@
         ]
     },
     {
-        "term": "sekak",
-        "roman_numeral": "II",
+        "term": "sekak II , bp",
         "origin": "Kl",
         "definitions": [
             {
@@ -17329,7 +17209,7 @@
         ]
     },
     {
-        "term": "sekap",
+        "term": "sekap ;  menyekap",
         "origin": "Jk",
         "definitions": [
             {
@@ -17412,8 +17292,7 @@
         ]
     },
     {
-        "term": "sekat",
-        "roman_numeral": "I",
+        "term": "sekat I",
         "definitions": [
             {
                 "sense": "1",
@@ -17866,17 +17745,10 @@
             {
                 "sense": "1",
                 "definition": "sasaran atau matlamat menembak (utk berlatih), bulan-bulan;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tempat berlatih menembak."
-                    }
-                ]
+                "sense": "2",
+                "definition": "tempat berlatih menembak."
             }
         ]
     },
@@ -18140,7 +18012,7 @@
         ]
     },
     {
-        "term": "sekretariat",
+        "term": "sekretariat (sékrétariat)",
         "definitions": [
             {
                 "sense": "1",
@@ -18175,7 +18047,7 @@
         ]
     },
     {
-        "term": "seks",
+        "term": "seks (séks)",
         "definitions": [
             {
                 "sense": "1",
@@ -18188,7 +18060,7 @@
         ]
     },
     {
-        "term": "seksa",
+        "term": "seksa (séksa)",
         "definitions": [
             {
                 "sense": "1",
@@ -18265,7 +18137,7 @@
         ]
     },
     {
-        "term": "seksi",
+        "term": "seksi (séksi)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -18334,7 +18206,7 @@
         ]
     },
     {
-        "term": "sekstet",
+        "term": "sekstet (sékstét) (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -18385,7 +18257,7 @@
         ]
     },
     {
-        "term": "seksyen",
+        "term": "seksyen (séksyen)",
         "definitions": [
             {
                 "sense": "1",
@@ -18415,7 +18287,7 @@
         ]
     },
     {
-        "term": "sektarian",
+        "term": "sektarian (séktarian) (Sos)",
         "definitions": [
             {
                 "sense": "1",
@@ -18437,7 +18309,7 @@
         ]
     },
     {
-        "term": "sektor",
+        "term": "sektor (séktor)",
         "definitions": [
             {
                 "sense": "1",
@@ -18611,7 +18483,7 @@
         ]
     },
     {
-        "term": "sekuriti",
+        "term": "sekuriti (sékuriti)",
         "definitions": [
             {
                 "sense": "1",
@@ -18741,7 +18613,7 @@
         ]
     },
     {
-        "term": "sel",
+        "term": "sel (sél)",
         "definitions": [
             {
                 "sense": "1",
@@ -19055,7 +18927,7 @@
         ]
     },
     {
-        "term": "selak",
+        "term": "selak (sélak);  menyelak",
         "definitions": [
             {
                 "sense": "1",
@@ -19137,8 +19009,7 @@
         ]
     },
     {
-        "term": "selalu",
-        "roman_numeral": "I",
+        "term": "selalu I",
         "definitions": [
             {
                 "sense": "1",
@@ -19445,17 +19316,10 @@
             {
                 "sense": "1",
                 "definition": "pd lahirnya macam biasa (sedangkan sebenarnya telah  berlaku sesuatu), berlagak seolah-olah tidak tahu, berpura-pura:   kami pun turunlah buat muka ~ macam orang ada tiket kelas satu;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kurang ajar, tebal muka, tidak tahu malu."
-                    }
-                ]
+                "sense": "2",
+                "definition": "kurang ajar, tebal muka, tidak tahu malu."
             }
         ]
     },
@@ -19470,8 +19334,7 @@
         ]
     },
     {
-        "term": "selampai",
-        "roman_numeral": "I",
+        "term": "selampai I",
         "definitions": [
             {
                 "sense": "1",
@@ -19513,8 +19376,7 @@
         ]
     },
     {
-        "term": "selampai",
-        "roman_numeral": "II",
+        "term": "selampai II",
         "definitions": [
             {
                 "sense": "1",
@@ -19632,8 +19494,7 @@
         ]
     },
     {
-        "term": "selang",
-        "roman_numeral": "I",
+        "term": "selang I",
         "definitions": [
             {
                 "sense": "1",
@@ -19901,7 +19762,7 @@
         ]
     },
     {
-        "term": "selang-seli",
+        "term": "selang-seli; berselang-seli",
         "definitions": [
             {
                 "sense": "1",
@@ -20609,7 +20470,7 @@
         ]
     },
     {
-        "term": "selektif",
+        "term": "selektif (séléktif)",
         "definitions": [
             {
                 "sense": "1",
@@ -21179,7 +21040,7 @@
         ]
     },
     {
-        "term": "selerak",
+        "term": "selerak (selérak);  berselerak",
         "definitions": [
             {
                 "sense": "1",
@@ -21421,7 +21282,7 @@
         ]
     },
     {
-        "term": "seleweng",
+        "term": "seleweng (seléwéng);  menyeleweng",
         "definitions": [
             {
                 "sense": "1",
@@ -21765,8 +21626,7 @@
         ]
     },
     {
-        "term": "selimpat",
-        "roman_numeral": "I",
+        "term": "selimpat I",
         "definitions": [
             {
                 "sense": "1",
@@ -21885,8 +21745,7 @@
         ]
     },
     {
-        "term": "selinap",
-        "roman_numeral": "I",
+        "term": "selinap I; menyelinap",
         "definitions": [
             {
                 "sense": "1",
@@ -21972,7 +21831,7 @@
         ]
     },
     {
-        "term": "selindung",
+        "term": "selindung; berselindung",
         "definitions": [
             {
                 "sense": "1",
@@ -22156,8 +22015,7 @@
         ]
     },
     {
-        "term": "selip",
-        "roman_numeral": "II",
+        "term": "selip II",
         "definitions": [
             {
                 "sense": "1",
@@ -22242,8 +22100,7 @@
         ]
     },
     {
-        "term": "selir",
-        "roman_numeral": "III",
+        "term": "selir III",
         "origin": "Id",
         "definitions": [
             {
@@ -22253,7 +22110,7 @@
         ]
     },
     {
-        "term": "selirat",
+        "term": "selirat; berselirat",
         "definitions": [
             {
                 "sense": "2",
@@ -22271,7 +22128,7 @@
         ]
     },
     {
-        "term": "selisa",
+        "term": "selisa; berselisa",
         "definitions": [
             {
                 "sense": "1",
@@ -22360,7 +22217,7 @@
         ]
     },
     {
-        "term": "selisik",
+        "term": "selisik; menyelisik",
         "definitions": [
             {
                 "sense": "1",
@@ -22603,7 +22460,7 @@
         ]
     },
     {
-        "term": "selok-belok",
+        "term": "selok-belok (sélok-bélok)",
         "definitions": [
             {
                 "sense": "1",
@@ -22659,7 +22516,7 @@
         ]
     },
     {
-        "term": "selomot",
+        "term": "selomot ;  menyelomoti",
         "origin": "Jw",
         "definitions": [
             {
@@ -22989,8 +22846,7 @@
         ]
     },
     {
-        "term": "seludang",
-        "roman_numeral": "I",
+        "term": "seludang I",
         "definitions": [
             {
                 "sense": "1",
@@ -23030,7 +22886,7 @@
         ]
     },
     {
-        "term": "seludup",
+        "term": "seludup; menyeludup",
         "definitions": [
             {
                 "sense": "1",
@@ -23353,7 +23209,7 @@
         ]
     },
     {
-        "term": "selumu",
+        "term": "selumu ;  berselumu",
         "origin": "Mn",
         "definitions": [
             {
@@ -23447,7 +23303,7 @@
         ]
     },
     {
-        "term": "selungkur",
+        "term": "selungkur; menyelungkur",
         "definitions": [
             {
                 "sense": "1",
@@ -23569,7 +23425,7 @@
         ]
     },
     {
-        "term": "selurut",
+        "term": "selurut; menyeluruti",
         "definitions": [
             {
                 "sense": "1",
@@ -23612,7 +23468,7 @@
         ]
     },
     {
-        "term": "selusup",
+        "term": "selusup; menyelusup",
         "definitions": [
             {
                 "sense": "1",
@@ -23735,7 +23591,7 @@
         ]
     },
     {
-        "term": "semadi",
+        "term": "semadi ",
         "definitions": [
             {
                 "sense": "1",
@@ -23768,7 +23624,7 @@
         ]
     },
     {
-        "term": "semafor",
+        "term": "semafor (sémafor)",
         "definitions": [
             {
                 "sense": "1",
@@ -23969,8 +23825,7 @@
         ]
     },
     {
-        "term": "semak",
-        "roman_numeral": "I",
+        "term": "semak I",
         "definitions": [
             {
                 "sense": "1",
@@ -24030,7 +23885,7 @@
         ]
     },
     {
-        "term": "semak",
+        "term": "semak (sémak);  menyemak",
         "definitions": [
             {
                 "sense": "1",
@@ -24170,7 +24025,7 @@
         ]
     },
     {
-        "term": "seman",
+        "term": "seman (séman) ",
         "definitions": [
             {
                 "sense": "1",
@@ -24517,8 +24372,7 @@
         ]
     },
     {
-        "term": "semarak",
-        "roman_numeral": "I",
+        "term": "semarak I",
         "definitions": [
             {
                 "sense": "1",
@@ -24644,12 +24498,11 @@
                     {
                         "sense": "1",
                         "definition": "mencantumkan (dua benda) dgn semat:  sematkan tiap-tiap keping kertas tebal itu pd satu bongkah kayu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "meletakkan dgn semat:  Seri Paduka Baginda telah ~ pingat- pingat itu ke dada mereka;"
+                    },
                     {
                         "sense": "3",
                         "definition": "mencucukkan sesuatu sbg semat:  lilitkan benang ini pd kepala dan hujung peniti yg disematkan  menegak;"
@@ -24734,7 +24587,7 @@
         ]
     },
     {
-        "term": "semayam",
+        "term": "semayam; bersemayam  bd",
         "definitions": [
             {
                 "sense": "1",
@@ -24933,14 +24786,9 @@
                     {
                         "sense": "2",
                         "definition": "(Kristian) berdoa pd petang hari (agama Kristian), bermohon kpd  Tuhan;  ~ pujian  upacara berdoa pd petang hari (agama Kristian);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "(di kalangan orang Cina) upacara utk menghormati nenek  moyang;"
                     }
                 ]
@@ -25447,17 +25295,10 @@
             {
                 "sense": "1",
                 "definition": "sj ikan darat yg bisa sengatnya,  Paraplotosus anguillaris;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  ~ karang  sj ikan laut yg bisa sengatnya, gemang, kelara,  (unsat-unsat),  Plotosus spp.."
-                    }
-                ]
+                "sense": "2",
+                "definition": "=  ~ karang  sj ikan laut yg bisa sengatnya, gemang, kelara,  (unsat-unsat),  Plotosus spp.."
             }
         ]
     },
@@ -25500,8 +25341,7 @@
         ]
     },
     {
-        "term": "sembir",
-        "roman_numeral": "I",
+        "term": "sembir I",
         "definitions": [
             {
                 "sense": "1",
@@ -25569,18 +25409,17 @@
             {
                 "sense": "1",
                 "definition": "alamat (bunyi tetuang, kibaran bendera, dll) utk  memberitahu, tanda, isyarat:  setelah sampai ke pertengahan jalan,  kedengaranlah bunyi ~ lima das alamat raja besar telah mangkat;"
+            },
+            {
+                "sense": "2",
+                "definition": "kata rahsia (sbg alamat utk mengenal kawan sendiri dll):  katakanlah ~ pengenal itu dan kalian akan kuampuni;"
+            },
+            {
+                "sense": "3",
+                "definition": "kata atau  rangkaian kata yg dijadikan pegangan atau ikutan, cogan kata:  taat  setia ialah ~ bagi pasukan Askar Melayu; ~ kita hanyalah satu,  Merdeka dan tetap Merdeka;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "kata atau  rangkaian kata yg dijadikan pegangan atau ikutan, cogan kata:  taat  setia ialah ~ bagi pasukan Askar Melayu; ~ kita hanyalah satu,  Merdeka dan tetap Merdeka;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersemboyan",
                 "definitions": [
@@ -25691,7 +25530,7 @@
         ]
     },
     {
-        "term": "sembul",
+        "term": "sembul; menyembul, tersembul",
         "definitions": [
             {
                 "sense": "1",
@@ -26234,18 +26073,17 @@
             {
                 "sense": "3",
                 "definition": "sedang (berlakunya sesuatu dll):  pengetahuan  orang pd masa itu semuanya berdasarkan kepercayaan, ~  kepercayaan mereka memang tidak mengenali apa-apa batas pun;"
+            },
+            {
+                "sense": "4",
+                "definition": "=  ~ itu  pd ketika itu, dlm pd itu:  ~ itu kapal belayar juga, makin  lama makin laju;"
+            },
+            {
+                "sense": "5",
+                "definition": "di samping:  ~ bertindak sbg Timbalan  Perdana Menteri, beliau juga dapat menambah pengalamannya;  ingat ~ belum kena, jimat ~ belum habis  prb hendaklah sentiasa  berwaspada dan hati-hati (supaya jangan terlewat dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "di samping:  ~ bertindak sbg Timbalan  Perdana Menteri, beliau juga dapat menambah pengalamannya;  ingat ~ belum kena, jimat ~ belum habis  prb hendaklah sentiasa  berwaspada dan hati-hati (supaya jangan terlewat dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "kesementaraan",
                 "definitions": [
@@ -26276,7 +26114,7 @@
         ]
     },
     {
-        "term": "semer",
+        "term": "semer (sémér) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -27253,17 +27091,10 @@
             {
                 "sense": "1",
                 "definition": "=  bersempuras  penuh dgn kotoran (pd muka), berselekeh;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Mn hampas (kelapa, tebu, dll)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "Mn hampas (kelapa, tebu, dll)."
             }
         ]
     },
@@ -27751,8 +27582,7 @@
         ]
     },
     {
-        "term": "senam",
-        "roman_numeral": "II",
+        "term": "senam II",
         "definitions": [
             {
                 "sense": "1",
@@ -28065,7 +27895,7 @@
         ]
     },
     {
-        "term": "senario",
+        "term": "senario (sénario)",
         "definitions": [
             {
                 "sense": "1",
@@ -28270,8 +28100,7 @@
         ]
     },
     {
-        "term": "sendal",
-        "roman_numeral": "I",
+        "term": "sendal I ",
         "definitions": [
             {
                 "sense": "1",
@@ -28426,8 +28255,7 @@
         ]
     },
     {
-        "term": "sendawa",
-        "roman_numeral": "I",
+        "term": "sendawa I",
         "definitions": [
             {
                 "sense": "1",
@@ -28479,7 +28307,7 @@
         ]
     },
     {
-        "term": "sendeng",
+        "term": "sendeng (séndéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -28543,7 +28371,7 @@
         ]
     },
     {
-        "term": "sendeng",
+        "term": "sendeng (séndeng) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -28616,8 +28444,7 @@
         ]
     },
     {
-        "term": "sendi",
-        "roman_numeral": "I",
+        "term": "sendi I",
         "definitions": [
             {
                 "sense": "1",
@@ -28671,8 +28498,7 @@
         ]
     },
     {
-        "term": "sendi",
-        "roman_numeral": "II",
+        "term": "sendi II",
         "definitions": [
             {
                 "sense": "1",
@@ -28699,14 +28525,9 @@
                     {
                         "sense": "1",
                         "definition": "memakai (menggunakan) sesuatu sbg batu sendi;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "berdasarkan, berasaskan, berpegang pd (sbg pedoman):  tuntutan  adat yg ~ hukum; kita patut insaf bahawa masing-masing bahasa  moden di dunia ini ~ suatu sistem yg tertentu;"
                     }
                 ]
@@ -28746,39 +28567,37 @@
             {
                 "sense": "1",
                 "definition": "tubuh diri yg sebenarnya (bukan wakil dll), diri:  tidak ada  masa utk memikirkan hal-hal orang lain, hal-hal ~ lebih penting;"
+            },
+            {
+                "sense": "2",
+                "definition": "tidak dgn bantuan (pertolongan dll) orang lain, tidak  berhubungan dgn orang lain:  apabila sudah ada wang besok,  sudah mampu hidup ~, bolehlah dibayar semuanya; berkerajaan ~  merdeka;"
+            },
+            {
+                "sense": "3",
+                "definition": "seorang diri, tidak berkawan:  pd hari ulang tahunku,  aku lebih suka tinggal ~-~ di kamarku;"
+            },
+            {
+                "sense": "4",
+                "definition": "=  sendiri-sendiri  masing-masing:  kedua-duanya sedang tenggelam dlm bacaan ~-~;"
+            },
+            {
+                "sense": "5",
+                "definition": "tidak berkaitan dgn orang lain, bukan (kepunyaan, hak, dll)  orang lain;  tinggal di rumah ~  bukan di rumah orang lain;"
+            },
+            {
+                "sense": "6",
+                "definition": "tidak  termasuk yg lain, dlm kumpulan tertentu sahaja;  berbunuh sama  ~nya  berbunuh sesama mereka (tidak dgn orang lain);"
+            },
+            {
+                "sense": "7",
+                "definition": "terpisah  (tersisih) drpd yg lain, tidak bersama yg lain, berasingan;"
+            },
+            {
+                "sense": "8",
+                "definition": "Id, bp  yg paling (belakang, depan, dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "seorang diri, tidak berkawan:  pd hari ulang tahunku,  aku lebih suka tinggal ~-~ di kamarku;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "=  sendiri-sendiri  masing-masing:  kedua-duanya sedang tenggelam dlm bacaan ~-~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "6",
-                        "definition": "tidak  termasuk yg lain, dlm kumpulan tertentu sahaja;  berbunuh sama  ~nya  berbunuh sesama mereka (tidak dgn orang lain);"
-                    },
-                    {
-                        "sense": "7",
-                        "definition": "terpisah  (tersisih) drpd yg lain, tidak bersama yg lain, berasingan;"
-                    },
-                    {
-                        "sense": "8",
-                        "definition": "Id, bp  yg paling (belakang, depan, dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "sendirinya",
                 "definitions": [
@@ -28945,7 +28764,7 @@
         ]
     },
     {
-        "term": "sendong",
+        "term": "sendong (séndong)",
         "definitions": [
             {
                 "sense": "1",
@@ -28979,7 +28798,7 @@
         ]
     },
     {
-        "term": "sendu",
+        "term": "sendu sl",
         "definitions": [
             {
                 "sense": "1",
@@ -29025,8 +28844,7 @@
         ]
     },
     {
-        "term": "senduk",
-        "roman_numeral": "I",
+        "term": "senduk I",
         "definitions": [
             {
                 "sense": "1",
@@ -29133,7 +28951,7 @@
         ]
     },
     {
-        "term": "senewen",
+        "term": "senewen (senéwen) IB, bp",
         "definitions": [
             {
                 "sense": "1",
@@ -29184,7 +29002,7 @@
         ]
     },
     {
-        "term": "sengaja",
+        "term": "sengaja ",
         "definitions": [
             {
                 "sense": "1",
@@ -29226,8 +29044,7 @@
         ]
     },
     {
-        "term": "sengal",
-        "roman_numeral": "I",
+        "term": "sengal I",
         "definitions": [
             {
                 "sense": "1",
@@ -29647,7 +29464,7 @@
         ]
     },
     {
-        "term": "senggau",
+        "term": "senggau; menyenggau",
         "definitions": [
             {
                 "sense": "1",
@@ -29853,8 +29670,7 @@
         ]
     },
     {
-        "term": "sengguk",
-        "roman_numeral": "I",
+        "term": "sengguk I; menyengguk",
         "definitions": [
             {
                 "sense": "1",
@@ -30047,8 +29863,7 @@
         ]
     },
     {
-        "term": "sengit",
-        "roman_numeral": "I",
+        "term": "sengit I",
         "definitions": [
             {
                 "sense": "1",
@@ -30061,8 +29876,7 @@
         ]
     },
     {
-        "term": "sengit",
-        "roman_numeral": "II",
+        "term": "sengit II",
         "definitions": [
             {
                 "sense": "1",
@@ -30240,7 +30054,7 @@
         ]
     },
     {
-        "term": "sengkarut",
+        "term": "sengkarut; bersengkarut",
         "definitions": [
             {
                 "sense": "1",
@@ -30284,22 +30098,15 @@
         ]
     },
     {
-        "term": "sengkek",
+        "term": "sengkek (séngkék)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "orang Cina totok (yg baru datang dr negeri China);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki bangsat, papa, miskin."
-                    }
-                ]
+                "sense": "2",
+                "definition": "ki bangsat, papa, miskin."
             }
         ]
     },
@@ -30517,7 +30324,7 @@
         ]
     },
     {
-        "term": "sengketa",
+        "term": "sengketa (sengkéta)",
         "definitions": [
             {
                 "sense": "1",
@@ -30572,7 +30379,7 @@
         ]
     },
     {
-        "term": "sengkilit",
+        "term": "sengkilit ;  menyengkilit",
         "origin": "Jk",
         "definitions": [
             {
@@ -30833,8 +30640,7 @@
         ]
     },
     {
-        "term": "seni",
-        "roman_numeral": "II",
+        "term": "seni II",
         "definitions": [
             {
                 "sense": "1",
@@ -30944,7 +30750,7 @@
         ]
     },
     {
-        "term": "senior",
+        "term": "senior (sénior)",
         "definitions": [
             {
                 "sense": "1",
@@ -31019,7 +30825,7 @@
         ]
     },
     {
-        "term": "senjang",
+        "term": "senjang (sénjang) Mn",
         "definitions": [
             {
                 "sense": "1",
@@ -31237,7 +31043,7 @@
         ]
     },
     {
-        "term": "sensasi",
+        "term": "sensasi (sénsasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -31261,7 +31067,7 @@
         ]
     },
     {
-        "term": "sensitif",
+        "term": "sensitif (sénsitif)",
         "definitions": [
             {
                 "sense": "1",
@@ -31341,7 +31147,7 @@
         ]
     },
     {
-        "term": "sensualisme",
+        "term": "sensualisme (sénsualisme)",
         "definitions": [
             {
                 "sense": "1",
@@ -31372,8 +31178,7 @@
         ]
     },
     {
-        "term": "sentada",
-        "roman_numeral": "I",
+        "term": "sentada I",
         "definitions": [
             {
                 "sense": "1",
@@ -31450,7 +31255,7 @@
         ]
     },
     {
-        "term": "sentak",
+        "term": "sentak (séntak);  menyentak",
         "definitions": [
             {
                 "sense": "1",
@@ -31482,7 +31287,7 @@
         ]
     },
     {
-        "term": "sental",
+        "term": "sental; menyental",
         "definitions": [
             {
                 "sense": "1",
@@ -31612,7 +31417,7 @@
         ]
     },
     {
-        "term": "senteng",
+        "term": "senteng (sénténg)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -31662,7 +31467,7 @@
         ]
     },
     {
-        "term": "senter",
+        "term": "senter (sénter, séntér)  I  Id",
         "definitions": [
             {
                 "sense": "1",
@@ -31708,7 +31513,7 @@
         ]
     },
     {
-        "term": "senti",
+        "term": "senti (sénti) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -31787,8 +31592,7 @@
         ]
     },
     {
-        "term": "sentil",
-        "roman_numeral": "II",
+        "term": "sentil II ;  menyentil",
         "origin": "Jk",
         "definitions": [
             {
@@ -31826,7 +31630,7 @@
         ]
     },
     {
-        "term": "sentimen",
+        "term": "sentimen (séntimen)",
         "definitions": [
             {
                 "sense": "1",
@@ -31843,22 +31647,15 @@
         ]
     },
     {
-        "term": "sentimental",
+        "term": "sentimental (séntiméntal)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "berkaitan dgn atau dicirikan oleh sentimen;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bersifat lembut, romantis, atau mudah terusik perasaan:  lagu~;  gadis ~."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bersifat lembut, romantis, atau mudah terusik perasaan:  lagu~;  gadis ~."
             }
         ]
     },
@@ -31951,7 +31748,7 @@
         ]
     },
     {
-        "term": "sentral",
+        "term": "sentral (séntral)",
         "definitions": [
             {
                 "sense": "1",
@@ -32002,7 +31799,7 @@
         ]
     },
     {
-        "term": "sentrum",
+        "term": "sentrum (séntrum)",
         "definitions": [
             {
                 "sense": "1",
@@ -32028,8 +31825,7 @@
         ]
     },
     {
-        "term": "sentuh",
-        "roman_numeral": "I",
+        "term": "sentuh I; bersentuh",
         "definitions": [
             {
                 "sense": "1",
@@ -32060,12 +31856,11 @@
                     {
                         "sense": "1",
                         "definition": "mengenai (menyinggung) sedikit, menjamah:  dia  berasa pipinya disentuh orang;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "melanggar sedikit, terkena pd, terhantuk pd:  lengannya luka  kerana ~ dawai berduri;"
+                    },
                     {
                         "sense": "3",
                         "definition": "memperkatakan secara sepintas lalu  sahaja (tidak secara terperinci), menyebut (sesuatu hal):  kali ini  saya ~ kedudukan syarikat-syarikat kilang padi di luar bandar;"
@@ -32205,8 +32000,7 @@
         ]
     },
     {
-        "term": "sentung",
-        "roman_numeral": "II",
+        "term": "sentung II",
         "origin": "Mn",
         "definitions": [
             {
@@ -32329,30 +32123,29 @@
             {
                 "sense": "1",
                 "definition": "=  ~ sunyi = sunyi ~  sunyi sekali, tidak bising sedikit pun, sepi;"
+            },
+            {
+                "sense": "2",
+                "definition": "tidak kedengaran apa-apa, tidak ada sesiapa yg bercakap  (berkata-kata):  ketika itu ~, tiada siapa yg berani bercakap;"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak berkata-kata, tidak mengatakan apa pun, tidak bersuara,  diam;"
+            },
+            {
+                "sense": "4",
+                "definition": "nyenyak (tidur), lena;"
+            },
+            {
+                "sense": "5",
+                "definition": "tidak sibuk (perniagaan),  lengang;"
+            },
+            {
+                "sense": "6",
+                "definition": "tidak diperkatakan lagi (sesuatu perkara):  akhirnya  perkara itu ~ dgn sendiri;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "tidak berkata-kata, tidak mengatakan apa pun, tidak bersuara,  diam;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "nyenyak (tidur), lena;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "tidak sibuk (perniagaan),  lengang;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "tidak diperkatakan lagi (sesuatu perkara):  akhirnya  perkara itu ~ dgn sendiri;"
-                    }
-                ]
-            },
             {
                 "sub_term": "senyap-senyap",
                 "definitions": [
@@ -32410,7 +32203,7 @@
         ]
     },
     {
-        "term": "senyek",
+        "term": "senyek (senyék) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -32640,7 +32433,7 @@
         ]
     },
     {
-        "term": "sepah",
+        "term": "sepah (sépah);  bersepah, bersepah-sepah",
         "definitions": [
             {
                 "sense": "1",
@@ -32673,8 +32466,7 @@
         ]
     },
     {
-        "term": "sepai",
-        "roman_numeral": "I",
+        "term": "sepai I; bersepai",
         "definitions": [
             {
                 "sense": "1",
@@ -32800,7 +32592,7 @@
         ]
     },
     {
-        "term": "sepan",
+        "term": "sepan I",
         "definitions": [
             {
                 "sense": "1",
@@ -32813,8 +32605,7 @@
         ]
     },
     {
-        "term": "sepan",
-        "roman_numeral": "II",
+        "term": "sepan II , bp",
         "origin": "Id",
         "definitions": [
             {
@@ -32958,8 +32749,7 @@
         ]
     },
     {
-        "term": "sepat",
-        "roman_numeral": "II",
+        "term": "sepat II",
         "definitions": [
             {
                 "sense": "1",
@@ -33002,8 +32792,7 @@
         ]
     },
     {
-        "term": "sepatu",
-        "roman_numeral": "I",
+        "term": "sepatu I",
         "definitions": [
             {
                 "sense": "1",
@@ -33064,17 +32853,10 @@
             {
                 "sense": "2",
                 "definition": "sj  tumbuhan (pokok kecil), banik, cia kubit, kubang, kubin,  mengkubung, sekubin, telinga gajah, selaru,  Macaranga gigantea:"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj tumbuhan (pokok kecil), landas bukit, mahang bulan, mahang  kukur,  mahang  serindit,  mahang  tekukur, tutup cangur,  Macaranga triloba; ~ bunga  sj tumbuhan (pokok), geronggong  betina, mempat, mempat hitam, mempapit, mempitis, semempat,  Cratoxylon cochinchinensis."
-                    }
-                ]
+                "sense": "3",
+                "definition": "sj tumbuhan (pokok kecil), landas bukit, mahang bulan, mahang  kukur,  mahang  serindit,  mahang  tekukur, tutup cangur,  Macaranga triloba; ~ bunga  sj tumbuhan (pokok), geronggong  betina, mempat, mempat hitam, mempapit, mempitis, semempat,  Cratoxylon cochinchinensis."
             }
         ]
     },
@@ -33096,17 +32878,10 @@
             {
                 "sense": "4",
                 "definition": "=  ~ jantan  sj tumbuhan  (pokok renek), ara perak, akar semelit dadih, cementung,  kelumpung air, kelumpung burung, kelumpung jantan,  Ficus alba;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj tumbuhan (pokok renek), gading-gading, langsit, nasi-nasi,  susun kelapa hutan, tulang-tulang,  Prismatomeris malayana."
-                    }
-                ]
+                "sense": "5",
+                "definition": "sj tumbuhan (pokok renek), gading-gading, langsit, nasi-nasi,  susun kelapa hutan, tulang-tulang,  Prismatomeris malayana."
             }
         ]
     },
@@ -33158,7 +32933,7 @@
         ]
     },
     {
-        "term": "sepeling",
+        "term": "sepeling (sepéling) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -33572,8 +33347,7 @@
         ]
     },
     {
-        "term": "sepit",
-        "roman_numeral": "I",
+        "term": "sepit I",
         "definitions": [
             {
                 "sense": "1",
@@ -33623,8 +33397,7 @@
         ]
     },
     {
-        "term": "sepit",
-        "roman_numeral": "II",
+        "term": "sepit II",
         "definitions": [
             {
                 "sense": "1",
@@ -33686,7 +33459,7 @@
         ]
     },
     {
-        "term": "septet",
+        "term": "septet (séptét) (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -33726,8 +33499,7 @@
         ]
     },
     {
-        "term": "sepuh",
-        "roman_numeral": "I",
+        "term": "sepuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -33811,8 +33583,7 @@
         ]
     },
     {
-        "term": "sepuh",
-        "roman_numeral": "II",
+        "term": "sepuh II",
         "definitions": [
             {
                 "sense": "1",
@@ -33855,7 +33626,7 @@
         ]
     },
     {
-        "term": "sepuk",
+        "term": "sepuk; menyepuk",
         "definitions": [
             {
                 "sense": "1",
@@ -34086,8 +33857,7 @@
         ]
     },
     {
-        "term": "serah",
-        "roman_numeral": "I",
+        "term": "serah I; berserah",
         "definitions": [
             {
                 "sense": "1",
@@ -34291,8 +34061,7 @@
         ]
     },
     {
-        "term": "serak",
-        "roman_numeral": "I",
+        "term": "serak I",
         "definitions": [
             {
                 "sense": "1",
@@ -34403,8 +34172,7 @@
         ]
     },
     {
-        "term": "seram",
-        "roman_numeral": "I",
+        "term": "seram I",
         "definitions": [
             {
                 "sense": "1",
@@ -34515,7 +34283,7 @@
         ]
     },
     {
-        "term": "seramik",
+        "term": "seramik (séramik)",
         "definitions": [
             {
                 "sense": "1",
@@ -34532,8 +34300,7 @@
         ]
     },
     {
-        "term": "serampang",
-        "roman_numeral": "I",
+        "term": "serampang I",
         "definitions": [
             {
                 "sense": "1",
@@ -34566,8 +34333,7 @@
         ]
     },
     {
-        "term": "serampang",
-        "roman_numeral": "II",
+        "term": "serampang II ;  terserampang",
         "origin": "Mn",
         "definitions": [
             {
@@ -34581,8 +34347,7 @@
         ]
     },
     {
-        "term": "serampang",
-        "roman_numeral": "III",
+        "term": "serampang III; menyerampang",
         "definitions": [
             {
                 "sense": "1",
@@ -34629,7 +34394,7 @@
         ]
     },
     {
-        "term": "serampin",
+        "term": "serampin ark",
         "definitions": [
             {
                 "sense": "1",
@@ -35388,8 +35153,7 @@
         ]
     },
     {
-        "term": "serat",
-        "roman_numeral": "II",
+        "term": "serat II",
         "origin": "Jw",
         "definitions": [
             {
@@ -35592,8 +35356,7 @@
         ]
     },
     {
-        "term": "seraya",
-        "roman_numeral": "III",
+        "term": "seraya III",
         "definitions": [
             {
                 "sense": "1",
@@ -35696,8 +35459,7 @@
         ]
     },
     {
-        "term": "serban",
-        "roman_numeral": "II",
+        "term": "serban II",
         "origin": "Kl",
         "definitions": [
             {
@@ -35798,7 +35560,7 @@
         ]
     },
     {
-        "term": "serbu",
+        "term": "serbu; menyerbu",
         "definitions": [
             {
                 "sense": "1",
@@ -36283,8 +36045,7 @@
         ]
     },
     {
-        "term": "serengam",
-        "roman_numeral": "II",
+        "term": "serengam II; berserengam",
         "definitions": [
             {
                 "sense": "1",
@@ -36628,7 +36389,7 @@
         ]
     },
     {
-        "term": "sergap",
+        "term": "sergap; menyergap",
         "definitions": [
             {
                 "sense": "1",
@@ -36656,8 +36417,7 @@
         ]
     },
     {
-        "term": "seri",
-        "roman_numeral": "I",
+        "term": "seri I",
         "definitions": [
             {
                 "sense": "1",
@@ -36756,23 +36516,15 @@
         ]
     },
     {
-        "term": "seri",
-        "roman_numeral": "IV",
+        "term": "seri IV",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tidak ada yg menang dan tidak ada yg kalah (dlm permainan,  perlawanan, dll), balui:  perlawanan bola sepak itu berakhir dgn ~;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Id, bp tidak untung dan tidak rugi (dlm perniagaan), pulang  pokok, sama sahaja (malu dll) bagi kedua-dua belah pihak."
-                    }
-                ]
+                "sense": "2",
+                "definition": "Id, bp tidak untung dan tidak rugi (dlm perniagaan), pulang  pokok, sama sahaja (malu dll) bagi kedua-dua belah pihak."
             }
         ]
     },
@@ -36912,8 +36664,7 @@
         ]
     },
     {
-        "term": "seriding",
-        "roman_numeral": "II",
+        "term": "seriding II",
         "definitions": [
             {
                 "sense": "1",
@@ -37129,8 +36880,7 @@
         ]
     },
     {
-        "term": "sering",
-        "roman_numeral": "I",
+        "term": "sering I",
         "definitions": [
             {
                 "sense": "1",
@@ -37171,8 +36921,7 @@
         ]
     },
     {
-        "term": "sering",
-        "roman_numeral": "II",
+        "term": "sering II",
         "definitions": [
             {
                 "sense": "1",
@@ -37350,7 +37099,7 @@
         ]
     },
     {
-        "term": "serius",
+        "term": "serius (sérius)",
         "definitions": [
             {
                 "sense": "1",
@@ -37425,16 +37174,7 @@
                 "sub_term": "menyerkapi",
                 "definitions": [
                     {
-                        "sense": "1",
-                        "definition": "menyungkup atau mengurung dgn serkap (ayam dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "menyerang (menyerbu, memerangkap) dgn tiba-tiba:  ia diserkap  secara tiba-tiba oleh musuhnya;"
                     }
                 ]
@@ -37498,7 +37238,7 @@
         ]
     },
     {
-        "term": "serlah",
+        "term": "serlah; menyerlah",
         "definitions": [
             {
                 "sense": "1",
@@ -37721,7 +37461,7 @@
         ]
     },
     {
-        "term": "serodok",
+        "term": "serodok; menyerodok",
         "definitions": [
             {
                 "sense": "1",
@@ -37839,7 +37579,7 @@
         ]
     },
     {
-        "term": "serokan",
+        "term": "serokan (sérokan)",
         "definitions": [
             {
                 "sense": "1",
@@ -37911,7 +37651,7 @@
         ]
     },
     {
-        "term": "serondeng",
+        "term": "serondeng (serondéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -37962,7 +37702,7 @@
         ]
     },
     {
-        "term": "serong",
+        "term": "serong (sérong)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -38100,7 +37840,7 @@
         ]
     },
     {
-        "term": "seronyeh",
+        "term": "seronyeh (seronyéh)",
         "definitions": [
             {
                 "sense": "1",
@@ -38211,14 +37951,9 @@
                     {
                         "sense": "2",
                         "definition": "menjadi serpih, pecah-pecah;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "menjadikan serpih, memecahkan kecil-kecil;"
                     }
                 ]
@@ -38609,8 +38344,7 @@
         ]
     },
     {
-        "term": "seruh",
-        "roman_numeral": "I",
+        "term": "seruh I",
         "definitions": [
             {
                 "sense": "1",
@@ -38680,7 +38414,7 @@
         ]
     },
     {
-        "term": "serum",
+        "term": "serum (sérum)",
         "definitions": [
             {
                 "sense": "1",
@@ -39220,14 +38954,9 @@
                     {
                         "sense": "1",
                         "definition": "berasa sesal atau kecewa terhadap sesuatu,  menyesali, menyalahkan:  siapa yg hendak disalahkan, siapa yg  harus disesalkan, manusia juga yg mengajar manusia jadi begini;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyebabkan jadi menyesal:  perbuatan yg sangat ~ dirinya;"
                     }
                 ]
@@ -39275,8 +39004,7 @@
         ]
     },
     {
-        "term": "sesap",
-        "roman_numeral": "I",
+        "term": "sesap I; menyesap",
         "definitions": [
             {
                 "sense": "1",
@@ -39320,7 +39048,7 @@
         ]
     },
     {
-        "term": "sesar",
+        "term": "sesar; menyesar",
         "definitions": [
             {
                 "sense": "1",
@@ -39342,14 +39070,9 @@
                     {
                         "sense": "2",
                         "definition": "mendesak supaya keluar atau bebas;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "(Kim) membebaskan sesuatu unsur drpd sebatian kimia (spt  hidrogen drpd asid dll);"
                     }
                 ]
@@ -39521,7 +39244,7 @@
         ]
     },
     {
-        "term": "sesi",
+        "term": "sesi (sési)",
         "definitions": [
             {
                 "sense": "1",
@@ -39648,18 +39371,13 @@
             {
                 "sense": "4",
                 "definition": "sepakat, sehati, setuju:  ~ benar pendapat mereka;"
+            },
+            {
+                "sense": "5",
+                "definition": "serasi (ubat dll), cocok benar:  rumput di negeri ini tidak ~ utk  makanan kuda kerana kekurangan zat kalsium;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "serasi (ubat dll), cocok benar:  rumput di negeri ini tidak ~ utk  makanan kuda kerana kekurangan zat kalsium;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersesuaian",
                 "definitions": [
@@ -39772,7 +39490,7 @@
         ]
     },
     {
-        "term": "set",
+        "term": "set (sét)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -39949,7 +39667,7 @@
         ]
     },
     {
-        "term": "setan",
+        "term": "setan (sétan)",
         "definitions": [
             {
                 "sense": "1",
@@ -40157,17 +39875,10 @@
             {
                 "sense": "2",
                 "definition": "sj  tumbuhan (pokok renek), bayam beralih,  Cyrtandromoea grandis;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj tumbuhan (pokok renek), bayam beralah,  Cyrtandromoea  grandis;     ~ betina = ~ gajah = ~ hutan = ~ jantan  sj tumbuhan (herba),  Forrestia spp.; ~ bukit = ~ gunung  sj tumbuhan (pokok kecil),  Pseuderanthemum crenulatum; ~ kampung  sj tumbuhan (herba),  cakar bebek (itik), tapak itik,  Kalanchoe laciniata; ~ padang  sj  tumbuhan (herba), ganti batang, kerencung, raja bangun, sedingin,  seringin, tumbuh daun,  Bryophyllum pinnatum; ~ ular  sj  tumbuhan (herba), bunga kuau cermin, paha ayam, pokok tangkai  jerami, rumput lidah jin,  Peristrophe acuminata."
-                    }
-                ]
+                "sense": "3",
+                "definition": "sj tumbuhan (pokok renek), bayam beralah,  Cyrtandromoea  grandis;     ~ betina = ~ gajah = ~ hutan = ~ jantan  sj tumbuhan (herba),  Forrestia spp.; ~ bukit = ~ gunung  sj tumbuhan (pokok kecil),  Pseuderanthemum crenulatum; ~ kampung  sj tumbuhan (herba),  cakar bebek (itik), tapak itik,  Kalanchoe laciniata; ~ padang  sj  tumbuhan (herba), ganti batang, kerencung, raja bangun, sedingin,  seringin, tumbuh daun,  Bryophyllum pinnatum; ~ ular  sj  tumbuhan (herba), bunga kuau cermin, paha ayam, pokok tangkai  jerami, rumput lidah jin,  Peristrophe acuminata."
             }
         ]
     },
@@ -40241,7 +39952,7 @@
         ]
     },
     {
-        "term": "setel",
+        "term": "setel (setél)  II  IB;  menyetel",
         "definitions": [
             {
                 "sense": "1",
@@ -40263,14 +39974,9 @@
                     {
                         "sense": "1",
                         "definition": "alat pengunci jam, pemutar radio (utk mencari stesen);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "cara memasang (roda, mesin, dll)."
                     }
                 ]
@@ -40307,7 +40013,7 @@
         ]
     },
     {
-        "term": "seteling",
+        "term": "seteling (setéling) IB, bp",
         "definitions": [
             {
                 "sense": "1",
@@ -40355,7 +40061,7 @@
         ]
     },
     {
-        "term": "setem",
+        "term": "setem (setém)  II  IB, bp",
         "definitions": [
             {
                 "sense": "1",
@@ -40904,7 +40610,7 @@
         ]
     },
     {
-        "term": "setop",
+        "term": "setop bp",
         "definitions": [
             {
                 "sense": "1",
@@ -41290,7 +40996,7 @@
         ]
     },
     {
-        "term": "sewa",
+        "term": "sewa (séwa)",
         "definitions": [
             {
                 "sense": "1",
@@ -41376,7 +41082,7 @@
         ]
     },
     {
-        "term": "sewah",
+        "term": "sewah (séwah)  II  Kl;  menyewah",
         "definitions": [
             {
                 "sense": "1",
@@ -41506,8 +41212,7 @@
         ]
     },
     {
-        "term": "si",
-        "roman_numeral": "I",
+        "term": "si I",
         "definitions": [
             {
                 "sense": "1",
@@ -41534,8 +41239,7 @@
         ]
     },
     {
-        "term": "si",
-        "roman_numeral": "III",
+        "term": "si III",
         "definitions": [
             {
                 "sense": "1",
@@ -41548,8 +41252,7 @@
         ]
     },
     {
-        "term": "si",
-        "roman_numeral": "IV",
+        "term": "si IV , bp",
         "origin": "Jk",
         "definitions": [
             {
@@ -41649,12 +41352,11 @@
                     {
                         "sense": "1",
                         "definition": "mengganjakkan ke tepi, mengetepikan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menguakkan (menolakkan) ke tepi:  ~ rambut;"
+                    },
                     {
                         "sense": "3",
                         "definition": "ki  mengelakkan bahaya dll:  apabila hari hendak hujan, disiahkan  pula hujan itu ke tempat lain dgn isyarat dan ilmu."
@@ -41699,8 +41401,7 @@
         ]
     },
     {
-        "term": "sial",
-        "roman_numeral": "I",
+        "term": "sial I",
         "definitions": [
             {
                 "sense": "1",
@@ -41883,8 +41584,7 @@
         ]
     },
     {
-        "term": "siang",
-        "roman_numeral": "I",
+        "term": "siang I",
         "definitions": [
             {
                 "sense": "1",
@@ -42001,18 +41701,13 @@
             {
                 "sense": "3",
                 "definition": "=  ~ sedia = ~ siaga  sudah bersedia utk  (melakukan sesuatu dll):  mereka sudah ~ utk menghadapi tugas;"
+            },
+            {
+                "sense": "4",
+                "definition": "=  bersiap  Id jaga sedia!, jaga baik-baik! (perintah dlm tentera);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  bersiap  Id jaga sedia!, jaga baik-baik! (perintah dlm tentera);"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersiap",
                 "definitions": [
@@ -42099,18 +41794,17 @@
             {
                 "sense": "1",
                 "definition": "kata utk menanyakan orang, orang mana:  ~ yg mengusik awak?"
+            },
+            {
+                "sense": "2",
+                "definition": "kata utk menanyakan nama orang:  ~ nama kamu?"
+            },
+            {
+                "sense": "3",
+                "definition": "kata utk  menyatakan orang secara umum, orang yg tidak tentu;  ~ yg makan  cabai, dialah berasa pedas  prb yg berbuat salah akan berasa;  tiada  ~  tiada seorang pun;       ~ lagi  a) =  ~ pula  adakah orang lain lagi; b) siapa selanjutnya  (suka, mahu membeli, dll);  ~ lu ~ gua  Id, bp masing-masing  membuat hal sendiri (tidak bertolong bantu);  ~ pun = ~ sahaja  a)  barang siapa; b) sebarang orang, siapa juga;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "kata utk  menyatakan orang secara umum, orang yg tidak tentu;  ~ yg makan  cabai, dialah berasa pedas  prb yg berbuat salah akan berasa;  tiada  ~  tiada seorang pun;       ~ lagi  a) =  ~ pula  adakah orang lain lagi; b) siapa selanjutnya  (suka, mahu membeli, dll);  ~ lu ~ gua  Id, bp masing-masing  membuat hal sendiri (tidak bertolong bantu);  ~ pun = ~ sahaja  a)  barang siapa; b) sebarang orang, siapa juga;"
-                    }
-                ]
-            },
             {
                 "sub_term": "sesiapa",
                 "definitions": [
@@ -42149,8 +41843,7 @@
         ]
     },
     {
-        "term": "siar",
-        "roman_numeral": "I",
+        "term": "siar I; menyiarkan",
         "definitions": [
             {
                 "sense": "1",
@@ -42391,8 +42084,7 @@
         ]
     },
     {
-        "term": "siasat",
-        "roman_numeral": "I",
+        "term": "siasat I",
         "definitions": [
             {
                 "sense": "1",
@@ -42602,7 +42294,7 @@
         ]
     },
     {
-        "term": "sibar",
+        "term": "sibar ",
         "definitions": [
             {
                 "sense": "1",
@@ -42690,8 +42382,7 @@
         ]
     },
     {
-        "term": "sibuk",
-        "roman_numeral": "I",
+        "term": "sibuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -42700,18 +42391,13 @@
             {
                 "sense": "2",
                 "definition": "banyak  kenderaan lalu-lalang (bkn jalan raya), banyak kapal (kapal  terbang) keluar masuk (mendarat dan berlepas) (bkn pelabuhan,  lapangan terbang):  jalan raya itu ~ apabila pekerja-pekerja mulai  pulang dr pejabat; kenderaan di Jalan Ampang ~ mundar-mandir;"
+            },
+            {
+                "sense": "3",
+                "definition": "suka mengambil tahu (mencampuri, mengganggu) hal (urusan)  orang lain:  dia ~ bertanya ke sana ke mari tentang skandal artis  tersebut;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "suka mengambil tahu (mencampuri, mengganggu) hal (urusan)  orang lain:  dia ~ bertanya ke sana ke mari tentang skandal artis  tersebut;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersibuk",
                 "definitions": [
@@ -42874,14 +42560,9 @@
                     {
                         "sense": "1",
                         "definition": "bergantung pd sesuatu yg lebih tinggi dr tanah, lantai  dll (bkn kain baju dll):  kain yg basah itu kelihatan ~ di ampaian;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki duduk-duduk di sesuatu tempat (biasanya di tembok dsb)  tanpa tujuan:  mereka memilih utk ~ di pusat membeli-belah dan di  tembok-tembok bangunan;"
                     }
                 ]
@@ -42943,28 +42624,26 @@
         ]
     },
     {
-        "term": "sidang",
-        "roman_numeral": "I",
+        "term": "sidang I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "seluruh ahli (majlis, badan, dewan mesyuarat, dll), sekalian  anggota:  ~ mesyuarat; ~ majlis  semua orang yg hadir dlm majlis;"
+            },
+            {
+                "sense": "2",
+                "definition": "sekalian, para, segala (utk menyatakan banyak):  ~ pendengar;"
+            },
+            {
+                "sense": "3",
+                "definition": "=  persidangan  perjumpaan (utk membincangkan sesuatu),  mesyuarat, rapat:  masing-masing yg hadir dlm ~ tersebut  mempunyai tafsirannya tersendiri terhadap dasar itu; Majlis  Keselamatan Bangsa-Bangsa Bersatu telah menangguhkan ~ yg  sedang membahaskan krisis di Timur Tengah;"
+            },
+            {
+                "sense": "4",
+                "definition": "ark dewan,  majlis;  ~ perang  majlis perang;     ~ (persidangan) akhbar  penerangan atau penjelasan yg diberi oleh  seseorang (menteri, pegawai kerajaan, dll) kpd pemberita akhbar;  ~ jemaah  a) =  ~ Jumaat  orang yg bersembahyang Jumaat; b) Id  segolongan drpd masyarakat Kristian;  ~ kemuncak  persidangan  atau mesyuarat yg diadakan pd peringkat tertinggi (oleh ketua- ketua negara dll);  ~ pembaca  segala orang yg membaca, para  pembaca;  ~ pengarang  setiap anggota pengarang (pd sesebuah  penerbitan dll), anggota redaksi;  ~ pengurus  a) badan atau majlis  yg mengurus sesuatu perniagaan (penerbitan dll); b) setiap  anggota pengurus;  ~ pleno  sidang lengkap (drpd seluruh ahli);  ~  ramai  orang ramai, masyarakat seluruhnya;  ~ tergempar  mesyuarat yg diadakan secara tergempar (utk menyelesaikan  sesuatu);  ~ tertutup  sidang utk para ahli sahaja;  ~ video  perbincangan  dsb  yg  menggunakan  alat  komunikasi  yg  membolehkan dua individu atau lebih dr tempat yg berlainan  berbincang dan melihat wajah antara satu sama lain;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "=  persidangan  perjumpaan (utk membincangkan sesuatu),  mesyuarat, rapat:  masing-masing yg hadir dlm ~ tersebut  mempunyai tafsirannya tersendiri terhadap dasar itu; Majlis  Keselamatan Bangsa-Bangsa Bersatu telah menangguhkan ~ yg  sedang membahaskan krisis di Timur Tengah;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "ark dewan,  majlis;  ~ perang  majlis perang;     ~ (persidangan) akhbar  penerangan atau penjelasan yg diberi oleh  seseorang (menteri, pegawai kerajaan, dll) kpd pemberita akhbar;  ~ jemaah  a) =  ~ Jumaat  orang yg bersembahyang Jumaat; b) Id  segolongan drpd masyarakat Kristian;  ~ kemuncak  persidangan  atau mesyuarat yg diadakan pd peringkat tertinggi (oleh ketua- ketua negara dll);  ~ pembaca  segala orang yg membaca, para  pembaca;  ~ pengarang  setiap anggota pengarang (pd sesebuah  penerbitan dll), anggota redaksi;  ~ pengurus  a) badan atau majlis  yg mengurus sesuatu perniagaan (penerbitan dll); b) setiap  anggota pengurus;  ~ pleno  sidang lengkap (drpd seluruh ahli);  ~  ramai  orang ramai, masyarakat seluruhnya;  ~ tergempar  mesyuarat yg diadakan secara tergempar (utk menyelesaikan  sesuatu);  ~ tertutup  sidang utk para ahli sahaja;  ~ video  perbincangan  dsb  yg  menggunakan  alat  komunikasi  yg  membolehkan dua individu atau lebih dr tempat yg berlainan  berbincang dan melihat wajah antara satu sama lain;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersidang",
                 "definitions": [
@@ -42987,8 +42666,7 @@
         ]
     },
     {
-        "term": "sidang",
-        "roman_numeral": "III",
+        "term": "sidang III",
         "definitions": [
             {
                 "sense": "1",
@@ -43030,8 +42708,7 @@
         ]
     },
     {
-        "term": "sidi",
-        "roman_numeral": "II",
+        "term": "sidi II",
         "definitions": [
             {
                 "sense": "1",
@@ -43241,8 +42918,7 @@
         ]
     },
     {
-        "term": "sifon",
-        "roman_numeral": "II",
+        "term": "sifon II",
         "definitions": [
             {
                 "sense": "1",
@@ -43255,8 +42931,7 @@
         ]
     },
     {
-        "term": "sigai",
-        "roman_numeral": "I",
+        "term": "sigai I",
         "definitions": [
             {
                 "sense": "1",
@@ -43539,36 +43214,22 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "tidak kena (menghidap) sebarang penyakit, tidak sakit-sakit,  afiat, segar:  anak-anaknya ~-~ sahaja;"
+            },
+            {
+                "sense": "2",
+                "definition": "sembuh drpd sakit,  pulih, betah:  aku ingin menolong engkau sampai anak engkau ~  spt sediakala;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki dlm keadaan yg baik (elok, biasa, dll), berjalan  dgn lancar (rancangan dll), masuk akal (pendapat dll), dapat  diterima:  walaupun kami miskin tetapi rakyat kami ~ fikirannya;"
+            },
+            {
+                "sense": "4",
+                "definition": "berjalan (dilakukan dsb) dgn baik, tidak menimbulkan  keburukan (persengketaan dsb):  mereka haruslah mengendalikan  proses pembelian dgn berkesan agar wujud pertandingan yg ~  dlm pasaran;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tidak kena (menghidap) sebarang penyakit, tidak sakit-sakit,  afiat, segar:  anak-anaknya ~-~ sahaja;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sembuh drpd sakit,  pulih, betah:  aku ingin menolong engkau sampai anak engkau ~  spt sediakala;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "ki dlm keadaan yg baik (elok, biasa, dll), berjalan  dgn lancar (rancangan dll), masuk akal (pendapat dll), dapat  diterima:  walaupun kami miskin tetapi rakyat kami ~ fikirannya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "berjalan (dilakukan dsb) dgn baik, tidak menimbulkan  keburukan (persengketaan dsb):  mereka haruslah mengendalikan  proses pembelian dgn berkesan agar wujud pertandingan yg ~  dlm pasaran;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyihatkan",
                 "definitions": [
@@ -43757,8 +43418,7 @@
         ]
     },
     {
-        "term": "sikap",
-        "roman_numeral": "I",
+        "term": "sikap I",
         "definitions": [
             {
                 "sense": "1",
@@ -43872,8 +43532,7 @@
         ]
     },
     {
-        "term": "sikat",
-        "roman_numeral": "I",
+        "term": "sikat I",
         "definitions": [
             {
                 "sense": "1",
@@ -44121,8 +43780,7 @@
         ]
     },
     {
-        "term": "siku",
-        "roman_numeral": "I",
+        "term": "siku I",
         "definitions": [
             {
                 "sense": "1",
@@ -44429,24 +44087,22 @@
         ]
     },
     {
-        "term": "silam",
-        "roman_numeral": "I",
+        "term": "silam I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "gelap (cuaca), kelam, suram:  ~ tidak lagi nampaknya terang;"
+            },
+            {
+                "sense": "2",
+                "definition": "sudah terbenam (matahari);"
+            },
+            {
+                "sense": "3",
+                "definition": "telah lampau (lalu):  semuanya itu  adalah cerita dahulu, kisah zaman ~ yg hanya dapat dikenang- kenang sahaja;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "telah lampau (lalu):  semuanya itu  adalah cerita dahulu, kisah zaman ~ yg hanya dapat dikenang- kenang sahaja;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyilamkan",
                 "definitions": [
@@ -44628,18 +44284,17 @@
             {
                 "sense": "2",
                 "definition": "sl sulap, sunglap:  tukang ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "=  ~ hati  tidak ingat apa-apa (kerana terlalu marah dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "salah  yg tidak disengajakan, khilaf:  kalau saya tidak ~, umurnya baru  tiga puluh tahun;    ~ gayung  Kl telah melakukan sesuatu yg salah;  ~ langkah  tidak  mengambil tindakan, keputusan dsb yg betul sehingga boleh  mendatangkan kesan yg buruk;  ~ mata  a) sj permainan yg  mengelirukan pandangan orang lain (membuat sesuatu yg aneh- aneh dll), sulap, sunglap; b) salah pandangan; c) silau; d) agak  lupa, tidak sedar;    ~ cakap kena radak, hilang jiwa percuma saja  prb memperkatakan  sesuatu perkara hendaklah hati-hati benar kerana buruk padahnya;  ~ mata, pecah kepala  prb kalau kurang hati-hati tentu akan  mendapat bencana;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "salah  yg tidak disengajakan, khilaf:  kalau saya tidak ~, umurnya baru  tiga puluh tahun;    ~ gayung  Kl telah melakukan sesuatu yg salah;  ~ langkah  tidak  mengambil tindakan, keputusan dsb yg betul sehingga boleh  mendatangkan kesan yg buruk;  ~ mata  a) sj permainan yg  mengelirukan pandangan orang lain (membuat sesuatu yg aneh- aneh dll), sulap, sunglap; b) salah pandangan; c) silau; d) agak  lupa, tidak sedar;    ~ cakap kena radak, hilang jiwa percuma saja  prb memperkatakan  sesuatu perkara hendaklah hati-hati benar kerana buruk padahnya;  ~ mata, pecah kepala  prb kalau kurang hati-hati tentu akan  mendapat bencana;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyilap",
                 "definitions": [
@@ -45183,8 +44838,7 @@
         ]
     },
     {
-        "term": "simbah",
-        "roman_numeral": "I",
+        "term": "simbah I; bersimbah",
         "definitions": [
             {
                 "sense": "1",
@@ -45237,14 +44891,9 @@
                     {
                         "sense": "1",
                         "definition": "menyingsingkan (kain, baju, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyelak, menyingkap:  ~ kelambu;"
                     }
                 ]
@@ -45427,7 +45076,7 @@
         ]
     },
     {
-        "term": "simbur",
+        "term": "simbur; bersimbur",
         "definitions": [
             {
                 "sense": "1",
@@ -45482,7 +45131,7 @@
         ]
     },
     {
-        "term": "simen",
+        "term": "simen (simén)",
         "definitions": [
             {
                 "sense": "1",
@@ -45912,18 +45561,13 @@
             {
                 "sense": "1",
                 "definition": "perasaan belas kasihan, timbang rasa, dsb terhadap seseorang  atau sesuatu, terutamanya apabila ditimpa kesusahan:  bencana spt  itu seharusnya mendapat ~ dan bantuan dr dlm dan luar negeri;"
+            },
+            {
+                "sense": "2",
+                "definition": "perasaan bersetuju dgn satu menyokong sesuatu idea, pendapat,  dsb bagi tujuan tertentu;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "perasaan bersetuju dgn satu menyokong sesuatu idea, pendapat,  dsb bagi tujuan tertentu;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersimpati",
                 "definitions": [
@@ -46043,8 +45687,7 @@
         ]
     },
     {
-        "term": "simpuh",
-        "roman_numeral": "II",
+        "term": "simpuh II",
         "definitions": [
             {
                 "sense": "1",
@@ -46473,7 +46116,7 @@
         ]
     },
     {
-        "term": "sindiket",
+        "term": "sindiket (sindikét)",
         "definitions": [
             {
                 "sense": "1",
@@ -46793,24 +46436,18 @@
         ]
     },
     {
-        "term": "singgang",
-        "roman_numeral": "I",
+        "term": "singgang I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "sj masakan (ikan, daging, dll) yg direbus dan digarami dll;"
+            },
+            {
+                "sense": "2",
+                "definition": "Mn panggang, salai;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Mn panggang, salai;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyinggang",
                 "definitions": [
@@ -46833,7 +46470,7 @@
         ]
     },
     {
-        "term": "singgir",
+        "term": "singgir; menyinggir",
         "definitions": [
             {
                 "sense": "1",
@@ -46934,7 +46571,7 @@
         ]
     },
     {
-        "term": "singit",
+        "term": "singit ;  menyingit",
         "origin": "Mn",
         "definitions": [
             {
@@ -46953,14 +46590,9 @@
                     {
                         "sense": "1",
                         "definition": "terselak sedikit (kain selimut dll), terbuka, tersingkap;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "kelihatan sedikit (bulan dll), terserlah."
                     }
                 ]
@@ -46987,7 +46619,7 @@
         ]
     },
     {
-        "term": "singkap",
+        "term": "singkap; menyingkap, menyingkapkan",
         "definitions": [
             {
                 "sense": "1",
@@ -47009,14 +46641,9 @@
                     {
                         "sense": "1",
                         "definition": "terbuka, terselak:  maka tirai pedati Sumirah pun ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki terbongkar (rahsia dll);  ~ hati  ki suka (senang) hati;"
                     }
                 ]
@@ -47148,7 +46775,7 @@
         ]
     },
     {
-        "term": "singkir",
+        "term": "singkir; menyingkir",
         "definitions": [
             {
                 "sense": "1",
@@ -47321,7 +46948,7 @@
         ]
     },
     {
-        "term": "singsing",
+        "term": "singsing; menyingsing",
         "definitions": [
             {
                 "sense": "1",
@@ -47596,7 +47223,7 @@
         ]
     },
     {
-        "term": "sintesis",
+        "term": "sintesis (sintésis)",
         "definitions": [
             {
                 "sense": "1",
@@ -47661,8 +47288,7 @@
         ]
     },
     {
-        "term": "sinting",
-        "roman_numeral": "II",
+        "term": "sinting II",
         "definitions": [
             {
                 "sense": "1",
@@ -48121,8 +47747,7 @@
         ]
     },
     {
-        "term": "sir",
-        "roman_numeral": "I",
+        "term": "sir I",
         "origin": "Ar",
         "definitions": [
             {
@@ -48266,14 +47891,9 @@
                     {
                         "sense": "1",
                         "definition": "menyiram dgn, menjiruskan, mencurahkan:  maka kedua-duanya terkejut spt orang mengantuk disiramkan air;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "sl, bd memandikan:  maka bidan ketujuh pun lalu ~ putera  baginda, dilimau dan dibedak;"
                     }
                 ]
@@ -48381,8 +48001,7 @@
         ]
     },
     {
-        "term": "sirap",
-        "roman_numeral": "III",
+        "term": "sirap III",
         "definitions": [
             {
                 "sense": "1",
@@ -48395,8 +48014,7 @@
         ]
     },
     {
-        "term": "sirap",
-        "roman_numeral": "IV",
+        "term": "sirap IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -48485,8 +48103,7 @@
         ]
     },
     {
-        "term": "sirat",
-        "roman_numeral": "II",
+        "term": "sirat II",
         "origin": "Ar",
         "definitions": [
             {
@@ -49128,8 +48745,7 @@
         ]
     },
     {
-        "term": "sisik",
-        "roman_numeral": "I",
+        "term": "sisik I",
         "definitions": [
             {
                 "sense": "1",
@@ -49259,14 +48875,9 @@
                     {
                         "sense": "1",
                         "definition": "sudah disisip, terselit:  sebilah keris ~ di pinggangnya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "terkandung (termasuk) dlm;"
                     }
                 ]
@@ -49314,8 +48925,7 @@
         ]
     },
     {
-        "term": "sisir",
-        "roman_numeral": "I",
+        "term": "sisir I",
         "definitions": [
             {
                 "sense": "1",
@@ -49582,8 +49192,7 @@
         ]
     },
     {
-        "term": "sita",
-        "roman_numeral": "I",
+        "term": "sita I ark",
         "definitions": [
             {
                 "sense": "1",
@@ -49681,27 +49290,15 @@
         ]
     },
     {
-        "term": "siti",
-        "roman_numeral": "I",
+        "term": "siti I",
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "Ar sebutan kpd wanita yg mulia:  S~ Hawa; S~ Fatimah;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Ar sebutan kpd wanita yg mulia:  S~ Hawa; S~ Fatimah;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sebutan kpd anak-anak perempuan yg tinggi martabatnya:  malu  sangat rasanya aku apabila kuingat saudaraku tidak laku kpd  puteri-puteri dan ~-~ di Padang ini."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sebutan kpd anak-anak perempuan yg tinggi martabatnya:  malu  sangat rasanya aku apabila kuingat saudaraku tidak laku kpd  puteri-puteri dan ~-~ di Padang ini."
             }
         ]
     },
@@ -49845,12 +49442,11 @@
                     {
                         "sense": "1",
                         "definition": "di tempat itu:  ia duduk dan menyandarkan badannya ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "bp awak, engkau, kamu;"
+                    },
                     {
                         "sense": "3",
                         "definition": "pd waktu (ketika, masa) itu;"
@@ -49911,8 +49507,7 @@
         ]
     },
     {
-        "term": "siul",
-        "roman_numeral": "I",
+        "term": "siul I ",
         "definitions": [
             {
                 "sense": "1",
@@ -50073,8 +49668,7 @@
         ]
     },
     {
-        "term": "siut",
-        "roman_numeral": "I",
+        "term": "siut I",
         "definitions": [
             {
                 "sense": "1",
@@ -50319,7 +49913,7 @@
         ]
     },
     {
-        "term": "sketsa",
+        "term": "sketsa (skétsa)",
         "definitions": [
             {
                 "sense": "1",
@@ -50498,7 +50092,7 @@
         ]
     },
     {
-        "term": "skors",
+        "term": "skors ;  diskors",
         "origin": "IB",
         "definitions": [
             {
@@ -50744,22 +50338,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "kepingan kaca yg kecil utk memeriksa spesimen di bawah  mikroskop, sisip kaca;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kepingan kaca yg kecil utk memeriksa spesimen di bawah  mikroskop, sisip kaca;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "gambar pd kepingan seluloid yg lut sinar  (ditayangkan pd skrin atau layar)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "gambar pd kepingan seluloid yg lut sinar  (ditayangkan pd skrin atau layar)."
             }
         ]
     },
@@ -51139,7 +50722,7 @@
         ]
     },
     {
-        "term": "soal",
+        "term": "soal jawab",
         "definitions": [
             {
                 "sense": "1",
@@ -51414,14 +50997,9 @@
                     {
                         "sense": "3",
                         "definition": "menumbuk (di perut), menggocoh;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "4",
                         "definition": "bk menyetubuhi, mengamput."
                     }
                 ]
@@ -51438,8 +51016,7 @@
         ]
     },
     {
-        "term": "sodor",
-        "roman_numeral": "I",
+        "term": "sodor I ;  menyodorkan",
         "origin": "Jk",
         "definitions": [
             {
@@ -51527,17 +51104,10 @@
             {
                 "sense": "1",
                 "definition": "mempunyai cita rasa (perangai, tingkah laku, pandangan,  dll) yg tinggi dan halus, bersifat kompleks dan halus (tidak  bersahaja dan sederhana), canggih:  keadaan kehidupan berubah  dgn cepat dan pengalaman menjadi bertambah kaya, ~, dan  menimbulkan cita-cita dan harapan baru; dia sudah berubah drpd  seorang gadis yg sederhana kpd seorang gadis yg begitu ~ sekali;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "mempunyai atau menunjukkan ciri-ciri dsb yag kompleks  (moden, rumit, pelbagai, dsb), tidak ringkas atau sederhana,  canggih:  puisi Melayu moden mula mempunyai variasi dgn  persoalan yg kompleks dan ~; muzik yg ~; mesin jahit model baru  yg ~."
-                    }
-                ]
+                "sense": "2",
+                "definition": "mempunyai atau menunjukkan ciri-ciri dsb yag kompleks  (moden, rumit, pelbagai, dsb), tidak ringkas atau sederhana,  canggih:  puisi Melayu moden mula mempunyai variasi dgn  persoalan yg kompleks dan ~; muzik yg ~; mesin jahit model baru  yg ~."
             }
         ]
     },
@@ -52015,7 +51585,7 @@
         ]
     },
     {
-        "term": "solek",
+        "term": "solek (solék)",
         "definitions": [
             {
                 "sense": "1",
@@ -52514,7 +52084,7 @@
         ]
     },
     {
-        "term": "sondol",
+        "term": "sondol; menyondol",
         "definitions": [
             {
                 "sense": "1",
@@ -52680,7 +52250,7 @@
         ]
     },
     {
-        "term": "songgeng",
+        "term": "songgeng (songgéng)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -52796,8 +52366,7 @@
         ]
     },
     {
-        "term": "songsang",
-        "roman_numeral": "I",
+        "term": "songsang I",
         "definitions": [
             {
                 "sense": "1",
@@ -52926,12 +52495,11 @@
                     {
                         "sense": "3",
                         "definition": "melawan (utk membasmi), menentang;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "4",
+                        "definition": "menyambut (hari jadi, hari raya, dll) dgn perayaan;"
+                    },
                     {
                         "sense": "5",
                         "definition": "membayar  ganti  rugi,  menyilih;"
@@ -53026,8 +52594,7 @@
         ]
     },
     {
-        "term": "sonor",
-        "roman_numeral": "II",
+        "term": "sonor II",
         "definitions": [
             {
                 "sense": "1",
@@ -53130,18 +52697,17 @@
             {
                 "sense": "2",
                 "definition": "baik budi bahasanya, tahu tertib peraturan,  beradab:  suaranya lembut dan ~; kau memang kasar dan tidak ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "baik perangai dan kelakuannya (tidak cabul atau lacur):  perempuan hendaklah sepanjang masa ~ dr segenap segi;"
+            },
+            {
+                "sense": "4",
+                "definition": "sl  berasa segan (takut, gentar, ngeri) akan:  tiada hamba peduli dan ~  akan raksasa itu; bukanlah Raja itu besar namanya dan segala  seteru pun tiada ~ akan dia;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "sl  berasa segan (takut, gentar, ngeri) akan:  tiada hamba peduli dan ~  akan raksasa itu; bukanlah Raja itu besar namanya dan segala  seteru pun tiada ~ akan dia;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersopan",
                 "definitions": [
@@ -53211,7 +52777,7 @@
         ]
     },
     {
-        "term": "sopan",
+        "term": "sopan santun",
         "definitions": [
             {
                 "sense": "1",
@@ -53440,8 +53006,7 @@
         ]
     },
     {
-        "term": "sorok",
-        "roman_numeral": "I",
+        "term": "sorok I; menyorok",
         "definitions": [
             {
                 "sense": "1",
@@ -54044,14 +53609,9 @@
                     {
                         "sense": "1",
                         "definition": "menyerang atau melanggar serentak (bersama-sama);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "melakukan sesuatu dgn banyak (berlebih-lebih);  ~ makan   makan dgn banyak."
                     }
                 ]
@@ -54206,17 +53766,14 @@
             {
                 "sense": "1",
                 "definition": "tempat atau kolam mata air mineral yg mengandungi khasiat ubat- ubatan yg baik utk kesihatan:  konsep penjagaan kesihatan dan ~  semakin popular dan membudaya di kalangan golongan korporat;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "jakuzi."
-                    }
-                ]
+                "sense": "2",
+                "definition": "tempat yg menawarkan rawatan kesihatan dan kecantikan dgn  cara mandi wap, khidmat urut dsb;"
+            },
+            {
+                "sense": "3",
+                "definition": "jakuzi."
             }
         ]
     },
@@ -54376,7 +53933,7 @@
         ]
     },
     {
-        "term": "spektrum",
+        "term": "spektrum (spéktrum)",
         "definitions": [
             {
                 "sense": "1",
@@ -54398,7 +53955,7 @@
         ]
     },
     {
-        "term": "spekulasi",
+        "term": "spekulasi (spékulasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -54435,22 +53992,15 @@
         ]
     },
     {
-        "term": "spekulatif",
+        "term": "spekulatif (spékulatif)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "dgn pemikiran semata-mata, secara teori,  berdasarkan atau bersifat spekulasi (tidak berasaskan fakta-fakta);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bersifat spekulasi (dgn mengadu untung sahaja), berasaskan  harapan akan memperoleh keuntungan besar walaupun terpaksa  menanggung risiko (bkn kegiatan jual beli)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bersifat spekulasi (dgn mengadu untung sahaja), berasaskan  harapan akan memperoleh keuntungan besar walaupun terpaksa  menanggung risiko (bkn kegiatan jual beli)."
             }
         ]
     },
@@ -54473,7 +54023,7 @@
         ]
     },
     {
-        "term": "speleologi",
+        "term": "speleologi (spéléologi)",
         "definitions": [
             {
                 "sense": "1",
@@ -54938,7 +54488,7 @@
         ]
     },
     {
-        "term": "SR",
+        "term": "SR kep",
         "origin": "Id",
         "definitions": [
             {
@@ -55041,7 +54591,7 @@
         ]
     },
     {
-        "term": "stabil",
+        "term": "stabil I",
         "definitions": [
             {
                 "sense": "1",
@@ -55265,7 +54815,7 @@
         ]
     },
     {
-        "term": "standard",
+        "term": "standard I",
         "definitions": [
             {
                 "sense": "1",
@@ -55278,8 +54828,7 @@
         ]
     },
     {
-        "term": "standard",
-        "roman_numeral": "II",
+        "term": "standard II",
         "definitions": [
             {
                 "sense": "1",
@@ -55604,7 +55153,7 @@
         ]
     },
     {
-        "term": "stensil",
+        "term": "stensil (sténsil)",
         "definitions": [
             {
                 "sense": "1",
@@ -55720,7 +55269,7 @@
         ]
     },
     {
-        "term": "steril",
+        "term": "steril (stéril)",
         "definitions": [
             {
                 "sense": "1",
@@ -55821,7 +55370,7 @@
         ]
     },
     {
-        "term": "stesen",
+        "term": "stesen (stésén)",
         "definitions": [
             {
                 "sense": "1",
@@ -56241,7 +55790,7 @@
         ]
     },
     {
-        "term": "strategi",
+        "term": "strategi (stratégi)",
         "definitions": [
             {
                 "sense": "1",
@@ -56262,7 +55811,7 @@
         ]
     },
     {
-        "term": "strategik",
+        "term": "strategik (stratégik)",
         "definitions": [
             {
                 "sense": "1",
@@ -56339,7 +55888,7 @@
         ]
     },
     {
-        "term": "strawberi",
+        "term": "strawberi (strawbéri)",
         "definitions": [
             {
                 "sense": "1",
@@ -56923,8 +56472,7 @@
         ]
     },
     {
-        "term": "suangi",
-        "roman_numeral": "I",
+        "term": "suangi I",
         "definitions": [
             {
                 "sense": "2",
@@ -56989,12 +56537,11 @@
                     {
                         "sense": "1",
                         "definition": "makan dgn tangan (tidak dgn sepit atau dgn sudu dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "=  menyuapi  memasukkan makanan ke dlm mulut orang,  memberi makan dgn tangan:  ia terus ~ anaknya;"
+                    },
                     {
                         "sense": "3",
                         "definition": "=  menyuapi   memberi wang suap kpd, memberi rasuah, menyogok:  mana-mana  yg boleh diugut telah diugut, dan mana-mana yg boleh disuap  telah juga disuap;"
@@ -57574,7 +57121,7 @@
         ]
     },
     {
-        "term": "subjek",
+        "term": "subjek (subjék)",
         "definitions": [
             {
                 "sense": "1",
@@ -58016,26 +57563,25 @@
             {
                 "sense": "2",
                 "definition": "sihat dan berisi  (badan):  anak itu kurang ~ kerana tidak mendapat susu yg cukup;"
+            },
+            {
+                "sense": "3",
+                "definition": "banyak mengandungi zat utk tumbuhan-tumbuhan (tanah),  gemuk:  pertanian menghendaki bukan sahaja tanah yg ~ tetapi  juga iklim yg sesuai;"
+            },
+            {
+                "sense": "4",
+                "definition": "berkembang dgn baik, bertambah maju  dan besar (luas dsb), berkembang biak:  agama Islam pun  berkembanglah dgn ~nya di negeri-negeri tersebut;"
+            },
+            {
+                "sense": "5",
+                "definition": "bp mudah  mendapat rezeki, murah rezeki, senang hidup;"
+            },
+            {
+                "sense": "6",
+                "definition": "berupaya  menjalani persenyawaan (antara  benih lelaki dgn benih  perempuan):  puan boleh tentukan waktu ~ dgn menggunakan  carta khas;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "berkembang dgn baik, bertambah maju  dan besar (luas dsb), berkembang biak:  agama Islam pun  berkembanglah dgn ~nya di negeri-negeri tersebut;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "bp mudah  mendapat rezeki, murah rezeki, senang hidup;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "berupaya  menjalani persenyawaan (antara  benih lelaki dgn benih  perempuan):  puan boleh tentukan waktu ~ dgn menggunakan  carta khas;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyubur",
                 "definitions": [
@@ -58468,8 +58014,7 @@
         ]
     },
     {
-        "term": "sudi",
-        "roman_numeral": "I",
+        "term": "sudi I",
         "definitions": [
             {
                 "sense": "1",
@@ -58592,8 +58137,7 @@
         ]
     },
     {
-        "term": "sudu",
-        "roman_numeral": "I",
+        "term": "sudu I",
         "definitions": [
             {
                 "sense": "1",
@@ -58634,8 +58178,7 @@
         ]
     },
     {
-        "term": "sudu",
-        "roman_numeral": "II",
+        "term": "sudu II ",
         "definitions": [
             {
                 "sense": "1",
@@ -58836,7 +58379,7 @@
         ]
     },
     {
-        "term": "sugesti",
+        "term": "sugesti (sugésti) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -58862,8 +58405,7 @@
         ]
     },
     {
-        "term": "sugi",
-        "roman_numeral": "I",
+        "term": "sugi I",
         "definitions": [
             {
                 "sense": "1",
@@ -58912,8 +58454,7 @@
         ]
     },
     {
-        "term": "sugi",
-        "roman_numeral": "II",
+        "term": "sugi II",
         "definitions": [
             {
                 "sense": "1",
@@ -58936,7 +58477,7 @@
         ]
     },
     {
-        "term": "suguh",
+        "term": "suguh ;  menyuguhi",
         "origin": "Jw",
         "definitions": [
             {
@@ -59081,7 +58622,7 @@
         ]
     },
     {
-        "term": "suhuf",
+        "term": "suhuf (jamak bagi sahifah)",
         "origin": "Ar",
         "definitions": [
             {
@@ -59249,8 +58790,7 @@
         ]
     },
     {
-        "term": "suji",
-        "roman_numeral": "III",
+        "term": "suji III",
         "definitions": [
             {
                 "sense": "1",
@@ -59690,8 +59230,7 @@
         ]
     },
     {
-        "term": "sukat",
-        "roman_numeral": "I",
+        "term": "sukat I",
         "definitions": [
             {
                 "sense": "1",
@@ -59842,22 +59381,15 @@
         ]
     },
     {
-        "term": "sukses",
+        "term": "sukses (suksés) IB",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "hasil drpd sesuatu (kegiatan, usaha, dll),  terhasilnya (sesuatu), kejayaan:  apabila bung menulis buku dan  saya menerbitkannya, kita berdua akan mendapat ~ yg luar biasa;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "mendapat kejayaan (kerana melakukan sesuatu), berhasil,  berjaya, beruntung:  ayah ~ dlm membela perkara Si Ali yg dituduh  menerima rasuah itu."
-                    }
-                ]
+                "sense": "2",
+                "definition": "mendapat kejayaan (kerana melakukan sesuatu), berhasil,  berjaya, beruntung:  ayah ~ dlm membela perkara Si Ali yg dituduh  menerima rasuah itu."
             }
         ]
     },
@@ -60202,8 +59734,7 @@
         ]
     },
     {
-        "term": "sulam",
-        "roman_numeral": "II",
+        "term": "sulam II; menyulam",
         "definitions": [
             {
                 "sense": "1",
@@ -60236,24 +59767,18 @@
         ]
     },
     {
-        "term": "sulang",
-        "roman_numeral": "I",
+        "term": "sulang I; bersulang, bersulang-sulangan, sulang-menyulang",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "saling  memberikan minuman (makanan dll):  minum sulang-menyulang;"
+            },
+            {
+                "sense": "2",
+                "definition": "beradu paruh (burung dll), berlaga;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "beradu paruh (burung dll), berlaga;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyulang, menyulangi",
                 "definitions": [
@@ -60285,8 +59810,7 @@
         ]
     },
     {
-        "term": "sulang",
-        "roman_numeral": "III",
+        "term": "sulang III",
         "origin": "Br",
         "definitions": [
             {
@@ -60501,8 +60025,7 @@
         ]
     },
     {
-        "term": "suling",
-        "roman_numeral": "I",
+        "term": "suling I",
         "definitions": [
             {
                 "sense": "1",
@@ -60526,8 +60049,7 @@
         ]
     },
     {
-        "term": "suling",
-        "roman_numeral": "II",
+        "term": "suling II",
         "definitions": [
             {
                 "sense": "1",
@@ -60710,14 +60232,9 @@
                     {
                         "sense": "2",
                         "definition": "istana sultan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "kedudukan (taraf) dan kekuasaan atau pemerintahan sultan:  makyung terus-menerus mendapat semacam naungan dr istana  Perbaungan sehingga tahun 1946, tahun berlakunya kemusnahan  ~ dan kemangkatan Sultan Sulaiman sendiri."
                     }
                 ]
@@ -60792,8 +60309,7 @@
         ]
     },
     {
-        "term": "suluh",
-        "roman_numeral": "I",
+        "term": "suluh I",
         "definitions": [
             {
                 "sense": "1",
@@ -60892,8 +60408,7 @@
         ]
     },
     {
-        "term": "suluk",
-        "roman_numeral": "I",
+        "term": "suluk I",
         "definitions": [
             {
                 "sense": "1",
@@ -60979,8 +60494,7 @@
         ]
     },
     {
-        "term": "sulur",
-        "roman_numeral": "I",
+        "term": "sulur I",
         "definitions": [
             {
                 "sense": "1",
@@ -60989,18 +60503,17 @@
             {
                 "sense": "2",
                 "definition": "akar yg tumbuh drpd cabang dll (pokok beringin, ara, dll);"
+            },
+            {
+                "sense": "3",
+                "definition": "(Bio) tunas yg menjulur (drpd tumbuhan spt bawang dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "Id  garisan (dawai dll) yg berlingkar-lingkar spt spring;  ~ batang  berbentuk melingkar-lingkar spt spring;     ~ bayung  sj ukiran yg berupa tunas (pd bumbung dll);  ~-bulur  a)  berbelit-belit tidak keruan; b) tidak menentu (percakapan dll);  ~  paut  sj julai yg tidak berdaun drpd beberapa jenis tumbuhan (utk  berpegang atau berpaut pd batang lain);  ~ tiang  sambungan pd  puncak tiang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "Id  garisan (dawai dll) yg berlingkar-lingkar spt spring;  ~ batang  berbentuk melingkar-lingkar spt spring;     ~ bayung  sj ukiran yg berupa tunas (pd bumbung dll);  ~-bulur  a)  berbelit-belit tidak keruan; b) tidak menentu (percakapan dll);  ~  paut  sj julai yg tidak berdaun drpd beberapa jenis tumbuhan (utk  berpegang atau berpaut pd batang lain);  ~ tiang  sambungan pd  puncak tiang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersulur",
                 "definitions": [
@@ -61089,8 +60602,7 @@
         ]
     },
     {
-        "term": "sumbang",
-        "roman_numeral": "I",
+        "term": "sumbang I",
         "definitions": [
             {
                 "sense": "1",
@@ -61401,8 +60913,7 @@
         ]
     },
     {
-        "term": "sumbu",
-        "roman_numeral": "I",
+        "term": "sumbu I",
         "definitions": [
             {
                 "sense": "1",
@@ -61439,8 +60950,7 @@
         ]
     },
     {
-        "term": "sumbu",
-        "roman_numeral": "II",
+        "term": "sumbu II",
         "definitions": [
             {
                 "sense": "1",
@@ -61571,8 +61081,7 @@
         ]
     },
     {
-        "term": "sumpah",
-        "roman_numeral": "I",
+        "term": "sumpah I",
         "definitions": [
             {
                 "sense": "1",
@@ -61769,8 +61278,7 @@
         ]
     },
     {
-        "term": "sumpit",
-        "roman_numeral": "I",
+        "term": "sumpit I",
         "definitions": [
             {
                 "sense": "1",
@@ -61812,8 +61320,7 @@
         ]
     },
     {
-        "term": "sumpit",
-        "roman_numeral": "II",
+        "term": "sumpit II; ikan ",
         "definitions": [
             {
                 "sense": "1",
@@ -62068,8 +61575,7 @@
         ]
     },
     {
-        "term": "sundak",
-        "roman_numeral": "I",
+        "term": "sundak I ;  menyundak",
         "origin": "Mn",
         "definitions": [
             {
@@ -62093,8 +61599,7 @@
         ]
     },
     {
-        "term": "sundal",
-        "roman_numeral": "I",
+        "term": "sundal I",
         "definitions": [
             {
                 "sense": "1",
@@ -62456,8 +61961,7 @@
         ]
     },
     {
-        "term": "sungkai",
-        "roman_numeral": "II",
+        "term": "sungkai II",
         "origin": "Br",
         "definitions": [
             {
@@ -62540,7 +62044,7 @@
         ]
     },
     {
-        "term": "sungkit",
+        "term": "sungkit; menyungkit",
         "definitions": [
             {
                 "sense": "1",
@@ -62673,14 +62177,9 @@
                     {
                         "sense": "1",
                         "definition": "menundukkan kepala rendah-rendah (spt kerbau  hendak berlaga dll):  budak itu ~ di hadapannya meminta ampun;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menggali-gali tanah dll dgn muncung (babi dll):  mereka ~ tanah  dgn hidungnya mencari akar utk dimakan;"
                     }
                 ]
@@ -62768,8 +62267,7 @@
         ]
     },
     {
-        "term": "sungut",
-        "roman_numeral": "I",
+        "term": "sungut I",
         "definitions": [
             {
                 "sense": "1",
@@ -62958,14 +62456,9 @@
                     {
                         "sense": "2",
                         "definition": "penanaman cacar;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "bp hasutan;"
                     }
                 ]
@@ -63272,7 +62765,7 @@
         ]
     },
     {
-        "term": "superior",
+        "term": "superior (supérior)",
         "definitions": [
             {
                 "sense": "1",
@@ -63408,7 +62901,7 @@
         ]
     },
     {
-        "term": "suplemen",
+        "term": "suplemen (suplémén) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -63536,8 +63029,7 @@
         ]
     },
     {
-        "term": "surai",
-        "roman_numeral": "I",
+        "term": "surai I",
         "definitions": [
             {
                 "sense": "1",
@@ -63658,8 +63150,7 @@
         ]
     },
     {
-        "term": "surat",
-        "roman_numeral": "I",
+        "term": "surat I",
         "definitions": [
             {
                 "sense": "1",
@@ -63858,7 +63349,7 @@
         ]
     },
     {
-        "term": "surealis",
+        "term": "surealis (suréalis)",
         "definitions": [
             {
                 "sense": "1",
@@ -63880,7 +63371,7 @@
         ]
     },
     {
-        "term": "surealistik",
+        "term": "surealistik (suréalistik)",
         "definitions": [
             {
                 "sense": "1",
@@ -63954,8 +63445,7 @@
         ]
     },
     {
-        "term": "surian",
-        "roman_numeral": "I",
+        "term": "surian I",
         "definitions": [
             {
                 "sense": "1",
@@ -64065,34 +63555,23 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "sj tumbuhan (pokok), bengku, ketiau, mayang (medang) ketur,  mitis, nyatuh tanjung, pujang,  Ganua motleyana;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj tumbuhan (pokok), bengku, ketiau, mayang (medang) ketur,  mitis, nyatuh tanjung, pujang,  Ganua motleyana;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sj tumbuhan  (pokok), betis mitis, putat bukit, seminai,  Madhuca utilis;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "sj  tumbuhan (pokok), getah sundik, nyatuh, semaram,  Payena  havilandii;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "sj tumbuhan (pokok), balam sundik, getah sundik,  semaram,  Payena leerii;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "sj tumbuhan (pokok),  Payena obscura."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj tumbuhan  (pokok), betis mitis, putat bukit, seminai,  Madhuca utilis;"
+            },
+            {
+                "sense": "3",
+                "definition": "sj  tumbuhan (pokok), getah sundik, nyatuh, semaram,  Payena  havilandii;"
+            },
+            {
+                "sense": "4",
+                "definition": "sj tumbuhan (pokok), balam sundik, getah sundik,  semaram,  Payena leerii;"
+            },
+            {
+                "sense": "5",
+                "definition": "sj tumbuhan (pokok),  Payena obscura."
             }
         ]
     },
@@ -64374,22 +63853,21 @@
             {
                 "sense": "2",
                 "definition": "tidak mudah  (mendapat, mencari, dll sesuatu), sukar, sulit:  masa itu memang ~  hendak membeli kain baju, kalau adapun harganya mahal-mahal;"
+            },
+            {
+                "sense": "3",
+                "definition": "=   ~ hati  tidak senang hati, sedih hati, dukacita:  jangan ~, nanti  ia akan kembali lagi;"
+            },
+            {
+                "sense": "4",
+                "definition": "serba kekurangan, miskin, papa:  ~ dan  senang kehidupan kaum keluarga, tidaklah menjadi penghalang  kpd budak-budak itu bersuka ria;"
+            },
+            {
+                "sense": "5",
+                "definition": "kesukaran, kesulitan:  adalah  suatu ~ kepadaku sebab tidak tahu bahasa Hindustan itu;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "serba kekurangan, miskin, papa:  ~ dan  senang kehidupan kaum keluarga, tidaklah menjadi penghalang  kpd budak-budak itu bersuka ria;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "kesukaran, kesulitan:  adalah  suatu ~ kepadaku sebab tidak tahu bahasa Hindustan itu;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bersusah",
                 "definitions": [
@@ -64450,7 +63928,7 @@
         ]
     },
     {
-        "term": "susastera",
+        "term": "susastera; kesusasteraan",
         "definitions": [
             {
                 "sense": "1",
@@ -64523,7 +64001,7 @@
         ]
     },
     {
-        "term": "suspensi",
+        "term": "suspensi (suspénsi) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -64554,8 +64032,7 @@
         ]
     },
     {
-        "term": "susu",
-        "roman_numeral": "I",
+        "term": "susu I",
         "definitions": [
             {
                 "sense": "1",
@@ -64656,8 +64133,7 @@
         ]
     },
     {
-        "term": "susuh",
-        "roman_numeral": "I",
+        "term": "susuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -64706,8 +64182,7 @@
         ]
     },
     {
-        "term": "susuk",
-        "roman_numeral": "I",
+        "term": "susuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -64735,8 +64210,7 @@
         ]
     },
     {
-        "term": "susuk",
-        "roman_numeral": "II",
+        "term": "susuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -64812,7 +64286,7 @@
         ]
     },
     {
-        "term": "susul",
+        "term": "susul; menyusul",
         "definitions": [
             {
                 "sense": "1",
@@ -64825,34 +64299,33 @@
             {
                 "sense": "3",
                 "definition": "ikuti (datang)  kemudian:  biarlah aku pergi sendirian dahulu, nanti kau dapat ~;"
+            },
+            {
+                "sense": "4",
+                "definition": "mengekori, mengikuti jejak:  ia mengambil teksi utk ~ dr  belakang supaya dapat mengetahui ke mana abangnya pergi;"
+            },
+            {
+                "sense": "5",
+                "definition": "mengikuti, melanjutkan, menyambung, menyertai:  setelah selesai  segala pelajarannya Awang Sulung pun dikhatankan, disusul pula  dgn mengasah gigi;"
+            },
+            {
+                "sense": "6",
+                "definition": "(yg) akan datang, (yg) akan muncul:  dalam  musim panas yg ~, batang itu tumbuh memanjang dan  mengeluarkan daun;"
+            },
+            {
+                "sense": "7",
+                "definition": "menyelidiki atau mengusuli sesuatu  (supaya dapat menjumpai sesuatu dll):  kebudayaan orang Thai  dapat disusul ke zaman permulaannnya;"
+            },
+            {
+                "sense": "8",
+                "definition": "menyambung (surat yg  terdahulu):  kerana surat yg pertama tidak berbalas, lalu disusul  pula dgn surat yg kedua;"
+            },
+            {
+                "sense": "9",
+                "definition": "keluar menyambut kedatangan orang,  mengalu-alukan, menyongsong:  dia berlari-lari anak turun  tangga ~ ibunya yg sedang masuk ke halaman;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "mengikuti, melanjutkan, menyambung, menyertai:  setelah selesai  segala pelajarannya Awang Sulung pun dikhatankan, disusul pula  dgn mengasah gigi;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "(yg) akan datang, (yg) akan muncul:  dalam  musim panas yg ~, batang itu tumbuh memanjang dan  mengeluarkan daun;"
-                    },
-                    {
-                        "sense": "7",
-                        "definition": "menyelidiki atau mengusuli sesuatu  (supaya dapat menjumpai sesuatu dll):  kebudayaan orang Thai  dapat disusul ke zaman permulaannnya;"
-                    },
-                    {
-                        "sense": "8",
-                        "definition": "menyambung (surat yg  terdahulu):  kerana surat yg pertama tidak berbalas, lalu disusul  pula dgn surat yg kedua;"
-                    },
-                    {
-                        "sense": "9",
-                        "definition": "keluar menyambut kedatangan orang,  mengalu-alukan, menyongsong:  dia berlari-lari anak turun  tangga ~ ibunya yg sedang masuk ke halaman;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menyusuli",
                 "definitions": [
@@ -64912,8 +64385,7 @@
         ]
     },
     {
-        "term": "susun",
-        "roman_numeral": "I",
+        "term": "susun I",
         "definitions": [
             {
                 "sense": "2",
@@ -65299,8 +64771,7 @@
         ]
     },
     {
-        "term": "susut",
-        "roman_numeral": "I",
+        "term": "susut I",
         "definitions": [
             {
                 "sense": "1",
@@ -65388,7 +64859,7 @@
         ]
     },
     {
-        "term": "susut",
+        "term": "susut nilai",
         "definitions": [
             {
                 "sense": "1",
@@ -65425,27 +64896,15 @@
         ]
     },
     {
-        "term": "sut",
-        "roman_numeral": "I",
+        "term": "sut I",
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "bunyi spt bunyi daun buluh ditiup angin;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bunyi spt bunyi daun buluh ditiup angin;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sr (seakan-akan  siulan) utk menyuruh orang diam."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sr (seakan-akan  siulan) utk menyuruh orang diam."
             }
         ]
     },
@@ -65461,8 +64920,7 @@
         ]
     },
     {
-        "term": "sut",
-        "roman_numeral": "III",
+        "term": "sut III",
         "definitions": [
             {
                 "sense": "1",
@@ -65475,8 +64933,7 @@
         ]
     },
     {
-        "term": "sut",
-        "roman_numeral": "IV",
+        "term": "sut IV",
         "definitions": [
             {
                 "sense": "1",
@@ -66245,27 +65702,15 @@
         ]
     },
     {
-        "term": "syal",
-        "roman_numeral": "I",
+        "term": "syal I",
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "sj jubah yg tidak berlengan;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj jubah yg tidak berlengan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sj selendang, mafela."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj selendang, mafela."
             }
         ]
     },
@@ -66430,8 +65875,7 @@
         ]
     },
     {
-        "term": "syarah",
-        "roman_numeral": "II",
+        "term": "syarah II",
         "definitions": [
             {
                 "sense": "1",
@@ -66764,7 +66208,7 @@
         ]
     },
     {
-        "term": "syeikh",
+        "term": "syeikh (syéikh)",
         "definitions": [
             {
                 "sense": "1",
@@ -66785,7 +66229,7 @@
         ]
     },
     {
-        "term": "syelek",
+        "term": "syelek (syélék)",
         "definitions": [
             {
                 "sense": "1",
@@ -66958,7 +66402,7 @@
         ]
     },
     {
-        "term": "syok",
+        "term": "syok bp",
         "definitions": [
             {
                 "sense": "1",

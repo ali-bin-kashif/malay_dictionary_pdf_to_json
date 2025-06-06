@@ -126,8 +126,7 @@
         ]
     },
     {
-        "term": "labak",
-        "roman_numeral": "I",
+        "term": "labak I; kelabakan",
         "origin": "Jk",
         "definitions": [
             {
@@ -211,7 +210,7 @@
         ]
     },
     {
-        "term": "label",
+        "term": "label kepingan kecil kertas (kad dll) yg dilekatkan atau ditampalkan pd  sesuatu (spt botol, beg, dll) utk memberikan sedikit keterangan  (mis nama, jenis, kandungan, harga, dll);      berlabel  mempunyai label",
         "definitions": [
             {
                 "sense": "1",
@@ -233,7 +232,7 @@
         ]
     },
     {
-        "term": "labial",
+        "term": "labial (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -322,7 +321,7 @@
         ]
     },
     {
-        "term": "labrak",
+        "term": "labrak ;  melabrak",
         "origin": "Id",
         "definitions": [
             {
@@ -364,18 +363,17 @@
             {
                 "sense": "1",
                 "definition": "sj tumbuhan (herba memanjat) dan buahnya berbentuk bulat  berwarna jingga;  ~ air  =  ~ putih  sj tumbuhan (herba memanjat),  Lagenaria leucantha; ~ air hutan  =  akar ~ air  sj tumbuhan (herba  memanjat), akar timun gagak, belistur, daun jari buaya, ketimun,  pendendang gagak,  Trichosanthes wallichiana; ~ ambun  =  ~  merah  =  ~ parang  sj tumbuhan (herba memanjat),  Cucurbita  moschata; ~ besar  sj tumbuhan (herba memanjat),  Cucurbita  maxima; ~ manis  sj tumbuhan (herba memanjat),  Cucurbita pepo;"
+            },
+            {
+                "sense": "2",
+                "definition": "=  labu-labu  a) sj buyung, bekas air, kendi; b) benda bulat  perhiasan puncak masjid dll; c) Id bakul bulat yg digantung pd  tiang di pelabuhan (utk menandakan kapal sudah boleh masuk);"
+            },
+            {
+                "sense": "3",
+                "definition": "Id sj botol yg besar bulat (berbagai-bagai jenis dan gunanya);       ~ tanah  sj kendi yg dibuat drpd tanah;  mak ~  perempuan yg  mengandung;  ~ dikerbuk tikus  prb gadis yg sudah dinodai (tidak  dara lagi);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "Id sj botol yg besar bulat (berbagai-bagai jenis dan gunanya);       ~ tanah  sj kendi yg dibuat drpd tanah;  mak ~  perempuan yg  mengandung;  ~ dikerbuk tikus  prb gadis yg sudah dinodai (tidak  dara lagi);"
-                    }
-                ]
-            },
             {
                 "sub_term": "melabu",
                 "definitions": [
@@ -435,8 +433,7 @@
         ]
     },
     {
-        "term": "labuh",
-        "roman_numeral": "I",
+        "term": "labuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -539,8 +536,7 @@
         ]
     },
     {
-        "term": "labur",
-        "roman_numeral": "II",
+        "term": "labur II; melabur",
         "definitions": [
             {
                 "sense": "1",
@@ -902,7 +898,7 @@
         ]
     },
     {
-        "term": "laden",
+        "term": "laden (ladén) Jw;  meladeni",
         "definitions": [
             {
                 "sense": "1",
@@ -1116,8 +1112,7 @@
         ]
     },
     {
-        "term": "laga",
-        "roman_numeral": "I",
+        "term": "laga I",
         "definitions": [
             {
                 "sense": "1",
@@ -1365,7 +1360,7 @@
         ]
     },
     {
-        "term": "lagau",
+        "term": "lagau ;  melagau",
         "origin": "Br",
         "definitions": [
             {
@@ -1834,7 +1829,7 @@
         ]
     },
     {
-        "term": "lahu",
+        "term": "lahu; melahu",
         "definitions": [
             {
                 "sense": "1",
@@ -2135,8 +2130,7 @@
         ]
     },
     {
-        "term": "lajak",
-        "roman_numeral": "I",
+        "term": "lajak I",
         "definitions": [
             {
                 "sense": "1",
@@ -2214,8 +2208,7 @@
         ]
     },
     {
-        "term": "laju",
-        "roman_numeral": "I",
+        "term": "laju I",
         "definitions": [
             {
                 "sense": "1",
@@ -2762,8 +2755,7 @@
         ]
     },
     {
-        "term": "laksa",
-        "roman_numeral": "II",
+        "term": "laksa II",
         "definitions": [
             {
                 "sense": "1",
@@ -3073,8 +3065,7 @@
         ]
     },
     {
-        "term": "lakum",
-        "roman_numeral": "I",
+        "term": "lakum I",
         "definitions": [
             {
                 "sense": "1",
@@ -3229,8 +3220,7 @@
         ]
     },
     {
-        "term": "lalai",
-        "roman_numeral": "I",
+        "term": "lalai I",
         "definitions": [
             {
                 "sense": "1",
@@ -3356,8 +3346,7 @@
         ]
     },
     {
-        "term": "lalak",
-        "roman_numeral": "II",
+        "term": "lalak II; melalak",
         "definitions": [
             {
                 "sense": "1",
@@ -3483,7 +3472,7 @@
         ]
     },
     {
-        "term": "lalar",
+        "term": "lalar ;  melalar",
         "origin": "Mn",
         "definitions": [
             {
@@ -3585,8 +3574,7 @@
         ]
     },
     {
-        "term": "lali",
-        "roman_numeral": "I",
+        "term": "lali I",
         "definitions": [
             {
                 "sense": "1",
@@ -3677,8 +3665,7 @@
         ]
     },
     {
-        "term": "lalu",
-        "roman_numeral": "I",
+        "term": "lalu I",
         "definitions": [
             {
                 "sense": "2",
@@ -3847,7 +3834,7 @@
         ]
     },
     {
-        "term": "lalu",
+        "term": "lalu lintas",
         "definitions": [
             {
                 "sense": "1",
@@ -3882,8 +3869,7 @@
         ]
     },
     {
-        "term": "lama",
-        "roman_numeral": "I",
+        "term": "lama I",
         "definitions": [
             {
                 "sense": "1",
@@ -3892,35 +3878,29 @@
             {
                 "sense": "2",
                 "definition": "telah wujud (ada,  terlibat, dsb) dlm jangka masa yg agak panjang:  sebuah rumah ~  di kampung itu; pakaian ~; kawan ~; alasan-alasan ~; ahli-ahli ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak moden lagi, ketinggalan zaman:  fesyen ~;"
+            },
+            {
+                "sense": "4",
+                "definition": "wujud pd  zaman sebelum ini atau zaman dahulu, kuno, tua:  kesusasteraan  Melayu ~; masyarakat Melayu ~;"
+            },
+            {
+                "sense": "5",
+                "definition": "wujud sejak dahulu lagi:  kuih- kuih Melayu ~; barang-barang ~; sikap ~;"
+            },
+            {
+                "sense": "6",
+                "definition": "yg digunakan dsb  sebelum mendapat yg baru:  dia menjual rumah ~nya utk membeli  sebuah rumah baru; motosikalnya yg ~ diberikannya kpd adikya;"
+            },
+            {
+                "sense": "7",
+                "definition": "berlaku pd masa yg sudah-sudah:  membangkit-bangkitkan  perkara ~; ingatan ~ mengusik jiwanya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "wujud pd  zaman sebelum ini atau zaman dahulu, kuno, tua:  kesusasteraan  Melayu ~; masyarakat Melayu ~;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "wujud sejak dahulu lagi:  kuih- kuih Melayu ~; barang-barang ~; sikap ~;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "yg digunakan dsb  sebelum mendapat yg baru:  dia menjual rumah ~nya utk membeli  sebuah rumah baru; motosikalnya yg ~ diberikannya kpd adikya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "7.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "berlaku pd masa yg sudah-sudah:  membangkit-bangkitkan  perkara ~; ingatan ~ mengusik jiwanya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "selama",
                 "definitions": [
@@ -4067,7 +4047,7 @@
         ]
     },
     {
-        "term": "lamar",
+        "term": "lamar; melamar",
         "definitions": [
             {
                 "sense": "1",
@@ -4131,8 +4111,7 @@
         ]
     },
     {
-        "term": "lambai",
-        "roman_numeral": "I",
+        "term": "lambai I; melambai, melambai-lambai",
         "definitions": [
             {
                 "sense": "1",
@@ -4245,16 +4224,7 @@
                 "sub_term": "berlambak, berlambak-lambak, melambak, 1. = terlambak",
                 "definitions": [
                     {
-                        "sense": "1",
-                        "definition": "tidak tersusun rapi, dilonggokkan sahaja, berlimpah-limpah,  bertimbun-timbun:  mengapa dibiarkan kain baju ~ di ceruk bilik?"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "bp terlalu banyak:  di bandar tu ~ orang yg berkelulusan tinggi  yg belum mendapat kerja; kain ~ benang emas  kain yg bersulam  dgn benang emas banyak-banyak;"
                     }
                 ]
@@ -4573,8 +4543,7 @@
         ]
     },
     {
-        "term": "lambuk",
-        "roman_numeral": "V",
+        "term": "lambuk V",
         "definitions": [
             {
                 "sense": "1",
@@ -4920,7 +4889,7 @@
         ]
     },
     {
-        "term": "lampar",
+        "term": "lampar; berlampar, berlamparan, melampar",
         "definitions": [
             {
                 "sense": "1",
@@ -5109,18 +5078,13 @@
             {
                 "sense": "1",
                 "definition": "memancar (aliran air dll), deras, licin, tidak tersekat-sekat;"
+            },
+            {
+                "sense": "2",
+                "definition": "ki kencang dan lancar (sesuatu pergerakan dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki kencang dan lancar (sesuatu pergerakan dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "melampiaskan",
                 "definitions": [
@@ -5137,8 +5101,7 @@
         ]
     },
     {
-        "term": "lampin",
-        "roman_numeral": "I",
+        "term": "lampin I",
         "definitions": [
             {
                 "sense": "1",
@@ -5366,8 +5329,7 @@
         ]
     },
     {
-        "term": "lamun",
-        "roman_numeral": "I",
+        "term": "lamun I",
         "definitions": [
             {
                 "sense": "1",
@@ -5414,8 +5376,7 @@
         ]
     },
     {
-        "term": "lamun",
-        "roman_numeral": "III",
+        "term": "lamun III ;  melamun",
         "origin": "Mn",
         "definitions": [
             {
@@ -5565,29 +5526,24 @@
         ]
     },
     {
-        "term": "lancang",
-        "roman_numeral": "I",
+        "term": "lancang I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "kapal layar yg laju:  kenaikan baginda ~ emas panjangkan;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "Mn tepak  sirih (yg berbentuk spt kapal layar);       main ~-~  melemparkan batu pd paras permukaan air."
-                    }
-                ]
+                "sense": "2",
+                "definition": "ancak (perahu kecil) utk memuatkan jamuan hantu;"
+            },
+            {
+                "sense": "3",
+                "definition": "Mn tepak  sirih (yg berbentuk spt kapal layar);       main ~-~  melemparkan batu pd paras permukaan air."
             }
         ]
     },
     {
-        "term": "lancang",
-        "roman_numeral": "II",
+        "term": "lancang II",
         "definitions": [
             {
                 "sense": "1",
@@ -5775,8 +5731,7 @@
         ]
     },
     {
-        "term": "lancar",
-        "roman_numeral": "III",
+        "term": "lancar III; pelancar",
         "definitions": [
             {
                 "sense": "1",
@@ -5870,8 +5825,7 @@
         ]
     },
     {
-        "term": "lancung",
-        "roman_numeral": "I",
+        "term": "lancung I",
         "definitions": [
             {
                 "sense": "1",
@@ -6119,8 +6073,7 @@
         ]
     },
     {
-        "term": "landas",
-        "roman_numeral": "I",
+        "term": "landas I",
         "definitions": [
             {
                 "sense": "1",
@@ -6359,7 +6312,7 @@
         ]
     },
     {
-        "term": "landur",
+        "term": "landur; melandur",
         "definitions": [
             {
                 "sense": "1",
@@ -6574,17 +6527,10 @@
             {
                 "sense": "1",
                 "definition": "cara, kaedah, laku, adat kebiasaan:  menurut ~ dan  pandangan orang-orang kampung, abang masih dipandang hina;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "irama lagu yg digemari ramai (lwn irama asli):  lagu-lagu ~ dan  asli."
-                    }
-                ]
+                "sense": "2",
+                "definition": "irama lagu yg digemari ramai (lwn irama asli):  lagu-lagu ~ dan  asli."
             }
         ]
     },
@@ -7076,14 +7022,9 @@
                     {
                         "sense": "1",
                         "definition": "perihal melangkah (melangkahi, melangkahkan);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  pelangkah  permulaan sesuatu pekerjaan (pelayaran, tindakan,  dll):  menurut ilmu ~ ini alamat buruk; pd kali ini barulah  pelangkahnya betul kerana waktu ia sampai bapanya sudah balik."
                     }
                 ]
@@ -7274,23 +7215,15 @@
             {
                 "sense": "1",
                 "definition": "=  melanglang  menjalani (utk memeriksa dll), mengelilingi;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "orang yg mengembara (meronda dll), peronda, pengembara;  ~  buana  peronda dunia."
-                    }
-                ]
+                "sense": "2",
+                "definition": "orang yg mengembara (meronda dll), peronda, pengembara;  ~  buana  peronda dunia."
             }
         ]
     },
     {
-        "term": "langsai",
-        "roman_numeral": "I",
+        "term": "langsai I",
         "definitions": [
             {
                 "sense": "1",
@@ -7509,8 +7442,7 @@
         ]
     },
     {
-        "term": "langsir",
-        "roman_numeral": "II",
+        "term": "langsir II ;  melangsir",
         "origin": "IB",
         "definitions": [
             {
@@ -7693,8 +7625,7 @@
         ]
     },
     {
-        "term": "langut",
-        "roman_numeral": "I",
+        "term": "langut I; melangut",
         "definitions": [
             {
                 "sense": "1",
@@ -7967,8 +7898,7 @@
         ]
     },
     {
-        "term": "lanjut",
-        "roman_numeral": "I",
+        "term": "lanjut I",
         "definitions": [
             {
                 "sense": "1",
@@ -8142,7 +8072,7 @@
         ]
     },
     {
-        "term": "lans",
+        "term": "lans koperal",
         "definitions": [
             {
                 "sense": "1",
@@ -8365,7 +8295,7 @@
         ]
     },
     {
-        "term": "lantar",
+        "term": "lantar I;  melantarkan",
         "definitions": [
             {
                 "sense": "1",
@@ -8411,8 +8341,7 @@
         ]
     },
     {
-        "term": "lantar",
-        "roman_numeral": "II",
+        "term": "lantar II; terlantar",
         "definitions": [
             {
                 "sense": "1",
@@ -8665,7 +8594,7 @@
         ]
     },
     {
-        "term": "lantun",
+        "term": "lantun; melantun",
         "definitions": [
             {
                 "sense": "1",
@@ -8845,7 +8774,7 @@
         ]
     },
     {
-        "term": "lanyak",
+        "term": "lanyak; melanyak",
         "definitions": [
             {
                 "sense": "1",
@@ -8948,8 +8877,7 @@
         ]
     },
     {
-        "term": "lapah",
-        "roman_numeral": "I",
+        "term": "lapah I; melapah",
         "definitions": [
             {
                 "sense": "1",
@@ -9049,8 +8977,7 @@
         ]
     },
     {
-        "term": "lapang",
-        "roman_numeral": "I",
+        "term": "lapang I",
         "definitions": [
             {
                 "sense": "1",
@@ -9248,8 +9175,7 @@
         ]
     },
     {
-        "term": "lapik",
-        "roman_numeral": "I",
+        "term": "lapik I",
         "definitions": [
             {
                 "sense": "1",
@@ -9338,24 +9264,22 @@
         ]
     },
     {
-        "term": "lapis",
-        "roman_numeral": "I",
+        "term": "lapis I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "=  lapisan  susunan yg bertingkat-tingkat atau bertindih-tindih  dgn satu di atas atau di sebelah yg lain (bkn bumi, dinding, dll),  petala:  di bawah kulit binatang terletak se~ lemak yg memanaskan  badannya; maka mereka pun masuklah ke dlm kota yg tujuh ~ itu;"
+            },
+            {
+                "sense": "2",
+                "definition": "barisan atau deretan (yg bersaf-saf):  tentera itu berbanjar  beberapa ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "kepingan atau barang nipis yg dilekapkan pd  barang yg lain:  ~ bahu baju; ~ emas  barang yg disadur dgn emas;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "kepingan atau barang nipis yg dilekapkan pd  barang yg lain:  ~ bahu baju; ~ emas  barang yg disadur dgn emas;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berlapis",
                 "definitions": [
@@ -9439,8 +9363,7 @@
         ]
     },
     {
-        "term": "lapis",
-        "roman_numeral": "II",
+        "term": "lapis II",
         "definitions": [
             {
                 "sense": "1",
@@ -9518,8 +9441,7 @@
         ]
     },
     {
-        "term": "lapuk",
-        "roman_numeral": "I",
+        "term": "lapuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -9720,8 +9642,7 @@
         ]
     },
     {
-        "term": "larak",
-        "roman_numeral": "II",
+        "term": "larak II",
         "definitions": [
             {
                 "sense": "1",
@@ -9866,8 +9787,7 @@
         ]
     },
     {
-        "term": "laras",
-        "roman_numeral": "I",
+        "term": "laras I",
         "definitions": [
             {
                 "sense": "1",
@@ -9971,8 +9891,7 @@
         ]
     },
     {
-        "term": "laras",
-        "roman_numeral": "II",
+        "term": "laras II",
         "definitions": [
             {
                 "sense": "1",
@@ -9989,8 +9908,7 @@
         ]
     },
     {
-        "term": "laras",
-        "roman_numeral": "III",
+        "term": "laras III",
         "origin": "Mn",
         "definitions": [
             {
@@ -10045,8 +9963,7 @@
         ]
     },
     {
-        "term": "larat",
-        "roman_numeral": "I",
+        "term": "larat I",
         "definitions": [
             {
                 "sense": "1",
@@ -10366,8 +10283,7 @@
         ]
     },
     {
-        "term": "larik",
-        "roman_numeral": "I",
+        "term": "larik I; melarik",
         "definitions": [
             {
                 "sense": "1",
@@ -10587,8 +10503,7 @@
         ]
     },
     {
-        "term": "larut",
-        "roman_numeral": "I",
+        "term": "larut I",
         "definitions": [
             {
                 "sense": "1",
@@ -10639,8 +10554,7 @@
         ]
     },
     {
-        "term": "larut",
-        "roman_numeral": "II",
+        "term": "larut II",
         "definitions": [
             {
                 "sense": "2",
@@ -11050,7 +10964,7 @@
         ]
     },
     {
-        "term": "lasykar",
+        "term": "lasykar sl",
         "definitions": [
             {
                 "sense": "1",
@@ -11166,8 +11080,7 @@
         ]
     },
     {
-        "term": "latah",
-        "roman_numeral": "I",
+        "term": "latah I",
         "definitions": [
             {
                 "sense": "1",
@@ -11247,7 +11160,7 @@
         ]
     },
     {
-        "term": "latam",
+        "term": "latam; melatam",
         "definitions": [
             {
                 "sense": "1",
@@ -11337,7 +11250,7 @@
         ]
     },
     {
-        "term": "latar",
+        "term": "latar belakang",
         "definitions": [
             {
                 "sense": "1",
@@ -11581,8 +11494,7 @@
         ]
     },
     {
-        "term": "latu",
-        "roman_numeral": "II",
+        "term": "latu II",
         "origin": "Kd",
         "definitions": [
             {
@@ -11867,8 +11779,7 @@
         ]
     },
     {
-        "term": "laut",
-        "roman_numeral": "I",
+        "term": "laut I",
         "definitions": [
             {
                 "sense": "1",
@@ -12208,14 +12119,9 @@
                     {
                         "sense": "2",
                         "definition": "berlumba  (utk mencapai matlamat yg sama), bersaingan (dlm perniagaan  dll):  kumpulan Ghee Hin ialah puak yg ~ dgn kumpulan Hai San;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "berlainan sekali, bertentangan (arah, sifat, tujuan, dll):  kerana  perangai kami yg   ~ inilah agaknya rapat benar persahabatan  kami;"
                     }
                 ]
@@ -12317,8 +12223,7 @@
         ]
     },
     {
-        "term": "lawang",
-        "roman_numeral": "II",
+        "term": "lawang II",
         "definitions": [
             {
                 "sense": "1",
@@ -12423,7 +12328,7 @@
         ]
     },
     {
-        "term": "lawat",
+        "term": "lawat; melawat",
         "definitions": [
             {
                 "sense": "1",
@@ -12574,8 +12479,7 @@
         ]
     },
     {
-        "term": "layak",
-        "roman_numeral": "I",
+        "term": "layak I",
         "definitions": [
             {
                 "sense": "1",
@@ -12751,14 +12655,9 @@
                     {
                         "sense": "1",
                         "definition": "orang yg kerjanya melayan, orang suruhan, pembantu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "(Komp) peranti atau program komputer yg membekalkan data  dan maklumat kpd komputer lain yg mempunyai hubungan  rangkaian dengannya;       ~ besar  ketua orang suruhan;  ~ dapur  orang yg bertugas di dapur  (spt memasak dll);  ~ pejabat  budak suruhan (membantu kerja) di  pejabat."
                     }
                 ]
@@ -12871,8 +12770,7 @@
         ]
     },
     {
-        "term": "layang",
-        "roman_numeral": "III",
+        "term": "layang III; pelayangan",
         "definitions": [
             {
                 "sense": "1",
@@ -13294,8 +13192,7 @@
         ]
     },
     {
-        "term": "lazat",
-        "roman_numeral": "I",
+        "term": "lazat I",
         "definitions": [
             {
                 "sense": "2",
@@ -13421,8 +13318,7 @@
         ]
     },
     {
-        "term": "lebai",
-        "roman_numeral": "I",
+        "term": "lebai I",
         "definitions": [
             {
                 "sense": "1",
@@ -13572,7 +13468,7 @@
         ]
     },
     {
-        "term": "lebar",
+        "term": "lebar (lébar)",
         "definitions": [
             {
                 "sense": "1",
@@ -13898,8 +13794,7 @@
         ]
     },
     {
-        "term": "lebu",
-        "roman_numeral": "I",
+        "term": "lebu I sl",
         "definitions": [
             {
                 "sense": "1",
@@ -14035,8 +13930,7 @@
         ]
     },
     {
-        "term": "lebur",
-        "roman_numeral": "I",
+        "term": "lebur I",
         "definitions": [
             {
                 "sense": "1",
@@ -14236,7 +14130,7 @@
         ]
     },
     {
-        "term": "lecak",
+        "term": "lecak (lécak)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -14330,7 +14224,7 @@
         ]
     },
     {
-        "term": "leceh",
+        "term": "leceh (lécéh)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -14339,18 +14233,13 @@
             {
                 "sense": "2",
                 "definition": "ki kurang nilai (harga, mutu, dsb), tidak berguna,  hina:  memang engkau ~, apa yg engkau hendak, engkau sendiri  tidak tahu; ~ budi  tidak berbudi;  perempuan ~  perempuan sundal;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki cerewet lagi remeh (pekerjaan dll), lambat, lengah, rumit:  pekerjaan yg ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki cerewet lagi remeh (pekerjaan dll), lambat, lengah, rumit:  pekerjaan yg ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "meleceh",
                 "definitions": [
@@ -14438,7 +14327,7 @@
         ]
     },
     {
-        "term": "lecer",
+        "term": "lecer (lécér)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -14469,7 +14358,7 @@
         ]
     },
     {
-        "term": "lecet",
+        "term": "lecet (lécét) ",
         "definitions": [
             {
                 "sense": "1",
@@ -14506,7 +14395,7 @@
         ]
     },
     {
-        "term": "lecit",
+        "term": "lecit, melecit",
         "definitions": [
             {
                 "sense": "1",
@@ -14528,7 +14417,7 @@
         ]
     },
     {
-        "term": "lecok",
+        "term": "lecok (lécok)",
         "definitions": [
             {
                 "sense": "1",
@@ -14721,7 +14610,7 @@
         ]
     },
     {
-        "term": "ledak",
+        "term": "ledak; meledak",
         "definitions": [
             {
                 "sense": "1",
@@ -14820,7 +14709,7 @@
         ]
     },
     {
-        "term": "leding",
+        "term": "leding; meleding",
         "definitions": [
             {
                 "sense": "1",
@@ -14880,7 +14769,7 @@
         ]
     },
     {
-        "term": "ledos",
+        "term": "ledos (lédos) Jk;  meledos",
         "definitions": [
             {
                 "sense": "1",
@@ -14923,7 +14812,7 @@
         ]
     },
     {
-        "term": "leftenan",
+        "term": "leftenan (léftenan)",
         "definitions": [
             {
                 "sense": "1",
@@ -14949,18 +14838,13 @@
             {
                 "sense": "3",
                 "definition": "lapang  (waktu), tidak sibuk:  kalau ada masa yg ~ , jemputlah ke rumah;"
+            },
+            {
+                "sense": "4",
+                "definition": "agak pulih (drpd sakit), beransur sembuh;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "agak pulih (drpd sakit), beransur sembuh;"
-                    }
-                ]
-            },
             {
                 "sub_term": "melegakan",
                 "definitions": [
@@ -15128,7 +15012,7 @@
         ]
     },
     {
-        "term": "legar",
+        "term": "legar (légar);  berlegar, berlegar-legar",
         "definitions": [
             {
                 "sense": "1",
@@ -15219,7 +15103,7 @@
         ]
     },
     {
-        "term": "legenda",
+        "term": "legenda (légénda)",
         "definitions": [
             {
                 "sense": "1",
@@ -15232,7 +15116,7 @@
         ]
     },
     {
-        "term": "leger",
+        "term": "leger (légér) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -15263,7 +15147,7 @@
         ]
     },
     {
-        "term": "legitimasi",
+        "term": "legitimasi (légitimasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -15295,7 +15179,7 @@
         ]
     },
     {
-        "term": "legojo",
+        "term": "legojo, legoja",
         "definitions": [
             {
                 "sense": "1",
@@ -15453,7 +15337,7 @@
         ]
     },
     {
-        "term": "leher",
+        "term": "leher (léhér)",
         "definitions": [
             {
                 "sense": "1",
@@ -15490,7 +15374,7 @@
         ]
     },
     {
-        "term": "leik",
+        "term": "leik (léik) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -16058,14 +15942,9 @@
                     {
                         "sense": "1",
                         "definition": "sesuatu yg digunakan utk melekatkan (gam, kanji, dsb);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "helai plastik atau kertas yg mempunyai tulisan atau gambar utk  menandakan sesuatu, biasanya ditampalkan atau dilekatkan pd  sesuatu permukaan:  ~ kereta."
                     }
                 ]
@@ -16082,7 +15961,7 @@
         ]
     },
     {
-        "term": "lekeh",
+        "term": "lekeh (lékéh)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -16122,7 +16001,7 @@
         ]
     },
     {
-        "term": "leklek",
+        "term": "leklek (léklék) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -16190,7 +16069,7 @@
         ]
     },
     {
-        "term": "leksikon",
+        "term": "leksikon (léksikon) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -16383,7 +16262,7 @@
         ]
     },
     {
-        "term": "lela",
+        "term": "lela (léla)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -16522,7 +16401,7 @@
         ]
     },
     {
-        "term": "lelai",
+        "term": "lelai; melelai",
         "definitions": [
             {
                 "sense": "1",
@@ -17363,8 +17242,7 @@
         ]
     },
     {
-        "term": "lemah",
-        "roman_numeral": "I",
+        "term": "lemah I",
         "definitions": [
             {
                 "sense": "1",
@@ -17489,8 +17367,7 @@
         ]
     },
     {
-        "term": "lemak",
-        "roman_numeral": "I",
+        "term": "lemak I",
         "definitions": [
             {
                 "sense": "1",
@@ -17566,7 +17443,7 @@
         ]
     },
     {
-        "term": "lemanta",
+        "term": "lemanta Sr",
         "definitions": [
             {
                 "sense": "1",
@@ -17627,8 +17504,7 @@
         ]
     },
     {
-        "term": "lemas",
-        "roman_numeral": "II",
+        "term": "lemas II",
         "definitions": [
             {
                 "sense": "1",
@@ -17724,7 +17600,7 @@
         ]
     },
     {
-        "term": "lembah",
+        "term": "lembah ",
         "definitions": [
             {
                 "sense": "1",
@@ -17748,7 +17624,7 @@
         ]
     },
     {
-        "term": "lembai",
+        "term": "lembai (lémbai) Mn;  melembai",
         "definitions": [
             {
                 "sense": "1",
@@ -17770,8 +17646,7 @@
         ]
     },
     {
-        "term": "lembam",
-        "roman_numeral": "I",
+        "term": "lembam I",
         "definitions": [
             {
                 "sense": "1",
@@ -17809,8 +17684,7 @@
         ]
     },
     {
-        "term": "lembang",
-        "roman_numeral": "I",
+        "term": "lembang I",
         "definitions": [
             {
                 "sense": "1",
@@ -18354,7 +18228,7 @@
         ]
     },
     {
-        "term": "lemon",
+        "term": "lemon (lémon)",
         "definitions": [
             {
                 "sense": "1",
@@ -18439,8 +18313,7 @@
         ]
     },
     {
-        "term": "lempang",
-        "roman_numeral": "III",
+        "term": "lempang III",
         "definitions": [
             {
                 "sense": "1",
@@ -18631,7 +18504,7 @@
         ]
     },
     {
-        "term": "lempem",
+        "term": "lempem ;  melempem",
         "origin": "Jk",
         "definitions": [
             {
@@ -18668,23 +18541,22 @@
         ]
     },
     {
-        "term": "lempeng",
+        "term": "lempeng (lémpéng)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "sesuatu yg pipih (spt tembakau dll):  tembakau ~;"
+            },
+            {
+                "sense": "2",
+                "definition": "sj kuih yg pipih dan nipis (yg diperbuat drpd tepung dll);"
+            },
+            {
+                "sense": "3",
+                "definition": "kepingan (besi, kaca, dll) yg nipis;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "kepingan (besi, kaca, dll) yg nipis;"
-                    }
-                ]
-            },
             {
                 "sub_term": "melempeng",
                 "definitions": [
@@ -18932,7 +18804,7 @@
         ]
     },
     {
-        "term": "lena",
+        "term": "lena (léna)",
         "definitions": [
             {
                 "sense": "1",
@@ -19073,7 +18945,7 @@
         ]
     },
     {
-        "term": "lencong",
+        "term": "lencong (léncong);  melencong",
         "definitions": [
             {
                 "sense": "1",
@@ -19244,7 +19116,7 @@
         ]
     },
     {
-        "term": "lengah",
+        "term": "lengah (léngah)",
         "definitions": [
             {
                 "sense": "1",
@@ -19275,12 +19147,11 @@
                     {
                         "sense": "1",
                         "definition": "tidak segera (melakukan sesuatu), tidak hati-hati,  lalai, leka:  pernah sekali saya dimarahi kerana ~ melayan tetamu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "=  ~ waktu  mengisi masa yg lapang dgn mengerjakan sesuatu:  di  bawah meja itu ada banyak majalah utk ~ waktu;"
+                    },
                     {
                         "sense": "3",
                         "definition": "melakukan  sesuatu utk menghiburkan atau mempersenang diri (orang lain  dsb):  ~ anak; ~ hati;"
@@ -19352,22 +19223,19 @@
             {
                 "sense": "1",
                 "definition": "tidak tangkas dlm melakukan sesuatu, tidak cergas, tidak aktif;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "(Kim) tidak bertindak balas secara kimia dgn  bahan lain (bkn gas dsb):  gas ~;      lengai-lengai  dgn lengai:  kerja ~ lambat beroleh laki;         kelengaian  sifat atau keadaan lengai:  ~ gas itu."
-                    }
-                ]
+                "sense": "2",
+                "definition": "lalai, lengah;"
+            },
+            {
+                "sense": "3",
+                "definition": "(Kim) tidak bertindak balas secara kimia dgn  bahan lain (bkn gas dsb):  gas ~;      lengai-lengai  dgn lengai:  kerja ~ lambat beroleh laki;         kelengaian  sifat atau keadaan lengai:  ~ gas itu."
             }
         ]
     },
     {
-        "term": "lengak",
+        "term": "lengak ;  melengak",
         "origin": "Jk",
         "definitions": [
             {
@@ -19466,7 +19334,7 @@
         ]
     },
     {
-        "term": "lengas",
+        "term": "lengas ",
         "definitions": [
             {
                 "sense": "1",
@@ -19602,7 +19470,7 @@
         ]
     },
     {
-        "term": "lenggang",
+        "term": "lenggang (lénggang)",
         "definitions": [
             {
                 "sense": "1",
@@ -19944,14 +19812,9 @@
                     {
                         "sense": "1",
                         "definition": "bersiap sedia (dgn apa-apa yg perlu):  maka  Demang Lebar Daun pun ~ hendak memandikan Sang SaPurba;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  berlengkapkan  telah disediakan atau dipersiapkan dgn:  dgn ~  pengetahuan ini orang Belanda telah sanggup menduga laut di  Timur;"
                     }
                 ]
@@ -20248,7 +20111,7 @@
         ]
     },
     {
-        "term": "lengkong",
+        "term": "lengkong (léngkong)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -20408,7 +20271,7 @@
         ]
     },
     {
-        "term": "lengseng",
+        "term": "lengseng (léngseng, léngséng) bp",
         "definitions": [
             {
                 "sense": "1",
@@ -20421,7 +20284,7 @@
         ]
     },
     {
-        "term": "lengser",
+        "term": "lengser (léngsér)",
         "definitions": [
             {
                 "sense": "1",
@@ -20532,8 +20395,7 @@
         ]
     },
     {
-        "term": "lengung",
-        "roman_numeral": "II",
+        "term": "lengung II ;  melengung",
         "origin": "Mn",
         "definitions": [
             {
@@ -20605,8 +20467,7 @@
         ]
     },
     {
-        "term": "lenja",
-        "roman_numeral": "III",
+        "term": "lenja III ark",
         "definitions": [
             {
                 "sense": "1",
@@ -20771,7 +20632,7 @@
         ]
     },
     {
-        "term": "lentik",
+        "term": "lentik ",
         "definitions": [
             {
                 "sense": "1",
@@ -20813,8 +20674,7 @@
         ]
     },
     {
-        "term": "lenting",
-        "roman_numeral": "I",
+        "term": "lenting I; melenting",
         "definitions": [
             {
                 "sense": "1",
@@ -21238,22 +21098,15 @@
         ]
     },
     {
-        "term": "lepa",
+        "term": "lepa (lépa)  II  ark;  terlepa",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "terlentang (kerana terlalu letih), terbaring;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "terlalu labuh (kain perempuan, jubah, dll), tersangat labuh:  janggut terlipat hingga ke riba, jubah ~ hingga ke kaki."
-                    }
-                ]
+                "sense": "2",
+                "definition": "terlalu labuh (kain perempuan, jubah, dll), tersangat labuh:  janggut terlipat hingga ke riba, jubah ~ hingga ke kaki."
             }
         ]
     },
@@ -21307,7 +21160,7 @@
         ]
     },
     {
-        "term": "lepak",
+        "term": "lepak (lépak);  budaya (tabiat) ",
         "definitions": [
             {
                 "sense": "1",
@@ -21406,22 +21259,21 @@
             {
                 "sense": "4",
                 "definition": "tertinggal di belakang  (tempat dll), telah lalu atau lewat (tempat, hari, dll):  setelah  sampai ke kuala ~ alangan maka belayarlah ia; semenjak minggu  yg ~ ia telah membawa suatu perubahan baru kpd diri gadis itu;"
+            },
+            {
+                "sense": "5",
+                "definition": "(se)sudah, setelah selesai atau habis:  ~ sembahyang zohor,  boleh kita berjalan-jalan; ada selangnya sebulan ~ menabalkan  anakanda baginda itu, maka baginda pun geringlah terlalu  sangat;"
+            },
+            {
+                "sense": "6",
+                "definition": "bp lahir (bayi):  hingga sampailah tujuh hari tujuh  malam tidak juga ~ budak;"
+            },
+            {
+                "sense": "7",
+                "definition": "Pr, bp ada juga, boleh (juga), cukup  juga (makanan, belanja, dll):  belanja anak-beranak utk bulan ini  ~lah;      ~ angin  sia-sia sahaja;  ~ ayam (burung, unggas)  a) bebas sungguh,  boleh melakukan sesuka hati; b) telah dimerdekakan (hamba abdi  dll);  ~ bebas  bebas benar-benar;  ~ diri  a) tidak melibatkan diri dlm  sesuatu hal; b) tidak mahu bertanggungjawab atau mengambil tahu  mengenai sesuatu hal;  ~ idah  sesudah waktu idah;  ~ ijazah  selepas  memperoleh ijazah sarjana muda (bkn pengajian, penyelidikan  dsb):  kursus ~ ijazah; ~ laku  bebas melakukan sesuatu dgn tidak  segan-segan lagi;  ~ lelas  bebas sama sekali;  ~ malu  sudah  dikhatankan (anak lelaki);  ~ nafas  menghembuskan nafas keluar  perlahan-lahan;  ~ pantang  masa sesudah waktu pantang;  ~ puasa  setelah selesai berpuasa;  ~ sekolah  sesudah bersekolah;  ~ tangan   a) tidak berpegang (pd kemudi, selusur, dll); b) tidak masuk  campur dlm sesuatu hal; c) tidak ada tambahan lain (di luar gaji  atau upah), upah (gaji) semata-mata;  ~ ungu  pancaran cahaya yg  tidak nampak dlm spektrum (selepas pancaran cahaya ungu);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "6",
-                        "definition": "bp lahir (bayi):  hingga sampailah tujuh hari tujuh  malam tidak juga ~ budak;"
-                    },
-                    {
-                        "sense": "7",
-                        "definition": "Pr, bp ada juga, boleh (juga), cukup  juga (makanan, belanja, dll):  belanja anak-beranak utk bulan ini  ~lah;      ~ angin  sia-sia sahaja;  ~ ayam (burung, unggas)  a) bebas sungguh,  boleh melakukan sesuka hati; b) telah dimerdekakan (hamba abdi  dll);  ~ bebas  bebas benar-benar;  ~ diri  a) tidak melibatkan diri dlm  sesuatu hal; b) tidak mahu bertanggungjawab atau mengambil tahu  mengenai sesuatu hal;  ~ idah  sesudah waktu idah;  ~ ijazah  selepas  memperoleh ijazah sarjana muda (bkn pengajian, penyelidikan  dsb):  kursus ~ ijazah; ~ laku  bebas melakukan sesuatu dgn tidak  segan-segan lagi;  ~ lelas  bebas sama sekali;  ~ malu  sudah  dikhatankan (anak lelaki);  ~ nafas  menghembuskan nafas keluar  perlahan-lahan;  ~ pantang  masa sesudah waktu pantang;  ~ puasa  setelah selesai berpuasa;  ~ sekolah  sesudah bersekolah;  ~ tangan   a) tidak berpegang (pd kemudi, selusur, dll); b) tidak masuk  campur dlm sesuatu hal; c) tidak ada tambahan lain (di luar gaji  atau upah), upah (gaji) semata-mata;  ~ ungu  pancaran cahaya yg  tidak nampak dlm spektrum (selepas pancaran cahaya ungu);"
-                    }
-                ]
-            },
             {
                 "sub_term": "selepas",
                 "definitions": [
@@ -21655,8 +21507,7 @@
         ]
     },
     {
-        "term": "lepau",
-        "roman_numeral": "I",
+        "term": "lepau I",
         "definitions": [
             {
                 "sense": "1",
@@ -21697,7 +21548,7 @@
         ]
     },
     {
-        "term": "lepek",
+        "term": "lepek (lépék)  II;   melepek",
         "definitions": [
             {
                 "sense": "1",
@@ -21765,7 +21616,7 @@
         ]
     },
     {
-        "term": "lepet",
+        "term": "lepet (lépét);  melepet",
         "definitions": [
             {
                 "sense": "1",
@@ -22039,7 +21890,7 @@
         ]
     },
     {
-        "term": "lerai",
+        "term": "lerai; meleraikan",
         "definitions": [
             {
                 "sense": "1",
@@ -22202,7 +22053,7 @@
         ]
     },
     {
-        "term": "lerek",
+        "term": "lerek (lérék)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -22224,7 +22075,7 @@
         ]
     },
     {
-        "term": "lereng",
+        "term": "lereng (léréng)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -22326,7 +22177,7 @@
         ]
     },
     {
-        "term": "leret",
+        "term": "leret (lérét)  II; berleret, berleret-leret",
         "definitions": [
             {
                 "sense": "1",
@@ -23077,12 +22928,11 @@
                     {
                         "sense": "2",
                         "definition": "memasukkan (dlm):  pantai Bagan Datok dan Lumut mungkin  diletakkan dlm kawasan keselamatan sbg langkah berjaga-jaga;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "ki melepaskan (perkhidmatan dll), meninggalkan;  ~ jawatan  berhenti drpd memegang sesuatu jawatan;  ~ senjata  menamatkan  peperangan;"
+                    },
                     {
                         "sense": "4",
                         "definition": "memberi, menganugerahkan, menghadiahkan:  maka Sultan Mansor Shah menyuruh memanggil Hang Tuah  diberi baginda persalin serta diletakkanlah oleh baginda nama  Laksamana;"
@@ -23127,7 +22977,7 @@
         ]
     },
     {
-        "term": "letak",
+        "term": "letak (létak)",
         "definitions": [
             {
                 "sense": "1",
@@ -23620,7 +23470,7 @@
         ]
     },
     {
-        "term": "lewah",
+        "term": "lewah (léwah) ",
         "definitions": [
             {
                 "sense": "1",
@@ -23633,7 +23483,7 @@
         ]
     },
     {
-        "term": "lewar",
+        "term": "lewar (léwar);  melewar",
         "definitions": [
             {
                 "sense": "1",
@@ -23646,7 +23496,7 @@
         ]
     },
     {
-        "term": "lewat",
+        "term": "lewat (léwat)",
         "definitions": [
             {
                 "sense": "1",
@@ -23745,14 +23595,9 @@
                     {
                         "sense": "2",
                         "definition": "terlewat, terlambat:  engkau boleh sewa sebuah  kereta pergi ke mana-mana suka tetapi jangan ~ balik ke perahu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "terlampau, tersangat."
                     }
                 ]
@@ -23760,7 +23605,7 @@
         ]
     },
     {
-        "term": "leweh",
+        "term": "leweh (léwéh) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -23927,8 +23772,7 @@
         ]
     },
     {
-        "term": "liat",
-        "roman_numeral": "I",
+        "term": "liat I",
         "definitions": [
             {
                 "sense": "1",
@@ -24030,7 +23874,7 @@
         ]
     },
     {
-        "term": "libas",
+        "term": "libas; melibas",
         "definitions": [
             {
                 "sense": "1",
@@ -24329,8 +24173,7 @@
         ]
     },
     {
-        "term": "licin",
-        "roman_numeral": "I",
+        "term": "licin I",
         "definitions": [
             {
                 "sense": "1",
@@ -24398,12 +24241,11 @@
                     {
                         "sense": "2",
                         "definition": "perihal atau keadaan licin (sama rata,  tidak menggerutu, dsb):  ~ pipi yg empuk akan hilang apabila tua;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "perihal (keadaan dsb) berjalan dgn licin (lancar), kelancaran:  ~  pentadbiran kerajaan akan terganggu sekiranya sentimen politik  dicampuradukkan dgn tugas sehari-hari;"
+                    },
                     {
                         "sense": "4",
                         "definition": "kepintaran (menipu  atau memperdaya orang lain), perihal licin (dlm perlakuan atau  tindak-tanduknya):  kecurangan Tuai Kancu yg menipu anak-anak  buahnya melalui kekuasaan dan ~nya mendapatkan wang drpd  jalan yg mudah;"
@@ -24461,8 +24303,7 @@
         ]
     },
     {
-        "term": "lidah",
-        "roman_numeral": "I",
+        "term": "lidah I",
         "definitions": [
             {
                 "sense": "1",
@@ -24471,18 +24312,17 @@
             {
                 "sense": "2",
                 "definition": "ki perkataan, tutur kata:  lembut dan fasih ~nya;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki sesuatu yg menyerupai lidah:  ~ kain; ~ serunai  (seruling) ;"
+            },
+            {
+                "sense": "4",
+                "definition": "ki bahagian yg menganjur dr sesuatu benda;  ~ tanah  tanjung pd  selekoh sungai;       ~ air  bahagian tepi air; ~ api  hujung nyala api (yg menjilat-jilat);  ~  bercabang (biawak)  tidak tetap perkataan, tidak boleh dipercayai  perkataannya;  ~ dacing  jarum penunjuk berat pd dacing;  ~ keras  tidak dapat menyebut sesuatu perkataan dgn betul, telor;  ~ lembut  boleh menyebut perkataan dgn betul;  ~ manis  baik tutur katanya;  ~  ombak  hujung ombak, ombak yg di depan sekali;  ~ panjang  orang  yg suka bercakap-cakap, suka menghasut-hasut;  ~ papan  bahagian  yg menghubungkan papan;  ~ pendeta  kata-kata hikmat drpd orang  yg bijaksana;  ~ pengarang  rencana pengarang;  ~ rasmi  jurubicara  (akhbar dll) yg mengeluarkan berita dll rasmi sesuatu parti dll);  ~  serunai  bahagian serunai yg mengeluarkan bunyi;      ~ bercabang bagai biawak  prb selalu berubah-ubah dan tidak  dapat dipercayai kata-katanya;  ~ tidak bertulang  prb a) mudah  berjanji dan mudah pula mengubah janjinya; b) orang yg  mengeluarkan celaan dgn tidak tersangkut-sangkut;  apa payahnya  menggoyangkan ~ sahaja  prb banyak janji tetapi tidak ditepati;  berkata peliharakan ~  prb hendaklah beringat-ingat mengeluarkan  kata-kata;  berniaga di hujung ~  prb orang pandai yg tidak jujur  (suka menipu dll);  jadi hujung jari sambungan ~  =  jadi  penghubung hujung ~  prb orang yg menyampaikan pesan orang  lain dlm sesuatu mesyuarat atau peralatan;  kebenaran di hujung ~  prb tidak ada keadilan (hanya menurut kata orang yg berkuasa  sahaja);  membuat tergigit ~  prb memberi nasihat yg sia-sia kpd  orang yg berkelakuan jahat;  menyepitkan ~ ke lantai  prb menahan  nafsu dan kehendak;  patah ~ alamat kalah patah keris alamat  mati  prb jika tidak pandai berkata-kata tentu akan kalah;  tercabut   ~ mati  prb tidak berguna mempercakapkan orang yg jahat, sebab  ia tetap jahat juga;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "ki bahagian yg menganjur dr sesuatu benda;  ~ tanah  tanjung pd  selekoh sungai;       ~ air  bahagian tepi air; ~ api  hujung nyala api (yg menjilat-jilat);  ~  bercabang (biawak)  tidak tetap perkataan, tidak boleh dipercayai  perkataannya;  ~ dacing  jarum penunjuk berat pd dacing;  ~ keras  tidak dapat menyebut sesuatu perkataan dgn betul, telor;  ~ lembut  boleh menyebut perkataan dgn betul;  ~ manis  baik tutur katanya;  ~  ombak  hujung ombak, ombak yg di depan sekali;  ~ panjang  orang  yg suka bercakap-cakap, suka menghasut-hasut;  ~ papan  bahagian  yg menghubungkan papan;  ~ pendeta  kata-kata hikmat drpd orang  yg bijaksana;  ~ pengarang  rencana pengarang;  ~ rasmi  jurubicara  (akhbar dll) yg mengeluarkan berita dll rasmi sesuatu parti dll);  ~  serunai  bahagian serunai yg mengeluarkan bunyi;      ~ bercabang bagai biawak  prb selalu berubah-ubah dan tidak  dapat dipercayai kata-katanya;  ~ tidak bertulang  prb a) mudah  berjanji dan mudah pula mengubah janjinya; b) orang yg  mengeluarkan celaan dgn tidak tersangkut-sangkut;  apa payahnya  menggoyangkan ~ sahaja  prb banyak janji tetapi tidak ditepati;  berkata peliharakan ~  prb hendaklah beringat-ingat mengeluarkan  kata-kata;  berniaga di hujung ~  prb orang pandai yg tidak jujur  (suka menipu dll);  jadi hujung jari sambungan ~  =  jadi  penghubung hujung ~  prb orang yg menyampaikan pesan orang  lain dlm sesuatu mesyuarat atau peralatan;  kebenaran di hujung ~  prb tidak ada keadilan (hanya menurut kata orang yg berkuasa  sahaja);  membuat tergigit ~  prb memberi nasihat yg sia-sia kpd  orang yg berkelakuan jahat;  menyepitkan ~ ke lantai  prb menahan  nafsu dan kehendak;  patah ~ alamat kalah patah keris alamat  mati  prb jika tidak pandai berkata-kata tentu akan kalah;  tercabut   ~ mati  prb tidak berguna mempercakapkan orang yg jahat, sebab  ia tetap jahat juga;"
-                    }
-                ]
-            },
             {
                 "sub_term": "lidah-lidah",
                 "definitions": [
@@ -24551,8 +24391,7 @@
         ]
     },
     {
-        "term": "lidi",
-        "roman_numeral": "I",
+        "term": "lidi I",
         "definitions": [
             {
                 "sense": "1",
@@ -25034,24 +24873,18 @@
         ]
     },
     {
-        "term": "liku",
-        "roman_numeral": "I",
+        "term": "liku I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "selekoh (pd jalan, sungai, dll), kelok, siku:  tiap ~ jalan diturut ;"
+            },
+            {
+                "sense": "2",
+                "definition": "tempat terpencil, ceruk:  segala ~ dan ceruk di hulu sungai itu  diingatinya; segala ~ dan ceruk pedalaman; ~-~ hidup = ~-~  kehidupan  dugaan dan kesengsaraan dlm hidup:  perlunya Islam  dijadikan sbg obor yg menerangi ~-~ kehidupan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tempat terpencil, ceruk:  segala ~ dan ceruk di hulu sungai itu  diingatinya; segala ~ dan ceruk pedalaman; ~-~ hidup = ~-~  kehidupan  dugaan dan kesengsaraan dlm hidup:  perlunya Islam  dijadikan sbg obor yg menerangi ~-~ kehidupan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berliku-liku",
                 "definitions": [
@@ -25253,7 +25086,7 @@
         ]
     },
     {
-        "term": "lilin",
+        "term": "lilin I  sj bahan yg mengandungi lemak (utk dibuat dian dll)",
         "definitions": [
             {
                 "sense": "2",
@@ -25482,8 +25315,7 @@
         ]
     },
     {
-        "term": "limas",
-        "roman_numeral": "I",
+        "term": "limas I",
         "definitions": [
             {
                 "sense": "1",
@@ -25563,8 +25395,7 @@
         ]
     },
     {
-        "term": "limbah",
-        "roman_numeral": "I",
+        "term": "limbah I ",
         "definitions": [
             {
                 "sense": "1",
@@ -25645,8 +25476,7 @@
         ]
     },
     {
-        "term": "limbang",
-        "roman_numeral": "I",
+        "term": "limbang I; melimbang",
         "definitions": [
             {
                 "sense": "1",
@@ -25748,8 +25578,7 @@
         ]
     },
     {
-        "term": "limbung",
-        "roman_numeral": "I",
+        "term": "limbung I ",
         "definitions": [
             {
                 "sense": "1",
@@ -26013,7 +25842,7 @@
         ]
     },
     {
-        "term": "limpang",
+        "term": "limpang ;  melimpang",
         "origin": "Br",
         "definitions": [
             {
@@ -26027,7 +25856,7 @@
         ]
     },
     {
-        "term": "limpap",
+        "term": "limpap; berlimpap, berlimpap-limpap",
         "definitions": [
             {
                 "sense": "1",
@@ -26410,7 +26239,7 @@
         ]
     },
     {
-        "term": "lindis",
+        "term": "lindis ;  melindis",
         "origin": "Mn",
         "definitions": [
             {
@@ -26455,8 +26284,7 @@
         ]
     },
     {
-        "term": "lindung",
-        "roman_numeral": "I",
+        "term": "lindung I; berlindung",
         "definitions": [
             {
                 "sense": "1",
@@ -26548,14 +26376,9 @@
                     {
                         "sense": "1",
                         "definition": "yg terlindung oleh, yg dilindungi:  manusia ~ Tuhan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  perlindungan;"
                     }
                 ]
@@ -26631,7 +26454,7 @@
         ]
     },
     {
-        "term": "linear",
+        "term": "linear (linéar)",
         "definitions": [
             {
                 "sense": "1",
@@ -26673,7 +26496,7 @@
         ]
     },
     {
-        "term": "lingar",
+        "term": "lingar; melingar",
         "definitions": [
             {
                 "sense": "1",
@@ -27082,8 +26905,7 @@
         ]
     },
     {
-        "term": "lingkup",
-        "roman_numeral": "III",
+        "term": "lingkup III",
         "definitions": [
             {
                 "sense": "1",
@@ -27371,12 +27193,11 @@
                     {
                         "sense": "2",
                         "definition": "mendatar (sesuatu garisan), lwn menegak;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "menggalang atau merintang (malapetaka, kecelakaan, dll):  dia    sendiri pun akan turun besok kalau tak ada aral ~; ~ batang    membuat rintangan di sungai utk memungut cukai;  ~ payar    melabuhkan perahu melintang di sungai utk memungut cukai;"
+                    },
                     {
                         "sense": "4",
                         "definition": "bergerak dr satu tangga gaji dlm sesuatu peringkat ke satu tangga    dan peringkat yg lebih tinggi dlm Sistem Saraan Baru (bkn    pergerakan  gaji kakitangan perkhidmatan awam kerajaan  Malaysia);"
@@ -27509,12 +27330,11 @@
                     {
                         "sense": "1",
                         "definition": "lalu di, melalui, mengharungi:  pelayaran ~ Atlantik;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "pergi ke seberang, menyeberangi:  habis sahaja makan, Ismail ~  jalan ini menuju lori balak;"
+                    },
                     {
                         "sense": "3",
                         "definition": "menghindarkan (kesulitan dll),  mengatasi;"
@@ -28091,7 +27911,7 @@
         ]
     },
     {
-        "term": "liput",
+        "term": "liput; berliput",
         "definitions": [
             {
                 "sense": "1",
@@ -28109,14 +27929,9 @@
                     {
                         "sense": "1",
                         "definition": "menutupi, memenuhi:  daratan kita sekarang pd suatu  masa dahulu diliputi air;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki menyeluruhi, melingkupi, menyelubungi:  rancangan  pembangunan yg menyeluruh ~ segenap daerah dan pelosok;  wajah isterinya diliputi kemuraman;"
                     }
                 ]
@@ -28218,8 +28033,7 @@
         ]
     },
     {
-        "term": "lirik",
-        "roman_numeral": "III",
+        "term": "lirik III",
         "definitions": [
             {
                 "sense": "1",
@@ -29165,8 +28979,7 @@
         ]
     },
     {
-        "term": "locak",
-        "roman_numeral": "I",
+        "term": "locak I; melocak",
         "definitions": [
             {
                 "sense": "1",
@@ -29189,7 +29002,7 @@
         ]
     },
     {
-        "term": "loceng",
+        "term": "loceng (locéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -29232,7 +29045,7 @@
         ]
     },
     {
-        "term": "locok",
+        "term": "locok, melocok",
         "definitions": [
             {
                 "sense": "1",
@@ -29468,8 +29281,7 @@
         ]
     },
     {
-        "term": "loghat",
-        "roman_numeral": "I",
+        "term": "loghat I",
         "definitions": [
             {
                 "sense": "1",
@@ -29610,8 +29422,7 @@
         ]
     },
     {
-        "term": "loh",
-        "roman_numeral": "I",
+        "term": "loh I",
         "origin": "Ar",
         "definitions": [
             {
@@ -29743,8 +29554,7 @@
         ]
     },
     {
-        "term": "loji",
-        "roman_numeral": "I",
+        "term": "loji I",
         "definitions": [
             {
                 "sense": "1",
@@ -30118,8 +29928,7 @@
         ]
     },
     {
-        "term": "lokos",
-        "roman_numeral": "II",
+        "term": "lokos II",
         "definitions": [
             {
                 "sense": "1",
@@ -30361,8 +30170,7 @@
         ]
     },
     {
-        "term": "lolong",
-        "roman_numeral": "II",
+        "term": "lolong II",
         "definitions": [
             {
                 "sense": "1",
@@ -30432,7 +30240,7 @@
         ]
     },
     {
-        "term": "loma",
+        "term": "loma, lomah",
         "definitions": [
             {
                 "sense": "1",
@@ -30445,7 +30253,7 @@
         ]
     },
     {
-        "term": "lombar",
+        "term": "lombar ;  melombar",
         "origin": "Mn",
         "definitions": [
             {
@@ -30532,8 +30340,7 @@
         ]
     },
     {
-        "term": "lompang",
-        "roman_numeral": "I",
+        "term": "lompang I",
         "definitions": [
             {
                 "sense": "1",
@@ -30557,8 +30364,7 @@
         ]
     },
     {
-        "term": "lompang",
-        "roman_numeral": "II",
+        "term": "lompang II",
         "definitions": [
             {
                 "sense": "1",
@@ -30582,8 +30388,7 @@
         ]
     },
     {
-        "term": "lompang",
-        "roman_numeral": "III",
+        "term": "lompang III",
         "definitions": [
             {
                 "sense": "1",
@@ -30737,8 +30542,7 @@
         ]
     },
     {
-        "term": "lompong",
-        "roman_numeral": "I",
+        "term": "lompong I",
         "definitions": [
             {
                 "sense": "1",
@@ -31022,7 +30826,7 @@
         ]
     },
     {
-        "term": "londong",
+        "term": "londong ;  melondong, melondongkan",
         "origin": "Mn",
         "definitions": [
             {
@@ -31036,7 +30840,7 @@
         ]
     },
     {
-        "term": "loneng",
+        "term": "loneng (lonéng) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -31085,8 +30889,7 @@
         ]
     },
     {
-        "term": "long",
-        "roman_numeral": "III",
+        "term": "long III",
         "definitions": [
             {
                 "sense": "1",
@@ -31099,8 +30902,7 @@
         ]
     },
     {
-        "term": "long",
-        "roman_numeral": "IV",
+        "term": "long IV",
         "definitions": [
             {
                 "sense": "1",
@@ -31432,14 +31234,9 @@
                     {
                         "sense": "4",
                         "definition": "ki bertambah  (tinggi dll):  pd masa kekasihnya tiba itu perasaan gembiranya ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "5.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "5",
                         "definition": "melompat naik, meningkat naik dgn tiba-tiba (harga dll):  harga  getah ~ naik kerana bekalan getah sangat kurang; dr kerani dia ~  jadi pegawai daerah; harap hendak ~, kopiah pesuk  prb kerana  hendak hidup mewah habis terjual harta benda;"
                     }
                 ]
@@ -31509,8 +31306,7 @@
         ]
     },
     {
-        "term": "lonjong",
-        "roman_numeral": "I",
+        "term": "lonjong I",
         "definitions": [
             {
                 "sense": "1",
@@ -31669,8 +31465,7 @@
         ]
     },
     {
-        "term": "lontar",
-        "roman_numeral": "II",
+        "term": "lontar II",
         "definitions": [
             {
                 "sense": "1",
@@ -31929,7 +31724,7 @@
         ]
     },
     {
-        "term": "lorek",
+        "term": "lorek (lorék)",
         "definitions": [
             {
                 "sense": "1",
@@ -32056,7 +31851,7 @@
         ]
     },
     {
-        "term": "lorot",
+        "term": "lorot; melorot",
         "definitions": [
             {
                 "sense": "1",
@@ -32089,8 +31884,7 @@
         ]
     },
     {
-        "term": "los",
-        "roman_numeral": "I",
+        "term": "los I",
         "origin": "IB",
         "definitions": [
             {
@@ -32320,7 +32114,7 @@
         ]
     },
     {
-        "term": "loteng",
+        "term": "loteng (loténg)",
         "definitions": [
             {
                 "sense": "1",
@@ -32385,8 +32179,7 @@
         ]
     },
     {
-        "term": "lotong",
-        "roman_numeral": "I",
+        "term": "lotong I",
         "definitions": [
             {
                 "sense": "1",
@@ -32779,7 +32572,7 @@
         ]
     },
     {
-        "term": "luah",
+        "term": "luah; meluah",
         "definitions": [
             {
                 "sense": "1",
@@ -32940,8 +32733,7 @@
         ]
     },
     {
-        "term": "luang",
-        "roman_numeral": "I",
+        "term": "luang I",
         "definitions": [
             {
                 "sense": "1",
@@ -33029,7 +32821,7 @@
         ]
     },
     {
-        "term": "luap",
+        "term": "luap; meluap",
         "definitions": [
             {
                 "sense": "1",
@@ -33297,7 +33089,7 @@
         ]
     },
     {
-        "term": "luat",
+        "term": "luat; meluat",
         "definitions": [
             {
                 "sense": "1",
@@ -33336,22 +33128,21 @@
             {
                 "sense": "1",
                 "definition": "bahagian pd sesuatu (dinding, jarum, dll) yg boleh ditembusi  sesuatu:  ~ jarum; ia mengintai dr sebuah ~ di dinding rumah itu;"
+            },
+            {
+                "sense": "2",
+                "definition": "rongga:  ~ hidung; ~ telinga; ~ roma;"
+            },
+            {
+                "sense": "3",
+                "definition": "lekuk di tanah dll:  jalan  masuk ke tempat itu penuh dgn ~;"
+            },
+            {
+                "sense": "4",
+                "definition": "bp peluang:  di bandar itu, ~~  kerja cukup banyak;      ~ angin  lubang (di atas pintu atau tingkap) utk angin keluar  masuk;  ~ butang  lubang yg dibuat pd pakaian utk melekatkan  butang;  ~ leleh  (S.bina) lubang kecil yg dibuat pd tembok penahan  utk menyalurkan keluar air yg bertakung di belakang tembok  supaya tekanan berkurangan;  ~ lengan  lubang pd bahagian baju di  pangkal lengan;  ~ mata  lubang di tengkorak vertebrat tempat  terletaknya biji mata;  ~ roma  lubang pd kulit manusia dan  binatang tempat peluh keluar;      barang siapa menggali ~ , ia juga terperesuk ke dalamnya  prb  barang siapa yg berniat jahat terhadap orang lain, ia sendiri akan  mendapat kecelakaan;  gali ~ timbus ~  prb berhutang utk  membayar hutang lama;  korek ~ ulat  prb sengaja mencari  perselisihan (perbantahan, pertengkaran, dll);  masuk sebesar ~  penjahit, keluar sebesar ~ tabuh  prb besar belanja drpd  pendapatan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "lekuk di tanah dll:  jalan  masuk ke tempat itu penuh dgn ~;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "bp peluang:  di bandar itu, ~~  kerja cukup banyak;      ~ angin  lubang (di atas pintu atau tingkap) utk angin keluar  masuk;  ~ butang  lubang yg dibuat pd pakaian utk melekatkan  butang;  ~ leleh  (S.bina) lubang kecil yg dibuat pd tembok penahan  utk menyalurkan keluar air yg bertakung di belakang tembok  supaya tekanan berkurangan;  ~ lengan  lubang pd bahagian baju di  pangkal lengan;  ~ mata  lubang di tengkorak vertebrat tempat  terletaknya biji mata;  ~ roma  lubang pd kulit manusia dan  binatang tempat peluh keluar;      barang siapa menggali ~ , ia juga terperesuk ke dalamnya  prb  barang siapa yg berniat jahat terhadap orang lain, ia sendiri akan  mendapat kecelakaan;  gali ~ timbus ~  prb berhutang utk  membayar hutang lama;  korek ~ ulat  prb sengaja mencari  perselisihan (perbantahan, pertengkaran, dll);  masuk sebesar ~  penjahit, keluar sebesar ~ tabuh  prb besar belanja drpd  pendapatan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berlubang",
                 "definitions": [
@@ -33375,14 +33166,9 @@
                     {
                         "sense": "1",
                         "definition": "berlubang (dinding, jarum, dsb) di sana sini;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "berlubang (tanah dsb) di sana sini, berlekuk-lekuk;"
                     }
                 ]
@@ -33939,7 +33725,7 @@
         ]
     },
     {
-        "term": "luik",
+        "term": "luik; meluik",
         "definitions": [
             {
                 "sense": "1",
@@ -34225,8 +34011,7 @@
         ]
     },
     {
-        "term": "lukut",
-        "roman_numeral": "I",
+        "term": "lukut I",
         "definitions": [
             {
                 "sense": "1",
@@ -34287,8 +34072,7 @@
         ]
     },
     {
-        "term": "luli",
-        "roman_numeral": "I",
+        "term": "luli I",
         "definitions": [
             {
                 "sense": "1",
@@ -34322,8 +34106,7 @@
         ]
     },
     {
-        "term": "luli",
-        "roman_numeral": "III",
+        "term": "luli III",
         "definitions": [
             {
                 "sense": "1",
@@ -34500,8 +34283,7 @@
         ]
     },
     {
-        "term": "lulur",
-        "roman_numeral": "I",
+        "term": "lulur I; melulur",
         "definitions": [
             {
                 "sense": "1",
@@ -35307,8 +35089,7 @@
         ]
     },
     {
-        "term": "lunas",
-        "roman_numeral": "I",
+        "term": "lunas I",
         "definitions": [
             {
                 "sense": "1",
@@ -35317,18 +35098,13 @@
             {
                 "sense": "2",
                 "definition": "pokok (sesuatu  pendapat, faham, dll), asas, dasar, pangkal:  ~ pendidikan;  perjumpaan tersebut merupakan satu ~ bagi persidangan besar;"
+            },
+            {
+                "sense": "3",
+                "definition": "Mn bahagian bawah (kuali, periuk, dll), dasar;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Mn bahagian bawah (kuali, periuk, dll), dasar;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berlunaskan",
                 "definitions": [
@@ -35788,8 +35564,7 @@
         ]
     },
     {
-        "term": "luntur",
-        "roman_numeral": "I",
+        "term": "luntur I",
         "definitions": [
             {
                 "sense": "1",
@@ -35806,18 +35581,13 @@
             {
                 "sense": "4",
                 "definition": "turun atau menjadi rendah (pangkat, darjat, dsb);"
+            },
+            {
+                "sense": "5",
+                "definition": "tidak mujarab lagi (mantera, jampi, dll):  jampi itu sudah ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tidak mujarab lagi (mantera, jampi, dll):  jampi itu sudah ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "meluntur",
                 "definitions": [
@@ -35917,7 +35687,7 @@
         ]
     },
     {
-        "term": "lunyah",
+        "term": "lunyah; melunyah",
         "definitions": [
             {
                 "sense": "1",
@@ -35957,8 +35727,7 @@
         ]
     },
     {
-        "term": "lupa",
-        "roman_numeral": "I",
+        "term": "lupa I",
         "definitions": [
             {
                 "sense": "1",
@@ -36094,7 +35863,7 @@
         ]
     },
     {
-        "term": "lupuh",
+        "term": "lupuh; melupuh",
         "definitions": [
             {
                 "sense": "2",
@@ -36154,27 +35923,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "hilang, lenyap:  zaman dongeng-mendongeng sudah ~ sekarang;  ~ drpd hati (di hati)  hilang drpd hati (lenyap drpd ingatan);  ~ drpd  mata (di mata)  hilang drpd mata;  ~ drpd ingatan ;"
+            },
+            {
+                "sense": "2",
+                "definition": "terhindar  (drpd), terjauhkan (drpd), terlepas (drpd):  ~ drpd bahaya; ~ drpd  dakwaan  terlepas drpd dakwaan;"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak mengena (pd sasaran),  menyimpang (drpd sasaran), salah:  dilemparinya budak itu tapi ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "hilang, lenyap:  zaman dongeng-mendongeng sudah ~ sekarang;  ~ drpd hati (di hati)  hilang drpd hati (lenyap drpd ingatan);  ~ drpd  mata (di mata)  hilang drpd mata;  ~ drpd ingatan ;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "terhindar  (drpd), terjauhkan (drpd), terlepas (drpd):  ~ drpd bahaya; ~ drpd  dakwaan  terlepas drpd dakwaan;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "tidak mengena (pd sasaran),  menyimpang (drpd sasaran), salah:  dilemparinya budak itu tapi ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "meluputkan",
                 "definitions": [
@@ -36222,8 +35982,7 @@
         ]
     },
     {
-        "term": "lurah",
-        "roman_numeral": "I",
+        "term": "lurah I",
         "definitions": [
             {
                 "sense": "1",
@@ -36256,8 +36015,7 @@
         ]
     },
     {
-        "term": "lurah",
-        "roman_numeral": "II",
+        "term": "lurah II",
         "origin": "Id",
         "definitions": [
             {
@@ -36492,8 +36250,7 @@
         ]
     },
     {
-        "term": "lurut",
-        "roman_numeral": "I",
+        "term": "lurut I; melurut",
         "definitions": [
             {
                 "sense": "1",
@@ -36510,18 +36267,17 @@
             {
                 "sense": "6",
                 "definition": "ark mengopek (mengelupaskan)  daging drpd tulang:  sungguhpun tiada bergigi, dilurutnya daging  ayam rebusan itu, dikunyah-kunyah ditelan, tinggal tulang juga;"
+            },
+            {
+                "sense": "7",
+                "definition": "mengalir (air sungai dll):  spt air ~ atau mengalir ke laut;"
+            },
+            {
+                "sense": "8",
+                "definition": "berguling (pd bidang yg landai dll):  sebiji guli ~ ke bawah tempat  yg curam;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "7.",
-                "definitions": [
-                    {
-                        "sense": "8",
-                        "definition": "berguling (pd bidang yg landai dll):  sebiji guli ~ ke bawah tempat  yg curam;"
-                    }
-                ]
-            },
             {
                 "sub_term": "lurutan",
                 "definitions": [
@@ -36705,7 +36461,7 @@
         ]
     },
     {
-        "term": "lutu",
+        "term": "lutu; melutu",
         "definitions": [
             {
                 "sense": "1",
@@ -36792,7 +36548,7 @@
         ]
     },
     {
-        "term": "luyut",
+        "term": "luyut; meluyut",
         "definitions": [
             {
                 "sense": "1",

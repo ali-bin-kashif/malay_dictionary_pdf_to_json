@@ -63,7 +63,7 @@
         ]
     },
     {
-        "term": "eber",
+        "term": "eber (ébér) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "term": "ecer",
+        "term": "ecer (écér)  I  Kl;  mengecer",
         "definitions": [
             {
                 "sense": "1",
@@ -236,7 +236,7 @@
         ]
     },
     {
-        "term": "edar",
+        "term": "edar (édar);  beredar, mengedar  ark",
         "definitions": [
             {
                 "sense": "1",
@@ -258,12 +258,11 @@
                     {
                         "sense": "1",
                         "definition": "(bergerak) mengelilingi, melegari:  bumi ~ matahari;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "menjelajahi:  ~ dunia dgn basikal;"
+                    },
                     {
                         "sense": "3",
                         "definition": "menjalani sekitar:  dibawanya saya ~ jalan-jalan raya di Kuala Lumpur;"
@@ -298,12 +297,11 @@
                     {
                         "sense": "1",
                         "definition": "perihal beredar, gerakan yg berkeliling:  ~ matahari;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "perjalanan dr satu tempat ke tempat lain;"
+                    },
                     {
                         "sense": "3",
                         "definition": "perpindahan (wang)  dr tangan ke tangan (dlm masyarakat);"
@@ -357,7 +355,7 @@
         ]
     },
     {
-        "term": "edisi",
+        "term": "edisi (édisi)",
         "definitions": [
             {
                 "sense": "1",
@@ -366,17 +364,10 @@
             {
                 "sense": "2",
                 "definition": "bentuk teks yg diterbitkan:  ~ kulit keras;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "keluaran surat khabar atau majalah berkala utk masa atau tempat  tertentu:  surat khabar ~ pagi."
-                    }
-                ]
+                "sense": "3",
+                "definition": "keluaran surat khabar atau majalah berkala utk masa atau tempat  tertentu:  surat khabar ~ pagi."
             }
         ]
     },
@@ -419,7 +410,7 @@
         ]
     },
     {
-        "term": "editorial",
+        "term": "editorial (éditorial)",
         "definitions": [
             {
                 "sense": "1",
@@ -582,7 +573,7 @@
         ]
     },
     {
-        "term": "egalitarian",
+        "term": "egalitarian (égalitarian)",
         "definitions": [
             {
                 "sense": "1",
@@ -642,7 +633,7 @@
         ]
     },
     {
-        "term": "egois",
+        "term": "egois (égois)",
         "definitions": [
             {
                 "sense": "1",
@@ -747,7 +738,7 @@
         ]
     },
     {
-        "term": "ehem",
+        "term": "ehem (éhém)",
         "definitions": [
             {
                 "sense": "1",
@@ -866,7 +857,7 @@
         ]
     },
     {
-        "term": "ejen",
+        "term": "ejen (éjén)",
         "definitions": [
             {
                 "sense": "1",
@@ -915,7 +906,7 @@
         ]
     },
     {
-        "term": "ekabahasa",
+        "term": "ekabahasa (ékabahasa)",
         "definitions": [
             {
                 "sense": "1",
@@ -957,7 +948,7 @@
         ]
     },
     {
-        "term": "ekamatra",
+        "term": "ekamatra (ékamatra)",
         "definitions": [
             {
                 "sense": "1",
@@ -1078,27 +1069,20 @@
         ]
     },
     {
-        "term": "ekolalia",
+        "term": "ekolalia (ékolalia)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "(Psi) kecenderungan seseorang mengulangi atau  meniru kata-kata yg baru sahaja dituturkan oleh orang lain secara  spontan disebabkan faktor spt kerosakan otak dan penyakit mental;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "perbuatan meniru kata-kata orang lain oleh kanak-kanak yg baru  belajar bercakap."
-                    }
-                ]
+                "sense": "2",
+                "definition": "perbuatan meniru kata-kata orang lain oleh kanak-kanak yg baru  belajar bercakap."
             }
         ]
     },
     {
-        "term": "ekologi",
+        "term": "ekologi (ékologi)",
         "definitions": [
             {
                 "sense": "1",
@@ -1120,7 +1104,7 @@
         ]
     },
     {
-        "term": "ekonomi",
+        "term": "ekonomi (ékonomi)",
         "definitions": [
             {
                 "sense": "1",
@@ -1227,7 +1211,7 @@
         ]
     },
     {
-        "term": "ekor",
+        "term": "ekor (ékor)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -1244,18 +1228,17 @@
             {
                 "sense": "4",
                 "definition": "bahagian yg paling  belakang (pd perarakan dll):  ~ perarakan itu baru saja lalu di sini;"
+            },
+            {
+                "sense": "5",
+                "definition": "bk pengikut, penganut;"
+            },
+            {
+                "sense": "6",
+                "definition": "=  ekoran  akibat (perkembangan dsb)  drpd sesuatu peristiwa dll, lanjutan:  perbincangan kali ini  sebenarnya ialah ekoran drpd ceramah yg kita dengar dahulu;  tindakan yg buruk spt itu takkanlah tidak ada ~nya nanti;     ~ belangkas  a) bayonet yg rupanya spt ekor belangkas; b) cucuk  sanggul yg rupanya spt ekor belangkas;  ~ buaya  sj alat yg  digunakan utk membuat keris;  ~ cicak  rambut yg berjuntai di  antara telinga dan pipi;  ~ kuda  (fesyen) rambut perempuan yg  diikat dan berjuntai di belakang spt ekor kuda;  ~ lipas  rambut pd  lubang tengkuk;  ~ lotong  sj meriam kecil yg hujungnya (pd  bahagian belakangnya) spt ekor lotong;  ~ mata  sudut mata kiri  (kanan) yg di sebelah luar;  ~ negeri  hujung kampung yg di sebelah  hilir;  ~ pipi  bahagian pipi yg di bawah sekali;  ~ pulau  hujung  pulau yg di sebelah hilir;  ~ tikus  kikir yg panjang dan bulat (tidak  bersegi);     ~ anjing beberapa pun diurut akan dia, tiada juga betul  =  lurus- lurus ~ anjing, walau bagaimanapun ada juga bengkoknya  =  habis  sepasu minyak ~ anjing, tidak akan lurus  =  hendak meluruskan ~  anjing  prb orang yg bertabiat jahat itu bagaimanapun hendak  diperbaiki tetap jahat juga;  bagai lintah dipotong ~  prb sesuatu yg  dilakukan dgn pantas;  tiada tentu ~ kepala  prb rupa orang yg  gemuk dan buruk;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "6",
-                        "definition": "=  ekoran  akibat (perkembangan dsb)  drpd sesuatu peristiwa dll, lanjutan:  perbincangan kali ini  sebenarnya ialah ekoran drpd ceramah yg kita dengar dahulu;  tindakan yg buruk spt itu takkanlah tidak ada ~nya nanti;     ~ belangkas  a) bayonet yg rupanya spt ekor belangkas; b) cucuk  sanggul yg rupanya spt ekor belangkas;  ~ buaya  sj alat yg  digunakan utk membuat keris;  ~ cicak  rambut yg berjuntai di  antara telinga dan pipi;  ~ kuda  (fesyen) rambut perempuan yg  diikat dan berjuntai di belakang spt ekor kuda;  ~ lipas  rambut pd  lubang tengkuk;  ~ lotong  sj meriam kecil yg hujungnya (pd  bahagian belakangnya) spt ekor lotong;  ~ mata  sudut mata kiri  (kanan) yg di sebelah luar;  ~ negeri  hujung kampung yg di sebelah  hilir;  ~ pipi  bahagian pipi yg di bawah sekali;  ~ pulau  hujung  pulau yg di sebelah hilir;  ~ tikus  kikir yg panjang dan bulat (tidak  bersegi);     ~ anjing beberapa pun diurut akan dia, tiada juga betul  =  lurus- lurus ~ anjing, walau bagaimanapun ada juga bengkoknya  =  habis  sepasu minyak ~ anjing, tidak akan lurus  =  hendak meluruskan ~  anjing  prb orang yg bertabiat jahat itu bagaimanapun hendak  diperbaiki tetap jahat juga;  bagai lintah dipotong ~  prb sesuatu yg  dilakukan dgn pantas;  tiada tentu ~ kepala  prb rupa orang yg  gemuk dan buruk;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berekor",
                 "definitions": [
@@ -1547,7 +1530,7 @@
         ]
     },
     {
-        "term": "eksogami",
+        "term": "eksogami (éksogami)",
         "definitions": [
             {
                 "sense": "1",
@@ -1587,7 +1570,7 @@
         ]
     },
     {
-        "term": "eksotik",
+        "term": "eksotik (éksotik)",
         "definitions": [
             {
                 "sense": "1",
@@ -1638,7 +1621,7 @@
         ]
     },
     {
-        "term": "ekspedisi",
+        "term": "ekspedisi (ékspédisi)",
         "definitions": [
             {
                 "sense": "1",
@@ -1651,7 +1634,7 @@
         ]
     },
     {
-        "term": "eksperimen",
+        "term": "eksperimen (ékspérimen)",
         "definitions": [
             {
                 "sense": "1",
@@ -1751,7 +1734,7 @@
         ]
     },
     {
-        "term": "eksploitasi",
+        "term": "eksploitasi (éksploitasi);",
         "definitions": [
             {
                 "sense": "1",
@@ -1829,7 +1812,7 @@
         ]
     },
     {
-        "term": "eksport",
+        "term": "eksport (éksport)",
         "definitions": [
             {
                 "sense": "1",
@@ -1875,7 +1858,7 @@
         ]
     },
     {
-        "term": "eksposisi",
+        "term": "eksposisi (éksposisi)",
         "definitions": [
             {
                 "sense": "1",
@@ -2199,7 +2182,7 @@
         ]
     },
     {
-        "term": "elak",
+        "term": "elak (élak);  mengelak",
         "definitions": [
             {
                 "sense": "1",
@@ -2335,7 +2318,7 @@
         ]
     },
     {
-        "term": "ele",
+        "term": "ele (élé) Tr",
         "definitions": [
             {
                 "sense": "1",
@@ -2541,7 +2524,7 @@
         ]
     },
     {
-        "term": "elektrolisis",
+        "term": "elektrolisis (éléktrolisis)",
         "definitions": [
             {
                 "sense": "1",
@@ -2572,7 +2555,7 @@
         ]
     },
     {
-        "term": "elektromagnetisme",
+        "term": "elektromagnetisme (éléktromagnétisme) (Fiz)",
         "definitions": [
             {
                 "sense": "1",
@@ -2603,7 +2586,7 @@
         ]
     },
     {
-        "term": "elektronik",
+        "term": "elektronik (éléktronik)",
         "definitions": [
             {
                 "sense": "1",
@@ -2620,7 +2603,7 @@
         ]
     },
     {
-        "term": "elektropositif",
+        "term": "elektropositif (éléktropositif) (Kim)",
         "definitions": [
             {
                 "sense": "1",
@@ -2678,7 +2661,7 @@
         ]
     },
     {
-        "term": "elemen",
+        "term": "elemen (élémen)",
         "definitions": [
             {
                 "sense": "1",
@@ -2704,7 +2687,7 @@
         ]
     },
     {
-        "term": "elipsis",
+        "term": "elipsis (élipsis)",
         "definitions": [
             {
                 "sense": "1",
@@ -2726,7 +2709,7 @@
         ]
     },
     {
-        "term": "elitis",
+        "term": "elitis (élitis)",
         "definitions": [
             {
                 "sense": "1",
@@ -2739,7 +2722,7 @@
         ]
     },
     {
-        "term": "elitisme",
+        "term": "elitisme (élitisme )",
         "definitions": [
             {
                 "sense": "1",
@@ -2770,7 +2753,7 @@
         ]
     },
     {
-        "term": "elok",
+        "term": "elok (élok)",
         "definitions": [
             {
                 "sense": "1",
@@ -2866,7 +2849,7 @@
         ]
     },
     {
-        "term": "elus",
+        "term": "elus ;  mengelus, mengelus-elus",
         "origin": "Jw",
         "definitions": [
             {
@@ -2931,7 +2914,7 @@
         ]
     },
     {
-        "term": "emansipasi",
+        "term": "emansipasi (émansipasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -2944,8 +2927,7 @@
         ]
     },
     {
-        "term": "emas",
-        "roman_numeral": "I",
+        "term": "emas I",
         "definitions": [
             {
                 "sense": "1",
@@ -3029,8 +3011,7 @@
         ]
     },
     {
-        "term": "emas",
-        "roman_numeral": "II",
+        "term": "emas II",
         "origin": "Jw",
         "definitions": [
             {
@@ -3189,7 +3170,7 @@
         ]
     },
     {
-        "term": "embargo",
+        "term": "embargo (émbargo)",
         "definitions": [
             {
                 "sense": "1",
@@ -3229,7 +3210,7 @@
         ]
     },
     {
-        "term": "embek",
+        "term": "embek (embék)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -3454,14 +3435,9 @@
                     {
                         "sense": "1",
                         "definition": "diliputi embun, disaput embun:  rambutnya masih ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "tidur di luar rumah dll (pd malam hari) hingga kena embun,  berada (berjalan-jalan) di luar rumah dll pd malam hari (hingga  kena embun):  ia terpaksa ~ dan beratapkan langit hitam;"
                     }
                 ]
@@ -3587,7 +3563,7 @@
         ]
     },
     {
-        "term": "emetik",
+        "term": "emetik (émétik) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -3600,7 +3576,7 @@
         ]
     },
     {
-        "term": "emfisema",
+        "term": "emfisema (émfiséma) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -3727,8 +3703,7 @@
         ]
     },
     {
-        "term": "empang",
-        "roman_numeral": "I",
+        "term": "empang I",
         "definitions": [
             {
                 "sense": "1",
@@ -3986,7 +3961,7 @@
         ]
     },
     {
-        "term": "empayar",
+        "term": "empayar (émpayar)",
         "definitions": [
             {
                 "sense": "1",
@@ -4128,7 +4103,7 @@
         ]
     },
     {
-        "term": "emper",
+        "term": "emper (émpér) Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -4278,23 +4253,18 @@
         ]
     },
     {
-        "term": "empos",
+        "term": "empos (émpos) Jk;  mengempos, mengemposi",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "menghembus, meniup;"
+            },
+            {
+                "sense": "2",
+                "definition": "memeram (pisang dll) dgn memanaskannya dgn karbida dll;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "memeram (pisang dll) dgn memanaskannya dgn karbida dll;"
-                    }
-                ]
-            },
             {
                 "sub_term": "emposan",
                 "definitions": [
@@ -4338,8 +4308,7 @@
         ]
     },
     {
-        "term": "empu",
-        "roman_numeral": "I",
+        "term": "empu I sl",
         "definitions": [
             {
                 "sense": "1",
@@ -4392,28 +4361,26 @@
         ]
     },
     {
-        "term": "empuk",
-        "roman_numeral": "I",
+        "term": "empuk I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "(bkn makanan spt ubi rebus dll) lembut dan senang dikunyah;"
+            },
+            {
+                "sense": "2",
+                "definition": "gebu, tidak keras dan tidak lisut:  isteri mudanya terbaring di  tilam ~; mukanya lebar dan kelihatan ~ sahaja oleh gemuknya;"
+            },
+            {
+                "sense": "3",
+                "definition": "(bkn kain) sudah nipis dan mudah koyak, reput;"
+            },
+            {
+                "sense": "4",
+                "definition": "(bkn suara)  sedap bunyinya, merdu;  batu pun ~, jangankan hati manusia  prb  hati manusia yg keras dapat dilembutkan dgn perkataan yg manis  dan lemah lembut;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "(bkn kain) sudah nipis dan mudah koyak, reput;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "(bkn suara)  sedap bunyinya, merdu;  batu pun ~, jangankan hati manusia  prb  hati manusia yg keras dapat dilembutkan dgn perkataan yg manis  dan lemah lembut;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengempukkan",
                 "definitions": [
@@ -4506,7 +4473,7 @@
         ]
     },
     {
-        "term": "emulsi",
+        "term": "emulsi (émulsi) (Kim)",
         "definitions": [
             {
                 "sense": "1",
@@ -4524,14 +4491,9 @@
                     {
                         "sense": "1",
                         "definition": "proses mencampurkan dua atau lebih cecair yg  tidak bercampur sepenuhnya dgn menggoncang campuran tersebut;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "proses menambahkan bahan kimia kpd sesuatu emulsi utk  mengekalkan keadaan emulsinya;"
                     }
                 ]
@@ -4579,23 +4541,18 @@
         ]
     },
     {
-        "term": "enak",
+        "term": "enak (énak)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "sedap, nyaman (rasa dll):  nasi lemak yg dijual oleh  seorang Melayu di kedai kopi itu sangat ~ rasanya; makanan yg ~;"
+            },
+            {
+                "sense": "2",
+                "definition": "senang (badan, hati, dll):  gurunya memerhatikan muka mereka  dgn pandangan yg kurang ~; Cik Salmah sedang ~ menonton di  panggung Capitol; ~ hati  senang hati;  tak ~ badan  sakit sedikit;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "senang (badan, hati, dll):  gurunya memerhatikan muka mereka  dgn pandangan yg kurang ~; Cik Salmah sedang ~ menonton di  panggung Capitol; ~ hati  senang hati;  tak ~ badan  sakit sedikit;"
-                    }
-                ]
-            },
             {
                 "sub_term": "seenak",
                 "definitions": [
@@ -4725,7 +4682,7 @@
         ]
     },
     {
-        "term": "enamel",
+        "term": "enamel (énamel)",
         "definitions": [
             {
                 "sense": "1",
@@ -4874,7 +4831,7 @@
         ]
     },
     {
-        "term": "encer",
+        "term": "encer (éncér) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -4919,31 +4876,22 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "panggilan kpd orang lelaki yg sederhana kedudukannya atau yg  tidak dikenali;"
+            },
+            {
+                "sense": "2",
+                "definition": "panggilan kpd ibu (bagi sesetengah orang);"
+            },
+            {
+                "sense": "3",
+                "definition": "gelaran yg digunakan sebelum nama orang lelaki (yg tidak  mempunyai sebarang gelaran spt Datuk, Tengku, dsb):  E~ Ramli;  ~ laki-laki  laki-laki yg menjadi kepala rumah tangga, tuan rumah;  ~ perempuan  isteri, nyonya rumah, orang rumah;"
+            },
+            {
+                "sense": "4",
+                "definition": "Jk panggilan  kpd orang Cina asli;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "panggilan kpd orang lelaki yg sederhana kedudukannya atau yg  tidak dikenali;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "panggilan kpd ibu (bagi sesetengah orang);"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "gelaran yg digunakan sebelum nama orang lelaki (yg tidak  mempunyai sebarang gelaran spt Datuk, Tengku, dsb):  E~ Ramli;  ~ laki-laki  laki-laki yg menjadi kepala rumah tangga, tuan rumah;  ~ perempuan  isteri, nyonya rumah, orang rumah;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "Jk panggilan  kpd orang Cina asli;"
-                    }
-                ]
-            },
             {
                 "sub_term": "encik-encik",
                 "definitions": [
@@ -4984,7 +4932,7 @@
         ]
     },
     {
-        "term": "encok",
+        "term": "encok (éncok) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -5053,7 +5001,7 @@
         ]
     },
     {
-        "term": "endak",
+        "term": "endak bp",
         "definitions": [
             {
                 "sense": "1",
@@ -5066,7 +5014,7 @@
         ]
     },
     {
-        "term": "endal",
+        "term": "endal; mengendal",
         "definitions": [
             {
                 "sense": "1",
@@ -5088,7 +5036,7 @@
         ]
     },
     {
-        "term": "endang",
+        "term": "endang (éndang) sl",
         "definitions": [
             {
                 "sense": "1",
@@ -5212,7 +5160,7 @@
         ]
     },
     {
-        "term": "endogami",
+        "term": "endogami (éndogami)",
         "definitions": [
             {
                 "sense": "1",
@@ -5433,7 +5381,7 @@
         ]
     },
     {
-        "term": "endus",
+        "term": "endus ;  mengendus",
         "origin": "Jk",
         "definitions": [
             {
@@ -5504,7 +5452,7 @@
         ]
     },
     {
-        "term": "enema",
+        "term": "enema (énéma) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -5548,22 +5496,15 @@
         ]
     },
     {
-        "term": "engah",
+        "term": "engah; engah-engah, mengengah-engah, terengah-engah",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "mengap- ngap, tercungap-cungap, termengah-mengah:  setibanya di atas  jambatan, ia menurunkan barang-barang itu dgn terengah-engah;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki tergesa-gesa, cepat."
-                    }
-                ]
+                "sense": "2",
+                "definition": "ki tergesa-gesa, cepat."
             }
         ]
     },
@@ -5742,8 +5683,7 @@
         ]
     },
     {
-        "term": "engkah",
-        "roman_numeral": "II",
+        "term": "engkah II; engkah-engkah, engkah-engkahan",
         "definitions": [
             {
                 "sense": "1",
@@ -5951,7 +5891,7 @@
         ]
     },
     {
-        "term": "engsel",
+        "term": "engsel (éngsél)",
         "definitions": [
             {
                 "sense": "1",
@@ -5975,7 +5915,7 @@
         ]
     },
     {
-        "term": "engsot",
+        "term": "engsot (éngsot);  berengsot, berengsot-engsot",
         "definitions": [
             {
                 "sense": "1",
@@ -6048,7 +5988,7 @@
         ]
     },
     {
-        "term": "enjal",
+        "term": "enjal; mengenjal",
         "definitions": [
             {
                 "sense": "1",
@@ -6180,7 +6120,7 @@
         ]
     },
     {
-        "term": "enklaf",
+        "term": "enklaf (énklaf)",
         "definitions": [
             {
                 "sense": "1",
@@ -6545,7 +6485,7 @@
         ]
     },
     {
-        "term": "entrepot",
+        "term": "entrepot (éntrépot)",
         "definitions": [
             {
                 "sense": "1",
@@ -6558,7 +6498,7 @@
         ]
     },
     {
-        "term": "entri",
+        "term": "entri (éntri)",
         "definitions": [
             {
                 "sense": "1",
@@ -6794,22 +6734,15 @@
         ]
     },
     {
-        "term": "epigraf",
+        "term": "epigraf (épigraf)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tulisan yg terdapat pd tugu, bangunan, dsb, prasasti;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "petikan yg dicetak pd bahagian awalan buku atau pd permulaan  bahagian atau bab buku yg menggambarkan tema buku yg  berkenaan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "petikan yg dicetak pd bahagian awalan buku atau pd permulaan  bahagian atau bab buku yg menggambarkan tema buku yg  berkenaan."
             }
         ]
     },
@@ -6823,7 +6756,7 @@
         ]
     },
     {
-        "term": "epigram",
+        "term": "epigram (épigram)",
         "definitions": [
             {
                 "sense": "1",
@@ -6836,7 +6769,7 @@
         ]
     },
     {
-        "term": "epik",
+        "term": "epik (épik)",
         "definitions": [
             {
                 "sense": "1",
@@ -6876,7 +6809,7 @@
         ]
     },
     {
-        "term": "epilog",
+        "term": "epilog (épilog)",
         "definitions": [
             {
                 "sense": "1",
@@ -7071,7 +7004,7 @@
         ]
     },
     {
-        "term": "era",
+        "term": "era (éra)",
         "definitions": [
             {
                 "sense": "1",
@@ -7093,7 +7026,7 @@
         ]
     },
     {
-        "term": "erak",
+        "term": "erak (érak);  bererak, mengerak",
         "definitions": [
             {
                 "sense": "1",
@@ -7121,7 +7054,7 @@
         ]
     },
     {
-        "term": "eram",
+        "term": "eram; mengeram",
         "definitions": [
             {
                 "sense": "1",
@@ -7441,7 +7374,7 @@
         ]
     },
     {
-        "term": "erotisisme",
+        "term": "erotisisme (érotisisme) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -7724,7 +7657,7 @@
         ]
     },
     {
-        "term": "eselon",
+        "term": "eselon (éselon)",
         "definitions": [
             {
                 "sense": "1",
@@ -7800,7 +7733,7 @@
         ]
     },
     {
-        "term": "esok",
+        "term": "esok (ésok)",
         "definitions": [
             {
                 "sense": "1",
@@ -7905,7 +7838,7 @@
         ]
     },
     {
-        "term": "estet",
+        "term": "estet (éstét)",
         "definitions": [
             {
                 "sense": "1",
@@ -8026,7 +7959,7 @@
         ]
     },
     {
-        "term": "eter",
+        "term": "eter (éter) (Kim)",
         "definitions": [
             {
                 "sense": "1",
@@ -8039,7 +7972,7 @@
         ]
     },
     {
-        "term": "etika",
+        "term": "etika (étika)",
         "definitions": [
             {
                 "sense": "1",
@@ -8063,7 +7996,7 @@
         ]
     },
     {
-        "term": "etiket",
+        "term": "etiket (étikét)",
         "definitions": [
             {
                 "sense": "1",
@@ -8103,7 +8036,7 @@
         ]
     },
     {
-        "term": "etiologi",
+        "term": "etiologi (étiologi)",
         "definitions": [
             {
                 "sense": "1",
@@ -8270,7 +8203,7 @@
         ]
     },
     {
-        "term": "euforia",
+        "term": "euforia (éuforia)",
         "definitions": [
             {
                 "sense": "1",
@@ -8364,7 +8297,7 @@
         ]
     },
     {
-        "term": "evolusi",
+        "term": "evolusi (évolusi)",
         "definitions": [
             {
                 "sense": "1",
@@ -8406,7 +8339,7 @@
         ]
     },
     {
-        "term": "Exco",
+        "term": "Exco (éksko) akronim bagi",
         "definitions": [
             {
                 "sense": "1",

@@ -10,8 +10,7 @@
         ]
     },
     {
-        "term": "a",
-        "roman_numeral": "II",
+        "term": "a II",
         "definitions": [
             {
                 "sense": "1",
@@ -301,8 +300,7 @@
         ]
     },
     {
-        "term": "abang",
-        "roman_numeral": "I",
+        "term": "abang I",
         "definitions": [
             {
                 "sense": "1",
@@ -358,7 +356,7 @@
         ]
     },
     {
-        "term": "abar",
+        "term": "abar; abar-abar",
         "definitions": [
             {
                 "sense": "1",
@@ -678,7 +676,7 @@
         ]
     },
     {
-        "term": "abonemen",
+        "term": "abonemen (abonemén) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -897,8 +895,7 @@
         ]
     },
     {
-        "term": "abu",
-        "roman_numeral": "I",
+        "term": "abu I",
         "definitions": [
             {
                 "sense": "1",
@@ -1251,8 +1248,7 @@
         ]
     },
     {
-        "term": "acap",
-        "roman_numeral": "II",
+        "term": "acap II",
         "definitions": [
             {
                 "sense": "1",
@@ -1316,8 +1312,7 @@
         ]
     },
     {
-        "term": "acara",
-        "roman_numeral": "I",
+        "term": "acara I",
         "definitions": [
             {
                 "sense": "1",
@@ -1561,7 +1556,7 @@
         ]
     },
     {
-        "term": "aco",
+        "term": "aco; mengaco",
         "origin": "Jw",
         "definitions": [
             {
@@ -1575,8 +1570,7 @@
         ]
     },
     {
-        "term": "acu",
-        "roman_numeral": "I",
+        "term": "acu I; mengacu",
         "definitions": [
             {
                 "sense": "1",
@@ -1704,7 +1698,7 @@
         ]
     },
     {
-        "term": "acum",
+        "term": "acum; mengacum",
         "definitions": [
             {
                 "sense": "1",
@@ -2475,7 +2469,7 @@
         ]
     },
     {
-        "term": "adhesi",
+        "term": "adhesi (adhési) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -2645,7 +2639,7 @@
         ]
     },
     {
-        "term": "adikara",
+        "term": "adikara sl",
         "definitions": [
             {
                 "sense": "1",
@@ -2865,7 +2859,7 @@
         ]
     },
     {
-        "term": "adiraja",
+        "term": "adiraja sl",
         "definitions": [
             {
                 "sense": "1",
@@ -3136,8 +3130,7 @@
         ]
     },
     {
-        "term": "adu",
-        "roman_numeral": "I",
+        "term": "adu I; beradu",
         "definitions": [
             {
                 "sense": "1",
@@ -3347,7 +3340,7 @@
         ]
     },
     {
-        "term": "aduk",
+        "term": "aduk; mengaduk",
         "definitions": [
             {
                 "sense": "1",
@@ -3588,7 +3581,7 @@
         ]
     },
     {
-        "term": "aeroangkasa",
+        "term": "aeroangkasa (aéroangkasa)",
         "definitions": [
             {
                 "sense": "1",
@@ -3619,7 +3612,7 @@
         ]
     },
     {
-        "term": "aerobik",
+        "term": "aerobik (aérobik)",
         "definitions": [
             {
                 "sense": "1",
@@ -3652,7 +3645,7 @@
         ]
     },
     {
-        "term": "aerodinamik",
+        "term": "aerodinamik (aérodinamik)",
         "definitions": [
             {
                 "sense": "1",
@@ -4192,8 +4185,7 @@
         ]
     },
     {
-        "term": "agak",
-        "roman_numeral": "I",
+        "term": "agak I",
         "definitions": [
             {
                 "sense": "1",
@@ -4541,7 +4533,7 @@
         ]
     },
     {
-        "term": "agenda",
+        "term": "agenda (agénda)",
         "definitions": [
             {
                 "sense": "1",
@@ -4554,7 +4546,7 @@
         ]
     },
     {
-        "term": "agensi",
+        "term": "agensi (agénsi)",
         "definitions": [
             {
                 "sense": "1",
@@ -5017,8 +5009,7 @@
         ]
     },
     {
-        "term": "agung",
-        "roman_numeral": "I",
+        "term": "agung I",
         "definitions": [
             {
                 "sense": "1",
@@ -5149,8 +5140,7 @@
         ]
     },
     {
-        "term": "ahad",
-        "roman_numeral": "I",
+        "term": "ahad I",
         "origin": "Ar",
         "definitions": [
             {
@@ -5250,8 +5240,7 @@
         ]
     },
     {
-        "term": "ahli",
-        "roman_numeral": "I",
+        "term": "ahli I",
         "definitions": [
             {
                 "sense": "1",
@@ -5461,7 +5450,7 @@
         ]
     },
     {
-        "term": "ain",
+        "term": "ain I",
         "definitions": [
             {
                 "sense": "1",
@@ -5474,8 +5463,7 @@
         ]
     },
     {
-        "term": "ain",
-        "roman_numeral": "II",
+        "term": "ain II",
         "origin": "Ar",
         "definitions": [
             {
@@ -5499,8 +5487,7 @@
         ]
     },
     {
-        "term": "air",
-        "roman_numeral": "I",
+        "term": "air I",
         "definitions": [
             {
                 "sense": "1",
@@ -5538,14 +5525,9 @@
                     {
                         "sense": "1",
                         "definition": "mengandungi air (bkn kolam, sungai, buah-buahan, dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "mengeluarkan air atau cecair;"
                     }
                 ]
@@ -5799,8 +5781,7 @@
         ]
     },
     {
-        "term": "ajak",
-        "roman_numeral": "I",
+        "term": "ajak I; mengajak",
         "definitions": [
             {
                 "sense": "1",
@@ -5971,14 +5952,9 @@
                     {
                         "sense": "2",
                         "definition": "teori, mazhab:  ~ Darwin; ~ Imam Shafie;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "hukuman (pukulan dll) utk menjerakan:  sudah beberapa kali ia   diberi ~ oleh pemuda-pemuda sekampungnya;"
                     }
                 ]
@@ -6229,7 +6205,7 @@
         ]
     },
     {
-        "term": "aju",
+        "term": "aju; mengajukan",
         "definitions": [
             {
                 "sense": "1",
@@ -6420,7 +6396,7 @@
         ]
     },
     {
-        "term": "akademik",
+        "term": "akademik (akadémik)",
         "definitions": [
             {
                 "sense": "1",
@@ -6672,7 +6648,7 @@
         ]
     },
     {
-        "term": "akar",
+        "term": "akar I",
         "definitions": [
             {
                 "sense": "1",
@@ -6913,27 +6889,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "kemudian sekali, penghabisan:  perkataan itu terdapat pd baris ~  halaman itu; ikhtiarnya yg ~; peringkat ~ pelaksanaan projek; ~  minggu  hujung minggu (hari Sabtu petang sampai hari Ahad);  ~  musim  penghujung musim;  ~ zaman  a) sl zaman sekarang ini; b)  penghabisan;"
+            },
+            {
+                "sense": "2",
+                "definition": "= ~ sekali  =   terakhir   paling kemudian,  terkemudian (sekali):  itulah kali ~ saya bertemu dengannya;"
+            },
+            {
+                "sense": "3",
+                "definition": "yg  diadakan terkemudian sekali (sbg penamat):  pertandingan ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kemudian sekali, penghabisan:  perkataan itu terdapat pd baris ~  halaman itu; ikhtiarnya yg ~; peringkat ~ pelaksanaan projek; ~  minggu  hujung minggu (hari Sabtu petang sampai hari Ahad);  ~  musim  penghujung musim;  ~ zaman  a) sl zaman sekarang ini; b)  penghabisan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "= ~ sekali  =   terakhir   paling kemudian,  terkemudian (sekali):  itulah kali ~ saya bertemu dengannya;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "yg  diadakan terkemudian sekali (sbg penamat):  pertandingan ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "akhirnya",
                 "definitions": [
@@ -7357,18 +7324,13 @@
             {
                 "sense": "1",
                 "definition": "tempat utk makan dan tidur (dlm perjalanan), penginapan;"
+            },
+            {
+                "sense": "2",
+                "definition": "penyesuaian:  pendekatan yg kerap dibincangkan dlm konteks  negara kita ialah asimilasi dan ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "penyesuaian:  pendekatan yg kerap dibincangkan dlm konteks  negara kita ialah asimilasi dan ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengakomodasikan",
                 "definitions": [
@@ -7453,17 +7415,10 @@
             {
                 "sense": "1",
                 "definition": "bkn bahan, pakaian, atau gebar yg dibuat melalui proses kimia;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj cat yg digunakan oleh pelukis."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj cat yg digunakan oleh pelukis."
             }
         ]
     },
@@ -7525,7 +7480,7 @@
         ]
     },
     {
-        "term": "akru",
+        "term": "akru; terakru",
         "definitions": [
             {
                 "sense": "1",
@@ -7561,7 +7516,7 @@
         ]
     },
     {
-        "term": "aksen",
+        "term": "aksen (aksén) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -7616,7 +7571,7 @@
         ]
     },
     {
-        "term": "akses",
+        "term": "akses (aksés)",
         "definitions": [
             {
                 "sense": "1",
@@ -7640,7 +7595,7 @@
         ]
     },
     {
-        "term": "aksesori",
+        "term": "aksesori (aksésori)",
         "definitions": [
             {
                 "sense": "1",
@@ -7853,17 +7808,10 @@
             {
                 "sense": "1",
                 "definition": "pelakon lelaki yg membintangi sesuatu filem (televisyen, radio);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "orang yg berperanan dlm sesuatu kejadian, pelaku."
-                    }
-                ]
+                "sense": "2",
+                "definition": "orang yg berperanan dlm sesuatu kejadian, pelaku."
             }
         ]
     },
@@ -7970,23 +7918,13 @@
                     {
                         "sense": "2",
                         "definition": "menganggap sbg sah atau sesungguhnya ada  (berlaku dsb), mengiktiraf:  Amerika dan Jepun telah ~ Malaysia;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "menyatakan berhak ke atas:  jangan kamu ~ ini kepunyaan kamu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "4",
                         "definition": "memasuki (bkn syaitan, jin, dll):  sakit diakui jin;"
                     }
                 ]
@@ -8206,22 +8144,15 @@
         ]
     },
     {
-        "term": "akueduk",
+        "term": "akueduk (akuéduk) (Kej)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "paip besar atau terusan yg menyalurkan  bekalan air ke sesuatu tempat (bandar, kawasan perladangan dsb);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "binaan spt jambatan panjang yg merintangi lembah atau tanah  rendah utk menopang paip atau saluran air."
-                    }
-                ]
+                "sense": "2",
+                "definition": "binaan spt jambatan panjang yg merintangi lembah atau tanah  rendah utk menopang paip atau saluran air."
             }
         ]
     },
@@ -8965,7 +8896,7 @@
         ]
     },
     {
-        "term": "alam",
+        "term": "alam I",
         "definitions": [
             {
                 "sense": "1",
@@ -9230,7 +9161,7 @@
         ]
     },
     {
-        "term": "alang",
+        "term": "alang I",
         "definitions": [
             {
                 "sense": "1",
@@ -9275,8 +9206,7 @@
         ]
     },
     {
-        "term": "alang",
-        "roman_numeral": "II",
+        "term": "alang II",
         "definitions": [
             {
                 "sense": "1",
@@ -9381,7 +9311,7 @@
         ]
     },
     {
-        "term": "alas",
+        "term": "alas I",
         "definitions": [
             {
                 "sense": "1",
@@ -9498,7 +9428,7 @@
         ]
     },
     {
-        "term": "alat",
+        "term": "alat I",
         "definitions": [
             {
                 "sense": "1",
@@ -10113,7 +10043,7 @@
         ]
     },
     {
-        "term": "algojo",
+        "term": "algojo (Portugis)",
         "definitions": [
             {
                 "sense": "1",
@@ -10364,8 +10294,7 @@
         ]
     },
     {
-        "term": "alif",
-        "roman_numeral": "I",
+        "term": "alif I",
         "definitions": [
             {
                 "sense": "1",
@@ -10527,8 +10456,7 @@
         ]
     },
     {
-        "term": "alim",
-        "roman_numeral": "I",
+        "term": "alim I",
         "definitions": [
             {
                 "sense": "1",
@@ -10699,28 +10627,26 @@
         ]
     },
     {
-        "term": "alir",
-        "roman_numeral": "I",
+        "term": "alir I; mengalir",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "bergerak berterusan (bkn air, cecair, tenaga elektrik,  dll):  air sungai ~ ke laut; darah ~ keluar drpd luka di kepalanya;"
+            },
+            {
+                "sense": "2",
+                "definition": "bergerak perlahan-lahan dan sedikit-sedikit, meleleh (bkn air  mata, peluh, dll):  air matanya ~ juga dlm suram-suram cahaya;"
+            },
+            {
+                "sense": "3",
+                "definition": "bergerak melalui atau menerusi kawat (bkn arus atau tenaga  elektrik);"
+            },
+            {
+                "sense": "4",
+                "definition": "bergerak keluar atau masuk (dr sebuah negara ke  negara lain dsb), berpindah banyak-banyak (ke negara atau tempat  lain):  emas ~ ke luar negeri;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "bergerak melalui atau menerusi kawat (bkn arus atau tenaga  elektrik);"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "bergerak keluar atau masuk (dr sebuah negara ke  negara lain dsb), berpindah banyak-banyak (ke negara atau tempat  lain):  emas ~ ke luar negeri;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengaliri",
                 "definitions": [
@@ -11741,7 +11667,7 @@
         ]
     },
     {
-        "term": "aloe",
+        "term": "aloe vera (aloe véra)",
         "definitions": [
             {
                 "sense": "1",
@@ -12208,7 +12134,7 @@
         ]
     },
     {
-        "term": "alter",
+        "term": "alter ego (alter égo) (Latin)",
         "definitions": [
             {
                 "sense": "1",
@@ -12270,7 +12196,7 @@
         ]
     },
     {
-        "term": "alto",
+        "term": "alto (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -12320,8 +12246,7 @@
         ]
     },
     {
-        "term": "alu",
-        "roman_numeral": "II",
+        "term": "alu II; mengalu-alukan",
         "definitions": [
             {
                 "sense": "1",
@@ -12426,14 +12351,9 @@
                     {
                         "sense": "2",
                         "definition": "berbentuk tinggi rendah spt  ombak (bkn rambut), berombak-ombak, ikal:  bahan-bahan  pemeliharaan rambut menjadikan rambut berseri, bermaya dan ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "berlagu atau berirama tinggi rendah, turun naik rentaknya (bkn  suara);"
                     }
                 ]
@@ -12521,14 +12441,9 @@
                     {
                         "sense": "1",
                         "definition": "ada alurnya, berlekuk, berlurah:  laras senapang itu ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "Mn bermesyuarat (mencari jalan yg benar);  habis ~ maka  beralu-alu  prb jika dgn jalan mesyuarat tidak tercapai persetujuan,  baharulah digunakan kekerasan;"
                     }
                 ]
@@ -12594,7 +12509,7 @@
         ]
     },
     {
-        "term": "alveolus",
+        "term": "alveolus (alvéolus) (Bio)",
         "definitions": [
             {
                 "sense": "1",
@@ -12791,23 +12706,13 @@
                     {
                         "sense": "1",
                         "definition": "berbuat amal, berbuat kebajikan:  ia seorang yg suka ~ ;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  ~ ibadat  mengerjakan amal ibadat:  tebal imannya dan rajin ~ ;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "melakukan sesuatu sbg suatu kebiasaan;"
                     }
                 ]
@@ -13223,8 +13128,7 @@
         ]
     },
     {
-        "term": "amat",
-        "roman_numeral": "II",
+        "term": "amat II; mengamati, mengamat-amati",
         "definitions": [
             {
                 "sense": "1",
@@ -13448,8 +13352,7 @@
         ]
     },
     {
-        "term": "ambang",
-        "roman_numeral": "I",
+        "term": "ambang I",
         "definitions": [
             {
                 "sense": "1",
@@ -13541,8 +13444,7 @@
         ]
     },
     {
-        "term": "ambau",
-        "roman_numeral": "II",
+        "term": "ambau II; mengambau",
         "origin": "Mn",
         "definitions": [
             {
@@ -14024,7 +13926,7 @@
         ]
     },
     {
-        "term": "ambung",
+        "term": "ambung II; mengambung, mengambungkan",
         "definitions": [
             {
                 "sense": "1",
@@ -14249,7 +14151,7 @@
         ]
     },
     {
-        "term": "amfiteater",
+        "term": "amfiteater (amfitéater)",
         "definitions": [
             {
                 "sense": "1",
@@ -14832,8 +14734,7 @@
         ]
     },
     {
-        "term": "ampu",
-        "roman_numeral": "I",
+        "term": "ampu I; mengampu",
         "definitions": [
             {
                 "sense": "1",
@@ -14906,8 +14807,7 @@
         ]
     },
     {
-        "term": "ampuh",
-        "roman_numeral": "II",
+        "term": "ampuh II",
         "origin": "Mn",
         "definitions": [
             {
@@ -15113,8 +15013,7 @@
         ]
     },
     {
-        "term": "amra",
-        "roman_numeral": "II",
+        "term": "amra II",
         "origin": "(Sanskrit)",
         "definitions": [
             {
@@ -15167,7 +15066,7 @@
         ]
     },
     {
-        "term": "amuk",
+        "term": "amuk; beramuk",
         "definitions": [
             {
                 "sense": "1",
@@ -15383,7 +15282,7 @@
         ]
     },
     {
-        "term": "anak",
+        "term": "anak I",
         "definitions": [
             {
                 "sense": "1",
@@ -15871,17 +15770,14 @@
             {
                 "sense": "2",
                 "definition": "segala yg terdapat di dunia, makhluk;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "unsur, faktor."
-                    }
-                ]
+                "sense": "3",
+                "definition": "bahagian drpd suatu keseluruhan, anggota dll drpd sesuatu  golongan (perkumpulan, masyarakat dsb):  masyarakat bandar  telah dipengaruhi oleh ~-~ Barat; berwaspada terhadap tindak- tanduk ~-~ jahat;"
+            },
+            {
+                "sense": "4",
+                "definition": "unsur, faktor."
             }
         ]
     },
@@ -15959,7 +15855,7 @@
         ]
     },
     {
-        "term": "ancam",
+        "term": "ancam; mengancam",
         "definitions": [
             {
                 "sense": "1",
@@ -16305,14 +16201,9 @@
                     {
                         "sense": "1",
                         "definition": "menaruh harapan atau kepercayaan kpd:  mereka  akan sedar bahawa tidak dapat tidak mereka akan ~ pengalaman ;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menjamin ketinggian (kemampuan, mutu, dll);"
                     }
                 ]
@@ -16944,7 +16835,7 @@
         ]
     },
     {
-        "term": "aneka",
+        "term": "aneka warna (anéka warna)",
         "definitions": [
             {
                 "sense": "1",
@@ -17051,7 +16942,7 @@
         ]
     },
     {
-        "term": "anemometer",
+        "term": "anemometer (anémométer)",
         "definitions": [
             {
                 "sense": "1",
@@ -17350,8 +17241,7 @@
         ]
     },
     {
-        "term": "anggal",
-        "roman_numeral": "I",
+        "term": "anggal I",
         "definitions": [
             {
                 "sense": "1",
@@ -17633,7 +17523,7 @@
         ]
     },
     {
-        "term": "anggit",
+        "term": "anggit; menganggit",
         "definitions": [
             {
                 "sense": "1",
@@ -17839,7 +17729,7 @@
         ]
     },
     {
-        "term": "anggul",
+        "term": "anggul; menganggul,  beranggul",
         "definitions": [
             {
                 "sense": "1",
@@ -17921,8 +17811,7 @@
         ]
     },
     {
-        "term": "anggur",
-        "roman_numeral": "I",
+        "term": "anggur I",
         "definitions": [
             {
                 "sense": "1",
@@ -18127,14 +18016,9 @@
                     {
                         "sense": "2",
                         "definition": "bertiup angin;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "menumpah-numpahkan padi drpd nyiru supaya yg hampa ditiup  angin dan terpisah drpd padi yg berisi:  petani itu sedang ~ padi;"
                     }
                 ]
@@ -18229,8 +18113,7 @@
         ]
     },
     {
-        "term": "angka",
-        "roman_numeral": "I",
+        "term": "angka I",
         "definitions": [
             {
                 "sense": "1",
@@ -18626,7 +18509,7 @@
         ]
     },
     {
-        "term": "angkel",
+        "term": "angkel (angkél) Id",
         "definitions": [
             {
                 "sense": "1",
@@ -19337,7 +19220,7 @@
         ]
     },
     {
-        "term": "anjak",
+        "term": "anjak; beranjak",
         "definitions": [
             {
                 "sense": "1",
@@ -19983,7 +19866,7 @@
         ]
     },
     {
-        "term": "ansur",
+        "term": "ansur; beransur, beransur-ansur",
         "definitions": [
             {
                 "sense": "1",
@@ -20136,7 +20019,7 @@
         ]
     },
     {
-        "term": "antakesuma",
+        "term": "antakesuma ;  baju ",
         "definitions": [
             {
                 "sense": "1",
@@ -20647,7 +20530,7 @@
         ]
     },
     {
-        "term": "anterior",
+        "term": "anterior (antérior) (Bio)",
         "definitions": [
             {
                 "sense": "1",
@@ -20669,7 +20552,7 @@
         ]
     },
     {
-        "term": "anteseden",
+        "term": "anteseden (antéséden)",
         "definitions": [
             {
                 "sense": "1",
@@ -21187,7 +21070,7 @@
         ]
     },
     {
-        "term": "antitesis",
+        "term": "antitesis (antitésis)",
         "definitions": [
             {
                 "sense": "1",
@@ -21671,8 +21554,7 @@
         ]
     },
     {
-        "term": "anyang",
-        "roman_numeral": "I",
+        "term": "anyang I sl",
         "definitions": [
             {
                 "sense": "1",
@@ -22662,7 +22544,7 @@
         ]
     },
     {
-        "term": "apresiasi",
+        "term": "apresiasi (aprésiasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -22928,17 +22810,10 @@
             {
                 "sense": "1",
                 "definition": "sj tumbuhan (yg termasuk jenis fikus):  ~ akar, ~ batu,~ buluh, dll;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj tumbuhan (bukan jenis fikus);  ~ batu  dandi, rumput tahi  ayam, selasih, tahi anjing, tambak-tambak jantan,  Ageratum  conyzoides; ~ bukit  pokok perut budak, lindung matahari, perah  ikan,  Pimeleodendron griffithianum; ~ lumut  akar kami; gurah  peria(t), tukul takal,  Croton caudatum; ~ songsang  nyarang  songsang,  Achyranthus aspera;     bagai menanti ~ hanyut  prb menanti sesuatu yg mungkin datang  tetapi lambat, ataupun yg tidak datang-datang;  menanti ~ tidak  bergetah  prb mengharapkan sesuatu yg tidak mungkin dapat;  pinjam (hutang) kayu ~  prb jikalau meminjamkan wang kpd orang  besar jangan diharap akan kembali;  tinggi kayu ~ dilangkahi,  rendah bilang-bilang diselodoki  prb melakukan sesuatu hendaklah  menurut patutnya, walaupun kadang-kadang ganjil pd perasaan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj tumbuhan (bukan jenis fikus);  ~ batu  dandi, rumput tahi  ayam, selasih, tahi anjing, tambak-tambak jantan,  Ageratum  conyzoides; ~ bukit  pokok perut budak, lindung matahari, perah  ikan,  Pimeleodendron griffithianum; ~ lumut  akar kami; gurah  peria(t), tukul takal,  Croton caudatum; ~ songsang  nyarang  songsang,  Achyranthus aspera;     bagai menanti ~ hanyut  prb menanti sesuatu yg mungkin datang  tetapi lambat, ataupun yg tidak datang-datang;  menanti ~ tidak  bergetah  prb mengharapkan sesuatu yg tidak mungkin dapat;  pinjam (hutang) kayu ~  prb jikalau meminjamkan wang kpd orang  besar jangan diharap akan kembali;  tinggi kayu ~ dilangkahi,  rendah bilang-bilang diselodoki  prb melakukan sesuatu hendaklah  menurut patutnya, walaupun kadang-kadang ganjil pd perasaan."
             }
         ]
     },
@@ -22976,7 +22851,7 @@
         ]
     },
     {
-        "term": "arabes",
+        "term": "arabes (arabés)",
         "definitions": [
             {
                 "sense": "1",
@@ -23073,14 +22948,9 @@
                     {
                         "sense": "1",
                         "definition": "menyamai, menyerupai:  rupanya ~ ayahnya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "mengecamkan, menandai (melihat utk mengenal):  ~ rupa orang;"
                     }
                 ]
@@ -23126,14 +22996,9 @@
                     {
                         "sense": "2",
                         "definition": "petunjuk, perintah:  duta itu berkata, ~ mengenai   perkara  ini sedang ditunggu dr Kaherah;   ~ bank  (Eko)   arahan pelanggan  kpd bank utk membuat pembayaran bagi pihaknya kpd bank lain;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "ark orang yg menjadi pembantu;"
                     }
                 ]
@@ -23217,8 +23082,7 @@
         ]
     },
     {
-        "term": "arak",
-        "roman_numeral": "II",
+        "term": "arak II; berarak, berarak-arakan",
         "definitions": [
             {
                 "sense": "1",
@@ -23358,8 +23222,7 @@
         ]
     },
     {
-        "term": "arang",
-        "roman_numeral": "I",
+        "term": "arang I",
         "definitions": [
             {
                 "sense": "1",
@@ -23435,8 +23298,7 @@
         ]
     },
     {
-        "term": "aras",
-        "roman_numeral": "I",
+        "term": "aras I",
         "definitions": [
             {
                 "sense": "1",
@@ -23629,30 +23491,29 @@
             {
                 "sense": "1",
                 "definition": "patung yg menyerupai seseorang atau sesuatu (terutama dibuat  drpd kayu, batu, dsb):  memahat ~ seorang tokoh terkenal di dunia;"
+            },
+            {
+                "sense": "2",
+                "definition": "bayang yg terlihat di dlm cermin atau melalui kanta kamera,  imej:  melihat ~ diri sendiri di dlm cermin;"
+            },
+            {
+                "sense": "3",
+                "definition": "bayang-bayang yg  terlihat ketika seseorang itu berkhayal:  dia lantas bangun  menghampiri almari pakaiannya, tempat ~ lelaki tadi terdiri  gagah;"
+            },
+            {
+                "sense": "4",
+                "definition": "bentuk cahaya yg ditumpukan pd retina mata, imej:  mata  manusia ‘menyimpan’ ~ sesuatu benda yg baru sahaja dipandang  dlm tempoh yg pendek;"
+            },
+            {
+                "sense": "5",
+                "definition": "gambaran dlm fikiran atau pertalian  fikiran yg dihasilkan di dlm karya sastera (terutama dlm puisi),  imej;"
+            },
+            {
+                "sense": "6",
+                "definition": "(Komp)   gambar atau lambang kecil pd paparan komputer  yg digunakan sbg wakil sesuatu objek;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "bayang-bayang yg  terlihat ketika seseorang itu berkhayal:  dia lantas bangun  menghampiri almari pakaiannya, tempat ~ lelaki tadi terdiri  gagah;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "bentuk cahaya yg ditumpukan pd retina mata, imej:  mata  manusia ‘menyimpan’ ~ sesuatu benda yg baru sahaja dipandang  dlm tempoh yg pendek;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "gambaran dlm fikiran atau pertalian  fikiran yg dihasilkan di dlm karya sastera (terutama dlm puisi),  imej;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "(Komp)   gambar atau lambang kecil pd paparan komputer  yg digunakan sbg wakil sesuatu objek;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengarcakan",
                 "definitions": [
@@ -23741,7 +23602,7 @@
         ]
     },
     {
-        "term": "arena",
+        "term": "arena (aréna)",
         "definitions": [
             {
                 "sense": "1",
@@ -23750,22 +23611,15 @@
             {
                 "sense": "2",
                 "definition": "lapangan,  gelanggang:  ~ politik tanah air; memajukan lagi ~ sukan negara;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "gelanggang (pertempuran dsb), medan:  kawasan itu menjadi ~  pertempuran antara pasukan tentera kedua-dua negara yg  bermusuhan itu."
-                    }
-                ]
+                "sense": "3",
+                "definition": "gelanggang (pertempuran dsb), medan:  kawasan itu menjadi ~  pertempuran antara pasukan tentera kedua-dua negara yg  bermusuhan itu."
             }
         ]
     },
     {
-        "term": "ares",
+        "term": "ares (arés) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -23967,7 +23821,7 @@
         ]
     },
     {
-        "term": "arih",
+        "term": "arih; mengarih, mengarihkan",
         "definitions": [
             {
                 "sense": "1",
@@ -24183,7 +24037,7 @@
         ]
     },
     {
-        "term": "arjuna",
+        "term": "arjuna sl",
         "definitions": [
             {
                 "sense": "1",
@@ -24286,27 +24140,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "kumpulan naskhah (piagam) yg disimpan;"
+            },
+            {
+                "sense": "2",
+                "definition": "tempat menyimpan  naskhah-naskhah, rekod umum dan dokumen-dokumen sejarah  sesebuah negara;"
+            },
+            {
+                "sense": "3",
+                "definition": "(Komp)   tempat menyimpan atur cara dan data  komputer bagi jangka masa yg lama;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kumpulan naskhah (piagam) yg disimpan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "tempat menyimpan  naskhah-naskhah, rekod umum dan dokumen-dokumen sejarah  sesebuah negara;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "(Komp)   tempat menyimpan atur cara dan data  komputer bagi jangka masa yg lama;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengarkib",
                 "definitions": [
@@ -24337,7 +24182,7 @@
         ]
     },
     {
-        "term": "arkitek",
+        "term": "arkitek (arkiték)",
         "definitions": [
             {
                 "sense": "1",
@@ -24724,7 +24569,7 @@
         ]
     },
     {
-        "term": "aruh",
+        "term": "aruh; mengaruh",
         "definitions": [
             {
                 "sense": "1",
@@ -24776,8 +24621,7 @@
         ]
     },
     {
-        "term": "aruk",
-        "roman_numeral": "II",
+        "term": "aruk II; mengaruk",
         "definitions": [
             {
                 "sense": "1",
@@ -24878,7 +24722,7 @@
         ]
     },
     {
-        "term": "arwah",
+        "term": "arwah (jamak bagi roh)",
         "origin": "Ar",
         "definitions": [
             {
@@ -25007,8 +24851,7 @@
         ]
     },
     {
-        "term": "asa",
-        "roman_numeral": "III",
+        "term": "asa III",
         "origin": "Mn",
         "definitions": [
             {
@@ -25290,14 +25133,9 @@
                     {
                         "sense": "2",
                         "definition": "keturunan (dr):  raja itu ~ dr raja Melaka;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "berbangsa, keturunan baik-baik:  orang yg ~;"
                     }
                 ]
@@ -25342,7 +25180,7 @@
         ]
     },
     {
-        "term": "asal",
+        "term": "asal usul",
         "definitions": [
             {
                 "sense": "1",
@@ -25370,8 +25208,7 @@
         ]
     },
     {
-        "term": "asam",
-        "roman_numeral": "I",
+        "term": "asam I",
         "definitions": [
             {
                 "sense": "1",
@@ -25564,14 +25401,9 @@
                     {
                         "sense": "1",
                         "definition": "menyandarkan (meletakkan) pd sesuatu sbg asas,  mendasarkan:  segala usaha diasaskannya pd kepentingan negara;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "membangunkan (pd peringkat permulaannya), memulakan  penubuhan, mendirikan:  beliaulah yg ~ GPMS pd tahun 1954;"
                     }
                 ]
@@ -25709,7 +25541,7 @@
         ]
     },
     {
-        "term": "aseksual",
+        "term": "aseksual (aséksual) (Bio)",
         "definitions": [
             {
                 "sense": "1",
@@ -25763,7 +25595,7 @@
         ]
     },
     {
-        "term": "aset",
+        "term": "aset (asét)",
         "definitions": [
             {
                 "sense": "1",
@@ -26753,7 +26585,7 @@
         ]
     },
     {
-        "term": "astakona",
+        "term": "astakona sl",
         "definitions": [
             {
                 "sense": "1",
@@ -26842,7 +26674,7 @@
         ]
     },
     {
-        "term": "astro-",
+        "term": "astro- awalan asing",
         "definitions": [
             {
                 "sense": "1",
@@ -26945,7 +26777,7 @@
         ]
     },
     {
-        "term": "asuh",
+        "term": "asuh; mengasuh",
         "definitions": [
             {
                 "sense": "1",
@@ -27075,27 +26907,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "menaruh berahi atau perasaan cinta yg amat sangat (terhadap  seseorang), berahi (akan), cinta (akan):  raja itu sedang ~ kpd tuan  puteri;"
+            },
+            {
+                "sense": "2",
+                "definition": "sedang sibuk, leka (dgn sesuatu), khayal (melakukan  sesuatu):  kalau dah ~ berbual lupa akan makan; ~ maksyuk  a)  berkasih-kasihan; b) orang yg sedang berkasih-kasihan, sepasang  kekasih; c) Tuhan dan hamba-Nya;"
+            },
+            {
+                "sense": "3",
+                "definition": "Ar orang yg menetapkan  renungan dan pandangan rohaniah pd Allah SWT kerana didorong  oleh cinta dan kasih kepada-Nya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "menaruh berahi atau perasaan cinta yg amat sangat (terhadap  seseorang), berahi (akan), cinta (akan):  raja itu sedang ~ kpd tuan  puteri;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sedang sibuk, leka (dgn sesuatu), khayal (melakukan  sesuatu):  kalau dah ~ berbual lupa akan makan; ~ maksyuk  a)  berkasih-kasihan; b) orang yg sedang berkasih-kasihan, sepasang  kekasih; c) Tuhan dan hamba-Nya;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "Ar orang yg menetapkan  renungan dan pandangan rohaniah pd Allah SWT kerana didorong  oleh cinta dan kasih kepada-Nya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "asyik-asyik",
                 "definitions": [
@@ -27486,7 +27309,7 @@
         ]
     },
     {
-        "term": "atendan",
+        "term": "atendan (aténdan)",
         "definitions": [
             {
                 "sense": "1",
@@ -27810,12 +27633,11 @@
                     {
                         "sense": "2",
                         "definition": "segala yg telah ditentukan atau ditetapkan  utk diturut, peraturan:  membuat sesuatu itu biarlah menurut ~nya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "adat sopan santun, ketertiban:  tidak tahu ~  tidak tahu adat;"
+                    },
                     {
                         "sense": "4",
                         "definition": "=  ~nya  Id sebetulnya, sebenarnya:  ~(nya) harus diberitahukan  terlebih dahulu;"
@@ -27928,7 +27750,7 @@
         ]
     },
     {
-        "term": "atur",
+        "term": "atur cara",
         "definitions": [
             {
                 "sense": "1",
@@ -28966,27 +28788,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "sebelum waktu yg biasa (yg dijangkakan, ditetapkan, dsb),  terlebih dahulu (drpd yg lain):  dia datang ke pejabat ~; kereta api  tiba ~ sedikit drpd jadualnya hari ini;"
+            },
+            {
+                "sense": "2",
+                "definition": "bahagian yg mula-mula  (cerita dll), lwn akhir:  ceritakan dari ~ hingga akhir ;"
+            },
+            {
+                "sense": "3",
+                "definition": "permulaan  (sesuatu jangka waktu):  pd ~ tahun ini;    ~ mula  mula-mula sekali;  ~ bermula ...  pd permulaannya...;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sebelum waktu yg biasa (yg dijangkakan, ditetapkan, dsb),  terlebih dahulu (drpd yg lain):  dia datang ke pejabat ~; kereta api  tiba ~ sedikit drpd jadualnya hari ini;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "bahagian yg mula-mula  (cerita dll), lwn akhir:  ceritakan dari ~ hingga akhir ;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "permulaan  (sesuatu jangka waktu):  pd ~ tahun ini;    ~ mula  mula-mula sekali;  ~ bermula ...  pd permulaannya...;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berawalkan",
                 "definitions": [
@@ -29665,8 +29478,7 @@
         ]
     },
     {
-        "term": "ayam",
-        "roman_numeral": "I",
+        "term": "ayam I",
         "definitions": [
             {
                 "sense": "1",
@@ -29817,8 +29629,7 @@
         ]
     },
     {
-        "term": "ayu",
-        "roman_numeral": "I",
+        "term": "ayu I",
         "definitions": [
             {
                 "sense": "1",
@@ -29862,7 +29673,7 @@
         ]
     },
     {
-        "term": "ayuhai",
+        "term": "ayuhai sr",
         "definitions": [
             {
                 "sense": "1",

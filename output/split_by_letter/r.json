@@ -30,7 +30,7 @@
         ]
     },
     {
-        "term": "ra",
+        "term": "ra (rO)",
         "definitions": [
             {
                 "sense": "1",
@@ -411,7 +411,7 @@
         ]
     },
     {
-        "term": "rabitah",
+        "term": "rabitah, rabitat",
         "origin": "Ar",
         "definitions": [
             {
@@ -485,8 +485,7 @@
         ]
     },
     {
-        "term": "rabuk",
-        "roman_numeral": "I",
+        "term": "rabuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -916,8 +915,7 @@
         ]
     },
     {
-        "term": "radai",
-        "roman_numeral": "II",
+        "term": "radai II ark;  meradai",
         "origin": "Mn",
         "definitions": [
             {
@@ -965,8 +963,7 @@
         ]
     },
     {
-        "term": "radak",
-        "roman_numeral": "II",
+        "term": "radak II; meradak",
         "definitions": [
             {
                 "sense": "1",
@@ -1085,7 +1082,7 @@
         ]
     },
     {
-        "term": "raden",
+        "term": "raden (radén) Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -1598,8 +1595,7 @@
         ]
     },
     {
-        "term": "raga",
-        "roman_numeral": "I",
+        "term": "raga I",
         "definitions": [
             {
                 "sense": "1",
@@ -1702,8 +1698,7 @@
         ]
     },
     {
-        "term": "ragam",
-        "roman_numeral": "I",
+        "term": "ragam I",
         "definitions": [
             {
                 "sense": "1",
@@ -1855,8 +1850,7 @@
         ]
     },
     {
-        "term": "ragang",
-        "roman_numeral": "I",
+        "term": "ragang I; meragang",
         "definitions": [
             {
                 "sense": "1",
@@ -1880,8 +1874,7 @@
         ]
     },
     {
-        "term": "ragas",
-        "roman_numeral": "I",
+        "term": "ragas I; meragas",
         "definitions": [
             {
                 "sense": "1",
@@ -1894,8 +1887,7 @@
         ]
     },
     {
-        "term": "ragas",
-        "roman_numeral": "II",
+        "term": "ragas II; meragas",
         "definitions": [
             {
                 "sense": "1",
@@ -1937,24 +1929,18 @@
         ]
     },
     {
-        "term": "ragi",
-        "roman_numeral": "I",
+        "term": "ragi I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "sj bahan yg dibuat drpd beras dll utk menapai (tapai, arak, dll);"
+            },
+            {
+                "sense": "2",
+                "definition": "berjenis-jenis zat yg mengandungi ragi;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "berjenis-jenis zat yg mengandungi ragi;"
-                    }
-                ]
-            },
             {
                 "sub_term": "beragi",
                 "definitions": [
@@ -2010,8 +1996,7 @@
         ]
     },
     {
-        "term": "ragi",
-        "roman_numeral": "III",
+        "term": "ragi III; meragi",
         "definitions": [
             {
                 "sense": "1",
@@ -2150,7 +2135,7 @@
         ]
     },
     {
-        "term": "ragut",
+        "term": "ragut; meragut",
         "definitions": [
             {
                 "sense": "1",
@@ -2260,14 +2245,9 @@
                     {
                         "sense": "1",
                         "definition": "menutup mayat dgn kain (rahap):  ia ~ mayat ibunya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menutup (badan dgn kain):  ia dapat ditenteramkan, diletakkan  di tempat tidur, dan dirahap dgn kain batik lepas;"
                     }
                 ]
@@ -2293,8 +2273,7 @@
         ]
     },
     {
-        "term": "rahap",
-        "roman_numeral": "II",
+        "term": "rahap II; merahap",
         "definitions": [
             {
                 "sense": "1",
@@ -2368,8 +2347,7 @@
         ]
     },
     {
-        "term": "rahim",
-        "roman_numeral": "I",
+        "term": "rahim I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2591,7 +2569,7 @@
         ]
     },
     {
-        "term": "rai",
+        "term": "rai (ra",
         "definitions": [
             {
                 "sense": "1",
@@ -2709,8 +2687,7 @@
         ]
     },
     {
-        "term": "raja",
-        "roman_numeral": "I",
+        "term": "raja I",
         "definitions": [
             {
                 "sense": "1",
@@ -2739,18 +2716,13 @@
             {
                 "sense": "8",
                 "definition": "nama buah catur yg terpenting;"
+            },
+            {
+                "sense": "9",
+                "definition": "nama kad (terup) besar yg bergambar raja;    ~ agas  gelaran seseorang yg berbadan kecil tetapi berani;  ~ badar  sj kain putih;  ~ berpelembagaan  raja yg pemerintahannya  tertakluk pd peruntukan perlembagaan negara;  ~ besar  raja yg  berkuasa (berpemerintahan) besar;  ~   bola  pemain bola yg pandai;  ~ cacing  orang yg sangat kurus;  ~ jenang (jejenang)  orang yg  mengatur dlm penyabungan ayam;  ~   kecil  putera raja;  ~   kecil  besar  putera mahkota;  ~   kecil muda  putera raja yg bongsu;  ~   laut  laksamana;  ~   muda  putera mahkota, tengku mahkota, pemangku  raja yg memerintah (tanah jajahan dll);  ~ penomah  pemberian kpd  bakal mentua;  ~ permaisuri  gelaran isteri raja yg memerintah  sesebuah negeri (negara);  ~   Permaisuri Agong  gelaran utk  permaisuri Yang di-Pertuan Agong;  ~   putih  penyakit keputihan;  ~  sehari (sari)  pengantin;  ~   singa  penyakit perempuan, sifilis;  ~   wang  orang yg sangat kaya;  (si)   ~   diraja  usungan jenazah raja;    ~ adil ~ disembah, ~ tak adil ~ disanggah  prb raja yg adil  disayangi, dan raja yg zalim dibenci;  siapa pun menjadi ~  tanganku ke dahi juga  prb siapa pun yg menjadi raja, dihormati  juga;  spt ~ dgn menteri  prb bersetuju dlm segenap hal;  tak ada  (tiada) ~ menolak sembah  prb tidak ada orang yg tidak suka  dihormati;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "9.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "nama kad (terup) besar yg bergambar raja;    ~ agas  gelaran seseorang yg berbadan kecil tetapi berani;  ~ badar  sj kain putih;  ~ berpelembagaan  raja yg pemerintahannya  tertakluk pd peruntukan perlembagaan negara;  ~ besar  raja yg  berkuasa (berpemerintahan) besar;  ~   bola  pemain bola yg pandai;  ~ cacing  orang yg sangat kurus;  ~ jenang (jejenang)  orang yg  mengatur dlm penyabungan ayam;  ~   kecil  putera raja;  ~   kecil  besar  putera mahkota;  ~   kecil muda  putera raja yg bongsu;  ~   laut  laksamana;  ~   muda  putera mahkota, tengku mahkota, pemangku  raja yg memerintah (tanah jajahan dll);  ~ penomah  pemberian kpd  bakal mentua;  ~ permaisuri  gelaran isteri raja yg memerintah  sesebuah negeri (negara);  ~   Permaisuri Agong  gelaran utk  permaisuri Yang di-Pertuan Agong;  ~   putih  penyakit keputihan;  ~  sehari (sari)  pengantin;  ~   singa  penyakit perempuan, sifilis;  ~   wang  orang yg sangat kaya;  (si)   ~   diraja  usungan jenazah raja;    ~ adil ~ disembah, ~ tak adil ~ disanggah  prb raja yg adil  disayangi, dan raja yg zalim dibenci;  siapa pun menjadi ~  tanganku ke dahi juga  prb siapa pun yg menjadi raja, dihormati  juga;  spt ~ dgn menteri  prb bersetuju dlm segenap hal;  tak ada  (tiada) ~ menolak sembah  prb tidak ada orang yg tidak suka  dihormati;"
-                    }
-                ]
-            },
             {
                 "sub_term": "beraja",
                 "definitions": [
@@ -2814,14 +2786,9 @@
                     {
                         "sense": "1",
                         "definition": "menjadikan raja, menobat jadi raja:  maka anakanda  baginda yg tua itulah dirajakan menggantikan ayahanda baginda;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menganggap atau memandang sbg raja:  ~   pangkat;"
                     }
                 ]
@@ -2887,8 +2854,7 @@
         ]
     },
     {
-        "term": "rajah",
-        "roman_numeral": "I",
+        "term": "rajah I",
         "definitions": [
             {
                 "sense": "1",
@@ -2947,7 +2913,7 @@
         ]
     },
     {
-        "term": "rajalela",
+        "term": "rajalela (rajaléla);  merajalela",
         "definitions": [
             {
                 "sense": "1",
@@ -3123,7 +3089,7 @@
         ]
     },
     {
-        "term": "rajuk",
+        "term": "rajuk; merajuk",
         "definitions": [
             {
                 "sense": "1",
@@ -3228,8 +3194,7 @@
         ]
     },
     {
-        "term": "rak",
-        "roman_numeral": "I",
+        "term": "rak I",
         "definitions": [
             {
                 "sense": "1",
@@ -3361,14 +3326,9 @@
                     {
                         "sense": "3",
                         "definition": "mengekalkan  suara (bunyi, lagu, dll) pd piring hitam atau pita:  jarum itu pun  bergetar menurut bentuk alur-alur yg ada di piring itu dan  getaran semendal itu mengeluarkan bunyi yg dirakam; ~ rompak  merakam secara haram (tanpa membayar apa-apa kpd yg berhak);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "4",
                         "definition": "Mn melekap, menempel, melekat (baju pd tubuh dll);"
                     }
                 ]
@@ -3404,12 +3364,11 @@
                     {
                         "sense": "1",
                         "definition": "tercap, tercatat, tersurat (dlm perlembagaan,  perjanjian, dll):  hak-hak istimewa yg sudah ~ dlm perlembagaan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "tersirat dlm hati, terlekat dlm hati:  kenangan-kenangan yg sedih  itu sudah ~ dlm hatinya;"
+                    },
                     {
                         "sense": "3",
                         "definition": "tercatat dan tersimpan (utk kegunaan,  rujukan, dsb pd waktu kemudian);"
@@ -3446,8 +3405,7 @@
         ]
     },
     {
-        "term": "rakan",
-        "roman_numeral": "I",
+        "term": "rakan I ",
         "definitions": [
             {
                 "sense": "1",
@@ -3471,8 +3429,7 @@
         ]
     },
     {
-        "term": "rakan",
-        "roman_numeral": "II",
+        "term": "rakan II ark",
         "origin": "Kl",
         "definitions": [
             {
@@ -3486,8 +3443,7 @@
         ]
     },
     {
-        "term": "rakap",
-        "roman_numeral": "I",
+        "term": "rakap I",
         "definitions": [
             {
                 "sense": "1",
@@ -3687,8 +3643,7 @@
         ]
     },
     {
-        "term": "raksi",
-        "roman_numeral": "I",
+        "term": "raksi I",
         "definitions": [
             {
                 "sense": "1",
@@ -3829,7 +3784,7 @@
         ]
     },
     {
-        "term": "rakut",
+        "term": "rakut; merakut",
         "definitions": [
             {
                 "sense": "1",
@@ -3851,22 +3806,21 @@
             {
                 "sense": "2",
                 "definition": "anak buah,  orang-orang sebawahan:  setahun sekali penghulu menjamu ~nya;"
+            },
+            {
+                "sense": "3",
+                "definition": "orang kebanyakan, orang ramai, orang biasa:  padang permainan  utk ~; ia keturunan ~, bukan keturunan raja; cerita ~  cerita yg  diceritakan utk orang biasa;"
+            },
+            {
+                "sense": "4",
+                "definition": "pasukan perang, bala tentera:  maka  baginda pun berangkat diiringi oleh seluruh ~ lengkap dgn  senjatanya;"
+            },
+            {
+                "sense": "5",
+                "definition": "Ph, bp orang asli;  ~ jelata (jembel, marhaen,  murba)  orang kebanyakan (bukan golongan bangsawan);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "pasukan perang, bala tentera:  maka  baginda pun berangkat diiringi oleh seluruh ~ lengkap dgn  senjatanya;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "Ph, bp orang asli;  ~ jelata (jembel, marhaen,  murba)  orang kebanyakan (bukan golongan bangsawan);"
-                    }
-                ]
-            },
             {
                 "sub_term": "merakyat",
                 "definitions": [
@@ -3905,8 +3859,7 @@
         ]
     },
     {
-        "term": "ralat",
-        "roman_numeral": "I",
+        "term": "ralat I",
         "definitions": [
             {
                 "sense": "1",
@@ -4007,8 +3960,7 @@
         ]
     },
     {
-        "term": "ram",
-        "roman_numeral": "II",
+        "term": "ram II",
         "origin": "IB",
         "definitions": [
             {
@@ -4283,8 +4235,7 @@
         ]
     },
     {
-        "term": "ramal",
-        "roman_numeral": "I",
+        "term": "ramal I",
         "origin": "Ar",
         "definitions": [
             {
@@ -4396,8 +4347,7 @@
         ]
     },
     {
-        "term": "ramas",
-        "roman_numeral": "I",
+        "term": "ramas I; meramas",
         "definitions": [
             {
                 "sense": "1",
@@ -4406,18 +4356,17 @@
             {
                 "sense": "2",
                 "definition": "memegang-megang dan memicit-micit,  memijit-mijit, mengurut:  lapan orang yg ~ kaki Yang Dipertuan;"
+            },
+            {
+                "sense": "3",
+                "definition": "memulas dan memeras (kain basah), memerah:  dia ~ kain yg  baru dibasuhnya itu; perut ~  perut memulas;"
+            },
+            {
+                "sense": "4",
+                "definition": "merenyukkan,  mengumalkan:  dia ~ surat layang  yg baru diterimanya;   ~ api  memadamkan api;  ~   bibir (mulut)  ki menggasak, mengajar;  ~  jantung (perut)  ki marah dlm hati, mendongkol, sebal, sangat  menyesal;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "merenyukkan,  mengumalkan:  dia ~ surat layang  yg baru diterimanya;   ~ api  memadamkan api;  ~   bibir (mulut)  ki menggasak, mengajar;  ~  jantung (perut)  ki marah dlm hati, mendongkol, sebal, sangat  menyesal;"
-                    }
-                ]
-            },
             {
                 "sub_term": "meramas-ramas",
                 "definitions": [
@@ -4449,7 +4398,7 @@
         ]
     },
     {
-        "term": "rambah",
+        "term": "rambah; merambah",
         "definitions": [
             {
                 "sense": "1",
@@ -4505,8 +4454,7 @@
         ]
     },
     {
-        "term": "rambai",
-        "roman_numeral": "II",
+        "term": "rambai II",
         "definitions": [
             {
                 "sense": "1",
@@ -4540,8 +4488,7 @@
         ]
     },
     {
-        "term": "rambak",
-        "roman_numeral": "I",
+        "term": "rambak I; merambak",
         "definitions": [
             {
                 "sense": "1",
@@ -4647,7 +4594,7 @@
         ]
     },
     {
-        "term": "rambas",
+        "term": "rambas; merambas",
         "origin": "Pr",
         "definitions": [
             {
@@ -4661,8 +4608,7 @@
         ]
     },
     {
-        "term": "rambat",
-        "roman_numeral": "I",
+        "term": "rambat I; merambat",
         "definitions": [
             {
                 "sense": "1",
@@ -4717,8 +4663,7 @@
         ]
     },
     {
-        "term": "rambat",
-        "roman_numeral": "III",
+        "term": "rambat III",
         "definitions": [
             {
                 "sense": "1",
@@ -4854,24 +4799,18 @@
         ]
     },
     {
-        "term": "rambut",
-        "roman_numeral": "I",
+        "term": "rambut I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "sj bulu yg tumbuh di kepala:  ~nya ikal, lebat, dan hitam; ~  kelong dahi  rambut yg ikal di dahi;  anak ~  hujung rambut yg ikal  pd dahi dll;  gigi ~  rambut yg di pinggir;  kaki ~  rambut yg di  pinggir atas tengkuk;  si ~ panjang  bp orang perempuan;  termakan  di ~  sangat susah;  sakit kepala panjang ~  pura-pura sakit kepala;"
+            },
+            {
+                "sense": "2",
+                "definition": "sesuatu yg spt rambut;    ~ anak kundai  rambut pendek di dahi pengantin;  ~ genjur  rambut  yg kejang (tegak kaku);  ~   ikal  rambut yg mengombak;  ~   jagung  bulu pd jantung jagung;  ~ kerul = ~ keriting  rambut ikal kecil- kecil;  ~   palsu  rambut buatan;    ~ sama hitam, hati masing-masing berlainan  prb masing-masing  orang itu mempunyai pendapat (kemahuan dll) yg berlainan;  bagai  ~ dibelah tujuh  prb perihal sesuatu yg terlalu sedikit (kecil);  spt  bergantung pd (di) ~ sehelai  prb sentiasa dlm keadaan yg sangat  sulit dan berbahaya;  spt menghela ~ dlm tepung, ~ jangan putus,  tepung jangan terserak  prb menghukum hendaklah dgn seadil- adilnya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sesuatu yg spt rambut;    ~ anak kundai  rambut pendek di dahi pengantin;  ~ genjur  rambut  yg kejang (tegak kaku);  ~   ikal  rambut yg mengombak;  ~   jagung  bulu pd jantung jagung;  ~ kerul = ~ keriting  rambut ikal kecil- kecil;  ~   palsu  rambut buatan;    ~ sama hitam, hati masing-masing berlainan  prb masing-masing  orang itu mempunyai pendapat (kemahuan dll) yg berlainan;  bagai  ~ dibelah tujuh  prb perihal sesuatu yg terlalu sedikit (kecil);  spt  bergantung pd (di) ~ sehelai  prb sentiasa dlm keadaan yg sangat  sulit dan berbahaya;  spt menghela ~ dlm tepung, ~ jangan putus,  tepung jangan terserak  prb menghukum hendaklah dgn seadil- adilnya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "serambut",
                 "definitions": [
@@ -5048,8 +4987,7 @@
         ]
     },
     {
-        "term": "rampak",
-        "roman_numeral": "I",
+        "term": "rampak I ",
         "definitions": [
             {
                 "sense": "1",
@@ -5168,7 +5106,7 @@
         ]
     },
     {
-        "term": "rampat",
+        "term": "rampat; merampat",
         "definitions": [
             {
                 "sense": "1",
@@ -5181,8 +5119,7 @@
         ]
     },
     {
-        "term": "ramping",
-        "roman_numeral": "I",
+        "term": "ramping I",
         "definitions": [
             {
                 "sense": "1",
@@ -5410,8 +5347,7 @@
         ]
     },
     {
-        "term": "rana",
-        "roman_numeral": "I",
+        "term": "rana I; merana",
         "definitions": [
             {
                 "sense": "1",
@@ -5428,8 +5364,7 @@
         ]
     },
     {
-        "term": "rana",
-        "roman_numeral": "II",
+        "term": "rana II ark sl",
         "definitions": [
             {
                 "sense": "1",
@@ -5452,8 +5387,7 @@
         ]
     },
     {
-        "term": "ranah",
-        "roman_numeral": "I",
+        "term": "ranah I",
         "definitions": [
             {
                 "sense": "1",
@@ -5505,8 +5439,7 @@
         ]
     },
     {
-        "term": "ranap",
-        "roman_numeral": "I",
+        "term": "ranap I",
         "definitions": [
             {
                 "sense": "1",
@@ -5568,8 +5501,7 @@
         ]
     },
     {
-        "term": "rancak",
-        "roman_numeral": "I",
+        "term": "rancak I",
         "definitions": [
             {
                 "sense": "1",
@@ -5682,8 +5614,7 @@
         ]
     },
     {
-        "term": "rancang",
-        "roman_numeral": "II",
+        "term": "rancang II; berancang",
         "definitions": [
             {
                 "sense": "1",
@@ -6080,7 +6011,7 @@
         ]
     },
     {
-        "term": "raneh",
+        "term": "raneh (ranéh),  rane  (rané) (Sunda)",
         "definitions": [
             {
                 "sense": "1",
@@ -6145,8 +6076,7 @@
         ]
     },
     {
-        "term": "rang",
-        "roman_numeral": "VI",
+        "term": "rang VI",
         "origin": "Kl",
         "definitions": [
             {
@@ -6291,8 +6221,7 @@
         ]
     },
     {
-        "term": "ranggah",
-        "roman_numeral": "III",
+        "term": "ranggah III; meranggah bk",
         "definitions": [
             {
                 "sense": "1",
@@ -6390,8 +6319,7 @@
         ]
     },
     {
-        "term": "ranggi",
-        "roman_numeral": "I",
+        "term": "ranggi I",
         "definitions": [
             {
                 "sense": "1",
@@ -6564,8 +6492,7 @@
         ]
     },
     {
-        "term": "rangka",
-        "roman_numeral": "I",
+        "term": "rangka I",
         "definitions": [
             {
                 "sense": "1",
@@ -6738,7 +6665,7 @@
         ]
     },
     {
-        "term": "rangkak",
+        "term": "rangkak; merangkak",
         "definitions": [
             {
                 "sense": "1",
@@ -6813,8 +6740,7 @@
         ]
     },
     {
-        "term": "rangkap",
-        "roman_numeral": "I",
+        "term": "rangkap I; merangkap",
         "definitions": [
             {
                 "sense": "1",
@@ -6838,8 +6764,7 @@
         ]
     },
     {
-        "term": "rangkap",
-        "roman_numeral": "II",
+        "term": "rangkap II",
         "definitions": [
             {
                 "sense": "1",
@@ -6984,7 +6909,7 @@
         ]
     },
     {
-        "term": "rangkul",
+        "term": "rangkul; merangkul",
         "definitions": [
             {
                 "sense": "1",
@@ -7173,8 +7098,7 @@
         ]
     },
     {
-        "term": "rangkup",
-        "roman_numeral": "II",
+        "term": "rangkup II; merangkup",
         "definitions": [
             {
                 "sense": "1",
@@ -7256,8 +7180,7 @@
         ]
     },
     {
-        "term": "rangsang",
-        "roman_numeral": "I",
+        "term": "rangsang I",
         "definitions": [
             {
                 "sense": "1",
@@ -7355,8 +7278,7 @@
         ]
     },
     {
-        "term": "rangsang",
-        "roman_numeral": "II",
+        "term": "rangsang II ;  merangsang",
         "origin": "Jw",
         "definitions": [
             {
@@ -7381,8 +7303,7 @@
         ]
     },
     {
-        "term": "rangsang",
-        "roman_numeral": "III",
+        "term": "rangsang III",
         "origin": "Mn",
         "definitions": [
             {
@@ -7562,7 +7483,7 @@
         ]
     },
     {
-        "term": "ranjing",
+        "term": "ranjing; keranjingan",
         "definitions": [
             {
                 "sense": "1",
@@ -7745,8 +7666,7 @@
         ]
     },
     {
-        "term": "rantau",
-        "roman_numeral": "I",
+        "term": "rantau I",
         "definitions": [
             {
                 "sense": "1",
@@ -7988,7 +7908,7 @@
         ]
     },
     {
-        "term": "ranya",
+        "term": "ranya ;  meranya",
         "origin": "Kl",
         "definitions": [
             {
@@ -8108,8 +8028,7 @@
         ]
     },
     {
-        "term": "rap",
-        "roman_numeral": "III",
+        "term": "rap III",
         "origin": "Kd",
         "definitions": [
             {
@@ -8143,7 +8062,7 @@
         ]
     },
     {
-        "term": "rapah",
+        "term": "rapah; merapah",
         "definitions": [
             {
                 "sense": "1",
@@ -8209,8 +8128,7 @@
         ]
     },
     {
-        "term": "rapat",
-        "roman_numeral": "I",
+        "term": "rapat I",
         "definitions": [
             {
                 "sense": "1",
@@ -8394,7 +8312,7 @@
         ]
     },
     {
-        "term": "rapel",
+        "term": "rapel (rapél) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -8554,7 +8472,7 @@
         ]
     },
     {
-        "term": "rapor",
+        "term": "rapor, rapot",
         "origin": "IB",
         "definitions": [
             {
@@ -8614,7 +8532,7 @@
         ]
     },
     {
-        "term": "rapu",
+        "term": "rapu ark;  merapu",
         "definitions": [
             {
                 "sense": "1",
@@ -8889,14 +8807,9 @@
                 "sub_term": "serasa, rasa-rasa, serasa-rasa, rasakan",
                 "definitions": [
                     {
-                        "sense": "1",
-                        "definition": "sama rasanya dgn,  seakan-akan, seolah-olah, selaku:  dia sendiri serasa mengalami  semula pengalaman Hilmy di sekolahnya; biadab di hadapan  Bendahara itu rasa-rasa di hadapan kita; Amran rasa-rasa  mendidih darahnya mendengar ucapan itu; rasakan lebih enak  drpd rokok kita pasak kampung; serasa bayang  hilang semangat;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "7.",
-                "definitions": [
+                        "sense": "7",
+                        "definition": "=  rasa-rasa  ada ingatan, ada terlintas di hati (bagi menyatakan  bimbang, ragu-ragu):  ~   hendak dipukulnya pencuri itu habis- habisan;"
+                    },
                     {
                         "sense": "8",
                         "definition": "memikir, mengagak, menganggap:  saya ~ dia belum  pulang lagi; dia ~ tidak ada gunanya mengamuk;    ~ akan  rasakan, bagaikan, seolah-olah oleh;  turutkan ~ binasa,  turutkan hati mati  prb perihal orang yg menurutkan kemahuan  hawa nafsunya, akhirnya binasa juga;  yg dimakan ~, yg dilihat  rupa, yg didengar bunyi  prb melihat sesuatu menurut keadaannya  yg terbukti dan sudah dipersaksikan;"
@@ -9676,8 +9589,7 @@
         ]
     },
     {
-        "term": "rata",
-        "roman_numeral": "I",
+        "term": "rata I",
         "definitions": [
             {
                 "sense": "1",
@@ -10146,8 +10058,7 @@
         ]
     },
     {
-        "term": "ratus",
-        "roman_numeral": "II",
+        "term": "ratus II ark;  meratus",
         "definitions": [
             {
                 "sense": "1",
@@ -10220,7 +10131,7 @@
         ]
     },
     {
-        "term": "raun",
+        "term": "raun bp",
         "definitions": [
             {
                 "sense": "1",
@@ -10420,8 +10331,7 @@
         ]
     },
     {
-        "term": "rawa",
-        "roman_numeral": "IV",
+        "term": "rawa IV",
         "definitions": [
             {
                 "sense": "1",
@@ -10752,8 +10662,7 @@
         ]
     },
     {
-        "term": "rawi",
-        "roman_numeral": "I",
+        "term": "rawi I",
         "origin": "Ar",
         "definitions": [
             {
@@ -10821,8 +10730,7 @@
         ]
     },
     {
-        "term": "rawit",
-        "roman_numeral": "II",
+        "term": "rawit II ;  rawitan, kerawitan",
         "origin": "Jw",
         "definitions": [
             {
@@ -10856,8 +10764,7 @@
         ]
     },
     {
-        "term": "raya",
-        "roman_numeral": "I",
+        "term": "raya I",
         "definitions": [
             {
                 "sense": "1",
@@ -10922,7 +10829,7 @@
         ]
     },
     {
-        "term": "rayan",
+        "term": "rayan; rayan-rayan",
         "origin": "Mn",
         "definitions": [
             {
@@ -10956,8 +10863,7 @@
         ]
     },
     {
-        "term": "rayap",
-        "roman_numeral": "I",
+        "term": "rayap I",
         "definitions": [
             {
                 "sense": "1",
@@ -10981,8 +10887,7 @@
         ]
     },
     {
-        "term": "rayap",
-        "roman_numeral": "II",
+        "term": "rayap II; merayap",
         "definitions": [
             {
                 "sense": "1",
@@ -11045,23 +10950,22 @@
         ]
     },
     {
-        "term": "rayau",
+        "term": "rayau; merayau, merayau-rayau",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "meraba-raba (kerana mencari atau  mengambil sesuatu):  gadis itu menyandarkan badannya pd tubuh  Farid dan dibiarkannya tangan pemuda itu ~; tangan kanannya  merayau-rayau memungut serdak cucur kodok dan ondeh-ondeh;"
+            },
+            {
+                "sense": "2",
+                "definition": "pergi ke mana-mana utk mencari sesuatu, berkeliaran (mencari  mangsa dll), mengembara:  ia ~ di bandar Melaka; saya tak  kuasalah merayau-rayau ke rumah orang atau mengintip-intip  apa yg dibuat orang;"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak tenang (tenteram), cemas, gelisah:  matanya merayau-rayau memerhatikan keadaan di dlm rumah;  maka ~lah fikirannya, meninjau-ninjau masa hadapan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "tidak tenang (tenteram), cemas, gelisah:  matanya merayau-rayau memerhatikan keadaan di dlm rumah;  maka ~lah fikirannya, meninjau-ninjau masa hadapan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "perayau",
                 "definitions": [
@@ -11083,8 +10987,7 @@
         ]
     },
     {
-        "term": "rayu",
-        "roman_numeral": "I",
+        "term": "rayu I",
         "definitions": [
             {
                 "sense": "1",
@@ -11256,7 +11159,7 @@
         ]
     },
     {
-        "term": "reaksi",
+        "term": "reaksi (réaksi)",
         "definitions": [
             {
                 "sense": "1",
@@ -11298,7 +11201,7 @@
         ]
     },
     {
-        "term": "reaksioner",
+        "term": "reaksioner (réaksionér) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -11315,7 +11218,7 @@
         ]
     },
     {
-        "term": "reaksionis",
+        "term": "reaksionis (réaksionis)",
         "definitions": [
             {
                 "sense": "1",
@@ -11328,7 +11231,7 @@
         ]
     },
     {
-        "term": "reaktif",
+        "term": "reaktif (réaktif)",
         "definitions": [
             {
                 "sense": "1",
@@ -11350,7 +11253,7 @@
         ]
     },
     {
-        "term": "realis",
+        "term": "realis (réalis)",
         "definitions": [
             {
                 "sense": "1",
@@ -11392,7 +11295,7 @@
         ]
     },
     {
-        "term": "realisme",
+        "term": "realisme (réalisme)",
         "definitions": [
             {
                 "sense": "1",
@@ -11405,7 +11308,7 @@
         ]
     },
     {
-        "term": "realistik",
+        "term": "realistik (réalistik)",
         "definitions": [
             {
                 "sense": "1",
@@ -11579,7 +11482,7 @@
         ]
     },
     {
-        "term": "rebak",
+        "term": "rebak (rébak)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -11592,7 +11495,7 @@
         ]
     },
     {
-        "term": "rebak",
+        "term": "rebak (rébak)  II; merebak",
         "definitions": [
             {
                 "sense": "1",
@@ -11813,7 +11716,7 @@
         ]
     },
     {
-        "term": "rebeh",
+        "term": "rebeh (rébéh)  II, rebek  (rébék) Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -11826,7 +11729,7 @@
         ]
     },
     {
-        "term": "reben",
+        "term": "reben (rébén)",
         "definitions": [
             {
                 "sense": "1",
@@ -12214,7 +12117,7 @@
         ]
     },
     {
-        "term": "recup",
+        "term": "recup; merecup",
         "definitions": [
             {
                 "sense": "1",
@@ -12335,8 +12238,7 @@
         ]
     },
     {
-        "term": "redah",
-        "roman_numeral": "II",
+        "term": "redah II; meredah",
         "definitions": [
             {
                 "sense": "1",
@@ -12383,8 +12285,7 @@
         ]
     },
     {
-        "term": "redak",
-        "roman_numeral": "II",
+        "term": "redak II",
         "origin": "Kd",
         "definitions": [
             {
@@ -12413,7 +12314,7 @@
         ]
     },
     {
-        "term": "redaksi",
+        "term": "redaksi (rédaksi)",
         "definitions": [
             {
                 "sense": "1",
@@ -12496,7 +12397,7 @@
         ]
     },
     {
-        "term": "redan",
+        "term": "redan (rédan)",
         "definitions": [
             {
                 "sense": "1",
@@ -12550,8 +12451,7 @@
         ]
     },
     {
-        "term": "redap",
-        "roman_numeral": "II",
+        "term": "redap II; meredap",
         "definitions": [
             {
                 "sense": "1",
@@ -12671,7 +12571,7 @@
         ]
     },
     {
-        "term": "reduksionisme",
+        "term": "reduksionisme (réduksionisme)",
         "definitions": [
             {
                 "sense": "1",
@@ -12805,7 +12705,7 @@
         ]
     },
     {
-        "term": "referi",
+        "term": "referi (réferi)",
         "definitions": [
             {
                 "sense": "1",
@@ -12818,7 +12718,7 @@
         ]
     },
     {
-        "term": "reflasi",
+        "term": "reflasi (réflasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -13005,7 +12905,7 @@
         ]
     },
     {
-        "term": "regat",
+        "term": "regat; meregat",
         "definitions": [
             {
                 "sense": "1",
@@ -13445,8 +13345,7 @@
         ]
     },
     {
-        "term": "rejam",
-        "roman_numeral": "I",
+        "term": "rejam I; merejam",
         "definitions": [
             {
                 "sense": "1",
@@ -13586,8 +13485,7 @@
         ]
     },
     {
-        "term": "rejang",
-        "roman_numeral": "IV",
+        "term": "rejang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -13697,7 +13595,7 @@
         ]
     },
     {
-        "term": "reka",
+        "term": "reka (réka)",
         "definitions": [
             {
                 "sense": "1",
@@ -13719,12 +13617,11 @@
                     {
                         "sense": "1",
                         "definition": "menyusun (memasang, mengatur,  mengarang) baik-baik:  perlembagaan itu telah direka oleh orang  yg bijak pandai; sedikit sekali pengarang kita yg dapat ~ cerita- cerita yg bermutu tinggi; siapa tahu kalau cerita itu direka-reka;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "mencari akal (daya, upaya, ikhtiar):  sepanjang minggu, ia  mereka-reka keputusan yg akan diambilnya nanti;"
+                    },
                     {
                         "sense": "3",
                         "definition": "memikirkan  (sesuatu), merancang, merencanakan:  seorang ahli sains telah ~  sepasang jangka suhu; dia ~ jawaban yg akan diberikan esok;"
@@ -13913,7 +13810,7 @@
         ]
     },
     {
-        "term": "rekan",
+        "term": "rekan ",
         "origin": "Id",
         "definitions": [
             {
@@ -14060,7 +13957,7 @@
         ]
     },
     {
-        "term": "reken",
+        "term": "reken (réken) IB;  mereken",
         "definitions": [
             {
                 "sense": "1",
@@ -14093,7 +13990,7 @@
         ]
     },
     {
-        "term": "rekes",
+        "term": "rekes (rékés) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -14148,7 +14045,7 @@
         ]
     },
     {
-        "term": "rekod",
+        "term": "rekod (rékod)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -14259,7 +14156,7 @@
         ]
     },
     {
-        "term": "rekot",
+        "term": "rekot (rékot);  merekot",
         "definitions": [
             {
                 "sense": "1",
@@ -14292,7 +14189,7 @@
         ]
     },
     {
-        "term": "rekrut",
+        "term": "rekrut (rékrut)",
         "definitions": [
             {
                 "sense": "1",
@@ -14347,7 +14244,7 @@
         ]
     },
     {
-        "term": "rektor",
+        "term": "rektor (réktor)",
         "definitions": [
             {
                 "sense": "1",
@@ -14369,7 +14266,7 @@
         ]
     },
     {
-        "term": "rel",
+        "term": "rel (rél)",
         "definitions": [
             {
                 "sense": "1",
@@ -14382,7 +14279,7 @@
         ]
     },
     {
-        "term": "rela",
+        "term": "rela (réla)",
         "definitions": [
             {
                 "sense": "1",
@@ -14445,7 +14342,7 @@
         ]
     },
     {
-        "term": "relah",
+        "term": "relah , Pn",
         "origin": "Kd",
         "definitions": [
             {
@@ -14548,8 +14445,7 @@
         ]
     },
     {
-        "term": "relang",
-        "roman_numeral": "II",
+        "term": "relang II , Pn",
         "origin": "Kd",
         "definitions": [
             {
@@ -14603,7 +14499,7 @@
         ]
     },
     {
-        "term": "relas",
+        "term": "relas; merelas",
         "definitions": [
             {
                 "sense": "1",
@@ -14729,7 +14625,7 @@
         ]
     },
     {
-        "term": "reluh",
+        "term": "reluh; mereluh, menereluh, tereluh bp",
         "definitions": [
             {
                 "sense": "1",
@@ -14773,7 +14669,7 @@
         ]
     },
     {
-        "term": "relus",
+        "term": "relus; terperelus",
         "definitions": [
             {
                 "sense": "1",
@@ -14786,7 +14682,7 @@
         ]
     },
     {
-        "term": "rem",
+        "term": "rem (rém) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -15101,24 +14997,18 @@
         ]
     },
     {
-        "term": "rembang",
-        "roman_numeral": "I",
+        "term": "rembang I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "titik di langit yg betul-betul di atas kepala kita, kedudukan  yg setingginya (matahari, bulan);  matahari ~ = ~ tengah hari  waktu tengah hari tepat (benar);  sebelum ~ tengah hari  sebelum  tengah hari;  ~   petang  sudah mulai petang, lewat pukul tiga petang;"
+            },
+            {
+                "sense": "2",
+                "definition": "sl tepat sungguh (waktunya):  segala takwim kitab dibuka, ~lah  saat dgn ketika;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sl tepat sungguh (waktunya):  segala takwim kitab dibuka, ~lah  saat dgn ketika;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berembang",
                 "definitions": [
@@ -15245,7 +15135,7 @@
         ]
     },
     {
-        "term": "rembes",
+        "term": "rembes (rémbés)  I;   merembes",
         "definitions": [
             {
                 "sense": "1",
@@ -15324,7 +15214,7 @@
         ]
     },
     {
-        "term": "rembet",
+        "term": "rembet (rémbét)  II; merembet",
         "definitions": [
             {
                 "sense": "1",
@@ -15802,7 +15692,7 @@
         ]
     },
     {
-        "term": "rempat",
+        "term": "rempat (rémpat);  merempat",
         "definitions": [
             {
                 "sense": "1",
@@ -16164,8 +16054,7 @@
         ]
     },
     {
-        "term": "rencah",
-        "roman_numeral": "I",
+        "term": "rencah I; merencah",
         "definitions": [
             {
                 "sense": "1",
@@ -16218,8 +16107,7 @@
         ]
     },
     {
-        "term": "rencah",
-        "roman_numeral": "III",
+        "term": "rencah III; merencah",
         "definitions": [
             {
                 "sense": "1",
@@ -16252,8 +16140,7 @@
         ]
     },
     {
-        "term": "rencam",
-        "roman_numeral": "II",
+        "term": "rencam II",
         "definitions": [
             {
                 "sense": "1",
@@ -16644,8 +16531,7 @@
         ]
     },
     {
-        "term": "rendah",
-        "roman_numeral": "I",
+        "term": "rendah I",
         "definitions": [
             {
                 "sense": "1",
@@ -16772,7 +16658,7 @@
         ]
     },
     {
-        "term": "rendam",
+        "term": "rendam; berendam",
         "definitions": [
             {
                 "sense": "1",
@@ -17034,7 +16920,7 @@
         ]
     },
     {
-        "term": "renduh",
+        "term": "renduh; merenduh",
         "definitions": [
             {
                 "sense": "1",
@@ -17226,8 +17112,7 @@
         ]
     },
     {
-        "term": "rengas",
-        "roman_numeral": "I",
+        "term": "rengas I",
         "definitions": [
             {
                 "sense": "1",
@@ -17395,28 +17280,26 @@
         ]
     },
     {
-        "term": "renggang",
-        "roman_numeral": "I",
+        "term": "renggang I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tidak berapa rapat, tidak tertutup benar, ada sela-selanya,  dll:  apabila panas terik, papan-papan dinding rumah menjadi ~;"
+            },
+            {
+                "sense": "2",
+                "definition": "agak berjauhan, kurang erat (persahabatan dll), kurang karib:  maka timbullah suatu pertengkaran yg membuat mereka semakin  ~; anak kecil itu sudah tidak hendak ~ dr ayahnya lagi;"
+            },
+            {
+                "sense": "3",
+                "definition": "antara,  selang:  ada kira-kira ~nya setahun dr perang Kedah itu maka  Raja Kecil datang pula melanggar Riau;"
+            },
+            {
+                "sense": "4",
+                "definition": "jarak(nya), jauh(nya),  beza(nya):  lain pula keadaannya di negeri kami, ~nya hampir- hampir sebelah dunia; kehidupan anak-anakku dibandingkan dgn  kehidupanku macam bumi dgn langit ~nya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "antara,  selang:  ada kira-kira ~nya setahun dr perang Kedah itu maka  Raja Kecil datang pula melanggar Riau;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "jarak(nya), jauh(nya),  beza(nya):  lain pula keadaannya di negeri kami, ~nya hampir- hampir sebelah dunia; kehidupan anak-anakku dibandingkan dgn  kehidupanku macam bumi dgn langit ~nya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berenggang",
                 "definitions": [
@@ -17558,7 +17441,7 @@
         ]
     },
     {
-        "term": "renggut",
+        "term": "renggut; merenggut",
         "definitions": [
             {
                 "sense": "1",
@@ -17829,8 +17712,7 @@
         ]
     },
     {
-        "term": "rengkung",
-        "roman_numeral": "II",
+        "term": "rengkung II",
         "definitions": [
             {
                 "sense": "1",
@@ -17852,7 +17734,7 @@
         ]
     },
     {
-        "term": "rengsa",
+        "term": "rengsa (réngsa)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -17924,7 +17806,7 @@
         ]
     },
     {
-        "term": "renguh",
+        "term": "renguh; merenguh",
         "definitions": [
             {
                 "sense": "1",
@@ -18079,7 +17961,7 @@
         ]
     },
     {
-        "term": "renjat",
+        "term": "renjat; renjatan",
         "definitions": [
             {
                 "sense": "1",
@@ -18103,7 +17985,7 @@
         ]
     },
     {
-        "term": "renjer",
+        "term": "renjer (rénjer)",
         "definitions": [
             {
                 "sense": "1",
@@ -18256,8 +18138,7 @@
         ]
     },
     {
-        "term": "rentak",
-        "roman_numeral": "I",
+        "term": "rentak I",
         "definitions": [
             {
                 "sense": "1",
@@ -18680,7 +18561,7 @@
         ]
     },
     {
-        "term": "rentet",
+        "term": "rentet (réntét)",
         "definitions": [
             {
                 "sense": "1",
@@ -18775,8 +18656,7 @@
         ]
     },
     {
-        "term": "renung",
-        "roman_numeral": "I",
+        "term": "renung I; merenung",
         "definitions": [
             {
                 "sense": "1",
@@ -18957,7 +18837,7 @@
         ]
     },
     {
-        "term": "renyak",
+        "term": "renyak; merenyak",
         "definitions": [
             {
                 "sense": "1",
@@ -18974,8 +18854,7 @@
         ]
     },
     {
-        "term": "renyam",
-        "roman_numeral": "I",
+        "term": "renyam I; merenyam, merenyam-renyam",
         "definitions": [
             {
                 "sense": "1",
@@ -19045,7 +18924,7 @@
         ]
     },
     {
-        "term": "renyeh",
+        "term": "renyeh (rényéh)  I ;  merenyeh",
         "definitions": [
             {
                 "sense": "1",
@@ -19110,7 +18989,7 @@
         ]
     },
     {
-        "term": "renyuh",
+        "term": "renyuh; merenyuh",
         "definitions": [
             {
                 "sense": "1",
@@ -19123,8 +19002,7 @@
         ]
     },
     {
-        "term": "renyuk",
-        "roman_numeral": "I",
+        "term": "renyuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -19204,12 +19082,11 @@
                     {
                         "sense": "1",
                         "definition": "=   dgn ~  dgn serta-merta berdiri (kerana marah dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "=  merenyukkan  menyentakkan, merentak (merenggut,  merengkah) dgn kuat-kuat (cepat-cepat):  jangan direnyukkan tali  kekang kuda itu;"
+                    },
                     {
                         "sense": "3",
                         "definition": "=  merenyukkan  mengunjukkan (memberikan)  dgn marah."
@@ -19249,8 +19126,7 @@
         ]
     },
     {
-        "term": "renyut",
-        "roman_numeral": "II",
+        "term": "renyut II; merenyut",
         "definitions": [
             {
                 "sense": "1",
@@ -19459,7 +19335,7 @@
         ]
     },
     {
-        "term": "repertoir",
+        "term": "repertoir (répertoir)",
         "definitions": [
             {
                 "sense": "1",
@@ -19490,7 +19366,7 @@
         ]
     },
     {
-        "term": "repet",
+        "term": "repet (répét);  merepet",
         "definitions": [
             {
                 "sense": "1",
@@ -19591,7 +19467,7 @@
         ]
     },
     {
-        "term": "replika",
+        "term": "replika (réplika)",
         "definitions": [
             {
                 "sense": "1",
@@ -19654,7 +19530,7 @@
         ]
     },
     {
-        "term": "repot",
+        "term": "repot (répot)  II  IB",
         "definitions": [
             {
                 "sense": "1",
@@ -19687,7 +19563,7 @@
         ]
     },
     {
-        "term": "representasi",
+        "term": "representasi (répréséntasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -19754,7 +19630,7 @@
         ]
     },
     {
-        "term": "repu",
+        "term": "repu ;  merepu",
         "origin": "Pr",
         "definitions": [
             {
@@ -19806,8 +19682,7 @@
         ]
     },
     {
-        "term": "repuh",
-        "roman_numeral": "I",
+        "term": "repuh I ark",
         "definitions": [
             {
                 "sense": "1",
@@ -19905,7 +19780,7 @@
         ]
     },
     {
-        "term": "reputasi",
+        "term": "reputasi (réputasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -20139,8 +20014,7 @@
         ]
     },
     {
-        "term": "resam",
-        "roman_numeral": "II",
+        "term": "resam II",
         "definitions": [
             {
                 "sense": "1",
@@ -20183,7 +20057,7 @@
         ]
     },
     {
-        "term": "resan",
+        "term": "resan ",
         "definitions": [
             {
                 "sense": "1",
@@ -20323,7 +20197,7 @@
         ]
     },
     {
-        "term": "resep",
+        "term": "resep (resép) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -20410,8 +20284,7 @@
         ]
     },
     {
-        "term": "resi",
-        "roman_numeral": "III",
+        "term": "resi III",
         "definitions": [
             {
                 "sense": "1",
@@ -20457,8 +20330,7 @@
         ]
     },
     {
-        "term": "resik",
-        "roman_numeral": "I",
+        "term": "resik I; meresik",
         "definitions": [
             {
                 "sense": "1",
@@ -20467,17 +20339,10 @@
             {
                 "sense": "2",
                 "definition": "berdesir, berkersik;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "desas-desus, kasak-kisik (suara berbisik)."
-                    }
-                ]
+                "sense": "3",
+                "definition": "desas-desus, kasak-kisik (suara berbisik)."
             }
         ]
     },
@@ -20502,7 +20367,7 @@
         ]
     },
     {
-        "term": "resin",
+        "term": "resin (résin)",
         "definitions": [
             {
                 "sense": "1",
@@ -20555,7 +20420,7 @@
         ]
     },
     {
-        "term": "resolusi",
+        "term": "resolusi (résolusi)",
         "definitions": [
             {
                 "sense": "1",
@@ -20582,7 +20447,7 @@
         ]
     },
     {
-        "term": "respirator",
+        "term": "respirator (réspirator)",
         "definitions": [
             {
                 "sense": "1",
@@ -20595,7 +20460,7 @@
         ]
     },
     {
-        "term": "responden",
+        "term": "responden (résponden)",
         "definitions": [
             {
                 "sense": "1",
@@ -20698,14 +20563,9 @@
                     {
                         "sense": "2",
                         "definition": "memberikan persetujuan, kebenaran atau keizinan kpd  seseorang atau sesuatu pihak utk melakukan sesuatu dsb, bersetuju  dgn, mengizinkan, membenarkan:  penubuhan parti itu direstui  oleh kerajaan; dr awal-awal lagi ibu tidak ~ perkahwinan kami;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "sl mengenakan pengaruh (guna-guna, jampi)."
                     }
                 ]
@@ -20723,8 +20583,7 @@
         ]
     },
     {
-        "term": "restung",
-        "roman_numeral": "II",
+        "term": "restung II",
         "definitions": [
             {
                 "sense": "1",
@@ -20746,7 +20605,7 @@
         ]
     },
     {
-        "term": "resume",
+        "term": "resume (résumé)",
         "definitions": [
             {
                 "sense": "1",
@@ -20802,26 +20661,25 @@
             {
                 "sense": "1",
                 "definition": "garis yg nampak pd benda keras (pinggan dll) yg menunjukkan  ia akan pecah atau belah:  ~   pd pinggan itu makin menjadi besar;"
+            },
+            {
+                "sense": "2",
+                "definition": "mempunyai garis yg menunjukkan akan pecah atau belah:  pinggan-pinggan yg sudah ~ itulah yg digunakan setiap hari;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki  ada kekurangannya (tidak sempurna), cacat cela:  kerja-kerja yg  dibuatnya itu terlalu banyak ~nya;"
+            },
+            {
+                "sense": "4",
+                "definition": "ki ada perbalahan  (perselisihan dll) yg boleh menimbulkan perpecahan (perceraian  dll), sudah tidak semuafakat lagi:  dia tidak mahu kasih sayang  mereka menjadi ~ kerana perbuatannya itu;"
+            },
+            {
+                "sense": "5",
+                "definition": "=  ~   tangan  a) rajah  tangan, suratan tangan; b) nasib badan:  manusia ini dilahirkan dgn  cara yg sama tapi ~ tangannya berlainan;    ~-~ mentimun  Mn retak halus-halus hanya di luar sahaja (barang  pecah belah);  ~ - retai  banyak retaknya;  ~   seribu  a) banyak  retaknya; b) sj corak kain batik moden Malaysia;    ~   batu  prb tidak didamaikan lagi (perselisihan dll);  ~ - ~   bulu ayam  prb mudah didamaikan (perselisihan dll);  ~   menanti (mencari,  tanda akan) pecah (belah)  prb a) perkara kecil yg akan menjadi  besar; b) hanya tinggal menantikan timbulnya malapetaka yg lebih  besar (pergaduhan, kematian, dll);  ~   pertujuh  Mn prb perasaan  hati yg hancur (kerana tersangat merindu);  bukan di ~ panas  prb  Mn bukan sia-sia atau dusta (sesuatu telahan);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "ki  ada kekurangannya (tidak sempurna), cacat cela:  kerja-kerja yg  dibuatnya itu terlalu banyak ~nya;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "ki ada perbalahan  (perselisihan dll) yg boleh menimbulkan perpecahan (perceraian  dll), sudah tidak semuafakat lagi:  dia tidak mahu kasih sayang  mereka menjadi ~ kerana perbuatannya itu;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "=  ~   tangan  a) rajah  tangan, suratan tangan; b) nasib badan:  manusia ini dilahirkan dgn  cara yg sama tapi ~ tangannya berlainan;    ~-~ mentimun  Mn retak halus-halus hanya di luar sahaja (barang  pecah belah);  ~ - retai  banyak retaknya;  ~   seribu  a) banyak  retaknya; b) sj corak kain batik moden Malaysia;    ~   batu  prb tidak didamaikan lagi (perselisihan dll);  ~ - ~   bulu ayam  prb mudah didamaikan (perselisihan dll);  ~   menanti (mencari,  tanda akan) pecah (belah)  prb a) perkara kecil yg akan menjadi  besar; b) hanya tinggal menantikan timbulnya malapetaka yg lebih  besar (pergaduhan, kematian, dll);  ~   pertujuh  Mn prb perasaan  hati yg hancur (kerana tersangat merindu);  bukan di ~ panas  prb  Mn bukan sia-sia atau dusta (sesuatu telahan);"
-                    }
-                ]
-            },
             {
                 "sub_term": "meretak",
                 "definitions": [
@@ -20948,7 +20806,7 @@
         ]
     },
     {
-        "term": "retet",
+        "term": "retet (rétét) Jk;  beretetan",
         "definitions": [
             {
                 "sense": "1",
@@ -21021,7 +20879,7 @@
         ]
     },
     {
-        "term": "retikulum",
+        "term": "retikulum (rétikulum) (Bio)",
         "definitions": [
             {
                 "sense": "1",
@@ -21061,7 +20919,7 @@
         ]
     },
     {
-        "term": "retorik",
+        "term": "retorik (rétorik)",
         "definitions": [
             {
                 "sense": "1",
@@ -21223,7 +21081,7 @@
         ]
     },
     {
-        "term": "revolusi",
+        "term": "revolusi (révolusi)",
         "definitions": [
             {
                 "sense": "1",
@@ -21256,7 +21114,7 @@
         ]
     },
     {
-        "term": "revolusioner",
+        "term": "revolusioner (révolusionér)",
         "definitions": [
             {
                 "sense": "1",
@@ -21320,7 +21178,7 @@
         ]
     },
     {
-        "term": "rewang",
+        "term": "rewang (réwang)  I; merewang",
         "definitions": [
             {
                 "sense": "1",
@@ -21351,7 +21209,7 @@
         ]
     },
     {
-        "term": "rewel",
+        "term": "rewel (réwél) Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -21458,8 +21316,7 @@
         ]
     },
     {
-        "term": "ria",
-        "roman_numeral": "I",
+        "term": "ria I",
         "definitions": [
             {
                 "sense": "1",
@@ -21534,8 +21391,7 @@
         ]
     },
     {
-        "term": "riadah",
-        "roman_numeral": "II",
+        "term": "riadah II",
         "origin": "Ar",
         "definitions": [
             {
@@ -21554,14 +21410,9 @@
                     {
                         "sense": "1",
                         "definition": "melakukan latihan gerak badan (senaman), bersenam;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "melakukan riadah (rekreasi), berekreasi."
                     }
                 ]
@@ -21587,8 +21438,7 @@
         ]
     },
     {
-        "term": "riak",
-        "roman_numeral": "I",
+        "term": "riak I",
         "definitions": [
             {
                 "sense": "1",
@@ -21657,17 +21507,10 @@
             {
                 "sense": "4",
                 "definition": "Kl ringgit;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "unit mata wang utama Iran dan Oman;    bak kambing rega se~  prb perihal orang yg tidak senonoh  kelakuannya (tidak tentu kedudukannya, bercakap ke sana sini dgn  cakap yg tidak ada ertinya);  jikalau tiada ~ di pinggang, saudara  yg rapat menjadi renggang  prb jikalau sudah miskin, orang pun  tidak menyukai kita lagi."
-                    }
-                ]
+                "sense": "5",
+                "definition": "unit mata wang utama Iran dan Oman;    bak kambing rega se~  prb perihal orang yg tidak senonoh  kelakuannya (tidak tentu kedudukannya, bercakap ke sana sini dgn  cakap yg tidak ada ertinya);  jikalau tiada ~ di pinggang, saudara  yg rapat menjadi renggang  prb jikalau sudah miskin, orang pun  tidak menyukai kita lagi."
             }
         ]
     },
@@ -21723,14 +21566,9 @@
                     {
                         "sense": "1",
                         "definition": "=   ~   hati   perasaan sukacita, kesukaan, kegembiraan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "berasa riang, berasa sangat gembira:  Salina ~ melihat gelagat Si  Bulat;"
                     }
                 ]
@@ -21809,8 +21647,7 @@
         ]
     },
     {
-        "term": "riang-riang",
-        "roman_numeral": "III",
+        "term": "riang-riang III",
         "definitions": [
             {
                 "sense": "1",
@@ -21933,8 +21770,7 @@
         ]
     },
     {
-        "term": "riba",
-        "roman_numeral": "II",
+        "term": "riba II",
         "origin": "Ar",
         "definitions": [
             {
@@ -22067,8 +21903,7 @@
         ]
     },
     {
-        "term": "ribut",
-        "roman_numeral": "I",
+        "term": "ribut I",
         "definitions": [
             {
                 "sense": "1",
@@ -22092,8 +21927,7 @@
         ]
     },
     {
-        "term": "ribut",
-        "roman_numeral": "II",
+        "term": "ribut II",
         "definitions": [
             {
                 "sense": "1",
@@ -22115,14 +21949,9 @@
                     {
                         "sense": "1",
                         "definition": "menjadikan ribut, mengacaukan, menggemparkan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menimbulkan huru-hara (gaduh dll), merusuhkan;"
                     }
                 ]
@@ -22152,7 +21981,7 @@
         ]
     },
     {
-        "term": "ricau",
+        "term": "ricau; mericau",
         "definitions": [
             {
                 "sense": "1",
@@ -22849,7 +22678,7 @@
         ]
     },
     {
-        "term": "rinci",
+        "term": "rinci; merinci",
         "definitions": [
             {
                 "sense": "1",
@@ -22989,8 +22818,7 @@
         ]
     },
     {
-        "term": "rindu",
-        "roman_numeral": "I",
+        "term": "rindu I",
         "definitions": [
             {
                 "sense": "1",
@@ -23290,8 +23118,7 @@
         ]
     },
     {
-        "term": "ringgit",
-        "roman_numeral": "I",
+        "term": "ringgit I",
         "definitions": [
             {
                 "sense": "1",
@@ -23363,7 +23190,7 @@
         ]
     },
     {
-        "term": "ringis",
+        "term": "ringis; meringis",
         "definitions": [
             {
                 "sense": "1",
@@ -23429,18 +23256,13 @@
             {
                 "sense": "2",
                 "definition": "tidak panjang, pendek, singkat (cerita, karangan, dll):  laporan yg ~; penerangan ~ diberikan kpd semua pegawai; jalan  ~  jalan yg singkat;  huruf ~  kependekan (singkatan);  ~nya  pendeknya;  ~   tegas = tegas ~  pendek dan padat (keterangan dll);"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak banyak olahnya (bicaranya dsb), tidak cerewet:  orangnya  ~ dan mudah diajak berunding;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tidak banyak olahnya (bicaranya dsb), tidak cerewet:  orangnya  ~ dan mudah diajak berunding;"
-                    }
-                ]
-            },
             {
                 "sub_term": "meringkaskan",
                 "definitions": [
@@ -23527,7 +23349,7 @@
         ]
     },
     {
-        "term": "ringking",
+        "term": "ringking; meringking",
         "definitions": [
             {
                 "sense": "1",
@@ -23540,7 +23362,7 @@
         ]
     },
     {
-        "term": "ringkuk",
+        "term": "ringkuk; meringkuk",
         "definitions": [
             {
                 "sense": "1",
@@ -23564,7 +23386,7 @@
         ]
     },
     {
-        "term": "ringkus",
+        "term": "ringkus ;  meringkus",
         "origin": "Jk",
         "definitions": [
             {
@@ -23757,8 +23579,7 @@
         ]
     },
     {
-        "term": "rintang",
-        "roman_numeral": "II",
+        "term": "rintang II",
         "definitions": [
             {
                 "sense": "1",
@@ -23800,8 +23621,7 @@
         ]
     },
     {
-        "term": "rintih",
-        "roman_numeral": "I",
+        "term": "rintih I ",
         "definitions": [
             {
                 "sense": "1",
@@ -23983,7 +23803,7 @@
         ]
     },
     {
-        "term": "riparian",
+        "term": "riparian (Udg)",
         "definitions": [
             {
                 "sense": "1",
@@ -24026,7 +23846,7 @@
         ]
     },
     {
-        "term": "ripu",
+        "term": "ripu, ripuh",
         "origin": "Jk",
         "definitions": [
             {
@@ -24142,8 +23962,7 @@
         ]
     },
     {
-        "term": "risau",
-        "roman_numeral": "II",
+        "term": "risau II",
         "definitions": [
             {
                 "sense": "1",
@@ -24239,8 +24058,7 @@
         ]
     },
     {
-        "term": "risik",
-        "roman_numeral": "II",
+        "term": "risik II ",
         "definitions": [
             {
                 "sense": "1",
@@ -24286,8 +24104,7 @@
         ]
     },
     {
-        "term": "risik",
-        "roman_numeral": "III",
+        "term": "risik III",
         "definitions": [
             {
                 "sense": "1",
@@ -24600,14 +24417,9 @@
                     {
                         "sense": "1",
                         "definition": "orang yg meriwayatkan cerita, pengarang, pemberita;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "orang yg meriwayatkan hadis;"
                     }
                 ]
@@ -24711,7 +24523,7 @@
         ]
     },
     {
-        "term": "RK",
+        "term": "RK kep",
         "origin": "Id",
         "definitions": [
             {
@@ -24873,22 +24685,21 @@
             {
                 "sense": "1",
                 "definition": "jatuh ke bawah kerana rosak (rumah, jambatan, tembok, dll),  runtuh:  rumah-rumah yg tinggal ini habislah ~ dan pecah-pecah;"
+            },
+            {
+                "sense": "2",
+                "definition": "tumbang, rebah (pokok dll);"
+            },
+            {
+                "sense": "3",
+                "definition": "ki jatuh atau runtuh (negara,  kekuasaan, dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "ki luntur (iman, pendirian, keyakinan, dll),  berkurang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "ki jatuh atau runtuh (negara,  kekuasaan, dll);"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "ki luntur (iman, pendirian, keyakinan, dll),  berkurang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "merobohkan",
                 "definitions": [
@@ -24971,8 +24782,7 @@
         ]
     },
     {
-        "term": "robot",
-        "roman_numeral": "II",
+        "term": "robot II",
         "definitions": [
             {
                 "sense": "1",
@@ -25169,8 +24979,7 @@
         ]
     },
     {
-        "term": "rodok",
-        "roman_numeral": "I",
+        "term": "rodok I; merodok",
         "definitions": [
             {
                 "sense": "1",
@@ -25183,8 +24992,7 @@
         ]
     },
     {
-        "term": "rodok",
-        "roman_numeral": "II",
+        "term": "rodok II; merodok",
         "definitions": [
             {
                 "sense": "1",
@@ -25197,8 +25005,7 @@
         ]
     },
     {
-        "term": "rodong",
-        "roman_numeral": "I",
+        "term": "rodong I",
         "definitions": [
             {
                 "sense": "1",
@@ -25235,8 +25042,7 @@
         ]
     },
     {
-        "term": "rodong",
-        "roman_numeral": "II",
+        "term": "rodong II ark;  merodong",
         "definitions": [
             {
                 "sense": "1",
@@ -25277,22 +25083,19 @@
         ]
     },
     {
-        "term": "rogoh",
+        "term": "rogoh; merogoh",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "menyelukkan tangan ke dlm saku dll utk mengambil  sesuatu:  ia ~ sakunya utk mengambil wang pembayaran beca itu;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "menyeluk poket, mencopet."
-                    }
-                ]
+                "sense": "2",
+                "definition": "mengeluarkan sesuatu dgn memasukkan tangan ke dlm saku dll:  ~   rokok dr kantungnya;"
+            },
+            {
+                "sense": "3",
+                "definition": "menyeluk poket, mencopet."
             }
         ]
     },
@@ -25441,8 +25244,7 @@
         ]
     },
     {
-        "term": "rojak",
-        "roman_numeral": "I",
+        "term": "rojak I",
         "definitions": [
             {
                 "sense": "1",
@@ -25534,7 +25336,7 @@
         ]
     },
     {
-        "term": "roket",
+        "term": "roket (rokét)",
         "definitions": [
             {
                 "sense": "1",
@@ -25608,8 +25410,7 @@
         ]
     },
     {
-        "term": "rol",
-        "roman_numeral": "II",
+        "term": "rol II",
         "definitions": [
             {
                 "sense": "1",
@@ -25685,8 +25486,7 @@
         ]
     },
     {
-        "term": "roman",
-        "roman_numeral": "II",
+        "term": "roman II ",
         "definitions": [
             {
                 "sense": "1",
@@ -25885,8 +25685,7 @@
         ]
     },
     {
-        "term": "rombong",
-        "roman_numeral": "I",
+        "term": "rombong I",
         "definitions": [
             {
                 "sense": "1",
@@ -25899,8 +25698,7 @@
         ]
     },
     {
-        "term": "rombong",
-        "roman_numeral": "II",
+        "term": "rombong II; merombong",
         "definitions": [
             {
                 "sense": "1",
@@ -26385,8 +26183,7 @@
         ]
     },
     {
-        "term": "rongga",
-        "roman_numeral": "II",
+        "term": "rongga II",
         "definitions": [
             {
                 "sense": "1",
@@ -26418,7 +26215,7 @@
         ]
     },
     {
-        "term": "ronggeng",
+        "term": "ronggeng (ronggéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -26580,7 +26377,7 @@
         ]
     },
     {
-        "term": "rongrong",
+        "term": "rongrong ;  merongrong",
         "origin": "Jk",
         "definitions": [
             {
@@ -26708,22 +26505,15 @@
         ]
     },
     {
-        "term": "ronyoh",
+        "term": "ronyoh; meronyoh",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "meradak, menohok:  aku ~mu dgn keris ini nanti;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "bk menolak (orang)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bk menolak (orang)."
             }
         ]
     },
@@ -27034,7 +26824,7 @@
         ]
     },
     {
-        "term": "rosot",
+        "term": "rosot; merosot",
         "definitions": [
             {
                 "sense": "1",
@@ -27122,8 +26912,7 @@
         ]
     },
     {
-        "term": "rotan",
-        "roman_numeral": "I",
+        "term": "rotan I",
         "definitions": [
             {
                 "sense": "1",
@@ -27179,7 +26968,7 @@
         ]
     },
     {
-        "term": "rotok",
+        "term": "rotok; merotok",
         "definitions": [
             {
                 "sense": "1",
@@ -27192,7 +26981,7 @@
         ]
     },
     {
-        "term": "rotor",
+        "term": "rotor (Kej)",
         "definitions": [
             {
                 "sense": "1",
@@ -27431,8 +27220,7 @@
         ]
     },
     {
-        "term": "rua",
-        "roman_numeral": "I",
+        "term": "rua I",
         "definitions": [
             {
                 "sense": "1",
@@ -27549,8 +27337,7 @@
         ]
     },
     {
-        "term": "ruai",
-        "roman_numeral": "I",
+        "term": "ruai I ark",
         "definitions": [
             {
                 "sense": "1",
@@ -27559,17 +27346,10 @@
             {
                 "sense": "2",
                 "definition": "tidak berapa kuat (tiang dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kurang tenaga, lemah (badan)."
-                    }
-                ]
+                "sense": "3",
+                "definition": "kurang tenaga, lemah (badan)."
             }
         ]
     },
@@ -27594,7 +27374,7 @@
         ]
     },
     {
-        "term": "ruak",
+        "term": "ruak; meruak",
         "definitions": [
             {
                 "sense": "1",
@@ -27776,12 +27556,11 @@
                     {
                         "sense": "5",
                         "definition": "menyombong, bercakap besar (membual):  jangan sekali-kali suka ~, nanti ketara kelemahan dirimu sendiri;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "6.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "6",
+                        "definition": "merebak (bau dll):  dr dapur, ~ bau gulai ayam yg membuka  selera;"
+                    },
                     {
                         "sense": "7",
                         "definition": "(Kim) cepat menjadi wap pd suhu bilik (bkn pepejal atau  cecair);"
@@ -27794,14 +27573,9 @@
                     {
                         "sense": "1",
                         "definition": "(Kim) keadaan atau sifat sesuatu bahan atau cecair  yg cepat bertukar menjadi wap:  setiap pecahan minyak mentah  mengandungi alkana yg mempunyai kelikatan dan ~ yg berbeza;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "(Eko) darjah perubahan harga sesuatu sekuriti atau pasaran  sama ada menaik atau menurun dgn cepat."
                     }
                 ]
@@ -27858,8 +27632,7 @@
         ]
     },
     {
-        "term": "ruat",
-        "roman_numeral": "I",
+        "term": "ruat I",
         "definitions": [
             {
                 "sense": "1",
@@ -27876,8 +27649,7 @@
         ]
     },
     {
-        "term": "ruat",
-        "roman_numeral": "II",
+        "term": "ruat II",
         "origin": "Jw",
         "definitions": [
             {
@@ -27930,7 +27702,7 @@
         ]
     },
     {
-        "term": "ruba",
+        "term": "ruba ",
         "definitions": [
             {
                 "sense": "1",
@@ -28132,7 +27904,7 @@
         ]
     },
     {
-        "term": "rubu",
+        "term": "rubu; merubu; ",
         "definitions": [
             {
                 "sense": "1",
@@ -28220,8 +27992,7 @@
         ]
     },
     {
-        "term": "rudu",
-        "roman_numeral": "II",
+        "term": "rudu II; merudu",
         "definitions": [
             {
                 "sense": "1",
@@ -28243,7 +28014,7 @@
         ]
     },
     {
-        "term": "rudum",
+        "term": "rudum;",
         "definitions": [
             {
                 "sense": "2",
@@ -28304,18 +28075,13 @@
             {
                 "sense": "4",
                 "definition": "sesuatu yg kurang baik (tidak berfaedah), mudarat:  tidak ada ~nya kalau awak masuk belajar lagi di sekolah malam;"
+            },
+            {
+                "sense": "5",
+                "definition": "hilang, habis (wang dll):  ia ~ kira-kira RM300 kerana  menolong kawannya berkahwin; ~ barang (tempoh, tenaga, wang)  habis barang (tempoh, tenaga, wang);    ~ atas kertas  kerugian akibat penurunan harga sesuatu sekuriti  atau aset yg belum nyata kerana tidak dijual;  ~ modal  kerugian yg  ditanggung drpd penjualan sesuatu sekuriti atau aset akibat drpd  penurunan harga;  ~   menentang laba, jerih menentang boleh  prb  harus bersusah payah (merugi dll) dahulu utk mendapat sesuatu yg  dikehendaki;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "5.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "hilang, habis (wang dll):  ia ~ kira-kira RM300 kerana  menolong kawannya berkahwin; ~ barang (tempoh, tenaga, wang)  habis barang (tempoh, tenaga, wang);    ~ atas kertas  kerugian akibat penurunan harga sesuatu sekuriti  atau aset yg belum nyata kerana tidak dijual;  ~ modal  kerugian yg  ditanggung drpd penjualan sesuatu sekuriti atau aset akibat drpd  penurunan harga;  ~   menentang laba, jerih menentang boleh  prb  harus bersusah payah (merugi dll) dahulu utk mendapat sesuatu yg  dikehendaki;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berugi, merugi",
                 "definitions": [
@@ -28352,14 +28118,9 @@
                     {
                         "sense": "2",
                         "definition": "banyaknya  atau jumlah perolehan yg kurang apabila dibandingkan dgn modal  yg telah dibelanjakan, lwn keuntungan, rugi:  berapa besar ~nya?"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "sesuatu yg merugikan (spt kerosakan dll):  besarlah ~ yg akan  menimpa mereka."
                     }
                 ]
@@ -28459,8 +28220,7 @@
         ]
     },
     {
-        "term": "ruji",
-        "roman_numeral": "II",
+        "term": "ruji II ",
         "definitions": [
             {
                 "sense": "1",
@@ -28665,8 +28425,7 @@
         ]
     },
     {
-        "term": "rukun",
-        "roman_numeral": "I",
+        "term": "rukun I",
         "origin": "Ar",
         "definitions": [
             {
@@ -28684,8 +28443,7 @@
         ]
     },
     {
-        "term": "rukun",
-        "roman_numeral": "II",
+        "term": "rukun II",
         "definitions": [
             {
                 "sense": "1",
@@ -28805,8 +28563,7 @@
         ]
     },
     {
-        "term": "rumah",
-        "roman_numeral": "I",
+        "term": "rumah I",
         "definitions": [
             {
                 "sense": "1",
@@ -29089,8 +28846,7 @@
         ]
     },
     {
-        "term": "rumbu",
-        "roman_numeral": "II",
+        "term": "rumbu II",
         "definitions": [
             {
                 "sense": "1",
@@ -29735,7 +29491,7 @@
         ]
     },
     {
-        "term": "rundung",
+        "term": "rundung; merundung",
         "definitions": [
             {
                 "sense": "1",
@@ -29748,8 +29504,7 @@
         ]
     },
     {
-        "term": "rung",
-        "roman_numeral": "I",
+        "term": "rung I",
         "definitions": [
             {
                 "sense": "1",
@@ -30061,7 +29816,7 @@
         ]
     },
     {
-        "term": "runjang",
+        "term": "runjang; merunjang",
         "definitions": [
             {
                 "sense": "1",
@@ -30303,8 +30058,7 @@
         ]
     },
     {
-        "term": "runtun",
-        "roman_numeral": "I",
+        "term": "runtun I; meruntun",
         "definitions": [
             {
                 "sense": "1",
@@ -30451,7 +30205,7 @@
         ]
     },
     {
-        "term": "ruok",
+        "term": "ruok ark;  meruok",
         "origin": "Mn",
         "definitions": [
             {
@@ -30892,8 +30646,7 @@
         ]
     },
     {
-        "term": "rusuh",
-        "roman_numeral": "I",
+        "term": "rusuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -30902,18 +30655,17 @@
             {
                 "sense": "2",
                 "definition": "gaduh, huru-hara, kacau,  ribut:  negara itu menjadi ~ selepas pemberontakan oleh tentera;"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak sopan (kelakuan, perkataan, dll), kasar (permainan bola  sepak dll), tidak berperaturan, ceroboh:  bahasanya ~ benar; ~  benar makanannya  apa sahaja dimakannya;"
+            },
+            {
+                "sense": "4",
+                "definition": "tidak tenteram  fikiran, (sangat) gelisah:  ~   resah  berbagai-bagai kegelisahan (tidak  aman dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "tidak tenteram  fikiran, (sangat) gelisah:  ~   resah  berbagai-bagai kegelisahan (tidak  aman dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "merusuh",
                 "definitions": [
@@ -31036,8 +30788,7 @@
         ]
     },
     {
-        "term": "rusuk",
-        "roman_numeral": "I",
+        "term": "rusuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -31255,8 +31006,7 @@
         ]
     },
     {
-        "term": "ruyung",
-        "roman_numeral": "II",
+        "term": "ruyung II",
         "definitions": [
             {
                 "sense": "1",
@@ -31269,7 +31019,7 @@
         ]
     },
     {
-        "term": "ruyup",
+        "term": "ruyup ",
         "definitions": [
             {
                 "sense": "1",

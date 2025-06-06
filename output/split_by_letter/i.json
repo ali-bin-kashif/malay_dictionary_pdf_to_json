@@ -29,8 +29,7 @@
         ]
     },
     {
-        "term": "ia",
-        "roman_numeral": "I",
+        "term": "ia I",
         "definitions": [
             {
                 "sense": "1",
@@ -128,14 +127,9 @@
                     {
                         "sense": "2",
                         "definition": "kata penghubung yg mendahului ayat yg menyatakan  sebab (terjadinya sesuatu dll):  punca kemalangan itu ~ kecuaian;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "kata yg menjadi pemerihal atau perangkai antara subjek dgn  frasa utama bagi predikat sesuatu ayat:  jumlah kematian yg  disahkan ~ 22 orang;"
                     }
                 ]
@@ -393,8 +387,7 @@
         ]
     },
     {
-        "term": "ibu",
-        "roman_numeral": "I",
+        "term": "ibu I",
         "definitions": [
             {
                 "sense": "1",
@@ -791,7 +784,7 @@
         ]
     },
     {
-        "term": "ideal",
+        "term": "ideal (idéal)",
         "definitions": [
             {
                 "sense": "1",
@@ -811,7 +804,7 @@
         ]
     },
     {
-        "term": "idealis",
+        "term": "idealis (idéalis)",
         "definitions": [
             {
                 "sense": "1",
@@ -824,7 +817,7 @@
         ]
     },
     {
-        "term": "idealisme",
+        "term": "idealisme (idéalisme)",
         "definitions": [
             {
                 "sense": "1",
@@ -1117,8 +1110,7 @@
         ]
     },
     {
-        "term": "igal",
-        "roman_numeral": "I",
+        "term": "igal I; mengigal",
         "definitions": [
             {
                 "sense": "1",
@@ -1152,8 +1144,7 @@
         ]
     },
     {
-        "term": "igau",
-        "roman_numeral": "I",
+        "term": "igau I; mengigau",
         "definitions": [
             {
                 "sense": "1",
@@ -2458,7 +2449,7 @@
         ]
     },
     {
-        "term": "iktidal",
+        "term": "iktidal ",
         "origin": "Ar",
         "definitions": [
             {
@@ -2523,7 +2514,7 @@
         ]
     },
     {
-        "term": "iktiraf",
+        "term": "iktiraf ;  mengiktiraf",
         "definitions": [
             {
                 "sense": "1",
@@ -2650,12 +2641,11 @@
                     {
                         "sense": "2",
                         "definition": "meniru, mencontohi:  kanak-kanak biasanya mudah ~ kelakuan ibu bapanya; tahun ini  ramai orang kampung yg ~ Amin menanam padi dua kali setahun;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "mematuhi (perintah, nasihat, dll), menganut (ajaran, faham):  dgn  mudah, kedua-dua orang itu ~ perintah saya; sebahagian besar  penduduk negeri itu ~ Mazhab Shafii;"
+                    },
                     {
                         "sense": "4",
                         "definition": "melalui (jalan dll):  orang  kampung itu pergi ke bandar terpaksa ~ sungai dgn menggunakan  perahu; dia sampai dahulu kerana dia ~ jalan yg dekat;"
@@ -3290,14 +3280,9 @@
                     {
                         "sense": "1",
                         "definition": "mempunyai seseorang sbg imam (pd waktu  sembahyang):  mereka sembahyang berjemaah ~ Tuan Haji Yusuf;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "mempunyai (menganggap dsb) seseorang sbg imam (pemimpin,  ketua);"
                     }
                 ]
@@ -3413,8 +3398,7 @@
         ]
     },
     {
-        "term": "imbal",
-        "roman_numeral": "I",
+        "term": "imbal I",
         "definitions": [
             {
                 "sense": "1",
@@ -3884,7 +3868,7 @@
         ]
     },
     {
-        "term": "imej",
+        "term": "imej (iméj)",
         "definitions": [
             {
                 "sense": "1",
@@ -4282,32 +4266,22 @@
             {
                 "sense": "1",
                 "definition": "pemasukan barang-barang dr luar negeri:  ~ mengatasi eksport;"
+            },
+            {
+                "sense": "2",
+                "definition": "yg dibawa masuk dr luar negeri:  barang-barang ~;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "yg dibawa masuk dr luar negeri:  barang-barang ~;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengimport",
                 "definitions": [
                     {
                         "sense": "1",
                         "definition": "membawa masuk terutamanya barang-barang dr  luar negeri:  negara kita masih ~ beras dr negeri Thai dan Burma;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki membawa masuk sesuatu dr negara atau sumber asing:  selepas perang, pihak Amerika telah ~ konsep persaingan secara  bebas tanpa ikatan Jepun; penurunan nilai ringgit tidak ~ inflasi;"
                     }
                 ]
@@ -4353,7 +4327,7 @@
         ]
     },
     {
-        "term": "impregnasi",
+        "term": "impregnasi (imprégnasi) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -4438,14 +4412,9 @@
                     {
                         "sense": "1",
                         "definition": "membuat improvisasi:  beliau menubuhkan  kumpulannya dgn meminjam atau menyewa boneka drpd  kumpulan lain dan ~ alat-alatnya drpd tin dan tong sbg gendang;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menggubah lagu, gurindam dsb ketika sedang bermain,  membaca dsb, menggubah tanpa persediaan."
                     }
                 ]
@@ -4768,7 +4737,7 @@
         ]
     },
     {
-        "term": "incang",
+        "term": "incang; ",
         "definitions": [
             {
                 "sense": "1",
@@ -4791,8 +4760,7 @@
         ]
     },
     {
-        "term": "incar",
-        "roman_numeral": "II",
+        "term": "incar II; mengincar",
         "definitions": [
             {
                 "sense": "1",
@@ -5043,7 +5011,7 @@
         ]
     },
     {
-        "term": "indeks",
+        "term": "indeks (indéks)",
         "definitions": [
             {
                 "sense": "1",
@@ -5234,7 +5202,7 @@
         ]
     },
     {
-        "term": "indik",
+        "term": "indik; mengindik",
         "definitions": [
             {
                 "sense": "1",
@@ -5247,7 +5215,7 @@
         ]
     },
     {
-        "term": "inding",
+        "term": "inding; menginding",
         "definitions": [
             {
                 "sense": "1",
@@ -6173,8 +6141,7 @@
         ]
     },
     {
-        "term": "inggu",
-        "roman_numeral": "I",
+        "term": "inggu I",
         "definitions": [
             {
                 "sense": "1",
@@ -6187,8 +6154,7 @@
         ]
     },
     {
-        "term": "inggu",
-        "roman_numeral": "II",
+        "term": "inggu II",
         "definitions": [
             {
                 "sense": "1",
@@ -6357,7 +6323,7 @@
         ]
     },
     {
-        "term": "ingsun",
+        "term": "ingsun sl",
         "origin": "Jw",
         "definitions": [
             {
@@ -6404,17 +6370,10 @@
             {
                 "sense": "1",
                 "definition": "kata penunjuk utk benda (tempat dan waktu) yg dekat, lwn itu:  gunung apa ~?; pulang sekali ~ lain tidak kerana terpaksa sahaja;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "baru ini, kini, sekarang:  engkau nak pergi ~ juga, kan kereta api  lambat lagi?;    ~ dia  nah inilah;  ~ itu  ini dan itu (berbagai-bagai, bermacam- macam, tak tentu);  ~kan, = ~ konon, = ~ pula  istimewa pula,  lebih-lebih lagi, apa lagi, tambahan pula;  ~   pun  sekarang pun."
-                    }
-                ]
+                "sense": "2",
+                "definition": "baru ini, kini, sekarang:  engkau nak pergi ~ juga, kan kereta api  lambat lagi?;    ~ dia  nah inilah;  ~ itu  ini dan itu (berbagai-bagai, bermacam- macam, tak tentu);  ~kan, = ~ konon, = ~ pula  istimewa pula,  lebih-lebih lagi, apa lagi, tambahan pula;  ~   pun  sekarang pun."
             }
         ]
     },
@@ -6466,7 +6425,7 @@
         ]
     },
     {
-        "term": "injak",
+        "term": "injak; injak-injak, injak-injakan",
         "definitions": [
             {
                 "sense": "1",
@@ -7071,7 +7030,7 @@
         ]
     },
     {
-        "term": "inspeksi",
+        "term": "inspeksi (inspéksi) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -7084,7 +7043,7 @@
         ]
     },
     {
-        "term": "inspektor",
+        "term": "inspektor (inspéktor)",
         "definitions": [
             {
                 "sense": "1",
@@ -7234,7 +7193,7 @@
         ]
     },
     {
-        "term": "instrumen",
+        "term": "instrumen (instrumén)",
         "definitions": [
             {
                 "sense": "1",
@@ -7256,7 +7215,7 @@
         ]
     },
     {
-        "term": "instrumentasi",
+        "term": "instrumentasi (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -7486,23 +7445,18 @@
         ]
     },
     {
-        "term": "integriti",
+        "term": "integriti (intégriti)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "kejujuran:  mencemarkan nama baik dan ~ jabatan."
+            },
+            {
+                "sense": "2",
+                "definition": "keadaan sempurna dan utuh, keutuhan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "keadaan sempurna dan utuh, keutuhan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berintegriti",
                 "definitions": [
@@ -7535,7 +7489,7 @@
         ]
     },
     {
-        "term": "intelektual",
+        "term": "intelektual (inteléktual)",
         "definitions": [
             {
                 "sense": "1",
@@ -7577,7 +7531,7 @@
         ]
     },
     {
-        "term": "intelektualisme",
+        "term": "intelektualisme (inteléktualisme)",
         "definitions": [
             {
                 "sense": "1",
@@ -7994,14 +7948,9 @@
                     {
                         "sense": "1",
                         "definition": "orang yg menginterviu (menemu ramah, menemu  bual, mewawancara), penemu ramah, penemu bual, pewawancara;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "orang yg menginterviu (menemu duga), penemu duga."
                     }
                 ]
@@ -8115,7 +8064,7 @@
         ]
     },
     {
-        "term": "intip",
+        "term": "intip; mengintip",
         "definitions": [
             {
                 "sense": "1",
@@ -9018,7 +8967,7 @@
         ]
     },
     {
-        "term": "iri",
+        "term": "iri hati",
         "definitions": [
             {
                 "sense": "1",
@@ -9069,7 +9018,7 @@
         ]
     },
     {
-        "term": "irik",
+        "term": "irik; mengirik",
         "definitions": [
             {
                 "sense": "1",
@@ -10331,7 +10280,7 @@
         ]
     },
     {
-        "term": "istimewa",
+        "term": "istimewa (istiméwa)",
         "definitions": [
             {
                 "sense": "1",

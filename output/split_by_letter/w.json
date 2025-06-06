@@ -18,8 +18,7 @@
         ]
     },
     {
-        "term": "wa",
-        "roman_numeral": "I",
+        "term": "wa I",
         "definitions": [
             {
                 "sense": "1",
@@ -121,18 +120,13 @@
             {
                 "sense": "1",
                 "definition": "sj penyakit menular, (berjangkit) yg merebak:  ~ cacar; ~ taun;"
+            },
+            {
+                "sense": "2",
+                "definition": "kejadian atau perbuatan buruk (spt penagihan dadah, perbuatan  jenayah, dll) yg merebak ke merata tempat:  ~ dadah perlu  dibanteras; ~ kepincangan yg melanda koperasi;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kejadian atau perbuatan buruk (spt penagihan dadah, perbuatan  jenayah, dll) yg merebak ke merata tempat:  ~ dadah perlu  dibanteras; ~ kepincangan yg melanda koperasi;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mewabak",
                 "definitions": [
@@ -974,8 +968,7 @@
         ]
     },
     {
-        "term": "wakaf",
-        "roman_numeral": "I",
+        "term": "wakaf I",
         "origin": "Ar",
         "definitions": [
             {
@@ -1365,8 +1358,7 @@
         ]
     },
     {
-        "term": "wali",
-        "roman_numeral": "I",
+        "term": "wali I",
         "definitions": [
             {
                 "sense": "1",
@@ -1547,7 +1539,7 @@
         ]
     },
     {
-        "term": "wallah",
+        "term": "wallah, wallahi",
         "origin": "Ar",
         "definitions": [
             {
@@ -1688,8 +1680,7 @@
         ]
     },
     {
-        "term": "wang",
-        "roman_numeral": "I",
+        "term": "wang I",
         "definitions": [
             {
                 "sense": "1",
@@ -1720,14 +1711,9 @@
                     {
                         "sense": "1",
                         "definition": "mempunyai wang:  dia tidak ~, satu sen pun tidak ada;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki kaya, berharta;"
                     }
                 ]
@@ -1802,8 +1788,7 @@
         ]
     },
     {
-        "term": "wangi",
-        "roman_numeral": "I",
+        "term": "wangi I",
         "definitions": [
             {
                 "sense": "1",
@@ -2197,8 +2182,7 @@
         ]
     },
     {
-        "term": "warawiri",
-        "roman_numeral": "II",
+        "term": "warawiri II",
         "origin": "Jw",
         "definitions": [
             {
@@ -2217,17 +2201,10 @@
             {
                 "sense": "1",
                 "definition": "orang yg bertanggungjawab menjaga seseorang atau sesuatu;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pegawai kerajaan yg bertanggungjawab dlm penguatkuasaan  undang-undang atau peraturan tertentu:  permit sementara itu  hendaklah dikemukakan kpd polis, para pegawai JPJ atau ~ lalu  lintas apabila dikehendaki berbuat demikian."
-                    }
-                ]
+                "sense": "2",
+                "definition": "pegawai kerajaan yg bertanggungjawab dlm penguatkuasaan  undang-undang atau peraturan tertentu:  permit sementara itu  hendaklah dikemukakan kpd polis, para pegawai JPJ atau ~ lalu  lintas apabila dikehendaki berbuat demikian."
             }
         ]
     },
@@ -2344,8 +2321,7 @@
         ]
     },
     {
-        "term": "waris",
-        "roman_numeral": "I",
+        "term": "waris I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2473,7 +2449,7 @@
         ]
     },
     {
-        "term": "warkah",
+        "term": "warkah, warkat",
         "origin": "Ar",
         "definitions": [
             {
@@ -2578,7 +2554,7 @@
         ]
     },
     {
-        "term": "warna",
+        "term": "warna sari",
         "definitions": [
             {
                 "sense": "1",
@@ -2878,8 +2854,7 @@
         ]
     },
     {
-        "term": "wasiat",
-        "roman_numeral": "II",
+        "term": "wasiat II",
         "definitions": [
             {
                 "sense": "1",
@@ -3011,8 +2986,7 @@
         ]
     },
     {
-        "term": "waswas",
-        "roman_numeral": "I",
+        "term": "waswas I",
         "definitions": [
             {
                 "sense": "1",
@@ -3224,23 +3198,16 @@
         ]
     },
     {
-        "term": "waterpas",
+        "term": "waterpas ,",
         "origin": "IB",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "bp sj alat utk menentukan rata tidaknya (permukaan dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "rata (permukaan dll)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "rata (permukaan dll)."
             }
         ]
     },
@@ -3263,7 +3230,7 @@
         ]
     },
     {
-        "term": "wati",
+        "term": "wati ark",
         "definitions": [
             {
                 "sense": "1",
@@ -3322,8 +3289,7 @@
         ]
     },
     {
-        "term": "wau",
-        "roman_numeral": "II",
+        "term": "wau II",
         "definitions": [
             {
                 "sense": "1",
@@ -3483,7 +3449,7 @@
         ]
     },
     {
-        "term": "wayarles",
+        "term": "wayarles (wayarlés)",
         "definitions": [
             {
                 "sense": "1",
@@ -3805,7 +3771,7 @@
         ]
     },
     {
-        "term": "wesel",
+        "term": "wesel (wésel)  I  IB",
         "definitions": [
             {
                 "sense": "1",
@@ -3891,7 +3857,7 @@
         ]
     },
     {
-        "term": "wibawa",
+        "term": "wibawa ",
         "definitions": [
             {
                 "sense": "1",
@@ -4221,18 +4187,13 @@
             {
                 "sense": "1",
                 "definition": "petikan drpd Quran yg ditentukan utk dibaca (dipelajari dll);"
+            },
+            {
+                "sense": "2",
+                "definition": "zikir yg dibaca selepas sembahyang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "zikir yg dibaca selepas sembahyang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berwirid",
                 "definitions": [
@@ -4465,8 +4426,7 @@
         ]
     },
     {
-        "term": "wuduk",
-        "roman_numeral": "I",
+        "term": "wuduk I",
         "definitions": [
             {
                 "sense": "1",

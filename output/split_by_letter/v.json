@@ -530,7 +530,7 @@
         ]
     },
     {
-        "term": "vektor",
+        "term": "vektor (véktor)",
         "definitions": [
             {
                 "sense": "1",
@@ -601,7 +601,7 @@
         ]
     },
     {
-        "term": "venir",
+        "term": "venir (vénir)",
         "definitions": [
             {
                 "sense": "1",
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "term": "veteran",
+        "term": "veteran (véteran)",
         "definitions": [
             {
                 "sense": "1",
@@ -908,23 +908,22 @@
         ]
     },
     {
-        "term": "video",
+        "term": "video (vidéo)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "=  alat ~  alat utk merakamkan dan menayangkan filem  dgn menggunakan pita video (disalurkan melalui peti televisyen);"
+            },
+            {
+                "sense": "2",
+                "definition": "=  pita ~  pita bermagnet yg digunakan utk merakamkan gambar  dgn suaranya sekali dr televisyen;"
+            },
+            {
+                "sense": "3",
+                "definition": "=  filem ~  filem yg telah  dirakamkan pd pita video dan hanya sesuai utk ditayangkan dgn  menggunakan alat video;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "=  filem ~  filem yg telah  dirakamkan pd pita video dan hanya sesuai utk ditayangkan dgn  menggunakan alat video;"
-                    }
-                ]
-            },
             {
                 "sub_term": "memvideokan",
                 "definitions": [
@@ -1125,26 +1124,15 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "sj kuman yg lebih halus drpd bakteria yg boleh menyebabkan  penyakit pd manusia, haiwan, atau tumbuhan;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj kuman yg lebih halus drpd bakteria yg boleh menyebabkan  penyakit pd manusia, haiwan, atau tumbuhan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "(Komp) atur cara  asing yg menerobosi sesuatu   sistem komputer sehingga dapat  mengganggu,  mengubah,  merosakkan,  atau  memusnahkan  maklumat yg tersimpan di dlm sistem berkenaan;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "ki pengaruh  yg buruk, jahat, atau merosakkan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "(Komp) atur cara  asing yg menerobosi sesuatu   sistem komputer sehingga dapat  mengganggu,  mengubah,  merosakkan,  atau  memusnahkan  maklumat yg tersimpan di dlm sistem berkenaan;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki pengaruh  yg buruk, jahat, atau merosakkan."
             }
         ]
     },

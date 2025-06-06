@@ -72,7 +72,7 @@
         ]
     },
     {
-        "term": "kabaret",
+        "term": "kabaret (kabarét)",
         "definitions": [
             {
                 "sense": "1",
@@ -148,22 +148,15 @@
             {
                 "sense": "2",
                 "definition": "bahagian dlm kapal terbang tempat membawa penumpang;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "binaan sementara yg dijadikan sbg pejabat, tempat tinggal, dsb  sementara di tapak bina bangunan."
-                    }
-                ]
+                "sense": "3",
+                "definition": "binaan sementara yg dijadikan sbg pejabat, tempat tinggal, dsb  sementara di tapak bina bangunan."
             }
         ]
     },
     {
-        "term": "kabinet",
+        "term": "kabinet (kabinét)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -176,7 +169,7 @@
         ]
     },
     {
-        "term": "kabinet",
+        "term": "kabinet (kabinét)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -362,14 +355,9 @@
                     {
                         "sense": "1",
                         "definition": "pakaian (kabung dll) yg dipakai semasa berkabung;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "perihal, perbuatan atau keadaan berkabung:  hari ini ialah hari ~  orang Melayu amnya kerana kejatuhan kerajaan Melayu Melaka."
                     }
                 ]
@@ -428,7 +416,7 @@
         ]
     },
     {
-        "term": "kabupaten",
+        "term": "kabupaten (kabupatén) Id",
         "definitions": [
             {
                 "sense": "1",
@@ -441,7 +429,7 @@
         ]
     },
     {
-        "term": "kabur",
+        "term": "kabur I",
         "definitions": [
             {
                 "sense": "1",
@@ -560,7 +548,7 @@
         ]
     },
     {
-        "term": "kabut",
+        "term": "kabut I",
         "definitions": [
             {
                 "sense": "1",
@@ -607,7 +595,7 @@
         ]
     },
     {
-        "term": "kaca",
+        "term": "kaca I",
         "definitions": [
             {
                 "sense": "1",
@@ -670,8 +658,7 @@
         ]
     },
     {
-        "term": "kacak",
-        "roman_numeral": "I",
+        "term": "kacak I",
         "definitions": [
             {
                 "sense": "1",
@@ -914,8 +901,7 @@
         ]
     },
     {
-        "term": "kacar",
-        "roman_numeral": "III",
+        "term": "kacar III; mengacar",
         "definitions": [
             {
                 "sense": "1",
@@ -942,8 +928,7 @@
         ]
     },
     {
-        "term": "kacau",
-        "roman_numeral": "I",
+        "term": "kacau I",
         "definitions": [
             {
                 "sense": "1",
@@ -1260,7 +1245,7 @@
         ]
     },
     {
-        "term": "kacuca",
+        "term": "kacuca (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -1447,8 +1432,7 @@
         ]
     },
     {
-        "term": "kadar",
-        "roman_numeral": "I",
+        "term": "kadar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1477,18 +1461,17 @@
             {
                 "sense": "7",
                 "definition": "lebih kurang, kira-kira:  tahu  juga patik barang ~nya; memohonkan berhutang ~ lima puluh rial;"
+            },
+            {
+                "sense": "8",
+                "definition": "hitung panjang, rata-rata:  jika saya membeli daun teh 3 kati dgn  harga 9 ringgit, saya membeli dgn ~ 3 ringgit satu kati;"
+            },
+            {
+                "sense": "9",
+                "definition": "="
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "8.",
-                "definitions": [
-                    {
-                        "sense": "9",
-                        "definition": "="
-                    }
-                ]
-            },
             {
                 "sub_term": "sekadar",
                 "definitions": [
@@ -1654,7 +1637,7 @@
         ]
     },
     {
-        "term": "kadera",
+        "term": "kadera ark",
         "definitions": [
             {
                 "sense": "1",
@@ -2166,7 +2149,7 @@
         ]
     },
     {
-        "term": "kahar",
+        "term": "kahar II  Ar",
         "definitions": [
             {
                 "sense": "1",
@@ -2311,27 +2294,18 @@
         ]
     },
     {
-        "term": "kail",
+        "term": "kail I",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "I"
+                "definition": "=  mata ~  dawai yg hujungnya berkait dan tajam (utk menangkap  ikan), mata pancing; jenis-jenisnya:  ~ ambur; ~ berladung; ~ kacar,  dll;"
+            },
+            {
+                "sense": "2",
+                "definition": "alat drpd benang (tali) dan dawai yg hujungnya berkait dan  tajam (utk menangkap ikan), pancing;  tali ~  tali yg dipakai utk  mengikat mata kail (utk memancing);    ~ sebentuk umpannya seekor, sekali putus sehari berhanyut  =  umpan seumpan ~ sebentuk  prb melakukan sesuatu dgn tidak cukup  persediaan bagi menghadapi segala kemungkinan (spt berniaga dgn  modal alang kepalang dll);  bongkok ~ hendak mendapat (mengena)   prb tipu muslihat utk mencari keuntungan bagi diri sendiri;  kalau ~  panjang sejengkal, jangan lautan hendak diduga  prb kalau  pengetahuan (kebolehan) itu sedikit, jangan hendak berbuat  (melawan dll) sesuatu yg besar;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  mata ~  dawai yg hujungnya berkait dan tajam (utk menangkap  ikan), mata pancing; jenis-jenisnya:  ~ ambur; ~ berladung; ~ kacar,  dll;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "alat drpd benang (tali) dan dawai yg hujungnya berkait dan  tajam (utk menangkap ikan), pancing;  tali ~  tali yg dipakai utk  mengikat mata kail (utk memancing);    ~ sebentuk umpannya seekor, sekali putus sehari berhanyut  =  umpan seumpan ~ sebentuk  prb melakukan sesuatu dgn tidak cukup  persediaan bagi menghadapi segala kemungkinan (spt berniaga dgn  modal alang kepalang dll);  bongkok ~ hendak mendapat (mengena)   prb tipu muslihat utk mencari keuntungan bagi diri sendiri;  kalau ~  panjang sejengkal, jangan lautan hendak diduga  prb kalau  pengetahuan (kebolehan) itu sedikit, jangan hendak berbuat  (melawan dll) sesuatu yg besar;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengail",
                 "definitions": [
@@ -2418,7 +2392,7 @@
         ]
     },
     {
-        "term": "kais",
+        "term": "kais; mengais, mengais-ngais",
         "definitions": [
             {
                 "sense": "1",
@@ -2466,7 +2440,7 @@
         ]
     },
     {
-        "term": "kait",
+        "term": "kait I",
         "definitions": [
             {
                 "sense": "1",
@@ -2720,8 +2694,7 @@
         ]
     },
     {
-        "term": "kaji",
-        "roman_numeral": "I",
+        "term": "kaji I",
         "definitions": [
             {
                 "sense": "1",
@@ -3160,7 +3133,7 @@
         ]
     },
     {
-        "term": "kakak",
+        "term": "kakak I",
         "definitions": [
             {
                 "sense": "1",
@@ -3192,8 +3165,7 @@
         ]
     },
     {
-        "term": "kakak",
-        "roman_numeral": "II",
+        "term": "kakak II; berkakak, berkakakan, mengakak, mengakak-ngakak",
         "definitions": [
             {
                 "sense": "1",
@@ -3371,7 +3343,7 @@
         ]
     },
     {
-        "term": "kakek",
+        "term": "kakek (kakék) Id",
         "definitions": [
             {
                 "sense": "1",
@@ -3393,8 +3365,7 @@
         ]
     },
     {
-        "term": "kaki",
-        "roman_numeral": "I",
+        "term": "kaki I",
         "definitions": [
             {
                 "sense": "1",
@@ -3576,7 +3547,7 @@
         ]
     },
     {
-        "term": "kakografi",
+        "term": "kakografi (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -3774,27 +3745,17 @@
             {
                 "sense": "2",
                 "definition": "kerugian atau kehilangan wang kerana  tidak menang (dlm perjudian dll):  ia berjudi dan ~ seratus ringgit;"
+            },
+            {
+                "sense": "3",
+                "definition": "tidak lulus (dlm peperiksaan):  ia pandai tetapi ~ dlm peperiksaan;"
+            },
+            {
+                "sense": "4",
+                "definition": "tidak setanding, kurang (kebagusannya dll apabila dibandingkan  dgn sesuatu yg lain), tidak sama (besarnya, kuatnya, pandainya, dll):  wanita Asia tidak ~ tentang akal fikirannya; memang ~lah  bangunan ini kalau hendak dibandingkan dgn yg terdapat di ibu  kota; tidak mahu mengaku ~  tidak mahu menerima (mengakui)  kelebihan orang;    ~ jadi abu menang jadi arang  prb kalah menang sama sahaja bagi  kedua-dua pihak yg berkelahi (iaitu sama-sama rugi);  ~ membeli  menang memakai  prb sungguhpun mahal tetapi baik mutunya (tahan  lama dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tidak lulus (dlm peperiksaan):  ia pandai tetapi ~ dlm peperiksaan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tidak setanding, kurang (kebagusannya dll apabila dibandingkan  dgn sesuatu yg lain), tidak sama (besarnya, kuatnya, pandainya, dll):  wanita Asia tidak ~ tentang akal fikirannya; memang ~lah  bangunan ini kalau hendak dibandingkan dgn yg terdapat di ibu  kota; tidak mahu mengaku ~  tidak mahu menerima (mengakui)  kelebihan orang;    ~ jadi abu menang jadi arang  prb kalah menang sama sahaja bagi  kedua-dua pihak yg berkelahi (iaitu sama-sama rugi);  ~ membeli  menang memakai  prb sungguhpun mahal tetapi baik mutunya (tahan  lama dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengalah",
                 "definitions": [
@@ -3916,8 +3877,7 @@
         ]
     },
     {
-        "term": "kalam",
-        "roman_numeral": "II",
+        "term": "kalam II",
         "definitions": [
             {
                 "sense": "1",
@@ -4057,8 +4017,7 @@
         ]
     },
     {
-        "term": "kalang",
-        "roman_numeral": "II",
+        "term": "kalang II; kalangan",
         "definitions": [
             {
                 "sense": "1",
@@ -4261,7 +4220,7 @@
         ]
     },
     {
-        "term": "kaleng",
+        "term": "kaleng (kaléng)",
         "definitions": [
             {
                 "sense": "1",
@@ -4292,7 +4251,7 @@
         ]
     },
     {
-        "term": "kali",
+        "term": "kali I",
         "definitions": [
             {
                 "sense": "1",
@@ -4631,8 +4590,7 @@
         ]
     },
     {
-        "term": "kalimantang",
-        "roman_numeral": "I",
+        "term": "kalimantang I",
         "definitions": [
             {
                 "sense": "1",
@@ -4768,8 +4726,7 @@
         ]
     },
     {
-        "term": "kalis",
-        "roman_numeral": "I",
+        "term": "kalis I",
         "definitions": [
             {
                 "sense": "1",
@@ -4872,8 +4829,7 @@
         ]
     },
     {
-        "term": "kalo",
-        "roman_numeral": "I",
+        "term": "kalo I",
         "origin": "Jw",
         "definitions": [
             {
@@ -5119,7 +5075,7 @@
         ]
     },
     {
-        "term": "kalut",
+        "term": "kalut ",
         "definitions": [
             {
                 "sense": "1",
@@ -6041,12 +5997,11 @@
                     {
                         "sense": "1",
                         "definition": "mengenai (berkaitan dgn) kampung:  pegawai ~;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "kelompok (kumpulan) kampung:  daerah ~;   mereka dibawa ke  kawasan ~ baru;"
+                    },
                     {
                         "sense": "3",
                         "definition": "tempat berkampung (berhimpun):  sesudah dua  hari berjalan kaki, sampailah kami ke ~ bala tentera itu;"
@@ -6151,8 +6106,7 @@
         ]
     },
     {
-        "term": "kamus",
-        "roman_numeral": "II",
+        "term": "kamus II",
         "origin": "Jk",
         "definitions": [
             {
@@ -6381,8 +6335,7 @@
         ]
     },
     {
-        "term": "kancah",
-        "roman_numeral": "I",
+        "term": "kancah I",
         "definitions": [
             {
                 "sense": "1",
@@ -6457,7 +6410,7 @@
         ]
     },
     {
-        "term": "kancing",
+        "term": "kancing I",
         "definitions": [
             {
                 "sense": "1",
@@ -6718,7 +6671,7 @@
         ]
     },
     {
-        "term": "kandi",
+        "term": "kandi I",
         "definitions": [
             {
                 "sense": "1",
@@ -6741,7 +6694,7 @@
         ]
     },
     {
-        "term": "kandidat",
+        "term": "kandidat bp",
         "definitions": [
             {
                 "sense": "1",
@@ -6794,7 +6747,7 @@
         ]
     },
     {
-        "term": "kandul",
+        "term": "kandul ark",
         "definitions": [
             {
                 "sense": "1",
@@ -6997,8 +6950,7 @@
         ]
     },
     {
-        "term": "kangkang",
-        "roman_numeral": "I",
+        "term": "kangkang I",
         "definitions": [
             {
                 "sense": "1",
@@ -7263,8 +7215,7 @@
         ]
     },
     {
-        "term": "kanji",
-        "roman_numeral": "I",
+        "term": "kanji I",
         "definitions": [
             {
                 "sense": "1",
@@ -7790,8 +7741,7 @@
         ]
     },
     {
-        "term": "kap",
-        "roman_numeral": "II",
+        "term": "kap II",
         "origin": "IB",
         "definitions": [
             {
@@ -7855,7 +7805,7 @@
         ]
     },
     {
-        "term": "kapah",
+        "term": "kapah; terkapah-kapah",
         "definitions": [
             {
                 "sense": "1",
@@ -7868,7 +7818,7 @@
         ]
     },
     {
-        "term": "kapai",
+        "term": "kapai; terkapai-kapai",
         "definitions": [
             {
                 "sense": "1",
@@ -7896,14 +7846,9 @@
                     {
                         "sense": "1",
                         "definition": "bergaduh dgn menggunakan kapak utk mencederakan  lawan:  mereka ~ berparang berebutkan tanah sekangkang kera itu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "telah dikapak:  beberapa tual batang getah itu sudah ~ dan  dijemur utk dibuat kayu api;"
                     }
                 ]
@@ -8120,8 +8065,7 @@
         ]
     },
     {
-        "term": "kapan",
-        "roman_numeral": "II",
+        "term": "kapan II",
         "origin": "Jw",
         "definitions": [
             {
@@ -8244,8 +8188,7 @@
         ]
     },
     {
-        "term": "kapas",
-        "roman_numeral": "I",
+        "term": "kapas I",
         "definitions": [
             {
                 "sense": "1",
@@ -8688,8 +8631,7 @@
         ]
     },
     {
-        "term": "kapuk",
-        "roman_numeral": "I",
+        "term": "kapuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -8752,7 +8694,7 @@
         ]
     },
     {
-        "term": "kapur",
+        "term": "kapur l",
         "definitions": [
             {
                 "sense": "1",
@@ -8838,8 +8780,7 @@
         ]
     },
     {
-        "term": "kapur",
-        "roman_numeral": "II",
+        "term": "kapur II",
         "definitions": [
             {
                 "sense": "1",
@@ -9087,7 +9028,7 @@
         ]
     },
     {
-        "term": "karang",
+        "term": "karang I",
         "definitions": [
             {
                 "sense": "1",
@@ -9270,23 +9211,15 @@
         ]
     },
     {
-        "term": "karang",
-        "roman_numeral": "IV",
+        "term": "karang IV; pekarangan",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "halaman rumah:  duduk di muka ~ rumahnya;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tanah kampung:  kalau ada ~nya kita dirikan rumah-rumah     petak kecil."
-                    }
-                ]
+                "sense": "2",
+                "definition": "tanah kampung:  kalau ada ~nya kita dirikan rumah-rumah     petak kecil."
             }
         ]
     },
@@ -9489,8 +9422,7 @@
         ]
     },
     {
-        "term": "karat",
-        "roman_numeral": "II",
+        "term": "karat II",
         "definitions": [
             {
                 "sense": "1",
@@ -9900,7 +9832,7 @@
         ]
     },
     {
-        "term": "karet",
+        "term": "karet (karét) Id",
         "definitions": [
             {
                 "sense": "1",
@@ -10418,7 +10350,7 @@
         ]
     },
     {
-        "term": "kartotek",
+        "term": "kartotek (kartoték),  kartotik  IB",
         "definitions": [
             {
                 "sense": "1",
@@ -10608,8 +10540,7 @@
         ]
     },
     {
-        "term": "karut",
-        "roman_numeral": "I",
+        "term": "karut I",
         "definitions": [
             {
                 "sense": "1",
@@ -10627,14 +10558,9 @@
                     {
                         "sense": "1",
                         "definition": "menyebabkan karut, mengacaukan (merusuhkan dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "bercakap karut (tidak berketentuan, bohong, dll):  setiap orang yg  hendak menjadi rakyat negeri ini hendaklah tahu akan kandungan  perlembagaan  supaya  tidaklah  dia  ~  tentang  hak-hak  perlembagaan;"
                     }
                 ]
@@ -10740,8 +10666,7 @@
         ]
     },
     {
-        "term": "kas",
-        "roman_numeral": "I",
+        "term": "kas I",
         "origin": "IB",
         "definitions": [
             {
@@ -10759,8 +10684,7 @@
         ]
     },
     {
-        "term": "kas",
-        "roman_numeral": "II",
+        "term": "kas II",
         "origin": "IB",
         "definitions": [
             {
@@ -10863,8 +10787,7 @@
         ]
     },
     {
-        "term": "kasai",
-        "roman_numeral": "I",
+        "term": "kasai I",
         "definitions": [
             {
                 "sense": "1",
@@ -10888,8 +10811,7 @@
         ]
     },
     {
-        "term": "kasai",
-        "roman_numeral": "II",
+        "term": "kasai II",
         "definitions": [
             {
                 "sense": "1",
@@ -11191,8 +11113,7 @@
         ]
     },
     {
-        "term": "kasi",
-        "roman_numeral": "I",
+        "term": "kasi I bp",
         "definitions": [
             {
                 "sense": "1",
@@ -11264,8 +11185,7 @@
         ]
     },
     {
-        "term": "kasih",
-        "roman_numeral": "I",
+        "term": "kasih I",
         "definitions": [
             {
                 "sense": "1",
@@ -11378,8 +11298,7 @@
         ]
     },
     {
-        "term": "kasih",
-        "roman_numeral": "II",
+        "term": "kasih II; kasihan",
         "definitions": [
             {
                 "sense": "1",
@@ -11388,18 +11307,13 @@
             {
                 "sense": "2",
                 "definition": "menimbulkan rasa hiba (pd diri orang  lain yg melihatnya dsb):  ~ anak itu tidak mempunyai ibu bapa lagi;"
+            },
+            {
+                "sense": "3",
+                "definition": "sr kata utk menyatakan atau membangkitkan perasaan hiba:  “Tengoklah dia itu, ~!”; “Tolonglah pak cik, ~lah!”; belas ~   perasaan sungguh bertimbang rasa dan hiba terhadap seseorang dll  yg malang;  ~ gajah berusung  prb kasihan yg tidak kena pd  tempatnya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sr kata utk menyatakan atau membangkitkan perasaan hiba:  “Tengoklah dia itu, ~!”; “Tolonglah pak cik, ~lah!”; belas ~   perasaan sungguh bertimbang rasa dan hiba terhadap seseorang dll  yg malang;  ~ gajah berusung  prb kasihan yg tidak kena pd  tempatnya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "kasihankan",
                 "definitions": [
@@ -11421,8 +11335,7 @@
         ]
     },
     {
-        "term": "kasih",
-        "roman_numeral": "III",
+        "term": "kasih III ",
         "definitions": [
             {
                 "sense": "1",
@@ -11450,7 +11363,7 @@
         ]
     },
     {
-        "term": "kasih",
+        "term": "kasih sayang",
         "definitions": [
             {
                 "sense": "1",
@@ -12199,7 +12112,7 @@
         ]
     },
     {
-        "term": "katalog",
+        "term": "katalog butiran senarai yg lengkap, biasanya mengikut abjad, berserta  catatan tentang perinciannya;",
         "definitions": [
             {
                 "sense": "2",
@@ -12294,7 +12207,7 @@
         ]
     },
     {
-        "term": "katapel",
+        "term": "katapel (katapél) ark IB",
         "definitions": [
             {
                 "sense": "1",
@@ -12559,8 +12472,7 @@
         ]
     },
     {
-        "term": "katih",
-        "roman_numeral": "I",
+        "term": "katih I , Ph, Tr",
         "origin": "Kl",
         "definitions": [
             {
@@ -12772,8 +12684,7 @@
         ]
     },
     {
-        "term": "katung",
-        "roman_numeral": "I",
+        "term": "katung I; terkatung-katung",
         "definitions": [
             {
                 "sense": "1",
@@ -12800,8 +12711,7 @@
         ]
     },
     {
-        "term": "katung",
-        "roman_numeral": "III",
+        "term": "katung III",
         "definitions": [
             {
                 "sense": "1",
@@ -12824,8 +12734,7 @@
         ]
     },
     {
-        "term": "katup",
-        "roman_numeral": "I",
+        "term": "katup I",
         "definitions": [
             {
                 "sense": "1",
@@ -12960,8 +12869,7 @@
         ]
     },
     {
-        "term": "kaul",
-        "roman_numeral": "I",
+        "term": "kaul I",
         "origin": "Ar",
         "definitions": [
             {
@@ -13013,7 +12921,7 @@
         ]
     },
     {
-        "term": "kaula",
+        "term": "kaula ark",
         "origin": "Jw",
         "definitions": [
             {
@@ -13156,7 +13064,7 @@
         ]
     },
     {
-        "term": "kaup",
+        "term": "kaup; mengaup",
         "definitions": [
             {
                 "sense": "1",
@@ -13189,8 +13097,7 @@
         ]
     },
     {
-        "term": "kaus",
-        "roman_numeral": "I",
+        "term": "kaus I",
         "definitions": [
             {
                 "sense": "1",
@@ -13207,8 +13114,7 @@
         ]
     },
     {
-        "term": "kaus",
-        "roman_numeral": "II",
+        "term": "kaus II ark",
         "origin": "Ar",
         "definitions": [
             {
@@ -13262,7 +13168,7 @@
         ]
     },
     {
-        "term": "kaut",
+        "term": "kaut; mengaut",
         "definitions": [
             {
                 "sense": "1",
@@ -13396,8 +13302,7 @@
         ]
     },
     {
-        "term": "kawah",
-        "roman_numeral": "I",
+        "term": "kawah I",
         "definitions": [
             {
                 "sense": "1",
@@ -13429,7 +13334,7 @@
         ]
     },
     {
-        "term": "kawak",
+        "term": "kawak ",
         "definitions": [
             {
                 "sense": "1",
@@ -13574,7 +13479,7 @@
         ]
     },
     {
-        "term": "kawan",
+        "term": "kawan I",
         "definitions": [
             {
                 "sense": "1",
@@ -13764,8 +13669,7 @@
         ]
     },
     {
-        "term": "kawat",
-        "roman_numeral": "I",
+        "term": "kawat I",
         "definitions": [
             {
                 "sense": "1",
@@ -13855,8 +13759,7 @@
         ]
     },
     {
-        "term": "kaya",
-        "roman_numeral": "I",
+        "term": "kaya I",
         "definitions": [
             {
                 "sense": "1",
@@ -14082,8 +13985,7 @@
         ]
     },
     {
-        "term": "kayu",
-        "roman_numeral": "I",
+        "term": "kayu I",
         "definitions": [
             {
                 "sense": "1",
@@ -14164,8 +14066,7 @@
         ]
     },
     {
-        "term": "kayu",
-        "roman_numeral": "III",
+        "term": "kayu III",
         "definitions": [
             {
                 "sense": "1",
@@ -14215,14 +14116,9 @@
                     {
                         "sense": "1",
                         "definition": "menjalankan  perahu  (dgn  menggunakan  pengayuh), menjalankan perahu (menuju, menghala ke):  anak-anak  perahu ~ perahunya mengikut perintah Musa;   Wan Omar  memerintahkan supaya perahu itu cepat dikayuhkan ke tepi pantai;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menjalankan basikal atau beca (dgn memijak dan memusingkan  kayuhnya):  Ramlan ~ becanya membawa dua orang anak;"
                     }
                 ]
@@ -14359,7 +14255,7 @@
         ]
     },
     {
-        "term": "ke",
+        "term": "ke I",
         "definitions": [
             {
                 "sense": "1",
@@ -14441,8 +14337,7 @@
         ]
     },
     {
-        "term": "kebal",
-        "roman_numeral": "I",
+        "term": "kebal I",
         "definitions": [
             {
                 "sense": "1",
@@ -14561,8 +14456,7 @@
         ]
     },
     {
-        "term": "kebas",
-        "roman_numeral": "I",
+        "term": "kebas I",
         "definitions": [
             {
                 "sense": "1",
@@ -14571,18 +14465,13 @@
             {
                 "sense": "2",
                 "definition": "berasa kaku (pd anggota);"
+            },
+            {
+                "sense": "3",
+                "definition": "semut-semutan pd anggota (kerana lama terhimpit dsb);  membuang-buang ~  berjalan-jalan supaya hilang kebas (semut- semutan);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "semut-semutan pd anggota (kerana lama terhimpit dsb);  membuang-buang ~  berjalan-jalan supaya hilang kebas (semut- semutan);"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengebaskan",
                 "definitions": [
@@ -14783,7 +14672,7 @@
         ]
     },
     {
-        "term": "keber",
+        "term": "keber (kébér);  mengeber  Kl, Tr",
         "definitions": [
             {
                 "sense": "1",
@@ -15008,7 +14897,7 @@
         ]
     },
     {
-        "term": "kecai",
+        "term": "kecai; berkecai, berkecai-kecai, terkecai",
         "definitions": [
             {
                 "sense": "1",
@@ -15127,7 +15016,7 @@
         ]
     },
     {
-        "term": "kecamuk",
+        "term": "kecamuk; berkecamuk",
         "definitions": [
             {
                 "sense": "1",
@@ -15286,7 +15175,7 @@
         ]
     },
     {
-        "term": "kecek",
+        "term": "kecek (kécék)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -15427,7 +15316,7 @@
         ]
     },
     {
-        "term": "kecewa",
+        "term": "kecewa (kecéwa)",
         "definitions": [
             {
                 "sense": "1",
@@ -15738,7 +15627,7 @@
         ]
     },
     {
-        "term": "kecil",
+        "term": "kecil hati",
         "definitions": [
             {
                 "sense": "1",
@@ -16158,8 +16047,7 @@
         ]
     },
     {
-        "term": "kecubung",
-        "roman_numeral": "I",
+        "term": "kecubung I",
         "definitions": [
             {
                 "sense": "1",
@@ -16308,8 +16196,7 @@
         ]
     },
     {
-        "term": "kecur",
-        "roman_numeral": "II",
+        "term": "kecur II",
         "definitions": [
             {
                 "sense": "1",
@@ -16322,8 +16209,7 @@
         ]
     },
     {
-        "term": "kecut",
-        "roman_numeral": "I",
+        "term": "kecut I",
         "definitions": [
             {
                 "sense": "1",
@@ -16576,23 +16462,14 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "sj penyakit kulit (yg membuat kulit bertelau-telau atau berbelang- belang);"
+            },
+            {
+                "sense": "2",
+                "definition": "bertelau-telau (berbelang-belang) putih pd kulit:  Raja  China pun sakit, lalu ~ semuanya tubuh baginda;     ~ anjing  telau (belang-belang) kecil pd kulit (kerana penyakit kusta);  ~ gajah  kedal yg menimbulkan telau (belang-belang) besar;  ~ tulah   sl kedal yg menghinggapi seseorang kerana kedaulatan raja:  telah  pagi hari dilihatnya puteri itu ~ tulah sebab dijamah baginda itu;   menggetil puncak ~ orang  prb menyakiti hati orang dgn sindiran  atau perbuatan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj penyakit kulit (yg membuat kulit bertelau-telau atau berbelang- belang);"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "bertelau-telau (berbelang-belang) putih pd kulit:  Raja  China pun sakit, lalu ~ semuanya tubuh baginda;     ~ anjing  telau (belang-belang) kecil pd kulit (kerana penyakit kusta);  ~ gajah  kedal yg menimbulkan telau (belang-belang) besar;  ~ tulah   sl kedal yg menghinggapi seseorang kerana kedaulatan raja:  telah  pagi hari dilihatnya puteri itu ~ tulah sebab dijamah baginda itu;   menggetil puncak ~ orang  prb menyakiti hati orang dgn sindiran  atau perbuatan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkedal",
                 "definitions": [
@@ -16732,7 +16609,7 @@
         ]
     },
     {
-        "term": "kedap",
+        "term": "kedap I",
         "definitions": [
             {
                 "sense": "1",
@@ -17413,7 +17290,7 @@
         ]
     },
     {
-        "term": "keduk",
+        "term": "keduk ;  mengeduk",
         "origin": "Jw",
         "definitions": [
             {
@@ -17551,7 +17428,7 @@
         ]
     },
     {
-        "term": "kehel",
+        "term": "kehel (kéhél);  terkehel",
         "definitions": [
             {
                 "sense": "1",
@@ -17640,8 +17517,7 @@
         ]
     },
     {
-        "term": "kejam",
-        "roman_numeral": "II",
+        "term": "kejam II",
         "definitions": [
             {
                 "sense": "1",
@@ -17697,7 +17573,7 @@
         ]
     },
     {
-        "term": "kejan",
+        "term": "kejan; mengejan",
         "definitions": [
             {
                 "sense": "1",
@@ -17770,7 +17646,7 @@
         ]
     },
     {
-        "term": "kejap",
+        "term": "kejap I",
         "definitions": [
             {
                 "sense": "1",
@@ -18455,7 +18331,7 @@
         ]
     },
     {
-        "term": "kekang",
+        "term": "kekang ",
         "definitions": [
             {
                 "sense": "1",
@@ -18552,8 +18428,7 @@
         ]
     },
     {
-        "term": "kekar",
-        "roman_numeral": "I",
+        "term": "kekar I",
         "definitions": [
             {
                 "sense": "1",
@@ -18733,7 +18608,7 @@
         ]
     },
     {
-        "term": "kekek",
+        "term": "kekek (kékék)  II;  burung ",
         "definitions": [
             {
                 "sense": "1",
@@ -18860,7 +18735,7 @@
         ]
     },
     {
-        "term": "keki",
+        "term": "keki (kéki) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -18917,7 +18792,7 @@
         ]
     },
     {
-        "term": "kekok",
+        "term": "kekok (kékok)",
         "definitions": [
             {
                 "sense": "1",
@@ -19073,8 +18948,7 @@
         ]
     },
     {
-        "term": "kekunyit",
-        "roman_numeral": "III",
+        "term": "kekunyit III",
         "definitions": [
             {
                 "sense": "1",
@@ -19533,8 +19407,7 @@
         ]
     },
     {
-        "term": "kelakar",
-        "roman_numeral": "II",
+        "term": "kelakar II Sr",
         "definitions": [
             {
                 "sense": "1",
@@ -19604,8 +19477,7 @@
         ]
     },
     {
-        "term": "kelam",
-        "roman_numeral": "I",
+        "term": "kelam I",
         "definitions": [
             {
                 "sense": "1",
@@ -19722,8 +19594,7 @@
         ]
     },
     {
-        "term": "kelambu",
-        "roman_numeral": "I",
+        "term": "kelambu I",
         "definitions": [
             {
                 "sense": "1",
@@ -19824,12 +19695,11 @@
                     {
                         "sense": "1",
                         "definition": "berpasangan (lelaki dan perempuan), dua sepasang;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "bersama isteri atau suami (dan anak):  taman bunga masih ramai  dgn orang yg bersiar-siaran ~ dan berpasang-pasang;"
+                    },
                     {
                         "sense": "3",
                         "definition": "beristeri  (bersuami), beristeri (bersuami) dan beranak, berkeluarga:  ia sudah  bosan membujang dan ingin pula hidup ~;"
@@ -19980,8 +19850,7 @@
         ]
     },
     {
-        "term": "kelana",
-        "roman_numeral": "I",
+        "term": "kelana I",
         "definitions": [
             {
                 "sense": "1",
@@ -20226,8 +20095,7 @@
         ]
     },
     {
-        "term": "kelar",
-        "roman_numeral": "I",
+        "term": "kelar I",
         "definitions": [
             {
                 "sense": "1",
@@ -20306,8 +20174,7 @@
         ]
     },
     {
-        "term": "kelarah",
-        "roman_numeral": "I",
+        "term": "kelarah I",
         "definitions": [
             {
                 "sense": "1",
@@ -20349,14 +20216,9 @@
                     {
                         "sense": "1",
                         "definition": "membuat anyaman (tenunan) yg bercorak damdam;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyimpul pinggir anyaman, menyuji di tepi kain;  bongkok dek  menganyam, silap (sesat) ~  prb sungguhpun telah cekap dlm sesuatu  pekerjaan masih juga membuat kesilapan."
                     }
                 ]
@@ -20383,8 +20245,7 @@
         ]
     },
     {
-        "term": "kelas",
-        "roman_numeral": "I",
+        "term": "kelas I",
         "definitions": [
             {
                 "sense": "1",
@@ -20397,22 +20258,21 @@
             {
                 "sense": "3",
                 "definition": "peringkat, tingkatan (pelajaran yg diikuti):  pelajar-pelajar ~ rendah;"
+            },
+            {
+                "sense": "4",
+                "definition": "golongan atau kumpulan (dlm masyarakat) yg berbeza antara satu  sama lain atas ciri-ciri tertentu (spt taraf hidup, kedudukan sosial  berdasarkan asal keturunan dll):  beliau meramalkan berlakunya  pertentangan ~ atau golongan-golongan dlm masyarakat;"
+            },
+            {
+                "sense": "5",
+                "definition": "golongan, kumpulan (berdasarkan persamaan pelbagai sifat yg  tertentu):  manusia termasuk dlm ~ binatang mamalia;"
+            },
+            {
+                "sense": "6",
+                "definition": "bahagian,  kategori, kumpulan (berdasarkan tingkatannya yg tertentu):  pemborong-pemborong ~ E;     ~ atasan  golongan orang yg menduduki taraf sosial yg paling tinggi,  mis kaum bangsawan;  ~ bawahan  golongan orang yg menduduki  taraf sosial yg paling rendah, mis buruh, petani dsb;  ~ dewasa   perkumpulan yg terdiri drpd orang-orang dewasa utk belajar  membaca dan menulis;  ~ ekonomi  kelas dlm pengangkutan awam,  mis kapal terbang dan kereta api, yg kadar tambangnya paling  murah;  ~ kambing  bp tingkatan (taraf) yg paling rendah, kelas  (bahagian) yg paling murah bayaran yg dikenakan kpd penonton (di  panggung wayang dll);  ~ kata  (Lin) golongan kata;  ~ menengah  golongan masyarakat antara kelas bawahan dan kelas atasan,  termasuklah ahli perniagaan dan profesional spt peguam, akauntan,  doktor dsb;  ~ pertengahan  kelas menengah;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "golongan, kumpulan (berdasarkan persamaan pelbagai sifat yg  tertentu):  manusia termasuk dlm ~ binatang mamalia;"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "bahagian,  kategori, kumpulan (berdasarkan tingkatannya yg tertentu):  pemborong-pemborong ~ E;     ~ atasan  golongan orang yg menduduki taraf sosial yg paling tinggi,  mis kaum bangsawan;  ~ bawahan  golongan orang yg menduduki  taraf sosial yg paling rendah, mis buruh, petani dsb;  ~ dewasa   perkumpulan yg terdiri drpd orang-orang dewasa utk belajar  membaca dan menulis;  ~ ekonomi  kelas dlm pengangkutan awam,  mis kapal terbang dan kereta api, yg kadar tambangnya paling  murah;  ~ kambing  bp tingkatan (taraf) yg paling rendah, kelas  (bahagian) yg paling murah bayaran yg dikenakan kpd penonton (di  panggung wayang dll);  ~ kata  (Lin) golongan kata;  ~ menengah  golongan masyarakat antara kelas bawahan dan kelas atasan,  termasuklah ahli perniagaan dan profesional spt peguam, akauntan,  doktor dsb;  ~ pertengahan  kelas menengah;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkelas",
                 "definitions": [
@@ -20494,8 +20354,7 @@
         ]
     },
     {
-        "term": "kelasa",
-        "roman_numeral": "I",
+        "term": "kelasa I",
         "definitions": [
             {
                 "sense": "1",
@@ -20742,22 +20601,15 @@
         ]
     },
     {
-        "term": "kelayau",
+        "term": "kelayau; mengelayau",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "memandang dr satu tempat ke satu tempat,  mengalih-alihkan pandangan:  ~ matanya memandang ke sekeliling;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "melamun (memikirkan atau mengkhayalkan sesuatu):  fikiranku ~  lagi."
-                    }
-                ]
+                "sense": "2",
+                "definition": "melamun (memikirkan atau mengkhayalkan sesuatu):  fikiranku ~  lagi."
             }
         ]
     },
@@ -21070,7 +20922,7 @@
         ]
     },
     {
-        "term": "kelek",
+        "term": "kelek (kélék)  II; kelek-kelek, kelek-kelekan, kelekan",
         "definitions": [
             {
                 "sense": "1",
@@ -21303,8 +21155,7 @@
         ]
     },
     {
-        "term": "kelembak",
-        "roman_numeral": "I",
+        "term": "kelembak I",
         "definitions": [
             {
                 "sense": "1",
@@ -21543,7 +21394,7 @@
         ]
     },
     {
-        "term": "keleneng",
+        "term": "keleneng (kelénéng)",
         "definitions": [
             {
                 "sense": "1",
@@ -21620,7 +21471,7 @@
         ]
     },
     {
-        "term": "kelengkeng",
+        "term": "kelengkeng (keléngkéng)  IV;   burung ",
         "definitions": [
             {
                 "sense": "1",
@@ -21696,7 +21547,7 @@
         ]
     },
     {
-        "term": "kelenteng",
+        "term": "kelenteng (kelenténg),  kelenting",
         "definitions": [
             {
                 "sense": "1",
@@ -21873,7 +21724,7 @@
         ]
     },
     {
-        "term": "kelepak",
+        "term": "kelepak (kelépak)",
         "definitions": [
             {
                 "sense": "1",
@@ -22104,7 +21955,7 @@
         ]
     },
     {
-        "term": "kelereng",
+        "term": "kelereng (keléréng)",
         "definitions": [
             {
                 "sense": "1",
@@ -22266,7 +22117,7 @@
         ]
     },
     {
-        "term": "kelewang",
+        "term": "kelewang (keléwang)",
         "definitions": [
             {
                 "sense": "1",
@@ -22490,8 +22341,7 @@
         ]
     },
     {
-        "term": "kelici",
-        "roman_numeral": "II",
+        "term": "kelici II",
         "definitions": [
             {
                 "sense": "1",
@@ -22630,7 +22480,7 @@
         ]
     },
     {
-        "term": "kelikir",
+        "term": "kelikir I",
         "definitions": [
             {
                 "sense": "1",
@@ -22868,7 +22718,7 @@
         ]
     },
     {
-        "term": "kelindan",
+        "term": "kelindan I",
         "definitions": [
             {
                 "sense": "1",
@@ -22965,8 +22815,7 @@
         ]
     },
     {
-        "term": "Keling",
-        "roman_numeral": "III",
+        "term": "Keling III",
         "definitions": [
             {
                 "sense": "1",
@@ -23177,8 +23026,7 @@
         ]
     },
     {
-        "term": "kelipar",
-        "roman_numeral": "II",
+        "term": "kelipar II",
         "origin": "Kl",
         "definitions": [
             {
@@ -23241,8 +23089,7 @@
         ]
     },
     {
-        "term": "kelir",
-        "roman_numeral": "I",
+        "term": "kelir I",
         "definitions": [
             {
                 "sense": "1",
@@ -23783,18 +23630,13 @@
             {
                 "sense": "2",
                 "definition": "kosong (tidak berisi);"
+            },
+            {
+                "sense": "3",
+                "definition": "kecewa, hampa;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kecewa, hampa;"
-                    }
-                ]
-            },
             {
                 "sub_term": "kelompangan",
                 "definitions": [
@@ -23956,7 +23798,7 @@
         ]
     },
     {
-        "term": "kelong",
+        "term": "kelong (kélong)  III",
         "definitions": [
             {
                 "sense": "1",
@@ -24032,8 +23874,7 @@
         ]
     },
     {
-        "term": "kelontong",
-        "roman_numeral": "II",
+        "term": "kelontong II , Tr",
         "origin": "Kl",
         "definitions": [
             {
@@ -24189,22 +24030,15 @@
             {
                 "sense": "1",
                 "definition": "sj burung, burung takau, burung seluwit,  Calyptomena viridis;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj burung, burung koran, perling,  Aplonis panayensis strigatus."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj burung, burung koran, perling,  Aplonis panayensis strigatus."
             }
         ]
     },
     {
-        "term": "kelu",
+        "term": "kelu ",
         "definitions": [
             {
                 "sense": "1",
@@ -24620,7 +24454,7 @@
         ]
     },
     {
-        "term": "keluh",
+        "term": "keluh ",
         "definitions": [
             {
                 "sense": "1",
@@ -25218,7 +25052,7 @@
         ]
     },
     {
-        "term": "kem",
+        "term": "kem (kém)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -25656,14 +25490,9 @@
                     {
                         "sense": "1",
                         "definition": "hasil kerja menghias sesuatu ruang:  ~ begini  menimbulkan seri dan membuat keadaan rumah tidak menjemukan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "sesuatu benda (kain, logam, dsb) yg diperelok bahagian  permukaannya supaya kelihatan rapi;"
                     }
                 ]
@@ -25966,8 +25795,7 @@
         ]
     },
     {
-        "term": "kembang",
-        "roman_numeral": "I",
+        "term": "kembang I",
         "definitions": [
             {
                 "sense": "1",
@@ -26092,8 +25920,7 @@
         ]
     },
     {
-        "term": "kembang",
-        "roman_numeral": "II",
+        "term": "kembang II",
         "definitions": [
             {
                 "sense": "1",
@@ -26111,14 +25938,9 @@
                     {
                         "sense": "1",
                         "definition": "seperti atau menyerupai kembang (bunga);  ~  bakung  mengombak (ikal) dan cantik spt bunga bakung (bkn bunga);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "meletakkan bunga di kubur."
                     }
                 ]
@@ -26146,7 +25968,7 @@
         ]
     },
     {
-        "term": "kembang",
+        "term": "kembang kempis",
         "definitions": [
             {
                 "sense": "1",
@@ -26179,18 +26001,17 @@
             {
                 "sense": "2",
                 "definition": "=  anak ~   dua orang anak (atau lebih) yg  dikandung bersama-sama oleh seseorang ibu dan dilahirkan pd  waktu yg sama atau hampir sama;  ~   Siam  kembar dgn bahagian  tubuh yg menempel antara satu sama lain, spt kepala dgn kepala  (pertama kali berlaku di Siam pd tahun 1829);  ~ tiga (empat dll)  tiga  (empat dll) orang anak yg sama atau hampir sama hari lahir mereka;"
+            },
+            {
+                "sense": "3",
+                "definition": "rangkap, dubel;  ~ empat  rangkap empat;"
+            },
+            {
+                "sense": "4",
+                "definition": "bergabung, berapit;  nombor ~  Id dua keluaran yg digabungkan menjadi satu terbitan  (bkn majalah);  pemerintahan ~  dua pemerintahan yg serentak  menguasai daerah yg sama;  senapang ~  senapang yg mempunyai  dua laras;  tali (kawat) ~ dua (tiga dsb)  tali (kawat) yg dipintal drpd  dua (tiga dsb) lembar tali (kawat):  talinya berupa rami ~ tiga;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "bergabung, berapit;  nombor ~  Id dua keluaran yg digabungkan menjadi satu terbitan  (bkn majalah);  pemerintahan ~  dua pemerintahan yg serentak  menguasai daerah yg sama;  senapang ~  senapang yg mempunyai  dua laras;  tali (kawat) ~ dua (tiga dsb)  tali (kawat) yg dipintal drpd  dua (tiga dsb) lembar tali (kawat):  talinya berupa rami ~ tiga;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkembar",
                 "definitions": [
@@ -26418,8 +26239,7 @@
         ]
     },
     {
-        "term": "kembung",
-        "roman_numeral": "I",
+        "term": "kembung I",
         "definitions": [
             {
                 "sense": "1",
@@ -27387,8 +27207,7 @@
         ]
     },
     {
-        "term": "kempung",
-        "roman_numeral": "I",
+        "term": "kempung I",
         "definitions": [
             {
                 "sense": "1",
@@ -27401,8 +27220,7 @@
         ]
     },
     {
-        "term": "kempung",
-        "roman_numeral": "II",
+        "term": "kempung II",
         "definitions": [
             {
                 "sense": "1",
@@ -27611,8 +27429,7 @@
         ]
     },
     {
-        "term": "kemumu",
-        "roman_numeral": "I",
+        "term": "kemumu I",
         "definitions": [
             {
                 "sense": "1",
@@ -27718,7 +27535,7 @@
         ]
     },
     {
-        "term": "kemut",
+        "term": "kemut; kemut-kemut, mengemut, terkemut-kemut",
         "definitions": [
             {
                 "sense": "1",
@@ -27876,12 +27693,11 @@
                     {
                         "sense": "3",
                         "definition": "menjadikan sbg kewajiban (bkn undang-undang, peraturan, dsb),  mewajibkan, menjadikan tanggungan atau bebanan (bkn bayaran,  cukai, dsb), mempertanggungkan:  undang-undang darurat ini akan  dikenakan pd setengah-setengah kawasan sahaja; kesatuan akan ~  bayaran yg rendah kpd semua ahlinya yg ingin mengikuti kursus ini;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "4.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "4",
+                        "definition": "a) memakaikan (baju, kasut, dll) pd diri sendiri atau pd diri orang  lain:  ia berdiri di hadapan cermin sambil ~ baju barunya; tiada  peraturan tertentu tentang cara ~ pewarna mata;  b) menyarungkan  (cincin):  ~ cincin pd jari tunangnya;"
+                    },
                     {
                         "sense": "5",
                         "definition": "=  mengena-ngenakan  mempermainkan, memperdaya, menipu:  selalu sahaja dia hendak ~  kita dgn berbagai-bagai tipu helahnya;    ~ tangan kpd  ki a) menghukum dll; b) memukul dgn tangan,  menangani;  ~ baju di badan maka sesuai  prb menimbangkan baik  buruk perbuatan orang lain berasaskan perasaan atau sifat diri  sendiri;"
@@ -27952,7 +27768,7 @@
         ]
     },
     {
-        "term": "kenal",
+        "term": "kenal ",
         "definitions": [
             {
                 "sense": "1",
@@ -28148,8 +27964,7 @@
         ]
     },
     {
-        "term": "kenan",
-        "roman_numeral": "I",
+        "term": "kenan I; berkenan",
         "definitions": [
             {
                 "sense": "1",
@@ -28191,8 +28006,7 @@
         ]
     },
     {
-        "term": "kenan",
-        "roman_numeral": "II",
+        "term": "kenan II",
         "definitions": [
             {
                 "sense": "1",
@@ -28380,8 +28194,7 @@
         ]
     },
     {
-        "term": "kencang",
-        "roman_numeral": "I",
+        "term": "kencang I",
         "definitions": [
             {
                 "sense": "1",
@@ -28485,8 +28298,7 @@
         ]
     },
     {
-        "term": "kencing",
-        "roman_numeral": "I",
+        "term": "kencing I",
         "definitions": [
             {
                 "sense": "1",
@@ -28943,8 +28755,7 @@
         ]
     },
     {
-        "term": "kendi",
-        "roman_numeral": "II",
+        "term": "kendi II; burung ",
         "definitions": [
             {
                 "sense": "1",
@@ -29197,7 +29008,7 @@
         ]
     },
     {
-        "term": "kenen",
+        "term": "kenen (kénén) bp;  mengenen",
         "definitions": [
             {
                 "sense": "1",
@@ -29765,7 +29576,7 @@
         ]
     },
     {
-        "term": "kenyam",
+        "term": "kenyam; mengenyam",
         "definitions": [
             {
                 "sense": "1",
@@ -30153,8 +29964,7 @@
         ]
     },
     {
-        "term": "kepal",
-        "roman_numeral": "I",
+        "term": "kepal I",
         "definitions": [
             {
                 "sense": "1",
@@ -30246,8 +30056,7 @@
         ]
     },
     {
-        "term": "kepala",
-        "roman_numeral": "I",
+        "term": "kepala I",
         "definitions": [
             {
                 "sense": "1",
@@ -30347,7 +30156,7 @@
         ]
     },
     {
-        "term": "kepalang",
+        "term": "kepalang ",
         "definitions": [
             {
                 "sense": "2",
@@ -30378,7 +30187,7 @@
         ]
     },
     {
-        "term": "kepang",
+        "term": "kepang (képang)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -30570,7 +30379,7 @@
         ]
     },
     {
-        "term": "kepepet",
+        "term": "kepepet (kepépét) Jw ark",
         "definitions": [
             {
                 "sense": "1",
@@ -30713,14 +30522,9 @@
                     {
                         "sense": "1",
                         "definition": "menjadikan (menyebabkan) rapat atau berdekatan,  mendampingkan, merapatkan, menambatkan (perahu, gajah, dll):  maka Peringgi pun mudiklah menyongsong, dikepilkannya segala  perahunya di Kota Kara; maka gajah pun dikepilkan di balairung;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyertakan (bersama sesuatu):  bil yg berkenaan dikepilkan  bersama surat ini;"
                     }
                 ]
@@ -30768,8 +30572,7 @@
         ]
     },
     {
-        "term": "keping",
-        "roman_numeral": "I",
+        "term": "keping I",
         "definitions": [
             {
                 "sense": "1",
@@ -31153,8 +30956,7 @@
         ]
     },
     {
-        "term": "kepuk",
-        "roman_numeral": "I",
+        "term": "kepuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -31361,8 +31163,7 @@
         ]
     },
     {
-        "term": "kepung",
-        "roman_numeral": "II",
+        "term": "kepung II",
         "definitions": [
             {
                 "sense": "1",
@@ -31421,8 +31222,7 @@
         ]
     },
     {
-        "term": "kera",
-        "roman_numeral": "I",
+        "term": "kera I",
         "definitions": [
             {
                 "sense": "1",
@@ -31445,8 +31245,7 @@
         ]
     },
     {
-        "term": "kerabat",
-        "roman_numeral": "I",
+        "term": "kerabat I",
         "origin": "Ar",
         "definitions": [
             {
@@ -31590,8 +31389,7 @@
         ]
     },
     {
-        "term": "kerabu",
-        "roman_numeral": "III",
+        "term": "kerabu III",
         "definitions": [
             {
                 "sense": "1",
@@ -31798,8 +31596,7 @@
         ]
     },
     {
-        "term": "kerajat",
-        "roman_numeral": "I",
+        "term": "kerajat I",
         "definitions": [
             {
                 "sense": "1",
@@ -31937,8 +31734,7 @@
         ]
     },
     {
-        "term": "kerakap",
-        "roman_numeral": "I",
+        "term": "kerakap I",
         "definitions": [
             {
                 "sense": "1",
@@ -32004,22 +31800,21 @@
             {
                 "sense": "1",
                 "definition": "kemuliaan (iaitu anugerah Allah kpd hamba-Nya yg dikasihi);"
+            },
+            {
+                "sense": "2",
+                "definition": "suci dan berkat drpd kemuliaan seseorang sehingga menyebabkan  doanya diperkenankan Allah (spt penyembuhan penyakit dan  perlindungan Allah):  makam Habib Noh di Singapura diziarahi  orang kerana dianggap makam yg ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "tempat atau sesuatu yg suci  dan (dipercayai) dapat mendatangkan hikmat:  banyak orang yg  pergi ke ~ utk meminta sesuatu dan bernazar; minta ~  minta berkat  (restu) dr tempat yg keramat;"
+            },
+            {
+                "sense": "4",
+                "definition": "orang yg sangat warak, orang yg  benar-benar saleh:  jikalau sungguh mati Chau Pandan, sungguhlah  tuan ~ ;    ~ hidup  orang yg berperangai baik, ikhlas, dan jujur serta tidak suka  melakukan sesuatu yg menyakiti hati orang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "tempat atau sesuatu yg suci  dan (dipercayai) dapat mendatangkan hikmat:  banyak orang yg  pergi ke ~ utk meminta sesuatu dan bernazar; minta ~  minta berkat  (restu) dr tempat yg keramat;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "orang yg sangat warak, orang yg  benar-benar saleh:  jikalau sungguh mati Chau Pandan, sungguhlah  tuan ~ ;    ~ hidup  orang yg berperangai baik, ikhlas, dan jujur serta tidak suka  melakukan sesuatu yg menyakiti hati orang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengkeramatkan",
                 "definitions": [
@@ -32324,7 +32119,7 @@
         ]
     },
     {
-        "term": "kerangkeng",
+        "term": "kerangkeng (kerangkéng) Jw ",
         "definitions": [
             {
                 "sense": "1",
@@ -32461,8 +32256,7 @@
         ]
     },
     {
-        "term": "kerap",
-        "roman_numeral": "I",
+        "term": "kerap I",
         "definitions": [
             {
                 "sense": "1",
@@ -32557,8 +32351,7 @@
         ]
     },
     {
-        "term": "kerapu",
-        "roman_numeral": "I",
+        "term": "kerapu I",
         "definitions": [
             {
                 "sense": "1",
@@ -32585,8 +32378,7 @@
         ]
     },
     {
-        "term": "keras",
-        "roman_numeral": "I",
+        "term": "keras I",
         "definitions": [
             {
                 "sense": "1",
@@ -32619,38 +32411,37 @@
             {
                 "sense": "8",
                 "definition": "membahayakan dan mungkin membawa maut (bkn penyakit), teruk,  berat:  terburu-buru ia balik ke kampungnya kerana bapanya sakit ~;"
+            },
+            {
+                "sense": "9",
+                "definition": "kuat (tidak lemah), tidak mudah ditewaskan (dikuasai dsb), hebat:  inilah tanda patik membunuh perajurit yg terlalu ~ itu; diberinya  oleh raja Siam ketumbukan yg ~; terlalulah banyak orang mati dan  sakit kerana gajah itu sangat ~ jembalangnya;"
+            },
+            {
+                "sense": "10",
+                "definition": "kencang, deras  (angin dll), sangat lebat (hujan):  angin pun bertiup terlalu ~; gajah  kenaikan dibawa oleh Laksamana dgn ~nya; hujan amat ~nya;"
+            },
+            {
+                "sense": "11",
+                "definition": "nyaring, kuat (suara, bunyi, dll):  kedengaran suara ~ pegawai askar  itu memberi perintah kpd orang-orangnya; sesetengahnya tidur  berdengkur dgn ~;"
+            },
+            {
+                "sense": "12",
+                "definition": "tidak lemah lembut atau sopan santun (bkn  kata-kata), (boleh) menyinggung perasaan:  oleh kerana marahnya  itu dikeluarkannya kata-kata yg ~;"
+            },
+            {
+                "sense": "13",
+                "definition": "dapat memabukkan (bkn  minuman spt bir, wain, wiski, dsb), terasa kesan tembakaunya  apabila dihisap (bkn rokok atau cerutu), berat, sangat kuat kesannya  (bkn ubat), terasa benar sama ada wangi atau busuk dsb (bkn bau),  rangsang (bkn bau):  kesihatannya merosot kerana kerap meminum  minuman ~; rokok ini agak ~ bagi orang yg belum biasa merokok;  terlalu ~ bau gas ini;"
+            },
+            {
+                "sense": "14",
+                "definition": "ketat (sumbat botol dll), tidak mudah  dilentur (bkn spring dsb), tegang;"
+            },
+            {
+                "sense": "15",
+                "definition": "tidak baik kerana (kononnya)  ada penunggunya, berpuaka, atau berhantu:  tempat ini ~ kerana ada  puaka ;  ~ batang leher  berpegang teguh pd pendirian atau pendapat  sendiri (tidak mahu mengalah); tegar hati, mengotot; ~ genjur  keras  sekali (bkn sikap, tabiat);  ~   hati  a) tidak mahu menurut kata orang,  (sangat) degil; b) tidak mudah berasa kecewa (terus berusaha  bersungguh-sungguh);  ~   hidung  menurut sesuka hati (sangat sempit  fikirannya);  ~ kaku = ~ kematu = ~   membatu  sangat keras (tidak  lunak);  ~   kejur  tidak dapat dilentukkan (dilenturkan), kejang, kaku;  ~   kekung (kelengkung)  Kl, Tr sangat keras (spt batu);  ~   keng  Kl, Tr  keras kepala;  ~ kepala  tidak mahu mengalah atau menurut, degil,  tegar;  ~-kerak  tidak teguh dan tidak dapat diubah dgn pujukan dsb  (bkn kemahuan, ketabahan, dsb seseorang);  ~   lidah  tidak dapat  melafazkan kata-kata asing dgn mudah, susah hendak menyebut  sesuatu (tidak pandai berkata-kata);  ~-makas  =  ~-mangkas  terlalu  keras (bkn buah-buahan dll);  ~ mulut  a) tidak mahu dan tidak mudah  kalah dlm perdebatan (kuat bertengkar); b) tidak mudah  dikendalikan (kuda dll);    ~ bagai batu, tinggi bagai langit  prb tidak mahu menurut perintah  orang atasan;  ~   ditakik, lunak disudu  prb Mn hendaklah diberikan  segala perintah dgn bijaksana (dgn lemah lembut kpd yg menurut  dan dgn memaksa kpd yg melawan);  lunak tak tersudu, ~ tak  tertakik  prb perkataan orang yg bijaksana baik dgn lemah lembut  atau dgn kasar tidak dapat disangkal (dianjak-anjak) kebenarannya;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "9.",
-                "definitions": [
-                    {
-                        "sense": "10",
-                        "definition": "kencang, deras  (angin dll), sangat lebat (hujan):  angin pun bertiup terlalu ~; gajah  kenaikan dibawa oleh Laksamana dgn ~nya; hujan amat ~nya;"
-                    },
-                    {
-                        "sense": "11",
-                        "definition": "nyaring, kuat (suara, bunyi, dll):  kedengaran suara ~ pegawai askar  itu memberi perintah kpd orang-orangnya; sesetengahnya tidur  berdengkur dgn ~;"
-                    },
-                    {
-                        "sense": "12",
-                        "definition": "tidak lemah lembut atau sopan santun (bkn  kata-kata), (boleh) menyinggung perasaan:  oleh kerana marahnya  itu dikeluarkannya kata-kata yg ~;"
-                    },
-                    {
-                        "sense": "13",
-                        "definition": "dapat memabukkan (bkn  minuman spt bir, wain, wiski, dsb), terasa kesan tembakaunya  apabila dihisap (bkn rokok atau cerutu), berat, sangat kuat kesannya  (bkn ubat), terasa benar sama ada wangi atau busuk dsb (bkn bau),  rangsang (bkn bau):  kesihatannya merosot kerana kerap meminum  minuman ~; rokok ini agak ~ bagi orang yg belum biasa merokok;  terlalu ~ bau gas ini;"
-                    },
-                    {
-                        "sense": "14",
-                        "definition": "ketat (sumbat botol dll), tidak mudah  dilentur (bkn spring dsb), tegang;"
-                    },
-                    {
-                        "sense": "15",
-                        "definition": "tidak baik kerana (kononnya)  ada penunggunya, berpuaka, atau berhantu:  tempat ini ~ kerana ada  puaka ;  ~ batang leher  berpegang teguh pd pendirian atau pendapat  sendiri (tidak mahu mengalah); tegar hati, mengotot; ~ genjur  keras  sekali (bkn sikap, tabiat);  ~   hati  a) tidak mahu menurut kata orang,  (sangat) degil; b) tidak mudah berasa kecewa (terus berusaha  bersungguh-sungguh);  ~   hidung  menurut sesuka hati (sangat sempit  fikirannya);  ~ kaku = ~ kematu = ~   membatu  sangat keras (tidak  lunak);  ~   kejur  tidak dapat dilentukkan (dilenturkan), kejang, kaku;  ~   kekung (kelengkung)  Kl, Tr sangat keras (spt batu);  ~   keng  Kl, Tr  keras kepala;  ~ kepala  tidak mahu mengalah atau menurut, degil,  tegar;  ~-kerak  tidak teguh dan tidak dapat diubah dgn pujukan dsb  (bkn kemahuan, ketabahan, dsb seseorang);  ~   lidah  tidak dapat  melafazkan kata-kata asing dgn mudah, susah hendak menyebut  sesuatu (tidak pandai berkata-kata);  ~-makas  =  ~-mangkas  terlalu  keras (bkn buah-buahan dll);  ~ mulut  a) tidak mahu dan tidak mudah  kalah dlm perdebatan (kuat bertengkar); b) tidak mudah  dikendalikan (kuda dll);    ~ bagai batu, tinggi bagai langit  prb tidak mahu menurut perintah  orang atasan;  ~   ditakik, lunak disudu  prb Mn hendaklah diberikan  segala perintah dgn bijaksana (dgn lemah lembut kpd yg menurut  dan dgn memaksa kpd yg melawan);  lunak tak tersudu, ~ tak  tertakik  prb perkataan orang yg bijaksana baik dgn lemah lembut  atau dgn kasar tidak dapat disangkal (dianjak-anjak) kebenarannya;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkeras",
                 "definitions": [
@@ -32834,8 +32625,7 @@
         ]
     },
     {
-        "term": "kerat",
-        "roman_numeral": "I",
+        "term": "kerat I",
         "definitions": [
             {
                 "sense": "1",
@@ -33497,7 +33287,7 @@
         ]
     },
     {
-        "term": "kerek",
+        "term": "kerek (kerék) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -33567,7 +33357,7 @@
         ]
     },
     {
-        "term": "kerekot",
+        "term": "kerekot (kerékot)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -33999,7 +33789,7 @@
         ]
     },
     {
-        "term": "kerepek",
+        "term": "kerepek (kerépék)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -34126,7 +33916,7 @@
         ]
     },
     {
-        "term": "kereta",
+        "term": "kereta (keréta)",
         "definitions": [
             {
                 "sense": "1",
@@ -34191,7 +33981,7 @@
         ]
     },
     {
-        "term": "keretot",
+        "term": "keretot (kerétot)",
         "definitions": [
             {
                 "sense": "1",
@@ -34257,7 +34047,7 @@
         ]
     },
     {
-        "term": "keri",
+        "term": "keri (kéri)   Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -34266,17 +34056,10 @@
             {
                 "sense": "2",
                 "definition": "tertinggal di belakang  kerana tidak dapat mengejar atau menyaingi seseorang yg di hadapan;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "tercicir atau terkebelakang dlm sesuatu spt pelajaran, kemajuan dsb."
-                    }
-                ]
+                "sense": "3",
+                "definition": "tercicir atau terkebelakang dlm sesuatu spt pelajaran, kemajuan dsb."
             }
         ]
     },
@@ -34340,8 +34123,7 @@
         ]
     },
     {
-        "term": "keriang",
-        "roman_numeral": "II",
+        "term": "keriang II",
         "definitions": [
             {
                 "sense": "1",
@@ -34496,8 +34278,7 @@
         ]
     },
     {
-        "term": "kerik",
-        "roman_numeral": "I",
+        "term": "kerik I",
         "definitions": [
             {
                 "sense": "1",
@@ -34638,23 +34419,15 @@
             {
                 "sense": "1",
                 "definition": "bunyi spt bunyi wang logam berhantukan, kerenting, denting;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj bunyi-bunyian yg dibuat drpd logam."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj bunyi-bunyian yg dibuat drpd logam."
             }
         ]
     },
     {
-        "term": "kering",
-        "roman_numeral": "I",
+        "term": "kering I",
         "definitions": [
             {
                 "sense": "1",
@@ -35830,7 +35603,7 @@
         ]
     },
     {
-        "term": "kernyam",
+        "term": "kernyam; mengernyam",
         "definitions": [
             {
                 "sense": "1",
@@ -36137,8 +35910,7 @@
         ]
     },
     {
-        "term": "keroncong",
-        "roman_numeral": "I",
+        "term": "keroncong I ",
         "definitions": [
             {
                 "sense": "1",
@@ -36233,7 +36005,7 @@
         ]
     },
     {
-        "term": "kerong-kerong",
+        "term": "kerong-kerong (kérong-kérong)",
         "definitions": [
             {
                 "sense": "1",
@@ -36246,7 +36018,7 @@
         ]
     },
     {
-        "term": "kerongkong",
+        "term": "kerongkong ",
         "definitions": [
             {
                 "sense": "1",
@@ -36366,8 +36138,7 @@
         ]
     },
     {
-        "term": "keropok",
-        "roman_numeral": "III",
+        "term": "keropok III",
         "definitions": [
             {
                 "sense": "1",
@@ -36902,8 +36673,7 @@
         ]
     },
     {
-        "term": "kertas",
-        "roman_numeral": "I",
+        "term": "kertas I",
         "definitions": [
             {
                 "sense": "1",
@@ -37041,8 +36811,7 @@
         ]
     },
     {
-        "term": "kertus",
-        "roman_numeral": "II",
+        "term": "kertus II",
         "definitions": [
             {
                 "sense": "1",
@@ -37147,8 +36916,7 @@
         ]
     },
     {
-        "term": "kerubut",
-        "roman_numeral": "II",
+        "term": "kerubut II",
         "definitions": [
             {
                 "sense": "1",
@@ -37222,8 +36990,7 @@
         ]
     },
     {
-        "term": "keruh",
-        "roman_numeral": "I",
+        "term": "keruh I",
         "definitions": [
             {
                 "sense": "1",
@@ -37846,8 +37613,7 @@
         ]
     },
     {
-        "term": "kerut",
-        "roman_numeral": "I",
+        "term": "kerut I",
         "definitions": [
             {
                 "sense": "1",
@@ -37998,24 +37764,16 @@
         ]
     },
     {
-        "term": "kerutup",
-        "roman_numeral": "II",
+        "term": "kerutup II; mengerutup , Pn",
         "origin": "Kd",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "memakan beramai-ramai hingga habis;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "mengerumuni (mengerubungi) utk menyerang atau memukul."
-                    }
-                ]
+                "sense": "2",
+                "definition": "mengerumuni (mengerubungi) utk menyerang atau memukul."
             }
         ]
     },
@@ -38068,7 +37826,7 @@
         ]
     },
     {
-        "term": "kes",
+        "term": "kes (kés)  I",
         "definitions": [
             {
                 "sense": "1",
@@ -38150,7 +37908,7 @@
         ]
     },
     {
-        "term": "kesal",
+        "term": "kesal ",
         "definitions": [
             {
                 "sense": "1",
@@ -38290,14 +38048,9 @@
                     {
                         "sense": "2",
                         "definition": "mencari-cari  (mengikut) dgn berpandukan kesan (bekas, jejak), mengikuti sesuatu  yg telah berlaku (dgn fikiran, ingatan, dll), mengekori:  dlm gerakan  ~ pasukan keselamatan telah menjumpai satu pasukan pengganas;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "=  mengesani  menandakan peredaran (perjalanan) atau kedudukan  sesuatu benda (pd kertas dll):  ~ perjalanan kapal angkasa yg baru  dilancarkan oleh Amerika Syarikat; peraduan ~ bola yg dianjurkan  oleh akhbar itu mendapat sambutan baik drpd pembaca;"
                     }
                 ]
@@ -38973,7 +38726,7 @@
         ]
     },
     {
-        "term": "kesumba",
+        "term": "kesumba I",
         "definitions": [
             {
                 "sense": "1",
@@ -38997,8 +38750,7 @@
         ]
     },
     {
-        "term": "kesumba",
-        "roman_numeral": "II",
+        "term": "kesumba II",
         "definitions": [
             {
                 "sense": "1",
@@ -39145,8 +38897,7 @@
         ]
     },
     {
-        "term": "ketak",
-        "roman_numeral": "II",
+        "term": "ketak II",
         "definitions": [
             {
                 "sense": "1",
@@ -39657,7 +39408,7 @@
         ]
     },
     {
-        "term": "ketek",
+        "term": "ketek (kéték)  III  Tr",
         "definitions": [
             {
                 "sense": "1",
@@ -39713,7 +39464,7 @@
         ]
     },
     {
-        "term": "ketel",
+        "term": "ketel (kétél)",
         "definitions": [
             {
                 "sense": "1",
@@ -39945,7 +39696,7 @@
         ]
     },
     {
-        "term": "keteter",
+        "term": "keteter (ketétér) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -40010,8 +39761,7 @@
         ]
     },
     {
-        "term": "ketiak",
-        "roman_numeral": "II",
+        "term": "ketiak II",
         "definitions": [
             {
                 "sense": "1",
@@ -40024,7 +39774,7 @@
         ]
     },
     {
-        "term": "ketial",
+        "term": "ketial ark",
         "definitions": [
             {
                 "sense": "1",
@@ -40139,8 +39889,7 @@
         ]
     },
     {
-        "term": "ketik",
-        "roman_numeral": "III",
+        "term": "ketik III ;  mengetik",
         "origin": "Kl",
         "definitions": [
             {
@@ -40383,8 +40132,7 @@
         ]
     },
     {
-        "term": "ketip",
-        "roman_numeral": "I",
+        "term": "ketip I",
         "definitions": [
             {
                 "sense": "1",
@@ -40411,14 +40159,9 @@
                     {
                         "sense": "2",
                         "definition": "mencubit (tidak kuat-kuat);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "memotong atau mengerat (kuku) dgn sejenis alat:  ~   kuku."
                     }
                 ]
@@ -40652,8 +40395,7 @@
         ]
     },
     {
-        "term": "ketu",
-        "roman_numeral": "II",
+        "term": "ketu II",
         "origin": "Kd",
         "definitions": [
             {
@@ -41037,8 +40779,7 @@
         ]
     },
     {
-        "term": "ketumbit",
-        "roman_numeral": "I",
+        "term": "ketumbit I",
         "definitions": [
             {
                 "sense": "1",
@@ -41343,7 +41084,7 @@
         ]
     },
     {
-        "term": "kha",
+        "term": "kha (khO)",
         "definitions": [
             {
                 "sense": "1",
@@ -41513,7 +41254,7 @@
         ]
     },
     {
-        "term": "khalak",
+        "term": "khalak ark",
         "definitions": [
             {
                 "sense": "1",
@@ -42818,8 +42559,7 @@
         ]
     },
     {
-        "term": "kial",
-        "roman_numeral": "I",
+        "term": "kial I; kial-kial, berkial-kial, terkial-kial",
         "definitions": [
             {
                 "sense": "1",
@@ -42925,8 +42665,7 @@
         ]
     },
     {
-        "term": "kian",
-        "roman_numeral": "I",
+        "term": "kian I",
         "definitions": [
             {
                 "sense": "1",
@@ -43026,8 +42765,7 @@
         ]
     },
     {
-        "term": "kias",
-        "roman_numeral": "I",
+        "term": "kias I",
         "origin": "Ar",
         "definitions": [
             {
@@ -43111,12 +42849,11 @@
                     {
                         "sense": "2",
                         "definition": "ibarat, perumpamaan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "3",
+                        "definition": "sindiran;"
+                    },
                     {
                         "sense": "4",
                         "definition": "pengajaran atau contoh (yg terdapat dlm cerita dll),  teladan;"
@@ -43153,7 +42890,7 @@
         ]
     },
     {
-        "term": "kiasi",
+        "term": "kiasi ark",
         "definitions": [
             {
                 "sense": "1",
@@ -43166,8 +42903,7 @@
         ]
     },
     {
-        "term": "kiat",
-        "roman_numeral": "I",
+        "term": "kiat I",
         "definitions": [
             {
                 "sense": "1",
@@ -43180,8 +42916,7 @@
         ]
     },
     {
-        "term": "kiat",
-        "roman_numeral": "II",
+        "term": "kiat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -43206,8 +42941,7 @@
         ]
     },
     {
-        "term": "kiat",
-        "roman_numeral": "IV",
+        "term": "kiat IV ark;  mengiat",
         "definitions": [
             {
                 "sense": "1",
@@ -43288,8 +43022,7 @@
         ]
     },
     {
-        "term": "kibas",
-        "roman_numeral": "I",
+        "term": "kibas I; mengibas, mengibas-ngibas",
         "definitions": [
             {
                 "sense": "1",
@@ -43469,8 +43202,7 @@
         ]
     },
     {
-        "term": "kicau",
-        "roman_numeral": "I",
+        "term": "kicau I",
         "definitions": [
             {
                 "sense": "1",
@@ -43904,8 +43636,7 @@
         ]
     },
     {
-        "term": "kilah",
-        "roman_numeral": "I",
+        "term": "kilah I",
         "definitions": [
             {
                 "sense": "1",
@@ -43967,8 +43698,7 @@
         ]
     },
     {
-        "term": "kilan",
-        "roman_numeral": "I",
+        "term": "kilan I; terkilan",
         "definitions": [
             {
                 "sense": "1",
@@ -44003,8 +43733,7 @@
         ]
     },
     {
-        "term": "kilang",
-        "roman_numeral": "I",
+        "term": "kilang I",
         "definitions": [
             {
                 "sense": "1",
@@ -44071,8 +43800,7 @@
         ]
     },
     {
-        "term": "kilang",
-        "roman_numeral": "II",
+        "term": "kilang II",
         "definitions": [
             {
                 "sense": "1",
@@ -44162,8 +43890,7 @@
         ]
     },
     {
-        "term": "kilas",
-        "roman_numeral": "I",
+        "term": "kilas I",
         "definitions": [
             {
                 "sense": "1",
@@ -44242,8 +43969,7 @@
         ]
     },
     {
-        "term": "kilat",
-        "roman_numeral": "I",
+        "term": "kilat I",
         "definitions": [
             {
                 "sense": "1",
@@ -44428,24 +44154,18 @@
         ]
     },
     {
-        "term": "kili",
-        "roman_numeral": "II",
+        "term": "kili II; kili-kili",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "lingkaran kecil rotan yg dicucukkan pd hidung kerbau;"
+            },
+            {
+                "sense": "2",
+                "definition": "sj gelendong, alat utk menggulung tali pancing dll;  ~ dayung   gelang-gelang sbg pemegang dayung (pengayuh);  panjang ~  ki  pandai mencari-cari helah atau alasan (banyak dalihnya);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj gelendong, alat utk menggulung tali pancing dll;  ~ dayung   gelang-gelang sbg pemegang dayung (pengayuh);  panjang ~  ki  pandai mencari-cari helah atau alasan (banyak dalihnya);"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengili;",
                 "definitions": [
@@ -44490,8 +44210,7 @@
         ]
     },
     {
-        "term": "kilik",
-        "roman_numeral": "II",
+        "term": "kilik II ;  mengilik-ngilik",
         "origin": "Jk",
         "definitions": [
             {
@@ -44770,7 +44489,7 @@
         ]
     },
     {
-        "term": "kimbang",
+        "term": "kimbang; terkimbang-kimbang",
         "definitions": [
             {
                 "sense": "1",
@@ -45024,7 +44743,7 @@
         ]
     },
     {
-        "term": "kincah",
+        "term": "kincah; mengincah",
         "definitions": [
             {
                 "sense": "1",
@@ -45179,7 +44898,7 @@
         ]
     },
     {
-        "term": "kinematik",
+        "term": "kinematik (kinématik)",
         "definitions": [
             {
                 "sense": "1",
@@ -45418,8 +45137,7 @@
         ]
     },
     {
-        "term": "kipas",
-        "roman_numeral": "I",
+        "term": "kipas I",
         "definitions": [
             {
                 "sense": "1",
@@ -45524,7 +45242,7 @@
         ]
     },
     {
-        "term": "kiprat",
+        "term": "kiprat ;  mengipratkan",
         "origin": "Jk",
         "definitions": [
             {
@@ -45659,14 +45377,9 @@
                     {
                         "sense": "1",
                         "definition": "kira-kira, lebih kurang:  ~ sebahara emas harganya;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "sekadar(nya):  perkhidmatan kereta api di sana mendatangkan  hasil hanyalah ~ dapat memulangkan modal dan menanggung  perbelanjaannya;"
                     }
                 ]
@@ -45822,8 +45535,7 @@
         ]
     },
     {
-        "term": "kirai",
-        "roman_numeral": "I",
+        "term": "kirai I; mengirai",
         "definitions": [
             {
                 "sense": "1",
@@ -45869,8 +45581,7 @@
         ]
     },
     {
-        "term": "kirai",
-        "roman_numeral": "III",
+        "term": "kirai III",
         "definitions": [
             {
                 "sense": "1",
@@ -45904,7 +45615,7 @@
         ]
     },
     {
-        "term": "kirana",
+        "term": "kirana ark",
         "definitions": [
             {
                 "sense": "1",
@@ -45917,7 +45628,7 @@
         ]
     },
     {
-        "term": "kirap",
+        "term": "kirap I;  mengirap",
         "definitions": [
             {
                 "sense": "1",
@@ -46458,14 +46169,9 @@
                     {
                         "sense": "1",
                         "definition": "perihal (kerja, perbuatan, dsb) mengisar, pemutaran;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "pemindahan, pengubahan, penggantian;"
                     }
                 ]
@@ -46506,8 +46212,7 @@
         ]
     },
     {
-        "term": "kisi",
-        "roman_numeral": "I",
+        "term": "kisi I; kisi-kisi",
         "definitions": [
             {
                 "sense": "1",
@@ -46598,7 +46303,7 @@
         ]
     },
     {
-        "term": "kismat",
+        "term": "kismat, kismet",
         "origin": "Ar",
         "definitions": [
             {
@@ -47283,17 +46988,10 @@
             {
                 "sense": "1",
                 "definition": "orang, syarikat, dll yg mendapatkan nasihat drpd ahli profesional;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pelanggan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "pelanggan."
             }
         ]
     },
@@ -47319,8 +47017,7 @@
         ]
     },
     {
-        "term": "klik",
-        "roman_numeral": "II",
+        "term": "klik II",
         "definitions": [
             {
                 "sense": "1",
@@ -47475,7 +47172,7 @@
         ]
     },
     {
-        "term": "klise",
+        "term": "klise (klisé)",
         "definitions": [
             {
                 "sense": "1",
@@ -47535,18 +47232,13 @@
             {
                 "sense": "2",
                 "definition": "produk yg dihasilkan menyerupai  model asal dr segi fungsi, ciri dsb, biasanya berkualiti kurang baik;"
+            },
+            {
+                "sense": "3",
+                "definition": "telefon bimbit (selular) atau kad kredit pendua yg telah diberi  identiti elektronik telefon bimbit atau kad kredit asal yg sedia ada  secara tidak sah utk tujuan penyelewengan atau penipuan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "telefon bimbit (selular) atau kad kredit pendua yg telah diberi  identiti elektronik telefon bimbit atau kad kredit asal yg sedia ada  secara tidak sah utk tujuan penyelewengan atau penipuan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengklon",
                 "definitions": [
@@ -48172,8 +47864,7 @@
         ]
     },
     {
-        "term": "kocak",
-        "roman_numeral": "I",
+        "term": "kocak I",
         "definitions": [
             {
                 "sense": "1",
@@ -48266,8 +47957,7 @@
         ]
     },
     {
-        "term": "kocak",
-        "roman_numeral": "II",
+        "term": "kocak II",
         "definitions": [
             {
                 "sense": "1",
@@ -48362,7 +48052,7 @@
         ]
     },
     {
-        "term": "kocok",
+        "term": "kocok; mengocok",
         "definitions": [
             {
                 "sense": "1",
@@ -48430,8 +48120,7 @@
         ]
     },
     {
-        "term": "kod",
-        "roman_numeral": "I",
+        "term": "kod I",
         "definitions": [
             {
                 "sense": "1",
@@ -48745,7 +48434,7 @@
         ]
     },
     {
-        "term": "kognat",
+        "term": "kognat (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -48795,7 +48484,7 @@
         ]
     },
     {
-        "term": "kohesi",
+        "term": "kohesi (kohési)",
         "definitions": [
             {
                 "sense": "1",
@@ -48926,8 +48615,7 @@
         ]
     },
     {
-        "term": "kok",
-        "roman_numeral": "I",
+        "term": "kok I bp",
         "definitions": [
             {
                 "sense": "1",
@@ -48950,8 +48638,7 @@
         ]
     },
     {
-        "term": "kok",
-        "roman_numeral": "III",
+        "term": "kok III",
         "origin": "Kd",
         "definitions": [
             {
@@ -49159,8 +48846,7 @@
         ]
     },
     {
-        "term": "kokot",
-        "roman_numeral": "I",
+        "term": "kokot I",
         "definitions": [
             {
                 "sense": "1",
@@ -49232,7 +48918,7 @@
         ]
     },
     {
-        "term": "koktel",
+        "term": "koktel (koktél)",
         "definitions": [
             {
                 "sense": "1",
@@ -49274,8 +48960,7 @@
         ]
     },
     {
-        "term": "kol",
-        "roman_numeral": "I",
+        "term": "kol I; dikol",
         "definitions": [
             {
                 "sense": "1",
@@ -49363,7 +49048,7 @@
         ]
     },
     {
-        "term": "kolaj",
+        "term": "kolaj (S",
         "definitions": [
             {
                 "sense": "1",
@@ -49407,8 +49092,7 @@
         ]
     },
     {
-        "term": "kolam",
-        "roman_numeral": "I",
+        "term": "kolam I",
         "definitions": [
             {
                 "sense": "1",
@@ -49472,8 +49156,7 @@
         ]
     },
     {
-        "term": "kolar",
-        "roman_numeral": "II",
+        "term": "kolar II",
         "origin": "Jk",
         "definitions": [
             {
@@ -49567,7 +49250,7 @@
         ]
     },
     {
-        "term": "koleksi",
+        "term": "koleksi (koléksi)",
         "definitions": [
             {
                 "sense": "1",
@@ -49855,8 +49538,7 @@
         ]
     },
     {
-        "term": "kolong",
-        "roman_numeral": "I",
+        "term": "kolong I",
         "definitions": [
             {
                 "sense": "1",
@@ -50299,7 +49981,7 @@
         ]
     },
     {
-        "term": "komedi",
+        "term": "komedi (komédi)",
         "definitions": [
             {
                 "sense": "1",
@@ -50323,7 +50005,7 @@
         ]
     },
     {
-        "term": "komen",
+        "term": "komen (komén)",
         "definitions": [
             {
                 "sense": "1",
@@ -50374,7 +50056,7 @@
         ]
     },
     {
-        "term": "komeng",
+        "term": "komeng (koméng)",
         "definitions": [
             {
                 "sense": "1",
@@ -50509,7 +50191,7 @@
         ]
     },
     {
-        "term": "komes",
+        "term": "komes (komés)",
         "definitions": [
             {
                 "sense": "1",
@@ -50654,8 +50336,7 @@
         ]
     },
     {
-        "term": "komisi",
-        "roman_numeral": "II",
+        "term": "komisi II",
         "origin": "IB",
         "definitions": [
             {
@@ -50938,7 +50619,7 @@
         ]
     },
     {
-        "term": "kompensasi",
+        "term": "kompensasi (kompénsasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -50970,7 +50651,7 @@
         ]
     },
     {
-        "term": "kompeten",
+        "term": "kompeten (kompetén) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -51049,7 +50730,7 @@
         ]
     },
     {
-        "term": "kompleks",
+        "term": "kompleks (kompléks)",
         "definitions": [
             {
                 "sense": "1",
@@ -51538,17 +51219,10 @@
             {
                 "sense": "1",
                 "definition": "kumpulan orang yg tinggal di sesuatu daerah atau negara,  masyarakat (di sesuatu tempat atau negara), orang ramai umumnya;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kumpulan individu yg mempunyai sifat-sifat (kecenderungan,  kepentingan, dll) yg serupa:  ~ akademik; ~ para ilmuwan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "kumpulan individu yg mempunyai sifat-sifat (kecenderungan,  kepentingan, dll) yg serupa:  ~ akademik; ~ para ilmuwan."
             }
         ]
     },
@@ -51580,17 +51254,10 @@
             {
                 "sense": "1",
                 "definition": "jasad pejal yg meruncing ke hujung dr tapaknya yg rata dan bulat;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sesuatu yg berbentuk kon, sama ada pejal atau geronggang."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sesuatu yg berbentuk kon, sama ada pejal atau geronggang."
             }
         ]
     },
@@ -51692,7 +51359,7 @@
         ]
     },
     {
-        "term": "kondenser",
+        "term": "kondenser (kondénser)",
         "definitions": [
             {
                 "sense": "1",
@@ -51920,7 +51587,7 @@
         ]
     },
     {
-        "term": "konfeksi",
+        "term": "konfeksi (konféksi)",
         "definitions": [
             {
                 "sense": "1",
@@ -52009,7 +51676,7 @@
         ]
     },
     {
-        "term": "konga",
+        "term": "konga (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -52031,7 +51698,7 @@
         ]
     },
     {
-        "term": "kongkalikung",
+        "term": "kongkalikung, kongkalingkung",
         "definitions": [
             {
                 "sense": "1",
@@ -52235,7 +51902,7 @@
         ]
     },
     {
-        "term": "konglomerat",
+        "term": "konglomerat;",
         "definitions": [
             {
                 "sense": "1",
@@ -52482,7 +52149,7 @@
         ]
     },
     {
-        "term": "konkuren",
+        "term": "konkuren (konkurén) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -52599,7 +52266,7 @@
         ]
     },
     {
-        "term": "konsekuensi",
+        "term": "konsekuensi (konsékuensi)",
         "definitions": [
             {
                 "sense": "1",
@@ -52630,7 +52297,7 @@
         ]
     },
     {
-        "term": "konsep",
+        "term": "konsep (konsép)",
         "definitions": [
             {
                 "sense": "1",
@@ -52779,7 +52446,7 @@
         ]
     },
     {
-        "term": "konsesi",
+        "term": "konsesi (konsési)",
         "definitions": [
             {
                 "sense": "1",
@@ -52798,17 +52465,10 @@
             {
                 "sense": "1",
                 "definition": "pengiriman barang-barang utk dijual oleh penerimanya;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "perihal menyimpan (mengamanatkan) wang kpd orang dll,  penitipan (wang)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "perihal menyimpan (mengamanatkan) wang kpd orang dll,  penitipan (wang)."
             }
         ]
     },
@@ -53124,7 +52784,7 @@
         ]
     },
     {
-        "term": "kontal-kantil",
+        "term": "kontal-kantil ",
         "definitions": [
             {
                 "sense": "1",
@@ -53264,7 +52924,7 @@
         ]
     },
     {
-        "term": "konteks",
+        "term": "konteks (kontéks)",
         "definitions": [
             {
                 "sense": "1",
@@ -53600,7 +53260,7 @@
         ]
     },
     {
-        "term": "kontraseptif",
+        "term": "kontraseptif (kontraséptif)",
         "definitions": [
             {
                 "sense": "1",
@@ -53628,7 +53288,7 @@
         ]
     },
     {
-        "term": "kontrol",
+        "term": "kontrol bp",
         "definitions": [
             {
                 "sense": "1",
@@ -53723,7 +53383,7 @@
         ]
     },
     {
-        "term": "konvensional",
+        "term": "konvensional (konvénsional)",
         "definitions": [
             {
                 "sense": "1",
@@ -53736,7 +53396,7 @@
         ]
     },
     {
-        "term": "konvensyen",
+        "term": "konvensyen (konvénsyen)",
         "definitions": [
             {
                 "sense": "1",
@@ -53933,8 +53593,7 @@
         ]
     },
     {
-        "term": "kop",
-        "roman_numeral": "IV",
+        "term": "kop IV",
         "definitions": [
             {
                 "sense": "1",
@@ -53967,8 +53626,7 @@
         ]
     },
     {
-        "term": "kopak",
-        "roman_numeral": "I",
+        "term": "kopak I",
         "definitions": [
             {
                 "sense": "1",
@@ -54028,7 +53686,7 @@
         ]
     },
     {
-        "term": "kopek",
+        "term": "kopek (kopék)  I; mengopek",
         "definitions": [
             {
                 "sense": "1",
@@ -54065,7 +53723,7 @@
         ]
     },
     {
-        "term": "kopek",
+        "term": "kopek (kopék)  II",
         "definitions": [
             {
                 "sense": "1",
@@ -54089,7 +53747,7 @@
         ]
     },
     {
-        "term": "kopek",
+        "term": "kopek (kopék)  III",
         "definitions": [
             {
                 "sense": "1",
@@ -54213,8 +53871,7 @@
         ]
     },
     {
-        "term": "kopi",
-        "roman_numeral": "I",
+        "term": "kopi I",
         "definitions": [
             {
                 "sense": "1",
@@ -54248,8 +53905,7 @@
         ]
     },
     {
-        "term": "kopi",
-        "roman_numeral": "III",
+        "term": "kopi III",
         "definitions": [
             {
                 "sense": "1",
@@ -54399,8 +54055,7 @@
         ]
     },
     {
-        "term": "kor",
-        "roman_numeral": "I",
+        "term": "kor I",
         "definitions": [
             {
                 "sense": "1",
@@ -54807,7 +54462,7 @@
         ]
     },
     {
-        "term": "koreng",
+        "term": "koreng (koréng)",
         "definitions": [
             {
                 "sense": "1",
@@ -54840,7 +54495,7 @@
         ]
     },
     {
-        "term": "koreografi",
+        "term": "koreografi (koréografi)",
         "definitions": [
             {
                 "sense": "1",
@@ -55180,22 +54835,15 @@
         ]
     },
     {
-        "term": "korteks",
+        "term": "korteks (kortéks)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "(Ubat) lapisan luar otak atau organ lain:  ~ serebrum;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "(Bio) lapisan luar sesuatu bahagian tumbuhan, mis kulit batang."
-                    }
-                ]
+                "sense": "2",
+                "definition": "(Bio) lapisan luar sesuatu bahagian tumbuhan, mis kulit batang."
             }
         ]
     },
@@ -55335,23 +54983,15 @@
         ]
     },
     {
-        "term": "kosa",
-        "roman_numeral": "II",
+        "term": "kosa II; burung ",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "sj burung, burung dendang air,  Phalcrocorax carbo;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj burung,  Anhinga anhinga."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sj burung,  Anhinga anhinga."
             }
         ]
     },
@@ -55393,7 +55033,7 @@
         ]
     },
     {
-        "term": "kosek",
+        "term": "kosek (kosék)  I; mengosek",
         "definitions": [
             {
                 "sense": "1",
@@ -55484,7 +55124,7 @@
         ]
     },
     {
-        "term": "kosmetik",
+        "term": "kosmetik (kosmétik)",
         "definitions": [
             {
                 "sense": "1",
@@ -55761,12 +55401,11 @@
                     {
                         "sense": "1",
                         "definition": "bertembok batu (bkn kubu pertahanan dll), berbenteng;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "mempunyai kota (bandar):  negeri yg ~ besar;"
+                    },
                     {
                         "sense": "3",
                         "definition": "sl mendirikan  kota, berbenteng:  maka Sultan Ahmad ~ di Bentayan;"
@@ -55848,7 +55487,7 @@
         ]
     },
     {
-        "term": "kotai",
+        "term": "kotai ",
         "definitions": [
             {
                 "sense": "1",
@@ -56016,7 +55655,7 @@
         ]
     },
     {
-        "term": "kotel",
+        "term": "kotel (kotél) Kl",
         "definitions": [
             {
                 "sense": "1",
@@ -56037,7 +55676,7 @@
         ]
     },
     {
-        "term": "koteng",
+        "term": "koteng (koténg);  terkoteng-koteng",
         "definitions": [
             {
                 "sense": "1",
@@ -56369,8 +56008,7 @@
         ]
     },
     {
-        "term": "koyok",
-        "roman_numeral": "I",
+        "term": "koyok I",
         "origin": "C",
         "definitions": [
             {
@@ -56470,7 +56108,7 @@
         ]
     },
     {
-        "term": "kraf",
+        "term": "kraf tangan",
         "definitions": [
             {
                 "sense": "1",
@@ -56617,7 +56255,7 @@
         ]
     },
     {
-        "term": "kredit",
+        "term": "kredit (krédit)",
         "definitions": [
             {
                 "sense": "1",
@@ -57433,7 +57071,7 @@
         ]
     },
     {
-        "term": "krusye",
+        "term": "krusye (krusyé) (ERT)",
         "definitions": [
             {
                 "sense": "1",
@@ -58153,7 +57791,7 @@
         ]
     },
     {
-        "term": "kuartet",
+        "term": "kuartet (kuartét) (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -58225,8 +57863,7 @@
         ]
     },
     {
-        "term": "kuasa",
-        "roman_numeral": "I",
+        "term": "kuasa I",
         "definitions": [
             {
                 "sense": "1",
@@ -58389,8 +58026,7 @@
         ]
     },
     {
-        "term": "kuat",
-        "roman_numeral": "I",
+        "term": "kuat I",
         "definitions": [
             {
                 "sense": "1",
@@ -58540,7 +58176,7 @@
         ]
     },
     {
-        "term": "kuat",
+        "term": "kuat kuasa",
         "definitions": [
             {
                 "sense": "1",
@@ -58643,8 +58279,7 @@
         ]
     },
     {
-        "term": "kubah",
-        "roman_numeral": "II",
+        "term": "kubah II",
         "origin": "Ar",
         "definitions": [
             {
@@ -58654,18 +58289,13 @@
             {
                 "sense": "2",
                 "definition": "ark lengkung (relung, ceruk) di dinding atau tembok dlm masjid dll;"
+            },
+            {
+                "sense": "3",
+                "definition": "Id bahagian kapal terbang atau lori yg tinggi dan berbentuk  setengah bulatan (tempat senjata dll);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Id bahagian kapal terbang atau lori yg tinggi dan berbentuk  setengah bulatan (tempat senjata dll);"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkubah",
                 "definitions": [
@@ -58917,8 +58547,7 @@
         ]
     },
     {
-        "term": "kubu",
-        "roman_numeral": "I",
+        "term": "kubu I",
         "definitions": [
             {
                 "sense": "1",
@@ -59036,8 +58665,7 @@
         ]
     },
     {
-        "term": "kubur",
-        "roman_numeral": "I",
+        "term": "kubur I",
         "definitions": [
             {
                 "sense": "1",
@@ -59072,14 +58700,9 @@
                     {
                         "sense": "1",
                         "definition": "menanam mayat, mengebumikan, memakamkan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki menghilangkan atau menghapuskan, melenyapkan;"
                     }
                 ]
@@ -59256,7 +58879,7 @@
         ]
     },
     {
-        "term": "kucek",
+        "term": "kucek ;  mengucek, mengucek-ngucek",
         "origin": "Jk",
         "definitions": [
             {
@@ -59280,7 +58903,7 @@
         ]
     },
     {
-        "term": "kucil",
+        "term": "kucil; mengucil",
         "definitions": [
             {
                 "sense": "1",
@@ -59374,8 +58997,7 @@
         ]
     },
     {
-        "term": "kucing",
-        "roman_numeral": "II",
+        "term": "kucing II",
         "definitions": [
             {
                 "sense": "1",
@@ -59516,8 +59138,7 @@
         ]
     },
     {
-        "term": "kuda",
-        "roman_numeral": "I",
+        "term": "kuda I",
         "definitions": [
             {
                 "sense": "1",
@@ -59594,8 +59215,7 @@
         ]
     },
     {
-        "term": "kudai",
-        "roman_numeral": "I",
+        "term": "kudai I",
         "definitions": [
             {
                 "sense": "1",
@@ -59680,7 +59300,7 @@
         ]
     },
     {
-        "term": "kudap",
+        "term": "kudap ",
         "definitions": [
             {
                 "sense": "1",
@@ -59797,23 +59417,14 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "sj penyakit kulit yg gatal dan berjangkit;  ~ anjing  =  ~ api  kudis yg  besar;  ~ buta  kudis yg kecil-kecil di merata badan;"
+            },
+            {
+                "sense": "2",
+                "definition": "ki sesuatu yg  mencelakakan, sesuatu yg mendatangkan keburukan;    ~ menjadi tokak  prb perkara kecil menjadi besar (kerana dibiarkan);  mengubik kepala ~ orang  prb membuka rahsia orang;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sj penyakit kulit yg gatal dan berjangkit;  ~ anjing  =  ~ api  kudis yg  besar;  ~ buta  kudis yg kecil-kecil di merata badan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "ki sesuatu yg  mencelakakan, sesuatu yg mendatangkan keburukan;    ~ menjadi tokak  prb perkara kecil menjadi besar (kerana dibiarkan);  mengubik kepala ~ orang  prb membuka rahsia orang;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkudis, kudisan",
                 "definitions": [
@@ -60363,7 +59974,7 @@
         ]
     },
     {
-        "term": "kuintet",
+        "term": "kuintet (kuintét) (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -60386,7 +59997,7 @@
         ]
     },
     {
-        "term": "kuis",
+        "term": "kuis; menguis",
         "definitions": [
             {
                 "sense": "1",
@@ -60632,8 +60243,7 @@
         ]
     },
     {
-        "term": "kuku",
-        "roman_numeral": "I",
+        "term": "kuku I",
         "definitions": [
             {
                 "sense": "1",
@@ -60700,8 +60310,7 @@
         ]
     },
     {
-        "term": "kukuh",
-        "roman_numeral": "I",
+        "term": "kukuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -60897,8 +60506,7 @@
         ]
     },
     {
-        "term": "kukus",
-        "roman_numeral": "I",
+        "term": "kukus I",
         "definitions": [
             {
                 "sense": "1",
@@ -61233,8 +60841,7 @@
         ]
     },
     {
-        "term": "kulat",
-        "roman_numeral": "II",
+        "term": "kulat II; terkulat-kulat",
         "definitions": [
             {
                 "sense": "1",
@@ -61323,22 +60930,21 @@
             {
                 "sense": "1",
                 "definition": "pelajaran yg disampaikan secara bersyarah (berpidato) oleh  mahaguru atau pensyarah di universiti atau maktab, syarahan:  setengah-setengah mahasiswa sibuk mencatat beberapa perkara yg  dikemukakan dlm ~nya;   bilik   ~  bilik tempat menyampaikan kuliah;"
+            },
+            {
+                "sense": "2",
+                "definition": "ceramah agama:  ~ subuh;"
+            },
+            {
+                "sense": "3",
+                "definition": "fakulti yg terdapat di sesetengah  universiti;"
+            },
+            {
+                "sense": "4",
+                "definition": "ark sj maktab atau sekolah tinggi;  ~ guru  maktab guru;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "fakulti yg terdapat di sesetengah  universiti;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "ark sj maktab atau sekolah tinggi;  ~ guru  maktab guru;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkuliah",
                 "definitions": [
@@ -61476,7 +61082,7 @@
         ]
     },
     {
-        "term": "kulit",
+        "term": "kulit I",
         "definitions": [
             {
                 "sense": "1",
@@ -62003,7 +61609,7 @@
         ]
     },
     {
-        "term": "kumbah",
+        "term": "kumbah; mengumbah",
         "definitions": [
             {
                 "sense": "1",
@@ -62228,8 +61834,7 @@
         ]
     },
     {
-        "term": "kumpal",
-        "roman_numeral": "II",
+        "term": "kumpal II ark;  terkumpal-kumpal",
         "definitions": [
             {
                 "sense": "1",
@@ -62580,8 +62185,7 @@
         ]
     },
     {
-        "term": "kunca",
-        "roman_numeral": "I",
+        "term": "kunca I",
         "definitions": [
             {
                 "sense": "1",
@@ -62633,8 +62237,7 @@
         ]
     },
     {
-        "term": "kunci",
-        "roman_numeral": "I",
+        "term": "kunci I",
         "definitions": [
             {
                 "sense": "1",
@@ -62780,8 +62383,7 @@
         ]
     },
     {
-        "term": "kuncup",
-        "roman_numeral": "I",
+        "term": "kuncup I",
         "definitions": [
             {
                 "sense": "1",
@@ -62931,8 +62533,7 @@
         ]
     },
     {
-        "term": "kundang",
-        "roman_numeral": "II",
+        "term": "kundang II; kundangan",
         "origin": "Jk",
         "definitions": [
             {
@@ -62994,8 +62595,7 @@
         ]
     },
     {
-        "term": "kung",
-        "roman_numeral": "I",
+        "term": "kung I",
         "definitions": [
             {
                 "sense": "1",
@@ -63248,23 +62848,14 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "lama atau tua (berasal dr zaman dahulu), dahulukala;  barang ~   barang yg berasal dr zaman dahulu;  masyarakat ~  masyarakat zaman  dahulukala;  zaman ~  zaman dahulukala, purbakala;"
+            },
+            {
+                "sense": "2",
+                "definition": "kolot, tidak  moden;  adat ~  adat yg sudah usang;  kepercayaan ~  kepercayaan  kolot (spt kepercayaan kpd kuasa ghaib dll);  pendapat (sikap) ~  pendapat (sikap) yg tidak moden;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "lama atau tua (berasal dr zaman dahulu), dahulukala;  barang ~   barang yg berasal dr zaman dahulu;  masyarakat ~  masyarakat zaman  dahulukala;  zaman ~  zaman dahulukala, purbakala;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "kolot, tidak  moden;  adat ~  adat yg sudah usang;  kepercayaan ~  kepercayaan  kolot (spt kepercayaan kpd kuasa ghaib dll);  pendapat (sikap) ~  pendapat (sikap) yg tidak moden;"
-                    }
-                ]
-            },
             {
                 "sub_term": "kekunoan",
                 "definitions": [
@@ -63325,7 +62916,7 @@
         ]
     },
     {
-        "term": "kuntit",
+        "term": "kuntit ;  menguntit",
         "origin": "Jk",
         "definitions": [
             {
@@ -63391,24 +62982,22 @@
         ]
     },
     {
-        "term": "kuntum",
-        "roman_numeral": "I",
+        "term": "kuntum I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "bunga yg hampir akan mekar (berkembang), kuncup (bunga);"
+            },
+            {
+                "sense": "2",
+                "definition": "ki gadis dlm belasan tahun;"
+            },
+            {
+                "sense": "3",
+                "definition": "penjodoh bilangan bagi bunga:  beberapa ~ bunga;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "penjodoh bilangan bagi bunga:  beberapa ~ bunga;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berkuntum",
                 "definitions": [
@@ -63428,14 +63017,9 @@
                     {
                         "sense": "2",
                         "definition": "ark berkuntum di:  ~ dahan  berkuntum di dahan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "ki mula tersenyum:  senyuman di bibir Teh Junus ~  melambangkan tidak ada apa-apa yg dia tahu;"
                     }
                 ]
@@ -63489,7 +63073,7 @@
         ]
     },
     {
-        "term": "kunyah",
+        "term": "kunyah ;  mengunyah",
         "definitions": [
             {
                 "sense": "1",
@@ -63687,8 +63271,7 @@
         ]
     },
     {
-        "term": "kupang",
-        "roman_numeral": "I",
+        "term": "kupang I",
         "definitions": [
             {
                 "sense": "1",
@@ -63705,8 +63288,7 @@
         ]
     },
     {
-        "term": "kupang",
-        "roman_numeral": "II",
+        "term": "kupang II",
         "definitions": [
             {
                 "sense": "1",
@@ -63729,7 +63311,7 @@
         ]
     },
     {
-        "term": "kupas",
+        "term": "kupas; mengupas",
         "definitions": [
             {
                 "sense": "1",
@@ -63813,7 +63395,7 @@
         ]
     },
     {
-        "term": "kupat",
+        "term": "kupat; ",
         "definitions": [
             {
                 "sense": "1",
@@ -63986,7 +63568,7 @@
         ]
     },
     {
-        "term": "kupu-kupu",
+        "term": "kupu-kupu II",
         "definitions": [
             {
                 "sense": "1",
@@ -64366,17 +63948,10 @@
             {
                 "sense": "2",
                 "definition": "anggota jawatankuasa pengelola (universiti dll);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pengurus atau penyelenggara muzium:  ~ Muzium Negara."
-                    }
-                ]
+                "sense": "3",
+                "definition": "pengurus atau penyelenggara muzium:  ~ Muzium Negara."
             }
         ]
     },
@@ -64439,17 +64014,10 @@
             {
                 "sense": "2",
                 "definition": "ki (orang yg) suka mengacau (mengganggu);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Id pandu puteri (kecil)."
-                    }
-                ]
+                "sense": "3",
+                "definition": "Id pandu puteri (kecil)."
             }
         ]
     },
@@ -64560,7 +64128,7 @@
         ]
     },
     {
-        "term": "kuris",
+        "term": "kuris ark",
         "definitions": [
             {
                 "sense": "1",
@@ -64716,22 +64284,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "jawatan profesor di universiti:  suatu ~ pengajian komunikasi di  UKM akan diwujudkan utk meningkatkan pengetahuan dan  kecekapan para wartawan dan pengamal media; Ketua Menteri  Sarawak telah melancarkan K~ Kajian Dayak di Universiti  Malaysia Sarawak;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "jawatan profesor di universiti:  suatu ~ pengajian komunikasi di  UKM akan diwujudkan utk meningkatkan pengetahuan dan  kecekapan para wartawan dan pengamal media; Ketua Menteri  Sarawak telah melancarkan K~ Kajian Dayak di Universiti  Malaysia Sarawak;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "Id kerusi."
-                    }
-                ]
+                "sense": "2",
+                "definition": "Id kerusi."
             }
         ]
     },
@@ -64823,8 +64380,7 @@
         ]
     },
     {
-        "term": "kurung",
-        "roman_numeral": "I",
+        "term": "kurung I",
         "definitions": [
             {
                 "sense": "1",
@@ -65227,8 +64783,7 @@
         ]
     },
     {
-        "term": "kusut",
-        "roman_numeral": "I",
+        "term": "kusut I ",
         "definitions": [
             {
                 "sense": "1",
@@ -65367,7 +64922,7 @@
         ]
     },
     {
-        "term": "kutang",
+        "term": "kutang ",
         "definitions": [
             {
                 "sense": "1",
@@ -65522,7 +65077,7 @@
         ]
     },
     {
-        "term": "kutip",
+        "term": "kutip; mengutip",
         "definitions": [
             {
                 "sense": "1",
@@ -65643,8 +65198,7 @@
         ]
     },
     {
-        "term": "kutu",
-        "roman_numeral": "II",
+        "term": "kutu II",
         "definitions": [
             {
                 "sense": "1",
@@ -65668,8 +65222,7 @@
         ]
     },
     {
-        "term": "kutub",
-        "roman_numeral": "I",
+        "term": "kutub I",
         "definitions": [
             {
                 "sense": "1",
@@ -65738,8 +65291,7 @@
         ]
     },
     {
-        "term": "kutuk",
-        "roman_numeral": "I",
+        "term": "kutuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -66021,17 +65573,10 @@
             {
                 "sense": "1",
                 "definition": "keadaan tubuh yg terlalu besar akibat perembesan  hormon pertumbuhan yg berlebihan sehingga penderita menjadi  sangat tinggi (dgn kemampuan mental dan seks yg sangat rendah);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pertumbuhan yg berlebihan pd tumbuhan akibat perembesan  hormon pertumbuhan yg berlebihan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "pertumbuhan yg berlebihan pd tumbuhan akibat perembesan  hormon pertumbuhan yg berlebihan."
             }
         ]
     }

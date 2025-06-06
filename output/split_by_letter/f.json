@@ -63,8 +63,7 @@
         ]
     },
     {
-        "term": "faal",
-        "roman_numeral": "II",
+        "term": "faal II",
         "origin": "Ar",
         "definitions": [
             {
@@ -141,7 +140,7 @@
         ]
     },
     {
-        "term": "faedah",
+        "term": "faedah (faédah)",
         "definitions": [
             {
                 "sense": "1",
@@ -331,18 +330,13 @@
             {
                 "sense": "1",
                 "definition": "kotak, sampul surat besar, kad berlipat, tempat surat dsb disimpan  secara tersusun:  surat-surat itu disimpannya hati-hati dlm ~;  2 .  maklumat atau dokumen tentang sesuatu perkara, seseorang, dsb;"
+            },
+            {
+                "sense": "3",
+                "definition": "(Komp) sekumpulan data atau maklumat yg berkaitan dsb yg  mempunyai nama tertentu dan dianggap sbg suatu unit storan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "(Komp) sekumpulan data atau maklumat yg berkaitan dsb yg  mempunyai nama tertentu dan dianggap sbg suatu unit storan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berfail-fail",
                 "definitions": [
@@ -472,26 +466,15 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "sesuatu yg benar-benar berlaku;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "sesuatu yg benar-benar berlaku;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "sesuatu yg benar dan boleh  dibuktikan;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "maklumat tentang seseorang atau sesuatu;  ~  adjudikasi  (Udg) perkara fakta berkaitan dgn pihak-pihak dlm  prosiding pentadbiran berbanding dgn fakta-fakta perundangan."
-                    }
-                ]
+                "sense": "2",
+                "definition": "sesuatu yg benar dan boleh  dibuktikan;"
+            },
+            {
+                "sense": "3",
+                "definition": "maklumat tentang seseorang atau sesuatu;  ~  adjudikasi  (Udg) perkara fakta berkaitan dgn pihak-pihak dlm  prosiding pentadbiran berbanding dgn fakta-fakta perundangan."
             }
         ]
     },
@@ -1060,7 +1043,7 @@
         ]
     },
     {
-        "term": "faset",
+        "term": "faset (fasét)",
         "definitions": [
             {
                 "sense": "1",
@@ -1355,17 +1338,10 @@
             {
                 "sense": "1",
                 "definition": "perbuatan, tindakan dsb yg melanggar sesuatu peraturan dlm  permainan atau sukan:  setiap ~ yg dilakukan oleh pemain akan  dicatatkan oleh pengadil; pemain itu telah melakukan banyak ~;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "batal kerana   tidak mematuhi peraturan dlm permainan atau  sukan   (bkn pukulan, dll);  pukulan ~  pukulan yg menyalahi  peraturan sukan atau permainan spt badminton, tae kwan do dsb."
-                    }
-                ]
+                "sense": "2",
+                "definition": "batal kerana   tidak mematuhi peraturan dlm permainan atau  sukan   (bkn pukulan, dll);  pukulan ~  pukulan yg menyalahi  peraturan sukan atau permainan spt badminton, tae kwan do dsb."
             }
         ]
     },
@@ -1434,7 +1410,7 @@
         ]
     },
     {
-        "term": "federasi",
+        "term": "federasi (féderasi) IB",
         "definitions": [
             {
                 "sense": "1",
@@ -1492,7 +1468,7 @@
         ]
     },
     {
-        "term": "feminin",
+        "term": "feminin (féminin)",
         "definitions": [
             {
                 "sense": "1",
@@ -1550,7 +1526,7 @@
         ]
     },
     {
-        "term": "fenol",
+        "term": "fenol (fénol) (Kim)",
         "definitions": [
             {
                 "sense": "1",
@@ -1572,7 +1548,7 @@
         ]
     },
     {
-        "term": "fenomena",
+        "term": "fenomena (fénoména)",
         "definitions": [
             {
                 "sense": "1",
@@ -1666,7 +1642,7 @@
         ]
     },
     {
-        "term": "festival",
+        "term": "festival (féstival)",
         "definitions": [
             {
                 "sense": "1",
@@ -1708,7 +1684,7 @@
         ]
     },
     {
-        "term": "fetisy",
+        "term": "fetisy (fétisy) (Psi)",
         "definitions": [
             {
                 "sense": "1",
@@ -1721,7 +1697,7 @@
         ]
     },
     {
-        "term": "fetisyisme",
+        "term": "fetisyisme (fétisyisme) (Psi)",
         "definitions": [
             {
                 "sense": "1",
@@ -1772,7 +1748,7 @@
         ]
     },
     {
-        "term": "feudalisme",
+        "term": "feudalisme (féudalisme)",
         "definitions": [
             {
                 "sense": "1",
@@ -2003,14 +1979,9 @@
                     {
                         "sense": "1",
                         "definition": "berfikir mengenai sesuatu, mengingati, merenung  sesuatu:  ia kelihatan mengerutkan kening seolah-olah ~ sesuatu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menyangka, menganggap:  apa yg kau fikir tidak aku tahu  persoalannya;"
                     }
                 ]
@@ -2217,23 +2188,14 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "benda tipis drpd seluloid yg dimasukkan ke dlm kamera utk  membuat gambar (negatif);"
+            },
+            {
+                "sense": "2",
+                "definition": "gambar bergerak yg ditayangkan pd  layar, biasanya di pawagam, wayang gambar:  mereka selalu  berbicara tentang cerita ~;     ~ bicara  wayang bersuara (wayang gambar yg pelakon- pelakonnya berkata-kata);  ~   berwarna  wayang gambar dlm warna- warni;  ~ bisu  wayang gambar yg pelakon-pelakonnya tidak  berkata-kata tetapi hanya beraksi;  ~ dokumentari  filem yg  memaparkan kisah sebenar tentang sesuatu perkara (peristiwa,  aktiviti dsb) tertentu;  ~ lucah  filem yg banyak menayangkan  adegan seks;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "benda tipis drpd seluloid yg dimasukkan ke dlm kamera utk  membuat gambar (negatif);"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "gambar bergerak yg ditayangkan pd  layar, biasanya di pawagam, wayang gambar:  mereka selalu  berbicara tentang cerita ~;     ~ bicara  wayang bersuara (wayang gambar yg pelakon- pelakonnya berkata-kata);  ~   berwarna  wayang gambar dlm warna- warni;  ~ bisu  wayang gambar yg pelakon-pelakonnya tidak  berkata-kata tetapi hanya beraksi;  ~ dokumentari  filem yg  memaparkan kisah sebenar tentang sesuatu perkara (peristiwa,  aktiviti dsb) tertentu;  ~ lucah  filem yg banyak menayangkan  adegan seks;"
-                    }
-                ]
-            },
             {
                 "sub_term": "memfilemkan",
                 "definitions": [
@@ -2557,22 +2519,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "pegawai kehakiman (lebih rendah drpd jaksa);"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pegawai kehakiman (lebih rendah drpd jaksa);"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "bkn kewangan  atau hasil pendapatan kerajaan (spt cukai dll)."
-                    }
-                ]
+                "sense": "2",
+                "definition": "bkn kewangan  atau hasil pendapatan kerajaan (spt cukai dll)."
             }
         ]
     },
@@ -2731,8 +2682,7 @@
         ]
     },
     {
-        "term": "fitrah",
-        "roman_numeral": "II",
+        "term": "fitrah II, fitrat",
         "origin": "Ar",
         "definitions": [
             {
@@ -2863,7 +2813,7 @@
         ]
     },
     {
-        "term": "fleksi",
+        "term": "fleksi (fléksi) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -2876,7 +2826,7 @@
         ]
     },
     {
-        "term": "fleksibel",
+        "term": "fleksibel (fléksibel)",
         "definitions": [
             {
                 "sense": "1",
@@ -3119,7 +3069,7 @@
         ]
     },
     {
-        "term": "folio",
+        "term": "folio (Cetak)",
         "definitions": [
             {
                 "sense": "1",
@@ -3192,7 +3142,7 @@
         ]
     },
     {
-        "term": "fonemik",
+        "term": "fonemik (fonémik) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -3525,7 +3475,7 @@
         ]
     },
     {
-        "term": "forte",
+        "term": "forte (forté) (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -3556,7 +3506,7 @@
         ]
     },
     {
-        "term": "fortisimo",
+        "term": "fortisimo (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -4115,7 +4065,7 @@
         ]
     },
     {
-        "term": "fraseologi",
+        "term": "fraseologi (fraséologi) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -4156,7 +4106,7 @@
         ]
     },
     {
-        "term": "frekuensi",
+        "term": "frekuensi (frékuensi)",
         "definitions": [
             {
                 "sense": "1",
@@ -4198,7 +4148,7 @@
         ]
     },
     {
-        "term": "fresko",
+        "term": "fresko (frésko) (S",
         "definitions": [
             {
                 "sense": "1",

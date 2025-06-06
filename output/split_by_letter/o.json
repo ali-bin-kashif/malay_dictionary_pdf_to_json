@@ -10,8 +10,7 @@
         ]
     },
     {
-        "term": "o",
-        "roman_numeral": "II",
+        "term": "o II",
         "definitions": [
             {
                 "sense": "1",
@@ -134,7 +133,7 @@
         ]
     },
     {
-        "term": "objek",
+        "term": "objek (objék)",
         "definitions": [
             {
                 "sense": "1",
@@ -155,7 +154,7 @@
         ]
     },
     {
-        "term": "objektif",
+        "term": "objektif (objéktif)",
         "definitions": [
             {
                 "sense": "1",
@@ -390,7 +389,7 @@
         ]
     },
     {
-        "term": "obsesi",
+        "term": "obsesi (obsési)",
         "definitions": [
             {
                 "sense": "1",
@@ -431,7 +430,7 @@
         ]
     },
     {
-        "term": "oceh",
+        "term": "oceh (océh) Jk;  mengoceh",
         "definitions": [
             {
                 "sense": "1",
@@ -458,14 +457,9 @@
                     {
                         "sense": "1",
                         "definition": "kicauan:  sukarlah baginya utk memahami ~ burung itu;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "kata-kata tidak keruan (bukan-bukan), celoteh, ricauan."
                     }
                 ]
@@ -567,7 +561,7 @@
         ]
     },
     {
-        "term": "ofensif",
+        "term": "ofensif (ofénsif) bp",
         "definitions": [
             {
                 "sense": "1",
@@ -802,7 +796,7 @@
         ]
     },
     {
-        "term": "oja",
+        "term": "oja; mengoja",
         "definitions": [
             {
                 "sense": "1",
@@ -834,8 +828,7 @@
         ]
     },
     {
-        "term": "ok",
-        "roman_numeral": "I",
+        "term": "ok I",
         "origin": "Kl",
         "definitions": [
             {
@@ -1108,7 +1101,7 @@
         ]
     },
     {
-        "term": "oktet",
+        "term": "oktet (oktét) (Muz)",
         "definitions": [
             {
                 "sense": "1",
@@ -1150,8 +1143,7 @@
         ]
     },
     {
-        "term": "olah",
-        "roman_numeral": "I",
+        "term": "olah I",
         "definitions": [
             {
                 "sense": "1",
@@ -1327,8 +1319,7 @@
         ]
     },
     {
-        "term": "olak",
-        "roman_numeral": "I",
+        "term": "olak I",
         "definitions": [
             {
                 "sense": "1",
@@ -1384,8 +1375,7 @@
         ]
     },
     {
-        "term": "olak",
-        "roman_numeral": "III",
+        "term": "olak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -1512,31 +1502,30 @@
         ]
     },
     {
-        "term": "oleh",
+        "term": "oleh (oléh)",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "(kata sendi nama) utk menunjukkan pembuat dlm ayat- ayat pasif:  daerah yg ditawan ~ musuh; ditimbus ~ tanah longsor;"
+            },
+            {
+                "sense": "2",
+                "definition": "sebab, akibat, kerana:  ~ tiada jalan lain hendak menyelamatkan  dirinya, ia mencuba hendak terjun ke dlm air; mati ~ kerisnya  sendiri;"
+            },
+            {
+                "sense": "3",
+                "definition": "pada, bagi, untuk:  tampak ~nya seorang tua berjalan di  tengah-tengah sawahnya;"
+            },
+            {
+                "sense": "4",
+                "definition": "(ke) pada (yg menyatakan hubungan  keluarga):  ia pun sepupu juga ~ tuan; ia anak yg satu-satunya ~  pak cik saya;"
+            },
+            {
+                "sense": "5",
+                "definition": "dengan:  pokok-pokok yg lebat ~ buah; dewan yg  penuh sesak ~ orang ramai; ~ itu  =  ~ sebab itu  =  ~ yg demikian  lantaran itu;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "pada, bagi, untuk:  tampak ~nya seorang tua berjalan di  tengah-tengah sawahnya;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "(ke) pada (yg menyatakan hubungan  keluarga):  ia pun sepupu juga ~ tuan; ia anak yg satu-satunya ~  pak cik saya;"
-                    },
-                    {
-                        "sense": "5",
-                        "definition": "dengan:  pokok-pokok yg lebat ~ buah; dewan yg  penuh sesak ~ orang ramai; ~ itu  =  ~ sebab itu  =  ~ yg demikian  lantaran itu;"
-                    }
-                ]
-            },
             {
                 "sub_term": "beroleh",
                 "definitions": [
@@ -2330,7 +2319,7 @@
         ]
     },
     {
-        "term": "onde-onde",
+        "term": "onde-onde (ondé-ondé)",
         "definitions": [
             {
                 "sense": "1",
@@ -2532,24 +2521,16 @@
         ]
     },
     {
-        "term": "ongkang",
-        "roman_numeral": "I",
+        "term": "ongkang I; ongkang-ongkang",
         "origin": "Jk",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "duduk dgn kaki terjuntai (terkulai);"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ki tidak ada kerja apa-apa."
-                    }
-                ]
+                "sense": "2",
+                "definition": "ki tidak ada kerja apa-apa."
             }
         ]
     },
@@ -2875,7 +2856,7 @@
         ]
     },
     {
-        "term": "open",
+        "term": "open (opén) Jk",
         "definitions": [
             {
                 "sense": "1",
@@ -2976,14 +2957,9 @@
                     {
                         "sense": "2",
                         "definition": "bergerak,  berjalan:  menerangkan cara sistem itu ~ dlm situasi-situasi baru;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "3",
                         "definition": "menjalankan kegiatan (perniagaan dsb):  sehingga kini sebanyak  15 buah syarikat telah ~;"
                     }
                 ]
@@ -3153,22 +3129,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "kajian saintifik tentang cahaya dan pelihatan;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kajian saintifik tentang cahaya dan pelihatan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "berkaitan dgn  mata atau pelihatan;  ~ gentian  (Komp) teknik penghantaran data  digital dlm bentuk denyutan cahaya melalui berkas gentian kaca  yg panjang, lut sinar, dan halus."
-                    }
-                ]
+                "sense": "2",
+                "definition": "berkaitan dgn  mata atau pelihatan;  ~ gentian  (Komp) teknik penghantaran data  digital dlm bentuk denyutan cahaya melalui berkas gentian kaca  yg panjang, lut sinar, dan halus."
             }
         ]
     },
@@ -3279,8 +3244,7 @@
         ]
     },
     {
-        "term": "orak",
-        "roman_numeral": "I",
+        "term": "orak I; mengorak",
         "definitions": [
             {
                 "sense": "1",
@@ -3485,7 +3449,7 @@
         ]
     },
     {
-        "term": "orbit",
+        "term": "orbit (Fiz)",
         "definitions": [
             {
                 "sense": "1",
@@ -3605,7 +3569,7 @@
         ]
     },
     {
-        "term": "oren",
+        "term": "oren (orén)",
         "definitions": [
             {
                 "sense": "1",
@@ -3631,8 +3595,7 @@
         ]
     },
     {
-        "term": "organ",
-        "roman_numeral": "I",
+        "term": "organ I",
         "definitions": [
             {
                 "sense": "1",
@@ -3832,7 +3795,7 @@
         ]
     },
     {
-        "term": "orientasi",
+        "term": "orientasi (oriéntasi)",
         "definitions": [
             {
                 "sense": "1",
@@ -3911,7 +3874,7 @@
         ]
     },
     {
-        "term": "orkes",
+        "term": "orkes (orkés)",
         "definitions": [
             {
                 "sense": "1",
@@ -4292,7 +4255,7 @@
         ]
     },
     {
-        "term": "osteopati",
+        "term": "osteopati (ostéopati) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -4341,8 +4304,7 @@
         ]
     },
     {
-        "term": "otak",
-        "roman_numeral": "I",
+        "term": "otak I",
         "definitions": [
             {
                 "sense": "1",
@@ -4381,8 +4343,7 @@
         ]
     },
     {
-        "term": "otak",
-        "roman_numeral": "III",
+        "term": "otak III; ",
         "definitions": [
             {
                 "sense": "1",
@@ -4414,7 +4375,7 @@
         ]
     },
     {
-        "term": "otek",
+        "term": "otek (oték)  I;  ikan ",
         "definitions": [
             {
                 "sense": "1",
@@ -4783,8 +4744,7 @@
         ]
     },
     {
-        "term": "oyak",
-        "roman_numeral": "II",
+        "term": "oyak II",
         "origin": "Jw",
         "definitions": [
             {

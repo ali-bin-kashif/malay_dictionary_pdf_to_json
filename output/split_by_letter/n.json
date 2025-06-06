@@ -104,23 +104,14 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "Mn   biji (buah-buahan spt durian dll) berserta isinya;"
+            },
+            {
+                "sense": "2",
+                "definition": "(Bio)   isi  buah, daging buah;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "Mn   biji (buah-buahan spt durian dll) berserta isinya;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "(Bio)   isi  buah, daging buah;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bernabu",
                 "definitions": [
@@ -143,8 +134,7 @@
         ]
     },
     {
-        "term": "nada",
-        "roman_numeral": "I",
+        "term": "nada I",
         "definitions": [
             {
                 "sense": "1",
@@ -455,8 +445,7 @@
         ]
     },
     {
-        "term": "nafsi",
-        "roman_numeral": "I",
+        "term": "nafsi I",
         "origin": "Ar",
         "definitions": [
             {
@@ -540,8 +529,7 @@
         ]
     },
     {
-        "term": "naga",
-        "roman_numeral": "I",
+        "term": "naga I",
         "definitions": [
             {
                 "sense": "1",
@@ -1283,27 +1271,17 @@
             {
                 "sense": "1",
                 "definition": "panggilan atau sebutan bagi orang (barang, tempat, pertubuhan,  dll):  ia mencatat ~ orang yg menderma yg terdapat dlm senarai itu;  apa ~ buku yg kaubaca itu?; ia mencatat ~ barang-barang yg  diterimanya; atas ~  dgn menggunakan nama, utk kepentingan, demi;"
+            },
+            {
+                "sense": "2",
+                "definition": "ark gelaran, sebutan:  kerana jasanya yg besar, ia diberi ~ Datuk;"
+            },
+            {
+                "sense": "3",
+                "definition": "kehormatan, kebaikan, kemasyhuran, maruah, pujian;  mencari ~  berikhtiar menjadi masyhur (mendapat pujian);  mendapat (beroleh) ~   masyhur (terkenal);  mengambil ~  a) mencari muka; b) memakai nama  (drpd);  telah  rosak  ~nya  telah  hilang  kehormatannya  (kemasyhurannya);    ~ am  kata nama yg merujuk kpd konsep atau benda yg umum, mis  rumah  dan  kecantikan; ~ baik  kehormatan, maruah;  ~ batang tubuh  =  ~ daging (tubuh)  nama diri yg sebenarnya (bukan nama samaran dll);  ~ benda  (Lin) kata yg mengatakan nama sesuatu yg wujud atau yg  dianggap wujud, kata benda;  ~ cembung  =  ~ timangan (timang- timangan)  nama yg dipakai utk menyatakan sayang atau manja;  ~  julukan  nama yg diberi sbg jolokan (ejekan, sindiran);  ~ kecil  a) nama  ketika masih kecil; b) nama depan (cara Barat);  ~ keluarga  nama yg  dikongsi bersama oleh semua ahli dlm sesuatu keluarga;  ~ khas  kata  nama yg merujuk kpd sesuatu yg khusus spt orang, haiwan, tempat  atau benda, mis  Md. Nor, Sg. Rambai,  dan  Menara Kuala Lumpur; ~  pena  nama yg digunakan oleh penulis pd karya-karya (bukan  namanya yg sebenarnya);  ~ samaran  =  ~ pedengan  nama utk  menyembunyikan nama yg sebenarnya;  pd ~ sahaja  tidak wujud  (berlaku) spt yg diperikan:  golongan Islam pd ~ sahaja;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "ark gelaran, sebutan:  kerana jasanya yg besar, ia diberi ~ Datuk;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kehormatan, kebaikan, kemasyhuran, maruah, pujian;  mencari ~  berikhtiar menjadi masyhur (mendapat pujian);  mendapat (beroleh) ~   masyhur (terkenal);  mengambil ~  a) mencari muka; b) memakai nama  (drpd);  telah  rosak  ~nya  telah  hilang  kehormatannya  (kemasyhurannya);    ~ am  kata nama yg merujuk kpd konsep atau benda yg umum, mis  rumah  dan  kecantikan; ~ baik  kehormatan, maruah;  ~ batang tubuh  =  ~ daging (tubuh)  nama diri yg sebenarnya (bukan nama samaran dll);  ~ benda  (Lin) kata yg mengatakan nama sesuatu yg wujud atau yg  dianggap wujud, kata benda;  ~ cembung  =  ~ timangan (timang- timangan)  nama yg dipakai utk menyatakan sayang atau manja;  ~  julukan  nama yg diberi sbg jolokan (ejekan, sindiran);  ~ kecil  a) nama  ketika masih kecil; b) nama depan (cara Barat);  ~ keluarga  nama yg  dikongsi bersama oleh semua ahli dlm sesuatu keluarga;  ~ khas  kata  nama yg merujuk kpd sesuatu yg khusus spt orang, haiwan, tempat  atau benda, mis  Md. Nor, Sg. Rambai,  dan  Menara Kuala Lumpur; ~  pena  nama yg digunakan oleh penulis pd karya-karya (bukan  namanya yg sebenarnya);  ~ samaran  =  ~ pedengan  nama utk  menyembunyikan nama yg sebenarnya;  pd ~ sahaja  tidak wujud  (berlaku) spt yg diperikan:  golongan Islam pd ~ sahaja;"
-                    }
-                ]
-            },
             {
                 "sub_term": "bernama",
                 "definitions": [
@@ -1463,14 +1441,9 @@
                     {
                         "sense": "1",
                         "definition": "sudah dilihat, terlihat:  kerjaku ini ~ oleh datuk sarjan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "dapat dilihat, kelihatan:  ia memerhatikan kalau-kalau ~ sebuah  kuala sungai;"
                     }
                 ]
@@ -1634,8 +1607,7 @@
         ]
     },
     {
-        "term": "nanar",
-        "roman_numeral": "I",
+        "term": "nanar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1835,8 +1807,7 @@
         ]
     },
     {
-        "term": "nanti",
-        "roman_numeral": "I",
+        "term": "nanti I",
         "definitions": [
             {
                 "sense": "1",
@@ -2023,8 +1994,7 @@
         ]
     },
     {
-        "term": "nara",
-        "roman_numeral": "I",
+        "term": "nara I",
         "definitions": [
             {
                 "sense": "1",
@@ -2257,8 +2227,7 @@
         ]
     },
     {
-        "term": "nasi",
-        "roman_numeral": "I",
+        "term": "nasi I",
         "definitions": [
             {
                 "sense": "1",
@@ -2307,14 +2276,9 @@
                     {
                         "sense": "1",
                         "definition": "sj tumbuhan (pokok), langsit,  Prismatomeris malayana;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "=  nenasi  sj tumbuhan (pokok),  Symplocos fasciculata; ~ bukit  sj  tumbuhan (pokok renek),  Mycetia malayana; pokok ~  sj tumbuhan  (pokok kecil), akar belalang puak,  Pittosporum ferrugineum."
                     }
                 ]
@@ -2767,7 +2731,7 @@
         ]
     },
     {
-        "term": "naung",
+        "term": "naung, naungan",
         "definitions": [
             {
                 "sense": "1",
@@ -3251,8 +3215,7 @@
         ]
     },
     {
-        "term": "negara",
-        "roman_numeral": "I",
+        "term": "negara I",
         "definitions": [
             {
                 "sense": "1",
@@ -3323,7 +3286,7 @@
         ]
     },
     {
-        "term": "negatif",
+        "term": "negatif (négatif)",
         "definitions": [
             {
                 "sense": "1",
@@ -3348,18 +3311,13 @@
             {
                 "sense": "6",
                 "definition": "kurang drpd sifar:  kayu  bergergaji diramalkan akan menunjukkan kadar pertumbuhan yg ~;"
+            },
+            {
+                "sense": "7",
+                "definition": "imej foto pd filem yg belum berupa gambar;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "7.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "imej foto pd filem yg belum berupa gambar;"
-                    }
-                ]
-            },
             {
                 "sub_term": "menegatifkan",
                 "definitions": [
@@ -3526,7 +3484,7 @@
         ]
     },
     {
-        "term": "nekad",
+        "term": "nekad (nékad) ",
         "definitions": [
             {
                 "sense": "1",
@@ -3685,7 +3643,7 @@
         ]
     },
     {
-        "term": "nenek",
+        "term": "nenek (nénék)",
         "definitions": [
             {
                 "sense": "1",
@@ -3875,7 +3833,7 @@
         ]
     },
     {
-        "term": "neologisme",
+        "term": "neologisme (néologisme) (Lin)",
         "definitions": [
             {
                 "sense": "1",
@@ -3960,17 +3918,14 @@
             {
                 "sense": "2",
                 "definition": "timbangan, dacing:  alat yg digunakan utk mencari beratnya sesuatu  benda itu dinamakan ~; ~ spring  timbangan yg menggunakan spring;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "perbandingan berat (kuat dll), pertimbangan:  ~ kekuatan;   ~  pembayaran  Id perbandingan antara penerimaan dan pengeluaran  wang  (dlm  perniagaan  antarabangsa);  ~  perdagangan  Id  perbandingan antara eksport dan import (oleh sesebuah negara);    ~ palingan bungkal, hati palingan Tuhan  prb fikiran atau pendirian  seseorang itu boleh berubah-ubah;  ~ yg palingan, bungkal yg piawai  prb perihal hakim yg adil hukumannya."
-                    }
-                ]
+                "sense": "3",
+                "definition": "Id catatan perbandingan wang masuk dan wang keluar (untung rugi  dll) oleh sesuatu badan perniagaan dll, timbangan kira-kira;"
+            },
+            {
+                "sense": "4",
+                "definition": "perbandingan berat (kuat dll), pertimbangan:  ~ kekuatan;   ~  pembayaran  Id perbandingan antara penerimaan dan pengeluaran  wang  (dlm  perniagaan  antarabangsa);  ~  perdagangan  Id  perbandingan antara eksport dan import (oleh sesebuah negara);    ~ palingan bungkal, hati palingan Tuhan  prb fikiran atau pendirian  seseorang itu boleh berubah-ubah;  ~ yg palingan, bungkal yg piawai  prb perihal hakim yg adil hukumannya."
             }
         ]
     },
@@ -4253,7 +4208,7 @@
         ]
     },
     {
-        "term": "neurosurgeri",
+        "term": "neurosurgeri (néurosurgeri) (Ubat)",
         "definitions": [
             {
                 "sense": "1",
@@ -4284,7 +4239,7 @@
         ]
     },
     {
-        "term": "neutral",
+        "term": "neutral (néutral)",
         "definitions": [
             {
                 "sense": "1",
@@ -4392,7 +4347,7 @@
         ]
     },
     {
-        "term": "ngabehi",
+        "term": "ngabehi (ngabéhi) Jw",
         "definitions": [
             {
                 "sense": "1",
@@ -4617,14 +4572,9 @@
                     {
                         "sense": "1",
                         "definition": "terbuka lebar-lebar (mulut dll), terbuka luas:  maka  mulutnya yg ~ itu pun terkatuplah; ia memandang pintu yg ~ lebar;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "ki (hairan) tercengang:  ia ~ mendengar ayahnya hendak berkahwin  lagi."
                     }
                 ]
@@ -5093,8 +5043,7 @@
         ]
     },
     {
-        "term": "ngiang",
-        "roman_numeral": "I",
+        "term": "ngiang I; mengiang, mengiang-ngiang, terngiang, terngiang-ngiang",
         "definitions": [
             {
                 "sense": "1",
@@ -5324,7 +5273,7 @@
         ]
     },
     {
-        "term": "ngongoi",
+        "term": "ngongoi; ngongoian",
         "definitions": [
             {
                 "sense": "1",
@@ -6142,14 +6091,9 @@
                     {
                         "sense": "1",
                         "definition": "menyanyi supaya tidur (anak dll), mendodoikan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "bp melemahkan semangat (kegiatan dll), menipu dgn sesuatu yg  muluk-muluk:  pergaulan saya dgn mereka telah menghidupkan  semangat saya yg dininabobokkan selama ini."
                     }
                 ]
@@ -6712,7 +6656,7 @@
         ]
     },
     {
-        "term": "nod",
+        "term": "nod (Komp)",
         "definitions": [
             {
                 "sense": "1",
@@ -6892,22 +6836,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "angka kosong, sifar;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "angka kosong, sifar;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "tidak ada apa-apa, kosong, nihil."
-                    }
-                ]
+                "sense": "2",
+                "definition": "tidak ada apa-apa, kosong, nihil."
             }
         ]
     },
@@ -7277,8 +7210,7 @@
         ]
     },
     {
-        "term": "not",
-        "roman_numeral": "I",
+        "term": "not I",
         "definitions": [
             {
                 "sense": "1",
@@ -7402,22 +7334,11 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
-            }
-        ],
-        "sub_terms": [
+                "definition": "pengumuman tentang sesuatu yg akan berlaku, pemberitahuan,  kenyataan;  ~ pilihan raya  (Udg) notis utk mengadakan pilihan raya  selepas writ pilihan raya dikeluarkan;  papan ~  papan kenyataan;"
+            },
             {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "pengumuman tentang sesuatu yg akan berlaku, pemberitahuan,  kenyataan;  ~ pilihan raya  (Udg) notis utk mengadakan pilihan raya  selepas writ pilihan raya dikeluarkan;  papan ~  papan kenyataan;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "pemberitahuan awal tentang niat utk menamatkan sesuatu urusan,  kontrak, kerja, dsb;  dia kena ~  dia dibuang kerja."
-                    }
-                ]
+                "sense": "2",
+                "definition": "pemberitahuan awal tentang niat utk menamatkan sesuatu urusan,  kontrak, kerja, dsb;  dia kena ~  dia dibuang kerja."
             }
         ]
     },
@@ -7638,18 +7559,13 @@
             {
                 "sense": "3",
                 "definition": "=  kitab ~  kitab utk membuat ramalan, kitab  perbintangan;  melihat ~  membuat ramalan dgn melihat kitab nujum;"
+            },
+            {
+                "sense": "4",
+                "definition": "=  ahli ~  =  ahlulnujum  orang yg ahli dlm membuat ramalan dgn  melihat bintang, tukang tilik, penilik;  ~ Pak Belalang  ki tukang tilik  yg palsu (pura-pura);"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "=  ahli ~  =  ahlulnujum  orang yg ahli dlm membuat ramalan dgn  melihat bintang, tukang tilik, penilik;  ~ Pak Belalang  ki tukang tilik  yg palsu (pura-pura);"
-                    }
-                ]
-            },
             {
                 "sub_term": "bernujum",
                 "definitions": [
@@ -7817,7 +7733,7 @@
         ]
     },
     {
-        "term": "nukleus",
+        "term": "nukleus (nukléus)",
         "definitions": [
             {
                 "sense": "1",
@@ -7881,8 +7797,7 @@
         ]
     },
     {
-        "term": "nun",
-        "roman_numeral": "III",
+        "term": "nun III",
         "definitions": [
             {
                 "sense": "1",
@@ -8147,8 +8062,7 @@
         ]
     },
     {
-        "term": "nya",
-        "roman_numeral": "II",
+        "term": "nya II",
         "definitions": [
             {
                 "sense": "1",
@@ -8274,7 +8188,7 @@
         ]
     },
     {
-        "term": "nyahkod",
+        "term": "nyahkod (Komp)",
         "definitions": [
             {
                 "sense": "1",
@@ -8349,17 +8263,14 @@
             {
                 "sense": "1",
                 "definition": "perempuan simpanan (terutama oleh orang Eropah), gundik, kendak;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "sl adinda."
-                    }
-                ]
+                "sense": "2",
+                "definition": "panggilan kpd perempuan tua, mak cik;"
+            },
+            {
+                "sense": "3",
+                "definition": "sl adinda."
             }
         ]
     },
@@ -8509,8 +8420,7 @@
         ]
     },
     {
-        "term": "nyaman",
-        "roman_numeral": "I",
+        "term": "nyaman I",
         "definitions": [
             {
                 "sense": "1",
@@ -8572,7 +8482,7 @@
         ]
     },
     {
-        "term": "nyampang",
+        "term": "nyampang ",
         "definitions": [
             {
                 "sense": "1",

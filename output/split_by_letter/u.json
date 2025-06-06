@@ -496,8 +496,7 @@
         ]
     },
     {
-        "term": "ubar",
-        "roman_numeral": "I",
+        "term": "ubar I",
         "definitions": [
             {
                 "sense": "1",
@@ -548,8 +547,7 @@
         ]
     },
     {
-        "term": "ubat",
-        "roman_numeral": "I",
+        "term": "ubat I",
         "definitions": [
             {
                 "sense": "1",
@@ -736,8 +734,7 @@
         ]
     },
     {
-        "term": "ubi",
-        "roman_numeral": "I",
+        "term": "ubi I",
         "definitions": [
             {
                 "sense": "1",
@@ -761,8 +758,7 @@
         ]
     },
     {
-        "term": "ubi",
-        "roman_numeral": "II",
+        "term": "ubi II",
         "definitions": [
             {
                 "sense": "1",
@@ -819,8 +815,7 @@
         ]
     },
     {
-        "term": "ubun-ubun",
-        "roman_numeral": "I",
+        "term": "ubun-ubun I",
         "definitions": [
             {
                 "sense": "1",
@@ -1324,27 +1319,18 @@
         "definitions": [
             {
                 "sense": "1",
-                "definition": ""
+                "definition": "kawasan (daerah) hulu sungai, bahagian hulu sungai;"
+            },
+            {
+                "sense": "2",
+                "definition": "kampung, desa, dusun, lwn kota:  kampung kami di ~ sekali, jauh  dr kota;"
+            },
+            {
+                "sense": "3",
+                "definition": "ki tidak tahu adat, tidak sopan santun, tolol;  orang ~  a)  orang dr hulu (kampung, dusun); b) orang yg tidak tahu adat,  orang bodoh;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "kawasan (daerah) hulu sungai, bahagian hulu sungai;"
-                    },
-                    {
-                        "sense": "2",
-                        "definition": "kampung, desa, dusun, lwn kota:  kampung kami di ~ sekali, jauh  dr kota;"
-                    },
-                    {
-                        "sense": "3",
-                        "definition": "ki tidak tahu adat, tidak sopan santun, tolol;  orang ~  a)  orang dr hulu (kampung, dusun); b) orang yg tidak tahu adat,  orang bodoh;"
-                    }
-                ]
-            },
             {
                 "sub_term": "keudikan",
                 "definitions": [
@@ -1705,7 +1691,7 @@
         ]
     },
     {
-        "term": "uja",
+        "term": "uja; menguja",
         "definitions": [
             {
                 "sense": "1",
@@ -2386,14 +2372,9 @@
                     {
                         "sense": "1",
                         "definition": "orang yg kerjanya mengukur, juruukur, tukang sukat;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "alat yg digunakan utk mengukur atau menyukat (spt kayu skala  dll)."
                     }
                 ]
@@ -2420,8 +2401,7 @@
         ]
     },
     {
-        "term": "ulam",
-        "roman_numeral": "I",
+        "term": "ulam I",
         "definitions": [
             {
                 "sense": "1",
@@ -2737,8 +2717,7 @@
         ]
     },
     {
-        "term": "ulap-ulap",
-        "roman_numeral": "II",
+        "term": "ulap-ulap II",
         "definitions": [
             {
                 "sense": "1",
@@ -2820,8 +2799,7 @@
         ]
     },
     {
-        "term": "ulas",
-        "roman_numeral": "I",
+        "term": "ulas I",
         "definitions": [
             {
                 "sense": "1",
@@ -2863,8 +2841,7 @@
         ]
     },
     {
-        "term": "ulas",
-        "roman_numeral": "II",
+        "term": "ulas II",
         "definitions": [
             {
                 "sense": "1",
@@ -2994,7 +2971,7 @@
         ]
     },
     {
-        "term": "ulas",
+        "term": "ulas tangan",
         "definitions": [
             {
                 "sense": "1",
@@ -3027,8 +3004,7 @@
         ]
     },
     {
-        "term": "ulat",
-        "roman_numeral": "I",
+        "term": "ulat I",
         "definitions": [
             {
                 "sense": "1",
@@ -3143,14 +3119,9 @@
                     {
                         "sense": "1",
                         "definition": "ketabahan hati (dlm menghadapi sesuatu), kecekalan;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "usaha yg giat, kecekapan, kegiatan (yg bersungguh-sungguh)."
                     }
                 ]
@@ -3310,8 +3281,7 @@
         ]
     },
     {
-        "term": "ulit",
-        "roman_numeral": "I",
+        "term": "ulit I; berulit",
         "definitions": [
             {
                 "sense": "1",
@@ -3530,8 +3500,7 @@
         ]
     },
     {
-        "term": "ulung",
-        "roman_numeral": "II",
+        "term": "ulung II",
         "definitions": [
             {
                 "sense": "1",
@@ -3745,8 +3714,7 @@
         ]
     },
     {
-        "term": "umbang",
-        "roman_numeral": "I",
+        "term": "umbang I; mengumbang ark",
         "definitions": [
             {
                 "sense": "1",
@@ -3780,7 +3748,7 @@
         ]
     },
     {
-        "term": "umbang-ambing",
+        "term": "umbang-ambing; mengumbang-ambingkan",
         "definitions": [
             {
                 "sense": "1",
@@ -3826,7 +3794,7 @@
         ]
     },
     {
-        "term": "umbar",
+        "term": "umbar; mengumbar",
         "definitions": [
             {
                 "sense": "1",
@@ -3848,8 +3816,7 @@
         ]
     },
     {
-        "term": "umbi",
-        "roman_numeral": "I",
+        "term": "umbi I",
         "definitions": [
             {
                 "sense": "1",
@@ -3862,22 +3829,21 @@
             {
                 "sense": "3",
                 "definition": "pangkal pokok yg berdaun tunggal (spt pokok kelapa, pisang, dll);"
+            },
+            {
+                "sense": "4",
+                "definition": "=  akar ~  akar drpd batang yg terus masuk lurus ke dlm tanah,  akar tunjang;"
+            },
+            {
+                "sense": "5",
+                "definition": "bahagian yg tertanam (tiang, pancang, dll);"
+            },
+            {
+                "sense": "6",
+                "definition": "ki  punca atau asal drpd sesuatu, asal, mula, pokok, pusat:  semua ini,  jika kita berbalik kpd ~ dan niat, adalah bertolak drpd  kekosongan iman dlm diri;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "4.",
-                "definitions": [
-                    {
-                        "sense": "5",
-                        "definition": "bahagian yg tertanam (tiang, pancang, dll);"
-                    },
-                    {
-                        "sense": "6",
-                        "definition": "ki  punca atau asal drpd sesuatu, asal, mula, pokok, pusat:  semua ini,  jika kita berbalik kpd ~ dan niat, adalah bertolak drpd  kekosongan iman dlm diri;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berumbi",
                 "definitions": [
@@ -4020,8 +3986,7 @@
         ]
     },
     {
-        "term": "umbut",
-        "roman_numeral": "II",
+        "term": "umbut II; mengumbut",
         "definitions": [
             {
                 "sense": "1",
@@ -4329,24 +4294,18 @@
         ]
     },
     {
-        "term": "umpat",
-        "roman_numeral": "I",
+        "term": "umpat I",
         "definitions": [
             {
-                "sense": "1",
-                "definition": "=  umpatan   1 . kata-kata yg bermaksud utk menodai nama orang  (merugikan orang), fitnah:  aku dibuang negeri ini kerana ~ orang;"
+                "sense": "2",
+                "definition": "kata-kata mengeji (mengejek) kerana marah (menyesali sesuatu  dll) terhadap orang yg bersalah dll, cercaan, sesalan:  Mak Guna  menyudahi nasihatnya dgn umpatan, ‘Seolah-olah kehendak dan  perintahku itu bukan utk kebaikanmu sendiri semata-mata’;"
+            },
+            {
+                "sense": "3",
+                "definition": "perasaan kesal yg amat sangat (kerana kata-katanya tidak  dipedulikan orang dll), geram, jengkel;  tidak ~ yg membunuh,  tidak puji yg mengenyang  prb jangan dihiraukan sangat umpat atau  puji  orang  kerana  kedua-duanya  tidak  merugikan  atau  menguntungkan;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "perasaan kesal yg amat sangat (kerana kata-katanya tidak  dipedulikan orang dll), geram, jengkel;  tidak ~ yg membunuh,  tidak puji yg mengenyang  prb jangan dihiraukan sangat umpat atau  puji  orang  kerana  kedua-duanya  tidak  merugikan  atau  menguntungkan;"
-                    }
-                ]
-            },
             {
                 "sub_term": "umpat-umpatan",
                 "definitions": [
@@ -4461,7 +4420,7 @@
         ]
     },
     {
-        "term": "umpil",
+        "term": "umpil; mengumpil",
         "definitions": [
             {
                 "sense": "1",
@@ -4594,8 +4553,7 @@
         ]
     },
     {
-        "term": "umum",
-        "roman_numeral": "I",
+        "term": "umum I",
         "definitions": [
             {
                 "sense": "1",
@@ -4664,14 +4622,9 @@
                     {
                         "sense": "1",
                         "definition": "perihal (perbuatan dsb) mengumumkan,  pemberitahuan kpd orang ramai, pemakluman:  kerajaan dijangka  akan membuat ~ mengenai pelantikan itu tidak berapa lama lagi;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "yg diumumkan:  ~ dlm akhbar itu ringkas sahaja."
                     }
                 ]
@@ -4679,8 +4632,7 @@
         ]
     },
     {
-        "term": "umum",
-        "roman_numeral": "II",
+        "term": "umum II sl",
         "definitions": [
             {
                 "sense": "1",
@@ -4810,8 +4762,7 @@
         ]
     },
     {
-        "term": "uncang",
-        "roman_numeral": "II",
+        "term": "uncang II; ",
         "definitions": [
             {
                 "sense": "1",
@@ -4911,8 +4862,7 @@
         ]
     },
     {
-        "term": "undak",
-        "roman_numeral": "II",
+        "term": "undak II; undak-undakan",
         "origin": "Jw",
         "definitions": [
             {
@@ -4935,8 +4885,7 @@
         ]
     },
     {
-        "term": "undan",
-        "roman_numeral": "II",
+        "term": "undan II",
         "definitions": [
             {
                 "sense": "1",
@@ -4979,8 +4928,7 @@
         ]
     },
     {
-        "term": "undang",
-        "roman_numeral": "II",
+        "term": "undang II; undang-undang",
         "definitions": [
             {
                 "sense": "1",
@@ -5222,7 +5170,7 @@
         ]
     },
     {
-        "term": "undur",
+        "term": "undur ",
         "definitions": [
             {
                 "sense": "2",
@@ -5560,7 +5508,7 @@
         ]
     },
     {
-        "term": "ungkai",
+        "term": "ungkai; mengungkai",
         "definitions": [
             {
                 "sense": "1",
@@ -5669,8 +5617,7 @@
         ]
     },
     {
-        "term": "ungkap",
-        "roman_numeral": "II",
+        "term": "ungkap II; mengungkapkan",
         "definitions": [
             {
                 "sense": "1",
@@ -5697,12 +5644,11 @@
                     {
                         "sense": "1",
                         "definition": "susunan kata yg digunakan dlm percakapan (tulisan),  frasa  atau  rangkai  kata  yg  tertentu  susunan  katanya:  kemarahannya sering tenggelam dlm ~ yg indah dan sedap-sedap;"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
+                    {
+                        "sense": "2",
+                        "definition": "gabungan (kelompok) kata yg khusus (tertentu) utk menyatakan  sesuatu maksud, simpulan bahasa;"
+                    },
                     {
                         "sense": "3",
                         "definition": "=  ~ muka  perubahan air  muka (menggambarkan perasaan hati);"
@@ -6372,7 +6318,7 @@
         ]
     },
     {
-        "term": "unjur",
+        "term": "unjur; mengunjur",
         "definitions": [
             {
                 "sense": "1",
@@ -6633,8 +6579,7 @@
         ]
     },
     {
-        "term": "until",
-        "roman_numeral": "II",
+        "term": "until II; menguntil",
         "definitions": [
             {
                 "sense": "1",
@@ -6983,17 +6928,14 @@
             {
                 "sense": "2",
                 "definition": "majlis menurut adat (kebiasaan, agama), keramaian atau peralatan  (menurut adat):  seisi negeri menyaksikan ~ perkahwinan tersebut;"
-            }
-        ],
-        "sub_terms": [
+            },
             {
-                "sub_term": "3.",
-                "definitions": [
-                    {
-                        "sense": "4",
-                        "definition": "sl perihal  menghormati dgn rasmi (tetamu dll), penghormatan rasmi."
-                    }
-                ]
+                "sense": "3",
+                "definition": "seluruh perbuatan yg dilakukan menurut peraturan dan istiadat  tertentu (utk merasmikan, memperingati, merayakan, melantik,  dll):  ~ penobatan; ~ perasmian persidangan;"
+            },
+            {
+                "sense": "4",
+                "definition": "sl perihal  menghormati dgn rasmi (tetamu dll), penghormatan rasmi."
             }
         ]
     },
@@ -7080,7 +7022,7 @@
         ]
     },
     {
-        "term": "upak",
+        "term": "upak ark;  mengupak",
         "definitions": [
             {
                 "sense": "1",
@@ -7433,7 +7375,7 @@
         ]
     },
     {
-        "term": "urah",
+        "term": "urah ;  mengurah",
         "origin": "Mn",
         "definitions": [
             {
@@ -7714,8 +7656,7 @@
         ]
     },
     {
-        "term": "urat",
-        "roman_numeral": "I",
+        "term": "urat I",
         "definitions": [
             {
                 "sense": "1",
@@ -8117,7 +8058,7 @@
         ]
     },
     {
-        "term": "uruk",
+        "term": "uruk ;  menguruk",
         "origin": "Jk",
         "definitions": [
             {
@@ -8165,14 +8106,9 @@
                     {
                         "sense": "1",
                         "definition": "sl menukar wang (wang besar dgn wang kecil dll);"
-                    }
-                ]
-            },
-            {
-                "sub_term": "2.",
-                "definitions": [
+                    },
                     {
-                        "sense": "1",
+                        "sense": "2",
                         "definition": "menukar barang dgn barang (dlm perdagangan dll);"
                     }
                 ]
@@ -8385,7 +8321,7 @@
         ]
     },
     {
-        "term": "urus",
+        "term": "urus setia",
         "definitions": [
             {
                 "sense": "1",
@@ -8809,22 +8745,21 @@
             {
                 "sense": "1",
                 "definition": "kering dan tidak berisi (padi), kersang (rambut, tembakau, dll);"
+            },
+            {
+                "sense": "2",
+                "definition": "sudah lama benar, lama terpakai atau tersimpan:  tikar  mengkuang yg sudah begitu ~;"
+            },
+            {
+                "sense": "3",
+                "definition": "sudah tidak biasa lagi dipakai  (perkataan, barang, dll), kuno:  kata-kata ini memang kedengaran  sangat gagah, tetapi telah terasa hampa, kerana ertinya sudah  tidak lagi dikenal atau sudah ~; pendapat demikian sudah ~, tidak  lagi sesuai sekarang;"
+            },
+            {
+                "sense": "4",
+                "definition": "tidak subur lagi (bkn tanah), kehabisan  baja (bkn tanah);     ~-~ dibaharui  ki membaharui adat lama yg sudah lemah dgn  menyesuaikannya dgn keadaan baru;  adat lama pusaka ~  Mn adat  yg sudah turun-temurun;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "3",
-                        "definition": "sudah tidak biasa lagi dipakai  (perkataan, barang, dll), kuno:  kata-kata ini memang kedengaran  sangat gagah, tetapi telah terasa hampa, kerana ertinya sudah  tidak lagi dikenal atau sudah ~; pendapat demikian sudah ~, tidak  lagi sesuai sekarang;"
-                    },
-                    {
-                        "sense": "4",
-                        "definition": "tidak subur lagi (bkn tanah), kehabisan  baja (bkn tanah);     ~-~ dibaharui  ki membaharui adat lama yg sudah lemah dgn  menyesuaikannya dgn keadaan baru;  adat lama pusaka ~  Mn adat  yg sudah turun-temurun;"
-                    }
-                ]
-            },
             {
                 "sub_term": "mengusang",
                 "definitions": [
@@ -8855,7 +8790,7 @@
         ]
     },
     {
-        "term": "usap",
+        "term": "usap; mengusap",
         "definitions": [
             {
                 "sense": "1",
@@ -9049,7 +8984,7 @@
         ]
     },
     {
-        "term": "usir",
+        "term": "usir; mengusir",
         "definitions": [
             {
                 "sense": "1",
@@ -9246,8 +9181,7 @@
         ]
     },
     {
-        "term": "usul",
-        "roman_numeral": "I",
+        "term": "usul I",
         "definitions": [
             {
                 "sense": "1",
@@ -9355,7 +9289,7 @@
         ]
     },
     {
-        "term": "usung",
+        "term": "usung; berusung",
         "definitions": [
             {
                 "sense": "1",
@@ -9582,8 +9516,7 @@
         ]
     },
     {
-        "term": "utara",
-        "roman_numeral": "II",
+        "term": "utara II; mengutarakan",
         "definitions": [
             {
                 "sense": "1",
@@ -9629,24 +9562,18 @@
         ]
     },
     {
-        "term": "utas",
-        "roman_numeral": "I",
+        "term": "utas I",
         "definitions": [
             {
                 "sense": "1",
                 "definition": "tali utk merangkaikan (manik, buah tasbih, dll), tali perangkai;"
+            },
+            {
+                "sense": "2",
+                "definition": "penjodoh bilangan utk benda yg berurai (spt benang, tali, rantai,  dll):  di lehernya tergantung se~ rantai suasa;"
             }
         ],
         "sub_terms": [
-            {
-                "sub_term": "2.",
-                "definitions": [
-                    {
-                        "sense": "1",
-                        "definition": "penjodoh bilangan utk benda yg berurai (spt benang, tali, rantai,  dll):  di lehernya tergantung se~ rantai suasa;"
-                    }
-                ]
-            },
             {
                 "sub_term": "berutas;",
                 "definitions": [
@@ -9928,8 +9855,7 @@
         ]
     },
     {
-        "term": "utus",
-        "roman_numeral": "II",
+        "term": "utus II sl",
         "definitions": [
             {
                 "sense": "1",
