@@ -177,7 +177,7 @@ def process_entry_content(term, content, sub_terms):
         equals_part = term_parts.group(3) if term_parts and term_parts.group(3) else None
     else:
         
-        term_parts = re.match(r'([a-zA-Z ;=\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
+        term_parts = re.match(r'([a-zA-Z ;,=\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
 
         base_term = term_parts.group(1) if term_parts else term
         roman_numeral = term_parts.group(2) if term_parts and term_parts.group(2) else None
