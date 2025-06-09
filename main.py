@@ -123,7 +123,7 @@ def extract_dictionary_entries(pdf_path):
 
 def process_entry_content(term, content, sub_terms):
     # Extract origin marker if present
-    origin_pattern = r"\b(?:Ar|Id|Jw|Jk|Pk|Pr|Tr|Kl|Kd|C|IB|Pt|Mn|Br|Sl|BP|Prb|Latin|Sanskrit|Bio|Kim|Ubat|Geog|Psi|Eko)\b|\((?:Bio|Kim|Ubat|Geog|Psi|Eko|Prb|Latin|Sanskrit)\)"
+    origin_pattern = r"\b(?:Ar|Id|Jw|Jk|Pk|Pr|Tr|Kl|Kd|sl|C|IB|Pt|Mn|Br|Sl|BP|Prb|Latin|Sanskrit|Bio|Kim|Ubat|Geog|Psi|Eko)\b|\((?:Bio|Kim|Ubat|Geog|Psi|Eko|Prb|Latin|Sanskrit)\)"
 
     origin_match = re.match(origin_pattern, content)
     origin = origin_match.group(0) if origin_match else None
@@ -177,7 +177,7 @@ def process_entry_content(term, content, sub_terms):
         equals_part = term_parts.group(3) if term_parts and term_parts.group(3) else None
     else:
         
-        term_parts = re.match(r'([a-zA-Z\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
+        term_parts = re.match(r'([a-zA-Z ;=\-]+)(?:\s+([IVX]+))?(?:;)?(?:\s+=\s+([a-zA-Z\-]+(?:-[a-zA-Z]+)*))?', term)
 
         base_term = term_parts.group(1) if term_parts else term
         roman_numeral = term_parts.group(2) if term_parts and term_parts.group(2) else None
