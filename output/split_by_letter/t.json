@@ -1,7 +1,6 @@
 [
     {
-        "term": "t",
-        "roman_numeral": "I",
+        "term": "t I",
         "definitions": [
             {
                 "sense": "1",
@@ -10,8 +9,7 @@
         ]
     },
     {
-        "term": "t",
-        "roman_numeral": "II",
+        "term": "t II",
         "definitions": [
             {
                 "sense": "1",
@@ -183,7 +181,7 @@
         ]
     },
     {
-        "term": "taat",
+        "term": "taat setia",
         "definitions": [
             {
                 "sense": "1",
@@ -222,8 +220,7 @@
         ]
     },
     {
-        "term": "tabah",
-        "roman_numeral": "I",
+        "term": "tabah I",
         "definitions": [
             {
                 "sense": "1",
@@ -232,8 +229,7 @@
         ]
     },
     {
-        "term": "tabah",
-        "roman_numeral": "II",
+        "term": "tabah II =",
         "definitions": [
             {
                 "sense": "1",
@@ -284,8 +280,7 @@
         ]
     },
     {
-        "term": "tabak",
-        "roman_numeral": "I",
+        "term": "tabak I",
         "definitions": [
             {
                 "sense": "1",
@@ -294,8 +289,7 @@
         ]
     },
     {
-        "term": "tabak",
-        "roman_numeral": "II",
+        "term": "tabak II",
         "origin": "Br",
         "definitions": [
             {
@@ -360,7 +354,7 @@
         ]
     },
     {
-        "term": "taban",
+        "term": "taban;",
         "definitions": [
             {
                 "sense": "1",
@@ -709,7 +703,7 @@
         ]
     },
     {
-        "term": "tabo",
+        "term": "tabo;",
         "definitions": [
             {
                 "sense": "1",
@@ -803,8 +797,7 @@
         ]
     },
     {
-        "term": "tabu",
-        "roman_numeral": "II",
+        "term": "tabu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -901,8 +894,7 @@
         ]
     },
     {
-        "term": "tabun",
-        "roman_numeral": "II",
+        "term": "tabun II",
         "definitions": [
             {
                 "sense": "1",
@@ -991,8 +983,7 @@
         ]
     },
     {
-        "term": "tabung",
-        "roman_numeral": "II",
+        "term": "tabung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1001,8 +992,7 @@
         ]
     },
     {
-        "term": "tabur",
-        "roman_numeral": "I",
+        "term": "tabur I;",
         "definitions": [
             {
                 "sense": "1",
@@ -1164,8 +1154,7 @@
         ]
     },
     {
-        "term": "tabur",
-        "roman_numeral": "II",
+        "term": "tabur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1294,8 +1283,7 @@
         ]
     },
     {
-        "term": "tadah",
-        "roman_numeral": "II",
+        "term": "tadah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1304,8 +1292,7 @@
         ]
     },
     {
-        "term": "tadah",
-        "roman_numeral": "III",
+        "term": "tadah III;",
         "definitions": [
             {
                 "sense": "1",
@@ -1433,8 +1420,7 @@
         ]
     },
     {
-        "term": "tadung",
-        "roman_numeral": "I",
+        "term": "tadung I;",
         "definitions": [
             {
                 "sense": "1",
@@ -1443,8 +1429,7 @@
         ]
     },
     {
-        "term": "tadung",
-        "roman_numeral": "II",
+        "term": "tadung II",
         "definitions": [
             {
                 "sense": "1",
@@ -1453,7 +1438,7 @@
         ]
     },
     {
-        "term": "tae",
+        "term": "tae kwan do",
         "definitions": [
             {
                 "sense": "1",
@@ -1462,7 +1447,7 @@
         ]
     },
     {
-        "term": "taf",
+        "term": "taf;",
         "definitions": [
             {
                 "sense": "1",
@@ -1659,7 +1644,7 @@
         ]
     },
     {
-        "term": "tagak",
+        "term": "tagak; bertagak-tagak",
         "definitions": [
             {
                 "sense": "1",
@@ -1697,7 +1682,7 @@
         ]
     },
     {
-        "term": "tagal",
+        "term": "tagal;",
         "origin": "Br",
         "definitions": [
             {
@@ -1748,8 +1733,7 @@
         ]
     },
     {
-        "term": "tagar",
-        "roman_numeral": "I",
+        "term": "tagar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1769,8 +1753,7 @@
         ]
     },
     {
-        "term": "tagar",
-        "roman_numeral": "II",
+        "term": "tagar II",
         "origin": "Br",
         "definitions": [
             {
@@ -1840,8 +1823,7 @@
         ]
     },
     {
-        "term": "tagih",
-        "roman_numeral": "II",
+        "term": "tagih II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1926,8 +1908,7 @@
         ]
     },
     {
-        "term": "tah",
-        "roman_numeral": "I",
+        "term": "tah I",
         "definitions": [
             {
                 "sense": "1",
@@ -1936,8 +1917,7 @@
         ]
     },
     {
-        "term": "tah",
-        "roman_numeral": "II",
+        "term": "tah II",
         "definitions": [
             {
                 "sense": "1",
@@ -1946,8 +1926,7 @@
         ]
     },
     {
-        "term": "tah",
-        "roman_numeral": "III",
+        "term": "tah III",
         "definitions": [
             {
                 "sense": "1",
@@ -2286,8 +2265,7 @@
         ]
     },
     {
-        "term": "tahan",
-        "roman_numeral": "II",
+        "term": "tahan II; menahan",
         "definitions": [
             {
                 "sense": "1",
@@ -2307,8 +2285,7 @@
         ]
     },
     {
-        "term": "tahan",
-        "roman_numeral": "III",
+        "term": "tahan III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2317,12 +2294,12 @@
         ]
     },
     {
-        "term": "tahana",
-        "roman_numeral": "I",
+        "term": "tahana I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl darjat, martabat (kebesaran, kemuliaan), taraf;"
+                "definition": "darjat, martabat (kebesaran, kemuliaan), taraf;"
             }
         ],
         "sub_terms": [
@@ -2351,8 +2328,7 @@
         ]
     },
     {
-        "term": "tahang",
-        "roman_numeral": "I",
+        "term": "tahang I",
         "definitions": [
             {
                 "sense": "1",
@@ -2361,8 +2337,7 @@
         ]
     },
     {
-        "term": "tahang",
-        "roman_numeral": "II",
+        "term": "tahang II",
         "definitions": [
             {
                 "sense": "1",
@@ -2427,8 +2402,7 @@
         ]
     },
     {
-        "term": "tahar",
-        "roman_numeral": "I",
+        "term": "tahar I; bertahar",
         "definitions": [
             {
                 "sense": "1",
@@ -2448,8 +2422,7 @@
         ]
     },
     {
-        "term": "tahar",
-        "roman_numeral": "II",
+        "term": "tahar II; bertahar",
         "definitions": [
             {
                 "sense": "1",
@@ -2560,8 +2533,7 @@
         ]
     },
     {
-        "term": "tahi",
-        "roman_numeral": "II",
+        "term": "tahi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2570,8 +2542,7 @@
         ]
     },
     {
-        "term": "tahi",
-        "roman_numeral": "III",
+        "term": "tahi III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2685,8 +2656,7 @@
         ]
     },
     {
-        "term": "tahlil",
-        "roman_numeral": "I",
+        "term": "tahlil I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2711,8 +2681,7 @@
         ]
     },
     {
-        "term": "tahlil",
-        "roman_numeral": "II",
+        "term": "tahlil II",
         "origin": "Ar",
         "definitions": [
             {
@@ -2978,8 +2947,7 @@
         ]
     },
     {
-        "term": "tahu",
-        "roman_numeral": "II",
+        "term": "tahu II",
         "definitions": [
             {
                 "sense": "1",
@@ -3081,8 +3049,7 @@
         ]
     },
     {
-        "term": "tahun",
-        "roman_numeral": "II",
+        "term": "tahun II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3112,8 +3079,7 @@
         ]
     },
     {
-        "term": "tai",
-        "roman_numeral": "I",
+        "term": "tai I",
         "definitions": [
             {
                 "sense": "1",
@@ -3133,8 +3099,7 @@
         ]
     },
     {
-        "term": "tai",
-        "roman_numeral": "II",
+        "term": "tai II",
         "origin": "Kd",
         "definitions": [
             {
@@ -3247,7 +3212,7 @@
         ]
     },
     {
-        "term": "taip",
+        "term": "taip;",
         "definitions": [
             {
                 "sense": "1",
@@ -3330,7 +3295,7 @@
         ]
     },
     {
-        "term": "tais",
+        "term": "tais liur",
         "origin": "Br",
         "definitions": [
             {
@@ -3422,7 +3387,7 @@
         ]
     },
     {
-        "term": "taja",
+        "term": "taja jamin",
         "origin": "(Eko)",
         "definitions": [
             {
@@ -3613,8 +3578,7 @@
         ]
     },
     {
-        "term": "tajam",
-        "roman_numeral": "II",
+        "term": "tajam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3642,8 +3606,7 @@
         ]
     },
     {
-        "term": "taji",
-        "roman_numeral": "I",
+        "term": "taji I",
         "definitions": [
             {
                 "sense": "1",
@@ -3672,8 +3635,7 @@
         ]
     },
     {
-        "term": "taji",
-        "roman_numeral": "II",
+        "term": "taji II",
         "definitions": [
             {
                 "sense": "1",
@@ -3793,8 +3755,7 @@
         ]
     },
     {
-        "term": "tajuk",
-        "roman_numeral": "II",
+        "term": "tajuk II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3824,7 +3785,7 @@
         ]
     },
     {
-        "term": "tajun",
+        "term": "tajun;",
         "definitions": [
             {
                 "sense": "1",
@@ -3833,7 +3794,7 @@
         ]
     },
     {
-        "term": "tajung",
+        "term": "tajung;",
         "definitions": [
             {
                 "sense": "1",
@@ -3842,8 +3803,7 @@
         ]
     },
     {
-        "term": "tajur",
-        "roman_numeral": "I",
+        "term": "tajur I",
         "definitions": [
             {
                 "sense": "1",
@@ -3852,8 +3812,7 @@
         ]
     },
     {
-        "term": "tajur",
-        "roman_numeral": "II",
+        "term": "tajur II",
         "definitions": [
             {
                 "sense": "1",
@@ -3873,8 +3832,7 @@
         ]
     },
     {
-        "term": "tajur",
-        "roman_numeral": "III",
+        "term": "tajur III",
         "origin": "Jk",
         "definitions": [
             {
@@ -3894,8 +3852,7 @@
         ]
     },
     {
-        "term": "tak",
-        "roman_numeral": "I",
+        "term": "tak I",
         "definitions": [
             {
                 "sense": "1",
@@ -3904,8 +3861,7 @@
         ]
     },
     {
-        "term": "tak",
-        "roman_numeral": "II",
+        "term": "tak II",
         "definitions": [
             {
                 "sense": "1",
@@ -3953,8 +3909,7 @@
         ]
     },
     {
-        "term": "takah",
-        "roman_numeral": "I",
+        "term": "takah I",
         "definitions": [
             {
                 "sense": "1",
@@ -3974,8 +3929,7 @@
         ]
     },
     {
-        "term": "takah",
-        "roman_numeral": "II",
+        "term": "takah II",
         "origin": "Kd",
         "definitions": [
             {
@@ -4014,7 +3968,7 @@
         ]
     },
     {
-        "term": "takai",
+        "term": "takai; menakai",
         "definitions": [
             {
                 "sense": "1",
@@ -4034,8 +3988,7 @@
         ]
     },
     {
-        "term": "takak",
-        "roman_numeral": "I",
+        "term": "takak I;",
         "definitions": [
             {
                 "sense": "1",
@@ -4055,8 +4008,7 @@
         ]
     },
     {
-        "term": "takak",
-        "roman_numeral": "II",
+        "term": "takak II",
         "definitions": [
             {
                 "sense": "1",
@@ -4074,7 +4026,7 @@
         ]
     },
     {
-        "term": "takang",
+        "term": "takang;",
         "definitions": [
             {
                 "sense": "1",
@@ -4176,8 +4128,7 @@
         ]
     },
     {
-        "term": "takat",
-        "roman_numeral": "II",
+        "term": "takat II",
         "origin": "Jw",
         "definitions": [
             {
@@ -4187,8 +4138,7 @@
         ]
     },
     {
-        "term": "takat",
-        "roman_numeral": "III",
+        "term": "takat III",
         "origin": "Br",
         "definitions": [
             {
@@ -4198,7 +4148,7 @@
         ]
     },
     {
-        "term": "takau",
+        "term": "takau;",
         "definitions": [
             {
                 "sense": "1",
@@ -4207,8 +4157,7 @@
         ]
     },
     {
-        "term": "takbir",
-        "roman_numeral": "I",
+        "term": "takbir I",
         "origin": "Ar",
         "definitions": [
             {
@@ -4238,8 +4187,7 @@
         ]
     },
     {
-        "term": "takbir",
-        "roman_numeral": "II",
+        "term": "takbir II",
         "origin": "Ar",
         "definitions": [
             {
@@ -4466,8 +4414,7 @@
         ]
     },
     {
-        "term": "taki",
-        "roman_numeral": "I",
+        "term": "taki I; bertaki",
         "definitions": [
             {
                 "sense": "1",
@@ -4496,8 +4443,7 @@
         ]
     },
     {
-        "term": "taki",
-        "roman_numeral": "II",
+        "term": "taki II",
         "definitions": [
             {
                 "sense": "1",
@@ -4697,8 +4643,7 @@
         ]
     },
     {
-        "term": "taklik",
-        "roman_numeral": "I",
+        "term": "taklik I",
         "origin": "Ar",
         "definitions": [
             {
@@ -4708,8 +4653,7 @@
         ]
     },
     {
-        "term": "taklik",
-        "roman_numeral": "II",
+        "term": "taklik II",
         "origin": "Ar",
         "definitions": [
             {
@@ -5035,8 +4979,7 @@
         ]
     },
     {
-        "term": "taksir",
-        "roman_numeral": "I",
+        "term": "taksir I",
         "definitions": [
             {
                 "sense": "1",
@@ -5056,8 +4999,7 @@
         ]
     },
     {
-        "term": "taksir",
-        "roman_numeral": "II",
+        "term": "taksir II",
         "definitions": [
             {
                 "sense": "1",
@@ -5148,8 +5090,7 @@
         ]
     },
     {
-        "term": "taksis",
-        "roman_numeral": "II",
+        "term": "taksis II",
         "origin": "(Bio)",
         "definitions": [
             {
@@ -5210,7 +5151,7 @@
         ]
     },
     {
-        "term": "takuh",
+        "term": "takuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -5362,8 +5303,7 @@
         ]
     },
     {
-        "term": "takur",
-        "roman_numeral": "I",
+        "term": "takur I",
         "origin": "Mn",
         "definitions": [
             {
@@ -5373,8 +5313,7 @@
         ]
     },
     {
-        "term": "takur",
-        "roman_numeral": "II",
+        "term": "takur II",
         "definitions": [
             {
                 "sense": "1",
@@ -5432,7 +5371,7 @@
         ]
     },
     {
-        "term": "takuwih",
+        "term": "takuwih;",
         "definitions": [
             {
                 "sense": "1",
@@ -5677,8 +5616,7 @@
         ]
     },
     {
-        "term": "tala",
-        "roman_numeral": "II",
+        "term": "tala II",
         "origin": "Pr",
         "definitions": [
             {
@@ -5688,8 +5626,7 @@
         ]
     },
     {
-        "term": "tala",
-        "roman_numeral": "III",
+        "term": "tala III; menala",
         "definitions": [
             {
                 "sense": "1",
@@ -5698,8 +5635,7 @@
         ]
     },
     {
-        "term": "tala",
-        "roman_numeral": "IV",
+        "term": "tala IV",
         "definitions": [
             {
                 "sense": "1",
@@ -5782,8 +5718,7 @@
         ]
     },
     {
-        "term": "talang",
-        "roman_numeral": "II",
+        "term": "talang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -5793,8 +5728,7 @@
         ]
     },
     {
-        "term": "talang",
-        "roman_numeral": "III",
+        "term": "talang III",
         "origin": "Jk",
         "definitions": [
             {
@@ -5828,8 +5762,7 @@
         ]
     },
     {
-        "term": "talang",
-        "roman_numeral": "IV",
+        "term": "talang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -5838,8 +5771,7 @@
         ]
     },
     {
-        "term": "talang",
-        "roman_numeral": "V",
+        "term": "talang V",
         "definitions": [
             {
                 "sense": "1",
@@ -5848,8 +5780,7 @@
         ]
     },
     {
-        "term": "talang",
-        "roman_numeral": "VI",
+        "term": "talang VI;",
         "definitions": [
             {
                 "sense": "1",
@@ -5867,8 +5798,7 @@
         ]
     },
     {
-        "term": "talar",
-        "roman_numeral": "I",
+        "term": "talar I; bertalaran",
         "definitions": [
             {
                 "sense": "1",
@@ -5877,8 +5807,7 @@
         ]
     },
     {
-        "term": "talar",
-        "roman_numeral": "II",
+        "term": "talar II",
         "definitions": [
             {
                 "sense": "1",
@@ -6108,8 +6037,7 @@
         ]
     },
     {
-        "term": "tali",
-        "roman_numeral": "II",
+        "term": "tali II",
         "definitions": [
             {
                 "sense": "1",
@@ -6129,8 +6057,7 @@
         ]
     },
     {
-        "term": "tali",
-        "roman_numeral": "III",
+        "term": "tali III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6139,8 +6066,7 @@
         ]
     },
     {
-        "term": "tali",
-        "roman_numeral": "IV",
+        "term": "tali IV",
         "definitions": [
             {
                 "sense": "1",
@@ -6178,7 +6104,7 @@
         ]
     },
     {
-        "term": "tali-tali",
+        "term": "tali-tali;",
         "definitions": [
             {
                 "sense": "1",
@@ -6249,8 +6175,7 @@
         ]
     },
     {
-        "term": "talu",
-        "roman_numeral": "I",
+        "term": "talu I; bertalu-talu",
         "definitions": [
             {
                 "sense": "1",
@@ -6259,8 +6184,7 @@
         ]
     },
     {
-        "term": "talu",
-        "roman_numeral": "II",
+        "term": "talu II",
         "origin": "Jw",
         "definitions": [
             {
@@ -6279,7 +6203,7 @@
         ]
     },
     {
-        "term": "talun",
+        "term": "talun;",
         "definitions": [
             {
                 "sense": "1",
@@ -6436,8 +6360,7 @@
         ]
     },
     {
-        "term": "taman",
-        "roman_numeral": "II",
+        "term": "taman II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6446,8 +6369,7 @@
         ]
     },
     {
-        "term": "taman",
-        "roman_numeral": "III",
+        "term": "taman III",
         "origin": "Mn",
         "definitions": [
             {
@@ -6684,7 +6606,7 @@
         ]
     },
     {
-        "term": "tambah",
+        "term": "tambah baik; bertambah baik",
         "definitions": [
             {
                 "sense": "1",
@@ -6765,8 +6687,7 @@
         ]
     },
     {
-        "term": "tambak",
-        "roman_numeral": "II",
+        "term": "tambak II",
         "origin": "Br",
         "definitions": [
             {
@@ -6776,8 +6697,7 @@
         ]
     },
     {
-        "term": "tambak",
-        "roman_numeral": "III",
+        "term": "tambak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6786,8 +6706,7 @@
         ]
     },
     {
-        "term": "tambak",
-        "roman_numeral": "IV",
+        "term": "tambak IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -6796,8 +6715,7 @@
         ]
     },
     {
-        "term": "tambal",
-        "roman_numeral": "I",
+        "term": "tambal I",
         "origin": "Jw",
         "definitions": [
             {
@@ -6827,8 +6745,7 @@
         ]
     },
     {
-        "term": "tambal",
-        "roman_numeral": "II",
+        "term": "tambal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6846,8 +6763,7 @@
         ]
     },
     {
-        "term": "tambang",
-        "roman_numeral": "I",
+        "term": "tambang I",
         "definitions": [
             {
                 "sense": "1",
@@ -6956,8 +6872,7 @@
         ]
     },
     {
-        "term": "tambang",
-        "roman_numeral": "III",
+        "term": "tambang III",
         "origin": "Jk",
         "definitions": [
             {
@@ -6987,8 +6902,7 @@
         ]
     },
     {
-        "term": "tambang",
-        "roman_numeral": "IV",
+        "term": "tambang IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -7009,8 +6923,7 @@
         ]
     },
     {
-        "term": "tambang",
-        "roman_numeral": "V",
+        "term": "tambang V;",
         "definitions": [
             {
                 "sense": "1",
@@ -7029,10 +6942,11 @@
     },
     {
         "term": "tambar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl ubat, penawar;"
+                "definition": "ubat, penawar;"
             }
         ],
         "sub_terms": [
@@ -7048,7 +6962,7 @@
         ]
     },
     {
-        "term": "tambat",
+        "term": "tambat; bertambat",
         "definitions": [
             {
                 "sense": "1",
@@ -7142,8 +7056,7 @@
         ]
     },
     {
-        "term": "tambera",
-        "roman_numeral": "I",
+        "term": "tambera I",
         "origin": "(Sanskrit)",
         "definitions": [
             {
@@ -7153,8 +7066,7 @@
         ]
     },
     {
-        "term": "tambera",
-        "roman_numeral": "II",
+        "term": "tambera II",
         "definitions": [
             {
                 "sense": "1",
@@ -7218,8 +7130,7 @@
         ]
     },
     {
-        "term": "tambuh",
-        "roman_numeral": "I",
+        "term": "tambuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -7228,8 +7139,7 @@
         ]
     },
     {
-        "term": "tambuh",
-        "roman_numeral": "II",
+        "term": "tambuh II",
         "origin": "Mn",
         "definitions": [
             {
@@ -7311,8 +7221,7 @@
         ]
     },
     {
-        "term": "tambun",
-        "roman_numeral": "I",
+        "term": "tambun I",
         "definitions": [
             {
                 "sense": "1",
@@ -7341,8 +7250,7 @@
         ]
     },
     {
-        "term": "tambun",
-        "roman_numeral": "II",
+        "term": "tambun II",
         "origin": "Mn",
         "definitions": [
             {
@@ -7385,8 +7293,7 @@
         ]
     },
     {
-        "term": "tambun",
-        "roman_numeral": "III",
+        "term": "tambun III;",
         "definitions": [
             {
                 "sense": "1",
@@ -7428,8 +7335,7 @@
         ]
     },
     {
-        "term": "tambur",
-        "roman_numeral": "II",
+        "term": "tambur II",
         "origin": "Tr",
         "definitions": [
             {
@@ -7498,7 +7404,7 @@
         ]
     },
     {
-        "term": "tampa",
+        "term": "tampa;",
         "definitions": [
             {
                 "sense": "1",
@@ -7522,8 +7428,7 @@
         ]
     },
     {
-        "term": "tampah",
-        "roman_numeral": "I",
+        "term": "tampah I",
         "origin": "Jw",
         "definitions": [
             {
@@ -7533,8 +7438,7 @@
         ]
     },
     {
-        "term": "tampah",
-        "roman_numeral": "II",
+        "term": "tampah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -7621,8 +7525,7 @@
         ]
     },
     {
-        "term": "tampak",
-        "roman_numeral": "II",
+        "term": "tampak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7738,8 +7641,7 @@
         ]
     },
     {
-        "term": "tampal",
-        "roman_numeral": "II",
+        "term": "tampal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7818,8 +7720,7 @@
         ]
     },
     {
-        "term": "tampan",
-        "roman_numeral": "II",
+        "term": "tampan II; menampan",
         "definitions": [
             {
                 "sense": "1",
@@ -7848,8 +7749,7 @@
         ]
     },
     {
-        "term": "tampan",
-        "roman_numeral": "III",
+        "term": "tampan III",
         "definitions": [
             {
                 "sense": "1",
@@ -7943,8 +7843,7 @@
         ]
     },
     {
-        "term": "tampang",
-        "roman_numeral": "V",
+        "term": "tampang V",
         "origin": "Br",
         "definitions": [
             {
@@ -7954,8 +7853,7 @@
         ]
     },
     {
-        "term": "tampang",
-        "roman_numeral": "VI",
+        "term": "tampang VI;",
         "definitions": [
             {
                 "sense": "1",
@@ -7964,8 +7862,7 @@
         ]
     },
     {
-        "term": "tampar",
-        "roman_numeral": "I",
+        "term": "tampar I",
         "definitions": [
             {
                 "sense": "1",
@@ -8110,7 +8007,7 @@
         ]
     },
     {
-        "term": "tampi",
+        "term": "tampi; bertampi",
         "definitions": [
             {
                 "sense": "1",
@@ -8156,8 +8053,7 @@
         ]
     },
     {
-        "term": "tampik",
-        "roman_numeral": "I",
+        "term": "tampik I; menampik",
         "definitions": [
             {
                 "sense": "1",
@@ -8177,8 +8073,7 @@
         ]
     },
     {
-        "term": "tampik",
-        "roman_numeral": "II",
+        "term": "tampik II",
         "definitions": [
             {
                 "sense": "1",
@@ -8187,8 +8082,7 @@
         ]
     },
     {
-        "term": "tampik",
-        "roman_numeral": "III",
+        "term": "tampik III",
         "origin": "Br",
         "definitions": [
             {
@@ -8259,8 +8153,7 @@
         ]
     },
     {
-        "term": "tampin",
-        "roman_numeral": "II",
+        "term": "tampin II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8397,8 +8290,7 @@
         ]
     },
     {
-        "term": "tampuk",
-        "roman_numeral": "II",
+        "term": "tampuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -8520,8 +8412,7 @@
         ]
     },
     {
-        "term": "tampung",
-        "roman_numeral": "III",
+        "term": "tampung III",
         "definitions": [
             {
                 "sense": "1",
@@ -8530,8 +8421,7 @@
         ]
     },
     {
-        "term": "tampung",
-        "roman_numeral": "IV",
+        "term": "tampung IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -8540,8 +8430,7 @@
         ]
     },
     {
-        "term": "tampung",
-        "roman_numeral": "V",
+        "term": "tampung V;",
         "definitions": [
             {
                 "sense": "1",
@@ -8602,8 +8491,7 @@
         ]
     },
     {
-        "term": "tamtam",
-        "roman_numeral": "I",
+        "term": "tamtam I",
         "origin": "Mn",
         "definitions": [
             {
@@ -8613,8 +8501,7 @@
         ]
     },
     {
-        "term": "tamtam",
-        "roman_numeral": "II",
+        "term": "tamtam II",
         "definitions": [
             {
                 "sense": "1",
@@ -8687,8 +8574,7 @@
         ]
     },
     {
-        "term": "tamu",
-        "roman_numeral": "II",
+        "term": "tamu II",
         "origin": "Br",
         "definitions": [
             {
@@ -8728,8 +8614,7 @@
         ]
     },
     {
-        "term": "tan",
-        "roman_numeral": "I",
+        "term": "tan I",
         "definitions": [
             {
                 "sense": "1",
@@ -8738,8 +8623,7 @@
         ]
     },
     {
-        "term": "tan",
-        "roman_numeral": "II",
+        "term": "tan II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8749,8 +8633,7 @@
         ]
     },
     {
-        "term": "tan",
-        "roman_numeral": "III",
+        "term": "tan III",
         "origin": "Jw",
         "definitions": [
             {
@@ -8760,8 +8643,7 @@
         ]
     },
     {
-        "term": "tan",
-        "roman_numeral": "IV",
+        "term": "tan IV",
         "origin": "Kd",
         "definitions": [
             {
@@ -8771,8 +8653,7 @@
         ]
     },
     {
-        "term": "tan",
-        "roman_numeral": "V",
+        "term": "tan V",
         "definitions": [
             {
                 "sense": "1",
@@ -8781,8 +8662,7 @@
         ]
     },
     {
-        "term": "tan",
-        "roman_numeral": "VI",
+        "term": "tan VI",
         "origin": "C",
         "definitions": [
             {
@@ -8792,8 +8672,7 @@
         ]
     },
     {
-        "term": "Tan",
-        "roman_numeral": "VII",
+        "term": "Tan VII;",
         "definitions": [
             {
                 "sense": "1",
@@ -8867,8 +8746,7 @@
         ]
     },
     {
-        "term": "tanah",
-        "roman_numeral": "II",
+        "term": "tanah II",
         "definitions": [
             {
                 "sense": "1",
@@ -8887,7 +8765,7 @@
         ]
     },
     {
-        "term": "tanak",
+        "term": "tanak;",
         "definitions": [
             {
                 "sense": "1",
@@ -8978,7 +8856,7 @@
         ]
     },
     {
-        "term": "tanam",
+        "term": "tanam;",
         "definitions": [
             {
                 "sense": "1",
@@ -9124,8 +9002,7 @@
         ]
     },
     {
-        "term": "tanang",
-        "roman_numeral": "I",
+        "term": "tanang I; menanang",
         "definitions": [
             {
                 "sense": "1",
@@ -9134,8 +9011,7 @@
         ]
     },
     {
-        "term": "tanang",
-        "roman_numeral": "II",
+        "term": "tanang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -9154,7 +9030,7 @@
         ]
     },
     {
-        "term": "tanau",
+        "term": "tanau;",
         "definitions": [
             {
                 "sense": "1",
@@ -9193,7 +9069,7 @@
         ]
     },
     {
-        "term": "tancap",
+        "term": "tancap;",
         "definitions": [
             {
                 "sense": "1",
@@ -9396,8 +9272,7 @@
         ]
     },
     {
-        "term": "tanda",
-        "roman_numeral": "II",
+        "term": "tanda II",
         "definitions": [
             {
                 "sense": "1",
@@ -9406,8 +9281,7 @@
         ]
     },
     {
-        "term": "tanda",
-        "roman_numeral": "III",
+        "term": "tanda III",
         "definitions": [
             {
                 "sense": "1",
@@ -9507,8 +9381,7 @@
         ]
     },
     {
-        "term": "tandang",
-        "roman_numeral": "I",
+        "term": "tandang I",
         "definitions": [
             {
                 "sense": "1",
@@ -9559,8 +9432,7 @@
         ]
     },
     {
-        "term": "tandang",
-        "roman_numeral": "II",
+        "term": "tandang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -9569,8 +9441,7 @@
         ]
     },
     {
-        "term": "tandas",
-        "roman_numeral": "I",
+        "term": "tandas I",
         "definitions": [
             {
                 "sense": "1",
@@ -9603,8 +9474,7 @@
         ]
     },
     {
-        "term": "tandas",
-        "roman_numeral": "III",
+        "term": "tandas III",
         "origin": "Jk",
         "definitions": [
             {
@@ -9625,8 +9495,7 @@
         ]
     },
     {
-        "term": "tandas",
-        "roman_numeral": "IV",
+        "term": "tandas IV",
         "definitions": [
             {
                 "sense": "1",
@@ -9944,8 +9813,7 @@
         ]
     },
     {
-        "term": "tanduk",
-        "roman_numeral": "II",
+        "term": "tanduk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -9992,8 +9860,7 @@
         ]
     },
     {
-        "term": "tandur",
-        "roman_numeral": "I",
+        "term": "tandur I",
         "origin": "Jw",
         "definitions": [
             {
@@ -10003,8 +9870,7 @@
         ]
     },
     {
-        "term": "tandur",
-        "roman_numeral": "II",
+        "term": "tandur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10069,8 +9935,7 @@
         ]
     },
     {
-        "term": "tang",
-        "roman_numeral": "I",
+        "term": "tang I",
         "definitions": [
             {
                 "sense": "1",
@@ -10079,8 +9944,7 @@
         ]
     },
     {
-        "term": "tang",
-        "roman_numeral": "II",
+        "term": "tang II",
         "definitions": [
             {
                 "sense": "1",
@@ -10089,8 +9953,7 @@
         ]
     },
     {
-        "term": "tang",
-        "roman_numeral": "III",
+        "term": "tang III",
         "origin": "IB",
         "definitions": [
             {
@@ -10100,8 +9963,7 @@
         ]
     },
     {
-        "term": "tang",
-        "roman_numeral": "IV",
+        "term": "tang IV",
         "origin": "IB",
         "definitions": [
             {
@@ -10224,7 +10086,7 @@
         ]
     },
     {
-        "term": "tangas",
+        "term": "tangas; bertangas",
         "definitions": [
             {
                 "sense": "1",
@@ -10343,8 +10205,7 @@
         ]
     },
     {
-        "term": "tanggah",
-        "roman_numeral": "I",
+        "term": "tanggah I",
         "definitions": [
             {
                 "sense": "1",
@@ -10353,12 +10214,12 @@
         ]
     },
     {
-        "term": "tanggah",
-        "roman_numeral": "II",
+        "term": "tanggah II; penanggah, penanggahan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl rumah dapur."
+                "definition": "rumah dapur."
             }
         ]
     },
@@ -10372,8 +10233,7 @@
         ]
     },
     {
-        "term": "tanggal",
-        "roman_numeral": "I",
+        "term": "tanggal I",
         "definitions": [
             {
                 "sense": "1",
@@ -10406,8 +10266,7 @@
         ]
     },
     {
-        "term": "tanggal",
-        "roman_numeral": "II",
+        "term": "tanggal II; penanggalan",
         "definitions": [
             {
                 "sense": "1",
@@ -10416,8 +10275,7 @@
         ]
     },
     {
-        "term": "tanggal",
-        "roman_numeral": "III",
+        "term": "tanggal III",
         "origin": "Id",
         "definitions": [
             {
@@ -10612,8 +10470,7 @@
         ]
     },
     {
-        "term": "tanggap",
-        "roman_numeral": "II",
+        "term": "tanggap II",
         "origin": "Id",
         "definitions": [
             {
@@ -10623,8 +10480,7 @@
         ]
     },
     {
-        "term": "tanggar",
-        "roman_numeral": "I",
+        "term": "tanggar I",
         "definitions": [
             {
                 "sense": "1",
@@ -10644,8 +10500,7 @@
         ]
     },
     {
-        "term": "tanggar",
-        "roman_numeral": "II",
+        "term": "tanggar II",
         "definitions": [
             {
                 "sense": "1",
@@ -10654,8 +10509,7 @@
         ]
     },
     {
-        "term": "tanggar",
-        "roman_numeral": "III",
+        "term": "tanggar III",
         "origin": "Br",
         "definitions": [
             {
@@ -10675,8 +10529,7 @@
         ]
     },
     {
-        "term": "tangguh",
-        "roman_numeral": "I",
+        "term": "tangguh I",
         "definitions": [
             {
                 "sense": "1",
@@ -10827,8 +10680,7 @@
         ]
     },
     {
-        "term": "tanggul",
-        "roman_numeral": "I",
+        "term": "tanggul I",
         "definitions": [
             {
                 "sense": "1",
@@ -10837,8 +10689,7 @@
         ]
     },
     {
-        "term": "tanggul",
-        "roman_numeral": "II",
+        "term": "tanggul II",
         "origin": "Jw",
         "definitions": [
             {
@@ -11137,8 +10988,7 @@
         ]
     },
     {
-        "term": "tangis",
-        "roman_numeral": "I",
+        "term": "tangis I",
         "definitions": [
             {
                 "sense": "1",
@@ -11212,8 +11062,7 @@
         ]
     },
     {
-        "term": "tangis",
-        "roman_numeral": "II",
+        "term": "tangis II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11242,8 +11091,7 @@
         ]
     },
     {
-        "term": "tangkai",
-        "roman_numeral": "II",
+        "term": "tangkai II; tangkaian",
         "definitions": [
             {
                 "sense": "1",
@@ -11272,7 +11120,7 @@
         ]
     },
     {
-        "term": "tangkap",
+        "term": "tangkap;",
         "definitions": [
             {
                 "sense": "1",
@@ -11440,8 +11288,7 @@
         ]
     },
     {
-        "term": "tangki",
-        "roman_numeral": "I",
+        "term": "tangki I",
         "definitions": [
             {
                 "sense": "1",
@@ -11450,8 +11297,7 @@
         ]
     },
     {
-        "term": "tangki",
-        "roman_numeral": "II",
+        "term": "tangki II",
         "definitions": [
             {
                 "sense": "1",
@@ -11460,8 +11306,7 @@
         ]
     },
     {
-        "term": "tangkil",
-        "roman_numeral": "I",
+        "term": "tangkil I",
         "definitions": [
             {
                 "sense": "1",
@@ -11470,8 +11315,7 @@
         ]
     },
     {
-        "term": "tangkil",
-        "roman_numeral": "II",
+        "term": "tangkil II; menangkil",
         "definitions": [
             {
                 "sense": "1",
@@ -11489,8 +11333,7 @@
         ]
     },
     {
-        "term": "tangkil",
-        "roman_numeral": "IV",
+        "term": "tangkil IV",
         "definitions": [
             {
                 "sense": "1",
@@ -11763,8 +11606,7 @@
         ]
     },
     {
-        "term": "tanglung",
-        "roman_numeral": "I",
+        "term": "tanglung I",
         "origin": "C",
         "definitions": [
             {
@@ -11774,8 +11616,7 @@
         ]
     },
     {
-        "term": "tanglung",
-        "roman_numeral": "II",
+        "term": "tanglung II",
         "origin": "Br",
         "definitions": [
             {
@@ -11838,8 +11679,7 @@
         ]
     },
     {
-        "term": "tangsi",
-        "roman_numeral": "II",
+        "term": "tangsi II",
         "definitions": [
             {
                 "sense": "1",
@@ -11858,8 +11698,7 @@
         ]
     },
     {
-        "term": "tani",
-        "roman_numeral": "I",
+        "term": "tani I;",
         "definitions": [
             {
                 "sense": "1",
@@ -11897,8 +11736,7 @@
         ]
     },
     {
-        "term": "tani",
-        "roman_numeral": "II",
+        "term": "tani II",
         "definitions": [
             {
                 "sense": "1",
@@ -11907,8 +11745,7 @@
         ]
     },
     {
-        "term": "tani",
-        "roman_numeral": "III",
+        "term": "tani III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12035,10 +11872,11 @@
     },
     {
         "term": "tanju",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj lampu dinding."
+                "definition": "sj lampu dinding."
             }
         ]
     },
@@ -12063,8 +11901,7 @@
         ]
     },
     {
-        "term": "tanjung",
-        "roman_numeral": "I",
+        "term": "tanjung I",
         "definitions": [
             {
                 "sense": "1",
@@ -12093,8 +11930,7 @@
         ]
     },
     {
-        "term": "tanjung",
-        "roman_numeral": "II",
+        "term": "tanjung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12124,7 +11960,7 @@
         ]
     },
     {
-        "term": "tan",
+        "term": "tan metrik",
         "definitions": [
             {
                 "sense": "1",
@@ -12161,7 +11997,7 @@
         ]
     },
     {
-        "term": "tantan",
+        "term": "tantan;",
         "definitions": [
             {
                 "sense": "1",
@@ -12170,8 +12006,7 @@
         ]
     },
     {
-        "term": "tantang",
-        "roman_numeral": "I",
+        "term": "tantang I; menantang",
         "definitions": [
             {
                 "sense": "1",
@@ -12208,8 +12043,7 @@
         ]
     },
     {
-        "term": "tantang",
-        "roman_numeral": "II",
+        "term": "tantang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -12267,8 +12101,7 @@
         ]
     },
     {
-        "term": "tanti",
-        "roman_numeral": "I",
+        "term": "tanti I",
         "definitions": [
             {
                 "sense": "1",
@@ -12277,8 +12110,7 @@
         ]
     },
     {
-        "term": "tanti",
-        "roman_numeral": "II",
+        "term": "tanti II",
         "origin": "Mn",
         "definitions": [
             {
@@ -12463,8 +12295,7 @@
         ]
     },
     {
-        "term": "tapa",
-        "roman_numeral": "I",
+        "term": "tapa I",
         "definitions": [
             {
                 "sense": "1",
@@ -12511,8 +12342,7 @@
         ]
     },
     {
-        "term": "tapa",
-        "roman_numeral": "II",
+        "term": "tapa II",
         "origin": "Mn",
         "definitions": [
             {
@@ -12522,8 +12352,7 @@
         ]
     },
     {
-        "term": "tapa",
-        "roman_numeral": "III",
+        "term": "tapa III",
         "definitions": [
             {
                 "sense": "1",
@@ -12541,8 +12370,7 @@
         ]
     },
     {
-        "term": "tapai",
-        "roman_numeral": "I",
+        "term": "tapai I",
         "definitions": [
             {
                 "sense": "1",
@@ -12584,8 +12412,7 @@
         ]
     },
     {
-        "term": "tapai",
-        "roman_numeral": "II",
+        "term": "tapai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12594,8 +12421,7 @@
         ]
     },
     {
-        "term": "tapai",
-        "roman_numeral": "III",
+        "term": "tapai III",
         "definitions": [
             {
                 "sense": "1",
@@ -12686,8 +12512,7 @@
         ]
     },
     {
-        "term": "tapak",
-        "roman_numeral": "II",
+        "term": "tapak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12696,8 +12521,7 @@
         ]
     },
     {
-        "term": "tapak",
-        "roman_numeral": "III",
+        "term": "tapak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12706,8 +12530,7 @@
         ]
     },
     {
-        "term": "tapal",
-        "roman_numeral": "I",
+        "term": "tapal I",
         "definitions": [
             {
                 "sense": "1",
@@ -12716,8 +12539,7 @@
         ]
     },
     {
-        "term": "tapal",
-        "roman_numeral": "II",
+        "term": "tapal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12726,8 +12548,7 @@
         ]
     },
     {
-        "term": "tapal",
-        "roman_numeral": "III",
+        "term": "tapal III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12736,8 +12557,7 @@
         ]
     },
     {
-        "term": "tapang",
-        "roman_numeral": "I",
+        "term": "tapang I",
         "origin": "Jk",
         "definitions": [
             {
@@ -12833,8 +12653,7 @@
         ]
     },
     {
-        "term": "tapih",
-        "roman_numeral": "I",
+        "term": "tapih I",
         "definitions": [
             {
                 "sense": "1",
@@ -12854,8 +12673,7 @@
         ]
     },
     {
-        "term": "tapih",
-        "roman_numeral": "II",
+        "term": "tapih II",
         "definitions": [
             {
                 "sense": "1",
@@ -12864,7 +12682,7 @@
         ]
     },
     {
-        "term": "tapin",
+        "term": "tapin;",
         "definitions": [
             {
                 "sense": "1",
@@ -12977,8 +12795,7 @@
         ]
     },
     {
-        "term": "tapis",
-        "roman_numeral": "II",
+        "term": "tapis II",
         "definitions": [
             {
                 "sense": "1",
@@ -13006,8 +12823,7 @@
         ]
     },
     {
-        "term": "tapu",
-        "roman_numeral": "I",
+        "term": "tapu I",
         "origin": "Mn",
         "definitions": [
             {
@@ -13017,8 +12833,7 @@
         ]
     },
     {
-        "term": "tapu",
-        "roman_numeral": "II",
+        "term": "tapu II",
         "origin": "Tr",
         "definitions": [
             {
@@ -13046,8 +12861,7 @@
         ]
     },
     {
-        "term": "tapuk",
-        "roman_numeral": "II",
+        "term": "tapuk II; bertapuk-tapuk",
         "definitions": [
             {
                 "sense": "1",
@@ -13056,8 +12870,7 @@
         ]
     },
     {
-        "term": "tapuk",
-        "roman_numeral": "III",
+        "term": "tapuk III",
         "definitions": [
             {
                 "sense": "1",
@@ -13066,8 +12879,7 @@
         ]
     },
     {
-        "term": "tapuk",
-        "roman_numeral": "IV",
+        "term": "tapuk IV",
         "origin": "Jw",
         "definitions": [
             {
@@ -13077,8 +12889,7 @@
         ]
     },
     {
-        "term": "tapuk",
-        "roman_numeral": "V",
+        "term": "tapuk V",
         "origin": "Mn",
         "definitions": [
             {
@@ -13088,8 +12899,7 @@
         ]
     },
     {
-        "term": "tapuk",
-        "roman_numeral": "VI",
+        "term": "tapuk VI",
         "origin": "Br",
         "definitions": [
             {
@@ -13099,8 +12909,7 @@
         ]
     },
     {
-        "term": "tapung",
-        "roman_numeral": "I",
+        "term": "tapung I",
         "origin": "Mn",
         "definitions": [
             {
@@ -13121,8 +12930,7 @@
         ]
     },
     {
-        "term": "tapung",
-        "roman_numeral": "II",
+        "term": "tapung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -13140,8 +12948,7 @@
         ]
     },
     {
-        "term": "tar",
-        "roman_numeral": "I",
+        "term": "tar I;",
         "definitions": [
             {
                 "sense": "1",
@@ -13150,8 +12957,7 @@
         ]
     },
     {
-        "term": "tar",
-        "roman_numeral": "II",
+        "term": "tar II",
         "definitions": [
             {
                 "sense": "1",
@@ -13173,8 +12979,7 @@
         ]
     },
     {
-        "term": "tar",
-        "roman_numeral": "IV",
+        "term": "tar IV",
         "origin": "Tr",
         "definitions": [
             {
@@ -13283,8 +13088,7 @@
         ]
     },
     {
-        "term": "tara",
-        "roman_numeral": "II",
+        "term": "tara II",
         "definitions": [
             {
                 "sense": "1",
@@ -13293,8 +13097,7 @@
         ]
     },
     {
-        "term": "tara",
-        "roman_numeral": "III",
+        "term": "tara III",
         "origin": "Mn",
         "definitions": [
             {
@@ -13304,8 +13107,7 @@
         ]
     },
     {
-        "term": "tara",
-        "roman_numeral": "IV",
+        "term": "tara IV",
         "origin": "Tr",
         "definitions": [
             {
@@ -13486,8 +13288,7 @@
         ]
     },
     {
-        "term": "tarak",
-        "roman_numeral": "II",
+        "term": "tarak II",
         "definitions": [
             {
                 "sense": "1",
@@ -13506,8 +13307,7 @@
         ]
     },
     {
-        "term": "taram",
-        "roman_numeral": "I",
+        "term": "taram I",
         "definitions": [
             {
                 "sense": "1",
@@ -13516,8 +13316,7 @@
         ]
     },
     {
-        "term": "taram",
-        "roman_numeral": "II",
+        "term": "taram II",
         "definitions": [
             {
                 "sense": "1",
@@ -13526,8 +13325,7 @@
         ]
     },
     {
-        "term": "taram",
-        "roman_numeral": "III",
+        "term": "taram III;",
         "definitions": [
             {
                 "sense": "1",
@@ -13993,8 +13791,7 @@
         ]
     },
     {
-        "term": "taring",
-        "roman_numeral": "II",
+        "term": "taring II",
         "definitions": [
             {
                 "sense": "1",
@@ -14003,8 +13800,7 @@
         ]
     },
     {
-        "term": "taring",
-        "roman_numeral": "III",
+        "term": "taring III;",
         "definitions": [
             {
                 "sense": "1",
@@ -14023,8 +13819,7 @@
         ]
     },
     {
-        "term": "taris",
-        "roman_numeral": "I",
+        "term": "taris I",
         "definitions": [
             {
                 "sense": "1",
@@ -14033,8 +13828,7 @@
         ]
     },
     {
-        "term": "taris",
-        "roman_numeral": "II",
+        "term": "taris II",
         "definitions": [
             {
                 "sense": "1",
@@ -14054,11 +13848,12 @@
         ]
     },
     {
-        "term": "tarkas",
+        "term": "tarkas, tarkasy",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lubang tempat menyimpan anak panah:  ~ berisi anak  panah."
+                "definition": "lubang tempat menyimpan anak panah:  ~ berisi anak  panah."
             }
         ]
     },
@@ -14373,8 +14168,7 @@
         ]
     },
     {
-        "term": "taruk",
-        "roman_numeral": "I",
+        "term": "taruk I",
         "definitions": [
             {
                 "sense": "1",
@@ -14418,8 +14212,7 @@
         ]
     },
     {
-        "term": "taruk",
-        "roman_numeral": "III",
+        "term": "taruk III",
         "origin": "Br",
         "definitions": [
             {
@@ -14429,8 +14222,7 @@
         ]
     },
     {
-        "term": "taruk",
-        "roman_numeral": "IV",
+        "term": "taruk IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -14439,8 +14231,7 @@
         ]
     },
     {
-        "term": "tarum",
-        "roman_numeral": "I",
+        "term": "tarum I",
         "definitions": [
             {
                 "sense": "1",
@@ -14449,8 +14240,7 @@
         ]
     },
     {
-        "term": "tarum",
-        "roman_numeral": "II",
+        "term": "tarum II",
         "definitions": [
             {
                 "sense": "1",
@@ -14459,8 +14249,7 @@
         ]
     },
     {
-        "term": "tarum",
-        "roman_numeral": "III",
+        "term": "tarum III;",
         "definitions": [
             {
                 "sense": "1",
@@ -14567,8 +14356,7 @@
         ]
     },
     {
-        "term": "tas",
-        "roman_numeral": "I",
+        "term": "tas I",
         "definitions": [
             {
                 "sense": "1",
@@ -14577,8 +14365,7 @@
         ]
     },
     {
-        "term": "tas",
-        "roman_numeral": "II",
+        "term": "tas II",
         "origin": "IB",
         "definitions": [
             {
@@ -14588,8 +14375,7 @@
         ]
     },
     {
-        "term": "tas",
-        "roman_numeral": "III",
+        "term": "tas III",
         "definitions": [
             {
                 "sense": "1",
@@ -14598,8 +14384,7 @@
         ]
     },
     {
-        "term": "tas",
-        "roman_numeral": "IV",
+        "term": "tas IV",
         "definitions": [
             {
                 "sense": "1",
@@ -14716,8 +14501,7 @@
         ]
     },
     {
-        "term": "tasbih",
-        "roman_numeral": "II",
+        "term": "tasbih II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14781,8 +14565,7 @@
         ]
     },
     {
-        "term": "tasik",
-        "roman_numeral": "II",
+        "term": "tasik II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14818,8 +14601,7 @@
         ]
     },
     {
-        "term": "taslim",
-        "roman_numeral": "I",
+        "term": "taslim I",
         "origin": "Ar",
         "definitions": [
             {
@@ -14840,8 +14622,7 @@
         ]
     },
     {
-        "term": "taslim",
-        "roman_numeral": "II",
+        "term": "taslim II",
         "origin": "Ar",
         "definitions": [
             {
@@ -14958,8 +14739,7 @@
         ]
     },
     {
-        "term": "tat",
-        "roman_numeral": "I",
+        "term": "tat I",
         "definitions": [
             {
                 "sense": "1",
@@ -14968,8 +14748,7 @@
         ]
     },
     {
-        "term": "tat",
-        "roman_numeral": "II",
+        "term": "tat II",
         "definitions": [
             {
                 "sense": "1",
@@ -14978,8 +14757,7 @@
         ]
     },
     {
-        "term": "tata",
-        "roman_numeral": "I",
+        "term": "tata I",
         "definitions": [
             {
                 "sense": "1",
@@ -15017,8 +14795,7 @@
         ]
     },
     {
-        "term": "tata",
-        "roman_numeral": "II",
+        "term": "tata II",
         "definitions": [
             {
                 "sense": "1",
@@ -15143,8 +14920,7 @@
         ]
     },
     {
-        "term": "tatah",
-        "roman_numeral": "I",
+        "term": "tatah I",
         "origin": "Jw",
         "definitions": [
             {
@@ -15174,8 +14950,7 @@
         ]
     },
     {
-        "term": "tatah",
-        "roman_numeral": "II",
+        "term": "tatah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15204,8 +14979,7 @@
         ]
     },
     {
-        "term": "tatah",
-        "roman_numeral": "III",
+        "term": "tatah III",
         "origin": "Mn",
         "definitions": [
             {
@@ -15309,8 +15083,7 @@
         ]
     },
     {
-        "term": "tatal",
-        "roman_numeral": "I",
+        "term": "tatal I",
         "definitions": [
             {
                 "sense": "1",
@@ -15319,8 +15092,7 @@
         ]
     },
     {
-        "term": "tatal",
-        "roman_numeral": "II",
+        "term": "tatal II; menatal",
         "definitions": [
             {
                 "sense": "1",
@@ -15340,8 +15112,7 @@
         ]
     },
     {
-        "term": "tatal",
-        "roman_numeral": "III",
+        "term": "tatal III;",
         "definitions": [
             {
                 "sense": "1",
@@ -15398,11 +15169,12 @@
         ]
     },
     {
-        "term": "tatang",
+        "term": "tatang; menatang, bertatang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl membawa sesuatu di atas tapak tangan,  menating, menayang:  seorang budak lelaki belasan tahun keluar  dr dalam ~ sedulang kopi hitam;    ~ setahun hujan di langit, air laut masakan tawar  prb nasihat yg  baik itu tidak akan dapat mengubah kejahatan yg besar;  ditatang  bagai minyak yg penuh  =  spt ~ minyak yg penuh  prb sangat  dikasihi dan dipelihara dgn sempurnanya;  ditatang di anak lidah  prb sangat kasih kpd anak isteri;"
+                "definition": "membawa sesuatu di atas tapak tangan,  menating, menayang:  seorang budak lelaki belasan tahun keluar  dr dalam ~ sedulang kopi hitam;    ~ setahun hujan di langit, air laut masakan tawar  prb nasihat yg  baik itu tidak akan dapat mengubah kejahatan yg besar;  ditatang  bagai minyak yg penuh  =  spt ~ minyak yg penuh  prb sangat  dikasihi dan dipelihara dgn sempurnanya;  ditatang di anak lidah  prb sangat kasih kpd anak isteri;"
             }
         ],
         "sub_terms": [
@@ -15494,8 +15266,7 @@
         ]
     },
     {
-        "term": "tatar",
-        "roman_numeral": "I",
+        "term": "tatar I; menatar",
         "definitions": [
             {
                 "sense": "1",
@@ -15533,8 +15304,7 @@
         ]
     },
     {
-        "term": "tatar",
-        "roman_numeral": "II",
+        "term": "tatar II",
         "origin": "Mn",
         "definitions": [
             {
@@ -15641,7 +15411,7 @@
         ]
     },
     {
-        "term": "tatera",
+        "term": "tatera;",
         "definitions": [
             {
                 "sense": "1",
@@ -15674,8 +15444,7 @@
         ]
     },
     {
-        "term": "tating",
-        "roman_numeral": "I",
+        "term": "tating I;",
         "definitions": [
             {
                 "sense": "1",
@@ -15717,8 +15486,7 @@
         ]
     },
     {
-        "term": "tatu",
-        "roman_numeral": "I",
+        "term": "tatu I",
         "definitions": [
             {
                 "sense": "1",
@@ -15738,8 +15506,7 @@
         ]
     },
     {
-        "term": "tatu",
-        "roman_numeral": "II",
+        "term": "tatu II",
         "definitions": [
             {
                 "sense": "1",
@@ -15748,8 +15515,7 @@
         ]
     },
     {
-        "term": "tau",
-        "roman_numeral": "I",
+        "term": "tau I",
         "definitions": [
             {
                 "sense": "1",
@@ -15758,8 +15524,7 @@
         ]
     },
     {
-        "term": "tau",
-        "roman_numeral": "II",
+        "term": "tau II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15768,8 +15533,7 @@
         ]
     },
     {
-        "term": "tau",
-        "roman_numeral": "III",
+        "term": "tau III",
         "definitions": [
             {
                 "sense": "1",
@@ -15909,8 +15673,7 @@
         ]
     },
     {
-        "term": "tauhu",
-        "roman_numeral": "I",
+        "term": "tauhu I",
         "origin": "C",
         "definitions": [
             {
@@ -15920,8 +15683,7 @@
         ]
     },
     {
-        "term": "tauhu",
-        "roman_numeral": "II",
+        "term": "tauhu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -16033,8 +15795,7 @@
         ]
     },
     {
-        "term": "taun",
-        "roman_numeral": "I",
+        "term": "taun I",
         "definitions": [
             {
                 "sense": "1",
@@ -16165,8 +15926,7 @@
         ]
     },
     {
-        "term": "taut",
-        "roman_numeral": "II",
+        "term": "taut II",
         "definitions": [
             {
                 "sense": "1",
@@ -16292,8 +16052,7 @@
         ]
     },
     {
-        "term": "tawaduk",
-        "roman_numeral": "II",
+        "term": "tawaduk II",
         "definitions": [
             {
                 "sense": "1",
@@ -16344,8 +16103,7 @@
         ]
     },
     {
-        "term": "tawak",
-        "roman_numeral": "I",
+        "term": "tawak I",
         "definitions": [
             {
                 "sense": "1",
@@ -16354,8 +16112,7 @@
         ]
     },
     {
-        "term": "tawak",
-        "roman_numeral": "II",
+        "term": "tawak II",
         "definitions": [
             {
                 "sense": "1",
@@ -16394,10 +16151,11 @@
     },
     {
         "term": "tawak-tawak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gong kecil utk mengerahkan orang (supaya berkumpul  dll)."
+                "definition": "gong kecil utk mengerahkan orang (supaya berkumpul  dll)."
             }
         ]
     },
@@ -16449,8 +16207,7 @@
         ]
     },
     {
-        "term": "tawan",
-        "roman_numeral": "II",
+        "term": "tawan II; bertawan-tawan;",
         "definitions": [
             {
                 "sense": "1",
@@ -16459,8 +16216,7 @@
         ]
     },
     {
-        "term": "tawan",
-        "roman_numeral": "III",
+        "term": "tawan III;",
         "definitions": [
             {
                 "sense": "1",
@@ -16469,8 +16225,7 @@
         ]
     },
     {
-        "term": "tawang",
-        "roman_numeral": "I",
+        "term": "tawang I",
         "origin": "Jw",
         "definitions": [
             {
@@ -16480,8 +16235,7 @@
         ]
     },
     {
-        "term": "tawang",
-        "roman_numeral": "II",
+        "term": "tawang II",
         "origin": "Jk",
         "definitions": [
             {
@@ -16603,8 +16357,7 @@
         ]
     },
     {
-        "term": "tawar",
-        "roman_numeral": "II",
+        "term": "tawar II",
         "definitions": [
             {
                 "sense": "1",
@@ -16781,7 +16534,7 @@
         ]
     },
     {
-        "term": "taya",
+        "term": "taya;",
         "definitions": [
             {
                 "sense": "1",
@@ -16811,8 +16564,7 @@
         ]
     },
     {
-        "term": "tayang",
-        "roman_numeral": "I",
+        "term": "tayang I; menayang",
         "definitions": [
             {
                 "sense": "1",
@@ -16889,8 +16641,7 @@
         ]
     },
     {
-        "term": "tayang",
-        "roman_numeral": "II",
+        "term": "tayang II",
         "definitions": [
             {
                 "sense": "1",
@@ -17049,8 +16800,7 @@
         ]
     },
     {
-        "term": "tebah",
-        "roman_numeral": "II",
+        "term": "tebah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -17089,8 +16839,7 @@
         ]
     },
     {
-        "term": "tebak",
-        "roman_numeral": "II",
+        "term": "tebak II",
         "definitions": [
             {
                 "sense": "1",
@@ -17175,8 +16924,7 @@
         ]
     },
     {
-        "term": "tebal",
-        "roman_numeral": "II",
+        "term": "tebal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17205,8 +16953,7 @@
         ]
     },
     {
-        "term": "tebang",
-        "roman_numeral": "I",
+        "term": "tebang I; bertebang",
         "definitions": [
             {
                 "sense": "1",
@@ -17269,8 +17016,7 @@
         ]
     },
     {
-        "term": "tebang",
-        "roman_numeral": "II",
+        "term": "tebang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17378,8 +17124,7 @@
         ]
     },
     {
-        "term": "tebas",
-        "roman_numeral": "I",
+        "term": "tebas I; bertebas",
         "definitions": [
             {
                 "sense": "1",
@@ -17443,8 +17188,7 @@
         ]
     },
     {
-        "term": "tebas",
-        "roman_numeral": "II",
+        "term": "tebas II",
         "origin": "Jw",
         "definitions": [
             {
@@ -17613,7 +17357,7 @@
         ]
     },
     {
-        "term": "tebera",
+        "term": "tebera;",
         "definitions": [
             {
                 "sense": "1",
@@ -17808,8 +17552,7 @@
         ]
     },
     {
-        "term": "tebuk",
-        "roman_numeral": "II",
+        "term": "tebuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -17818,8 +17561,7 @@
         ]
     },
     {
-        "term": "tebus",
-        "roman_numeral": "I",
+        "term": "tebus I; bertebus",
         "definitions": [
             {
                 "sense": "1",
@@ -17907,8 +17649,7 @@
         ]
     },
     {
-        "term": "tebus",
-        "roman_numeral": "II",
+        "term": "tebus II",
         "definitions": [
             {
                 "sense": "1",
@@ -17917,7 +17658,7 @@
         ]
     },
     {
-        "term": "tebus",
+        "term": "tebus guna; menebus guna",
         "definitions": [
             {
                 "sense": "1",
@@ -17951,8 +17692,7 @@
         ]
     },
     {
-        "term": "tedas",
-        "roman_numeral": "I",
+        "term": "tedas I",
         "origin": "Jw",
         "definitions": [
             {
@@ -17962,8 +17702,7 @@
         ]
     },
     {
-        "term": "tedas",
-        "roman_numeral": "II",
+        "term": "tedas II",
         "definitions": [
             {
                 "sense": "1",
@@ -18093,7 +17832,7 @@
         ]
     },
     {
-        "term": "tedung",
+        "term": "tedung;",
         "definitions": [
             {
                 "sense": "1",
@@ -18111,7 +17850,7 @@
         ]
     },
     {
-        "term": "tegadas",
+        "term": "tegadas;",
         "definitions": [
             {
                 "sense": "1",
@@ -18319,18 +18058,17 @@
         ]
     },
     {
-        "term": "tegal",
-        "roman_numeral": "I",
+        "term": "tegal I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kerana, oleh sebab;  ~ itulah  oleh sebab itulah, kerana itulah;  alah bisa ~ biasa  prb kalau selalu diperbuat pekerjaan itu hilanglah  ketakutan dan kecanggungannya (pengalaman praktik lebih  berguna drpd teori)."
+                "definition": "kerana, oleh sebab;  ~ itulah  oleh sebab itulah, kerana itulah;  alah bisa ~ biasa  prb kalau selalu diperbuat pekerjaan itu hilanglah  ketakutan dan kecanggungannya (pengalaman praktik lebih  berguna drpd teori)."
             }
         ]
     },
     {
-        "term": "tegal",
-        "roman_numeral": "II",
+        "term": "tegal II",
         "origin": "Id",
         "definitions": [
             {
@@ -18351,8 +18089,7 @@
         ]
     },
     {
-        "term": "tegal",
-        "roman_numeral": "III",
+        "term": "tegal III",
         "definitions": [
             {
                 "sense": "1",
@@ -18518,8 +18255,7 @@
         ]
     },
     {
-        "term": "tegap",
-        "roman_numeral": "II",
+        "term": "tegap II",
         "definitions": [
             {
                 "sense": "1",
@@ -18570,8 +18306,7 @@
         ]
     },
     {
-        "term": "tegar",
-        "roman_numeral": "II",
+        "term": "tegar II",
         "definitions": [
             {
                 "sense": "1",
@@ -18813,7 +18548,7 @@
         ]
     },
     {
-        "term": "teguk",
+        "term": "teguk; seteguk",
         "definitions": [
             {
                 "sense": "1",
@@ -18851,7 +18586,7 @@
         ]
     },
     {
-        "term": "tegun",
+        "term": "tegun; bertegun, menegun",
         "definitions": [
             {
                 "sense": "1",
@@ -19075,7 +18810,7 @@
         ]
     },
     {
-        "term": "teka",
+        "term": "teka; meneka",
         "definitions": [
             {
                 "sense": "1",
@@ -19179,12 +18914,12 @@
         ]
     },
     {
-        "term": "tekak",
-        "roman_numeral": "II",
+        "term": "tekak II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tidak mahu menurut kata, keras kepala, tegar hati, degil."
+                "definition": "tidak mahu menurut kata, keras kepala, tegar hati, degil."
             }
         ]
     },
@@ -19226,7 +18961,7 @@
         ]
     },
     {
-        "term": "tekan",
+        "term": "tekan;",
         "definitions": [
             {
                 "sense": "1",
@@ -19404,8 +19139,7 @@
         ]
     },
     {
-        "term": "tekap",
-        "roman_numeral": "I",
+        "term": "tekap I",
         "definitions": [
             {
                 "sense": "1",
@@ -19456,8 +19190,7 @@
         ]
     },
     {
-        "term": "tekap",
-        "roman_numeral": "II",
+        "term": "tekap II",
         "definitions": [
             {
                 "sense": "1",
@@ -19667,8 +19400,7 @@
         ]
     },
     {
-        "term": "teki",
-        "roman_numeral": "I",
+        "term": "teki I",
         "definitions": [
             {
                 "sense": "1",
@@ -19677,8 +19409,7 @@
         ]
     },
     {
-        "term": "teki",
-        "roman_numeral": "II",
+        "term": "teki II",
         "definitions": [
             {
                 "sense": "1",
@@ -19983,7 +19714,7 @@
         ]
     },
     {
-        "term": "tekua",
+        "term": "tekua;",
         "definitions": [
             {
                 "sense": "1",
@@ -19992,8 +19723,7 @@
         ]
     },
     {
-        "term": "tekuk",
-        "roman_numeral": "I",
+        "term": "tekuk I; bertekuk",
         "definitions": [
             {
                 "sense": "1",
@@ -20034,8 +19764,7 @@
         ]
     },
     {
-        "term": "tekuk",
-        "roman_numeral": "II",
+        "term": "tekuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -20044,7 +19773,7 @@
         ]
     },
     {
-        "term": "tekukur",
+        "term": "tekukur;",
         "definitions": [
             {
                 "sense": "1",
@@ -20138,7 +19867,7 @@
         ]
     },
     {
-        "term": "tekup",
+        "term": "tekup; menekup",
         "definitions": [
             {
                 "sense": "1",
@@ -20158,8 +19887,7 @@
         ]
     },
     {
-        "term": "tekur",
-        "roman_numeral": "I",
+        "term": "tekur I",
         "origin": "IB",
         "definitions": [
             {
@@ -20180,8 +19908,7 @@
         ]
     },
     {
-        "term": "tekur",
-        "roman_numeral": "II",
+        "term": "tekur II",
         "definitions": [
             {
                 "sense": "1",
@@ -20467,8 +20194,7 @@
         ]
     },
     {
-        "term": "telah",
-        "roman_numeral": "II",
+        "term": "telah II; menelah",
         "definitions": [
             {
                 "sense": "1",
@@ -20534,7 +20260,7 @@
         ]
     },
     {
-        "term": "telan",
+        "term": "telan;",
         "definitions": [
             {
                 "sense": "1",
@@ -20600,7 +20326,7 @@
         ]
     },
     {
-        "term": "telancang",
+        "term": "telancang, telancung",
         "definitions": [
             {
                 "sense": "1",
@@ -20609,8 +20335,7 @@
         ]
     },
     {
-        "term": "telang",
-        "roman_numeral": "I",
+        "term": "telang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -20619,8 +20344,7 @@
         ]
     },
     {
-        "term": "telang",
-        "roman_numeral": "II",
+        "term": "telang II; bertelang",
         "definitions": [
             {
                 "sense": "1",
@@ -20790,8 +20514,7 @@
         ]
     },
     {
-        "term": "telanjur",
-        "roman_numeral": "II",
+        "term": "telanjur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -20863,7 +20586,7 @@
         ]
     },
     {
-        "term": "telas",
+        "term": "telas; petelasan",
         "definitions": [
             {
                 "sense": "1",
@@ -20909,8 +20632,7 @@
         ]
     },
     {
-        "term": "telatap",
-        "roman_numeral": "I",
+        "term": "telatap I",
         "definitions": [
             {
                 "sense": "1",
@@ -20919,8 +20641,7 @@
         ]
     },
     {
-        "term": "telatap",
-        "roman_numeral": "II",
+        "term": "telatap II",
         "definitions": [
             {
                 "sense": "1",
@@ -21195,7 +20916,7 @@
         ]
     },
     {
-        "term": "telekan",
+        "term": "telekan; bertelekan",
         "definitions": [
             {
                 "sense": "1",
@@ -21204,8 +20925,7 @@
         ]
     },
     {
-        "term": "telekap",
-        "roman_numeral": "I",
+        "term": "telekap I",
         "definitions": [
             {
                 "sense": "1",
@@ -21214,8 +20934,7 @@
         ]
     },
     {
-        "term": "telekap",
-        "roman_numeral": "II",
+        "term": "telekap II; menelekap",
         "definitions": [
             {
                 "sense": "1",
@@ -21251,7 +20970,7 @@
         ]
     },
     {
-        "term": "teleku",
+        "term": "teleku; berteleku",
         "definitions": [
             {
                 "sense": "1",
@@ -21284,7 +21003,7 @@
         ]
     },
     {
-        "term": "telekup",
+        "term": "telekup; bertelekup",
         "definitions": [
             {
                 "sense": "1",
@@ -21351,8 +21070,7 @@
         ]
     },
     {
-        "term": "teleng",
-        "roman_numeral": "I",
+        "term": "teleng I;",
         "definitions": [
             {
                 "sense": "1",
@@ -21361,8 +21079,7 @@
         ]
     },
     {
-        "term": "teleng",
-        "roman_numeral": "II",
+        "term": "teleng II",
         "origin": "Id",
         "definitions": [
             {
@@ -21525,10 +21242,11 @@
     },
     {
         "term": "telepuk",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bunga-bungaan dll drpd perada mas (kain dll);  kain ~  sj kain  berbunga-bunga tenunan India;  ~   serasah  sj kain buatan India;"
+                "definition": "bunga-bungaan dll drpd perada mas (kain dll);  kain ~  sj kain  berbunga-bunga tenunan India;  ~   serasah  sj kain buatan India;"
             }
         ],
         "sub_terms": [
@@ -21566,7 +21284,7 @@
         ]
     },
     {
-        "term": "teles",
+        "term": "teles; telesan",
         "origin": "Jw",
         "definitions": [
             {
@@ -21732,8 +21450,7 @@
         ]
     },
     {
-        "term": "telinga",
-        "roman_numeral": "II",
+        "term": "telinga II;",
         "definitions": [
             {
                 "sense": "1",
@@ -21742,8 +21459,7 @@
         ]
     },
     {
-        "term": "telinga",
-        "roman_numeral": "III",
+        "term": "telinga III;",
         "definitions": [
             {
                 "sense": "1",
@@ -21794,7 +21510,7 @@
         ]
     },
     {
-        "term": "telingkung",
+        "term": "telingkung;",
         "definitions": [
             {
                 "sense": "1",
@@ -21924,8 +21640,7 @@
         ]
     },
     {
-        "term": "teluk",
-        "roman_numeral": "II",
+        "term": "teluk II; berteluk",
         "definitions": [
             {
                 "sense": "1",
@@ -21934,8 +21649,7 @@
         ]
     },
     {
-        "term": "teluki",
-        "roman_numeral": "I",
+        "term": "teluki I",
         "definitions": [
             {
                 "sense": "1",
@@ -21944,8 +21658,7 @@
         ]
     },
     {
-        "term": "teluki",
-        "roman_numeral": "II",
+        "term": "teluki II;",
         "definitions": [
             {
                 "sense": "1",
@@ -21963,7 +21676,7 @@
         ]
     },
     {
-        "term": "telun",
+        "term": "telun; setelun",
         "origin": "Pr",
         "definitions": [
             {
@@ -21983,7 +21696,7 @@
         ]
     },
     {
-        "term": "telungkup",
+        "term": "telungkup; menelungkup",
         "definitions": [
             {
                 "sense": "1",
@@ -22038,8 +21751,7 @@
         ]
     },
     {
-        "term": "telur",
-        "roman_numeral": "I",
+        "term": "telur I",
         "definitions": [
             {
                 "sense": "1",
@@ -22088,8 +21800,7 @@
         ]
     },
     {
-        "term": "telur",
-        "roman_numeral": "II",
+        "term": "telur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22164,8 +21875,7 @@
         ]
     },
     {
-        "term": "telut",
-        "roman_numeral": "I",
+        "term": "telut I; bertelut",
         "definitions": [
             {
                 "sense": "1",
@@ -22174,8 +21884,7 @@
         ]
     },
     {
-        "term": "telut",
-        "roman_numeral": "II",
+        "term": "telut II",
         "definitions": [
             {
                 "sense": "1",
@@ -22250,8 +21959,7 @@
         ]
     },
     {
-        "term": "temaha",
-        "roman_numeral": "I",
+        "term": "temaha I",
         "definitions": [
             {
                 "sense": "1",
@@ -22260,8 +21968,7 @@
         ]
     },
     {
-        "term": "temaha",
-        "roman_numeral": "II",
+        "term": "temaha II",
         "origin": "Jw",
         "definitions": [
             {
@@ -22317,7 +22024,7 @@
         ]
     },
     {
-        "term": "temali",
+        "term": "temali;",
         "definitions": [
             {
                 "sense": "1",
@@ -22422,10 +22129,11 @@
     },
     {
         "term": "temara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj lembing (tombak)."
+                "definition": "sj lembing (tombak)."
             }
         ]
     },
@@ -22532,8 +22240,7 @@
         ]
     },
     {
-        "term": "tembaga",
-        "roman_numeral": "I",
+        "term": "tembaga I",
         "definitions": [
             {
                 "sense": "1",
@@ -22553,8 +22260,7 @@
         ]
     },
     {
-        "term": "tembaga",
-        "roman_numeral": "II",
+        "term": "tembaga II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22789,7 +22495,7 @@
         ]
     },
     {
-        "term": "tembar",
+        "term": "tembar; menembar",
         "origin": "Pr",
         "definitions": [
             {
@@ -22930,7 +22636,7 @@
         ]
     },
     {
-        "term": "tembelian",
+        "term": "tembelian;",
         "definitions": [
             {
                 "sense": "1",
@@ -23057,7 +22763,7 @@
         ]
     },
     {
-        "term": "tembi",
+        "term": "tembi; menembi",
         "definitions": [
             {
                 "sense": "1",
@@ -23246,8 +22952,7 @@
         ]
     },
     {
-        "term": "tembuk",
-        "roman_numeral": "II",
+        "term": "tembuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23275,8 +22980,7 @@
         ]
     },
     {
-        "term": "tembung",
-        "roman_numeral": "I",
+        "term": "tembung I",
         "definitions": [
             {
                 "sense": "1",
@@ -23533,8 +23237,7 @@
         ]
     },
     {
-        "term": "temenggung",
-        "roman_numeral": "II",
+        "term": "temenggung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23543,8 +23246,7 @@
         ]
     },
     {
-        "term": "temenggung",
-        "roman_numeral": "III",
+        "term": "temenggung III;",
         "definitions": [
             {
                 "sense": "1",
@@ -23553,8 +23255,7 @@
         ]
     },
     {
-        "term": "temenggung",
-        "roman_numeral": "IV",
+        "term": "temenggung IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -23581,8 +23282,7 @@
         ]
     },
     {
-        "term": "temerang",
-        "roman_numeral": "I",
+        "term": "temerang I",
         "origin": "Kl",
         "definitions": [
             {
@@ -23592,8 +23292,7 @@
         ]
     },
     {
-        "term": "temerang",
-        "roman_numeral": "II",
+        "term": "temerang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23652,8 +23351,7 @@
         ]
     },
     {
-        "term": "temiang",
-        "roman_numeral": "II",
+        "term": "temiang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23709,8 +23407,7 @@
         ]
     },
     {
-        "term": "temin",
-        "roman_numeral": "I",
+        "term": "temin I",
         "definitions": [
             {
                 "sense": "1",
@@ -23719,8 +23416,7 @@
         ]
     },
     {
-        "term": "temin",
-        "roman_numeral": "II",
+        "term": "temin II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23747,7 +23443,7 @@
         ]
     },
     {
-        "term": "tempa",
+        "term": "tempa;",
         "definitions": [
             {
                 "sense": "1",
@@ -23936,7 +23632,7 @@
         ]
     },
     {
-        "term": "tempap",
+        "term": "tempap; setempap",
         "definitions": [
             {
                 "sense": "1",
@@ -24170,7 +23866,7 @@
         ]
     },
     {
-        "term": "tempayung",
+        "term": "tempayung;",
         "definitions": [
             {
                 "sense": "1",
@@ -24364,7 +24060,7 @@
         ]
     },
     {
-        "term": "tempelas",
+        "term": "tempelas;",
         "definitions": [
             {
                 "sense": "1",
@@ -24411,8 +24107,7 @@
         ]
     },
     {
-        "term": "temperas",
-        "roman_numeral": "I",
+        "term": "temperas I",
         "definitions": [
             {
                 "sense": "1",
@@ -24808,12 +24503,12 @@
         ]
     },
     {
-        "term": "tempuh",
-        "roman_numeral": "I",
+        "term": "tempuh I; bertempuh-tempuh, tempuh-menempuh",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl langgar- melanggar (orang berperang dll), serang-menyerang, serbu- menyerbu;"
+                "definition": "langgar- melanggar (orang berperang dll), serang-menyerang, serbu- menyerbu;"
             }
         ],
         "sub_terms": [
@@ -24900,8 +24595,7 @@
         ]
     },
     {
-        "term": "tempuh",
-        "roman_numeral": "II",
+        "term": "tempuh II",
         "origin": "Jw",
         "definitions": [
             {
@@ -24948,7 +24642,7 @@
         ]
     },
     {
-        "term": "tempunai",
+        "term": "tempunai, tempuni",
         "definitions": [
             {
                 "sense": "1",
@@ -25047,8 +24741,7 @@
         ]
     },
     {
-        "term": "tempurung",
-        "roman_numeral": "II",
+        "term": "tempurung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -25237,8 +24930,7 @@
         ]
     },
     {
-        "term": "temu",
-        "roman_numeral": "II",
+        "term": "temu II",
         "definitions": [
             {
                 "sense": "1",
@@ -25256,7 +24948,7 @@
         ]
     },
     {
-        "term": "temu",
+        "term": "temu bual",
         "definitions": [
             {
                 "sense": "1",
@@ -25373,7 +25065,7 @@
         ]
     },
     {
-        "term": "temulang",
+        "term": "temulang;",
         "definitions": [
             {
                 "sense": "1",
@@ -25382,7 +25074,7 @@
         ]
     },
     {
-        "term": "temu",
+        "term": "temu ramah",
         "definitions": [
             {
                 "sense": "1",
@@ -25429,7 +25121,7 @@
         ]
     },
     {
-        "term": "temurun",
+        "term": "temurun;",
         "definitions": [
             {
                 "sense": "1",
@@ -25699,10 +25391,11 @@
     },
     {
         "term": "tendas",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kepala;"
+                "definition": "kepala;"
             }
         ],
         "sub_terms": [
@@ -26143,8 +25836,7 @@
         ]
     },
     {
-        "term": "tenggak",
-        "roman_numeral": "I",
+        "term": "tenggak I; menenggak",
         "definitions": [
             {
                 "sense": "1",
@@ -26153,8 +25845,7 @@
         ]
     },
     {
-        "term": "tenggak",
-        "roman_numeral": "II",
+        "term": "tenggak II",
         "origin": "Kd",
         "definitions": [
             {
@@ -26193,8 +25884,7 @@
         ]
     },
     {
-        "term": "tenggalung",
-        "roman_numeral": "I",
+        "term": "tenggalung I",
         "definitions": [
             {
                 "sense": "1",
@@ -26203,8 +25893,7 @@
         ]
     },
     {
-        "term": "tenggalung",
-        "roman_numeral": "II",
+        "term": "tenggalung II",
         "definitions": [
             {
                 "sense": "1",
@@ -26213,8 +25902,7 @@
         ]
     },
     {
-        "term": "tenggalung",
-        "roman_numeral": "III",
+        "term": "tenggalung III",
         "origin": "Kd",
         "definitions": [
             {
@@ -26224,7 +25912,7 @@
         ]
     },
     {
-        "term": "tenggan",
+        "term": "tenggan; bertenggan",
         "definitions": [
             {
                 "sense": "1",
@@ -26376,8 +26064,7 @@
         ]
     },
     {
-        "term": "tenggat",
-        "roman_numeral": "I",
+        "term": "tenggat I",
         "definitions": [
             {
                 "sense": "1",
@@ -26386,8 +26073,7 @@
         ]
     },
     {
-        "term": "tenggat",
-        "roman_numeral": "II",
+        "term": "tenggat II; menenggat",
         "definitions": [
             {
                 "sense": "1",
@@ -26599,7 +26285,7 @@
         ]
     },
     {
-        "term": "tenggorok",
+        "term": "tenggorok, tenggorokan",
         "definitions": [
             {
                 "sense": "1",
@@ -26627,8 +26313,7 @@
         ]
     },
     {
-        "term": "tengguli",
-        "roman_numeral": "I",
+        "term": "tengguli I",
         "definitions": [
             {
                 "sense": "1",
@@ -26726,8 +26411,7 @@
         ]
     },
     {
-        "term": "tengkalak",
-        "roman_numeral": "I",
+        "term": "tengkalak I",
         "definitions": [
             {
                 "sense": "1",
@@ -26736,8 +26420,7 @@
         ]
     },
     {
-        "term": "tengkalak",
-        "roman_numeral": "II",
+        "term": "tengkalak II",
         "definitions": [
             {
                 "sense": "1",
@@ -26764,8 +26447,7 @@
         ]
     },
     {
-        "term": "tengkam",
-        "roman_numeral": "I",
+        "term": "tengkam I",
         "definitions": [
             {
                 "sense": "1",
@@ -26774,8 +26456,7 @@
         ]
     },
     {
-        "term": "tengkam",
-        "roman_numeral": "II",
+        "term": "tengkam II",
         "definitions": [
             {
                 "sense": "1",
@@ -26784,8 +26465,7 @@
         ]
     },
     {
-        "term": "tengkang",
-        "roman_numeral": "I",
+        "term": "tengkang I",
         "definitions": [
             {
                 "sense": "1",
@@ -26794,8 +26474,7 @@
         ]
     },
     {
-        "term": "tengkang",
-        "roman_numeral": "II",
+        "term": "tengkang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -26804,8 +26483,7 @@
         ]
     },
     {
-        "term": "tengkar",
-        "roman_numeral": "I",
+        "term": "tengkar I",
         "definitions": [
             {
                 "sense": "1",
@@ -26861,8 +26539,7 @@
         ]
     },
     {
-        "term": "tengkar",
-        "roman_numeral": "II",
+        "term": "tengkar II",
         "definitions": [
             {
                 "sense": "1",
@@ -27075,8 +26752,7 @@
         ]
     },
     {
-        "term": "tengkorak",
-        "roman_numeral": "I",
+        "term": "tengkorak I",
         "definitions": [
             {
                 "sense": "1",
@@ -27085,8 +26761,7 @@
         ]
     },
     {
-        "term": "tengkorak",
-        "roman_numeral": "II",
+        "term": "tengkorak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27095,8 +26770,7 @@
         ]
     },
     {
-        "term": "tengku",
-        "roman_numeral": "I",
+        "term": "tengku I",
         "definitions": [
             {
                 "sense": "1",
@@ -27116,8 +26790,7 @@
         ]
     },
     {
-        "term": "tengku",
-        "roman_numeral": "II",
+        "term": "tengku II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27148,8 +26821,7 @@
         ]
     },
     {
-        "term": "tengkuk",
-        "roman_numeral": "II",
+        "term": "tengkuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27270,7 +26942,7 @@
         ]
     },
     {
-        "term": "tengung",
+        "term": "tengung;",
         "definitions": [
             {
                 "sense": "1",
@@ -28026,8 +27698,7 @@
         ]
     },
     {
-        "term": "tenuk",
-        "roman_numeral": "I",
+        "term": "tenuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -28036,8 +27707,7 @@
         ]
     },
     {
-        "term": "tenuk",
-        "roman_numeral": "II",
+        "term": "tenuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -28046,7 +27716,7 @@
         ]
     },
     {
-        "term": "tenun",
+        "term": "tenun;",
         "definitions": [
             {
                 "sense": "1",
@@ -28401,8 +28071,7 @@
         ]
     },
     {
-        "term": "tepak",
-        "roman_numeral": "I",
+        "term": "tepak I",
         "definitions": [
             {
                 "sense": "1",
@@ -28411,8 +28080,7 @@
         ]
     },
     {
-        "term": "tepak",
-        "roman_numeral": "II",
+        "term": "tepak II",
         "definitions": [
             {
                 "sense": "1",
@@ -28481,8 +28149,7 @@
         ]
     },
     {
-        "term": "tepas",
-        "roman_numeral": "I",
+        "term": "tepas I",
         "definitions": [
             {
                 "sense": "1",
@@ -28491,8 +28158,7 @@
         ]
     },
     {
-        "term": "tepas",
-        "roman_numeral": "II",
+        "term": "tepas II",
         "definitions": [
             {
                 "sense": "1",
@@ -28501,12 +28167,12 @@
         ]
     },
     {
-        "term": "tepas",
-        "roman_numeral": "III",
+        "term": "tepas III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl arah, hala, penjuru;  empat ~ dunia  empat penjuru dunia  (timur, barat, utara, dan selatan)."
+                "definition": "arah, hala, penjuru;  empat ~ dunia  empat penjuru dunia  (timur, barat, utara, dan selatan)."
             }
         ]
     },
@@ -28957,8 +28623,7 @@
         ]
     },
     {
-        "term": "tepis",
-        "roman_numeral": "I",
+        "term": "tepis I; menepis",
         "definitions": [
             {
                 "sense": "1",
@@ -28982,8 +28647,7 @@
         ]
     },
     {
-        "term": "tepis",
-        "roman_numeral": "II",
+        "term": "tepis II; menepis",
         "definitions": [
             {
                 "sense": "1",
@@ -29029,8 +28693,7 @@
         ]
     },
     {
-        "term": "tepu",
-        "roman_numeral": "I",
+        "term": "tepu I",
         "definitions": [
             {
                 "sense": "1",
@@ -29039,8 +28702,7 @@
         ]
     },
     {
-        "term": "tepu",
-        "roman_numeral": "II",
+        "term": "tepu II",
         "origin": "(Kim)",
         "definitions": [
             {
@@ -29134,8 +28796,7 @@
         ]
     },
     {
-        "term": "tepuk",
-        "roman_numeral": "II",
+        "term": "tepuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29144,7 +28805,7 @@
         ]
     },
     {
-        "term": "tepuk",
+        "term": "tepuk tangan",
         "definitions": [
             {
                 "sense": "1",
@@ -29197,8 +28858,7 @@
         ]
     },
     {
-        "term": "tepung",
-        "roman_numeral": "II",
+        "term": "tepung II",
         "origin": "Mn",
         "definitions": [
             {
@@ -29208,7 +28868,7 @@
         ]
     },
     {
-        "term": "tepung",
+        "term": "tepung tawar",
         "definitions": [
             {
                 "sense": "1",
@@ -29237,8 +28897,7 @@
         ]
     },
     {
-        "term": "tepur",
-        "roman_numeral": "I",
+        "term": "tepur I",
         "origin": "Kl",
         "definitions": [
             {
@@ -29248,8 +28907,7 @@
         ]
     },
     {
-        "term": "tepur",
-        "roman_numeral": "II",
+        "term": "tepur II; menepur",
         "definitions": [
             {
                 "sense": "1",
@@ -29258,8 +28916,7 @@
         ]
     },
     {
-        "term": "tepus",
-        "roman_numeral": "I",
+        "term": "tepus I",
         "definitions": [
             {
                 "sense": "1",
@@ -29268,8 +28925,7 @@
         ]
     },
     {
-        "term": "tepus",
-        "roman_numeral": "II",
+        "term": "tepus II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29417,8 +29073,7 @@
         ]
     },
     {
-        "term": "tera",
-        "roman_numeral": "III",
+        "term": "tera III",
         "origin": "Tr",
         "definitions": [
             {
@@ -29469,8 +29124,7 @@
         ]
     },
     {
-        "term": "terada",
-        "roman_numeral": "II",
+        "term": "terada II",
         "definitions": [
             {
                 "sense": "1",
@@ -29612,8 +29266,7 @@
         ]
     },
     {
-        "term": "terak",
-        "roman_numeral": "II",
+        "term": "terak II ark",
         "definitions": [
             {
                 "sense": "1",
@@ -29622,8 +29275,7 @@
         ]
     },
     {
-        "term": "terak",
-        "roman_numeral": "III",
+        "term": "terak III",
         "definitions": [
             {
                 "sense": "1",
@@ -29661,7 +29313,7 @@
         ]
     },
     {
-        "term": "teral",
+        "term": "teral;",
         "definitions": [
             {
                 "sense": "1",
@@ -29671,10 +29323,11 @@
     },
     {
         "term": "terala",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl luhur, Maha Tinggi, Maha Mulia:  Tuhan yg ~ ."
+                "definition": "luhur, Maha Tinggi, Maha Mulia:  Tuhan yg ~ ."
             }
         ]
     },
@@ -29726,8 +29379,7 @@
         ]
     },
     {
-        "term": "teraling",
-        "roman_numeral": "I",
+        "term": "teraling I;",
         "definitions": [
             {
                 "sense": "1",
@@ -29796,7 +29448,7 @@
         ]
     },
     {
-        "term": "teran",
+        "term": "teran; meneran",
         "definitions": [
             {
                 "sense": "1",
@@ -30033,8 +29685,7 @@
         ]
     },
     {
-        "term": "terap",
-        "roman_numeral": "I",
+        "term": "terap I",
         "definitions": [
             {
                 "sense": "1",
@@ -30054,8 +29705,7 @@
         ]
     },
     {
-        "term": "terap",
-        "roman_numeral": "II",
+        "term": "terap II",
         "definitions": [
             {
                 "sense": "1",
@@ -30084,8 +29734,7 @@
         ]
     },
     {
-        "term": "terap",
-        "roman_numeral": "III",
+        "term": "terap III",
         "definitions": [
             {
                 "sense": "1",
@@ -30105,8 +29754,7 @@
         ]
     },
     {
-        "term": "terap",
-        "roman_numeral": "IV",
+        "term": "terap IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -30316,8 +29964,7 @@
         ]
     },
     {
-        "term": "teras",
-        "roman_numeral": "II",
+        "term": "teras II",
         "origin": "Id",
         "definitions": [
             {
@@ -30336,8 +29983,7 @@
         ]
     },
     {
-        "term": "terasi",
-        "roman_numeral": "I",
+        "term": "terasi I",
         "origin": "Id",
         "definitions": [
             {
@@ -30347,8 +29993,7 @@
         ]
     },
     {
-        "term": "terasi",
-        "roman_numeral": "II",
+        "term": "terasi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30376,8 +30021,7 @@
         ]
     },
     {
-        "term": "teratai",
-        "roman_numeral": "I",
+        "term": "teratai I",
         "definitions": [
             {
                 "sense": "1",
@@ -30386,8 +30030,7 @@
         ]
     },
     {
-        "term": "teratai",
-        "roman_numeral": "II",
+        "term": "teratai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30446,7 +30089,7 @@
         ]
     },
     {
-        "term": "terau",
+        "term": "terau; menerau",
         "definitions": [
             {
                 "sense": "1",
@@ -30657,8 +30300,7 @@
         ]
     },
     {
-        "term": "terbang",
-        "roman_numeral": "II",
+        "term": "terbang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -30668,8 +30310,7 @@
         ]
     },
     {
-        "term": "terbang",
-        "roman_numeral": "III",
+        "term": "terbang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -30908,8 +30549,7 @@
         ]
     },
     {
-        "term": "terentang",
-        "roman_numeral": "I",
+        "term": "terentang I",
         "definitions": [
             {
                 "sense": "1",
@@ -30918,8 +30558,7 @@
         ]
     },
     {
-        "term": "terentang",
-        "roman_numeral": "II",
+        "term": "terentang II",
         "definitions": [
             {
                 "sense": "1",
@@ -31003,8 +30642,7 @@
         ]
     },
     {
-        "term": "teri",
-        "roman_numeral": "II",
+        "term": "teri II",
         "definitions": [
             {
                 "sense": "1",
@@ -31095,7 +30733,7 @@
         ]
     },
     {
-        "term": "teriba",
+        "term": "teriba;",
         "definitions": [
             {
                 "sense": "1",
@@ -31157,8 +30795,7 @@
         ]
     },
     {
-        "term": "terik",
-        "roman_numeral": "I",
+        "term": "terik Il",
         "definitions": [
             {
                 "sense": "1",
@@ -31176,7 +30813,7 @@
         ]
     },
     {
-        "term": "teriko",
+        "term": "teriko;",
         "definitions": [
             {
                 "sense": "1",
@@ -31281,7 +30918,7 @@
         ]
     },
     {
-        "term": "terima",
+        "term": "terima pakai; menerima pakai",
         "definitions": [
             {
                 "sense": "1",
@@ -31290,7 +30927,7 @@
         ]
     },
     {
-        "term": "terimba",
+        "term": "terimba;",
         "definitions": [
             {
                 "sense": "1",
@@ -31317,8 +30954,7 @@
         ]
     },
     {
-        "term": "teripang",
-        "roman_numeral": "I",
+        "term": "teripang I",
         "definitions": [
             {
                 "sense": "1",
@@ -31327,8 +30963,7 @@
         ]
     },
     {
-        "term": "teripang",
-        "roman_numeral": "II",
+        "term": "teripang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -31355,7 +30990,7 @@
         ]
     },
     {
-        "term": "teriti",
+        "term": "teriti; meneriti",
         "definitions": [
             {
                 "sense": "1",
@@ -31364,8 +30999,7 @@
         ]
     },
     {
-        "term": "teritik",
-        "roman_numeral": "I",
+        "term": "teritik I; berteritik",
         "definitions": [
             {
                 "sense": "1",
@@ -31374,8 +31008,7 @@
         ]
     },
     {
-        "term": "teritik",
-        "roman_numeral": "II",
+        "term": "teritik II",
         "definitions": [
             {
                 "sense": "1",
@@ -31384,8 +31017,7 @@
         ]
     },
     {
-        "term": "teritip",
-        "roman_numeral": "I",
+        "term": "teritip I",
         "definitions": [
             {
                 "sense": "1",
@@ -31394,8 +31026,7 @@
         ]
     },
     {
-        "term": "teritip",
-        "roman_numeral": "II",
+        "term": "teritip II;",
         "definitions": [
             {
                 "sense": "1",
@@ -31450,8 +31081,7 @@
         ]
     },
     {
-        "term": "terjal",
-        "roman_numeral": "I",
+        "term": "terjal I",
         "definitions": [
             {
                 "sense": "1",
@@ -31484,8 +31114,7 @@
         ]
     },
     {
-        "term": "terjal",
-        "roman_numeral": "III",
+        "term": "terjal III",
         "origin": "Kl",
         "definitions": [
             {
@@ -31533,7 +31162,7 @@
         ]
     },
     {
-        "term": "terjemah",
+        "term": "terjemah; menterjemah",
         "definitions": [
             {
                 "sense": "1",
@@ -31699,8 +31328,7 @@
         ]
     },
     {
-        "term": "terka",
-        "roman_numeral": "I",
+        "term": "terka I",
         "definitions": [
             {
                 "sense": "1",
@@ -31747,8 +31375,7 @@
         ]
     },
     {
-        "term": "terka",
-        "roman_numeral": "II",
+        "term": "terka II",
         "origin": "Jw",
         "definitions": [
             {
@@ -31795,8 +31422,7 @@
         ]
     },
     {
-        "term": "terkap",
-        "roman_numeral": "I",
+        "term": "terkap I; menerkap",
         "definitions": [
             {
                 "sense": "1",
@@ -31805,8 +31431,7 @@
         ]
     },
     {
-        "term": "terkap",
-        "roman_numeral": "II",
+        "term": "terkap II; menerkap",
         "definitions": [
             {
                 "sense": "1",
@@ -31848,8 +31473,7 @@
         ]
     },
     {
-        "term": "terkup",
-        "roman_numeral": "II",
+        "term": "terkup II",
         "definitions": [
             {
                 "sense": "1",
@@ -32230,7 +31854,7 @@
         ]
     },
     {
-        "term": "terobos",
+        "term": "terobos; menerobos",
         "definitions": [
             {
                 "sense": "1",
@@ -32316,10 +31940,11 @@
     },
     {
         "term": "teromasa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl telatah."
+                "definition": "telatah."
             }
         ]
     },
@@ -32333,7 +31958,7 @@
         ]
     },
     {
-        "term": "teromel",
+        "term": "teromel, teromol",
         "origin": "IB",
         "definitions": [
             {
@@ -32377,10 +32002,11 @@
     },
     {
         "term": "terongko",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl penjara, jel:  kalau seseorang itu bersalah besar, ia  dimasukkan ke dlm ~;"
+                "definition": "penjara, jel:  kalau seseorang itu bersalah besar, ia  dimasukkan ke dlm ~;"
             }
         ],
         "sub_terms": [
@@ -32451,8 +32077,7 @@
         ]
     },
     {
-        "term": "terowong",
-        "equals": "terowongan",
+        "term": "terowong = terowongan",
         "definitions": [
             {
                 "sense": "1",
@@ -32461,7 +32086,7 @@
         ]
     },
     {
-        "term": "terpa",
+        "term": "terpa; berterpaan",
         "definitions": [
             {
                 "sense": "1",
@@ -32698,8 +32323,7 @@
         ]
     },
     {
-        "term": "teruk",
-        "roman_numeral": "II",
+        "term": "teruk II",
         "definitions": [
             {
                 "sense": "1",
@@ -32709,10 +32333,11 @@
     },
     {
         "term": "terum",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl perbuatan merendahkan badan dgn berlutut (gajah dll), derung,  derum;"
+                "definition": "perbuatan merendahkan badan dgn berlutut (gajah dll), derung,  derum;"
             }
         ],
         "sub_terms": [
@@ -32759,8 +32384,7 @@
         ]
     },
     {
-        "term": "terung",
-        "roman_numeral": "I",
+        "term": "terung I",
         "definitions": [
             {
                 "sense": "1",
@@ -32769,8 +32393,7 @@
         ]
     },
     {
-        "term": "terung",
-        "roman_numeral": "II",
+        "term": "terung II",
         "origin": "Kd",
         "definitions": [
             {
@@ -32789,8 +32412,7 @@
         ]
     },
     {
-        "term": "terup",
-        "roman_numeral": "I",
+        "term": "terup I",
         "definitions": [
             {
                 "sense": "1",
@@ -32799,8 +32421,7 @@
         ]
     },
     {
-        "term": "terup",
-        "roman_numeral": "II",
+        "term": "terup II",
         "definitions": [
             {
                 "sense": "1",
@@ -32990,7 +32611,7 @@
         ]
     },
     {
-        "term": "terus",
+        "term": "terus terang",
         "definitions": [
             {
                 "sense": "1",
@@ -33019,7 +32640,7 @@
         ]
     },
     {
-        "term": "terutup",
+        "term": "terutup;",
         "definitions": [
             {
                 "sense": "1",
@@ -33179,7 +32800,7 @@
         ]
     },
     {
-        "term": "tetabu",
+        "term": "tetabu;",
         "definitions": [
             {
                 "sense": "1",
@@ -33197,8 +32818,7 @@
         ]
     },
     {
-        "term": "tetak",
-        "roman_numeral": "I",
+        "term": "tetak I;",
         "definitions": [
             {
                 "sense": "1",
@@ -33276,8 +32896,7 @@
         ]
     },
     {
-        "term": "tetak",
-        "roman_numeral": "II",
+        "term": "tetak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -33341,22 +32960,22 @@
         ]
     },
     {
-        "term": "tetampan",
-        "roman_numeral": "I",
+        "term": "tetampan I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj talam, penampan."
+                "definition": "sj talam, penampan."
             }
         ]
     },
     {
-        "term": "tetampan",
-        "roman_numeral": "II",
+        "term": "tetampan II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj selampai drpd kain sutera kuning (yg disebaikan di  bahu ketika menghadap raja atau utk menudungi barang-barang yg  dipersembahkan kpd raja)."
+                "definition": "sj selampai drpd kain sutera kuning (yg disebaikan di  bahu ketika menghadap raja atau utk menudungi barang-barang yg  dipersembahkan kpd raja)."
             }
         ]
     },
@@ -33559,8 +33178,7 @@
         ]
     },
     {
-        "term": "tetap",
-        "roman_numeral": "II",
+        "term": "tetap II; menetap",
         "definitions": [
             {
                 "sense": "1",
@@ -33580,8 +33198,7 @@
         ]
     },
     {
-        "term": "tetap",
-        "roman_numeral": "III",
+        "term": "tetap III",
         "definitions": [
             {
                 "sense": "1",
@@ -33612,8 +33229,7 @@
         ]
     },
     {
-        "term": "tetar",
-        "roman_numeral": "I",
+        "term": "tetar I",
         "definitions": [
             {
                 "sense": "1",
@@ -33646,8 +33262,7 @@
         ]
     },
     {
-        "term": "tetar",
-        "roman_numeral": "III",
+        "term": "tetar III",
         "origin": "Tr",
         "definitions": [
             {
@@ -33740,10 +33355,11 @@
     },
     {
         "term": "tetawak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tawak-tawak."
+                "definition": "tawak-tawak."
             }
         ]
     },
@@ -33867,7 +33483,7 @@
         ]
     },
     {
-        "term": "teterapan",
+        "term": "teterapan, teterapang",
         "definitions": [
             {
                 "sense": "1",
@@ -33940,7 +33556,7 @@
         ]
     },
     {
-        "term": "tetibar",
+        "term": "tetibar, tetibau",
         "definitions": [
             {
                 "sense": "1",
@@ -33991,7 +33607,7 @@
         ]
     },
     {
-        "term": "tetiruk",
+        "term": "tetiruk;",
         "definitions": [
             {
                 "sense": "1",
@@ -34085,7 +33701,7 @@
         ]
     },
     {
-        "term": "tetubuh",
+        "term": "tetubuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -34233,8 +33849,7 @@
         ]
     },
     {
-        "term": "Th",
-        "roman_numeral": "I",
+        "term": "Th I",
         "definitions": [
             {
                 "sense": "1",
@@ -34243,8 +33858,7 @@
         ]
     },
     {
-        "term": "Th",
-        "roman_numeral": "II",
+        "term": "Th II",
         "definitions": [
             {
                 "sense": "1",
@@ -34465,8 +34079,7 @@
         ]
     },
     {
-        "term": "tian",
-        "roman_numeral": "II",
+        "term": "tian II",
         "origin": "Kl",
         "definitions": [
             {
@@ -34564,7 +34177,7 @@
         ]
     },
     {
-        "term": "tiarap",
+        "term": "tiarap; bertiarap",
         "definitions": [
             {
                 "sense": "1",
@@ -34602,7 +34215,7 @@
         ]
     },
     {
-        "term": "tias",
+        "term": "tias;",
         "definitions": [
             {
                 "sense": "1",
@@ -34960,8 +34573,7 @@
         ]
     },
     {
-        "term": "tiga",
-        "roman_numeral": "I",
+        "term": "tiga I",
         "definitions": [
             {
                 "sense": "1",
@@ -35053,8 +34665,7 @@
         ]
     },
     {
-        "term": "tiga",
-        "roman_numeral": "II",
+        "term": "tiga II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35102,8 +34713,7 @@
         ]
     },
     {
-        "term": "tik",
-        "roman_numeral": "I",
+        "term": "tik I",
         "definitions": [
             {
                 "sense": "1",
@@ -35123,8 +34733,7 @@
         ]
     },
     {
-        "term": "tik",
-        "roman_numeral": "II",
+        "term": "tik II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35133,8 +34742,7 @@
         ]
     },
     {
-        "term": "tik",
-        "roman_numeral": "III",
+        "term": "tik III",
         "origin": "Kd",
         "definitions": [
             {
@@ -35153,8 +34761,7 @@
         ]
     },
     {
-        "term": "tika",
-        "roman_numeral": "II",
+        "term": "tika II",
         "definitions": [
             {
                 "sense": "1",
@@ -35235,8 +34842,7 @@
         ]
     },
     {
-        "term": "tikam",
-        "roman_numeral": "I",
+        "term": "tikam I",
         "definitions": [
             {
                 "sense": "1",
@@ -35357,8 +34963,7 @@
         ]
     },
     {
-        "term": "tikam",
-        "roman_numeral": "II",
+        "term": "tikam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35524,8 +35129,7 @@
         ]
     },
     {
-        "term": "tikus",
-        "roman_numeral": "I",
+        "term": "tikus I",
         "definitions": [
             {
                 "sense": "1",
@@ -35545,8 +35149,7 @@
         ]
     },
     {
-        "term": "tikus",
-        "roman_numeral": "II",
+        "term": "tikus II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35555,8 +35158,7 @@
         ]
     },
     {
-        "term": "tikus",
-        "roman_numeral": "III",
+        "term": "tikus III;",
         "definitions": [
             {
                 "sense": "1",
@@ -35744,8 +35346,7 @@
         ]
     },
     {
-        "term": "tim",
-        "roman_numeral": "I",
+        "term": "tim I;",
         "definitions": [
             {
                 "sense": "1",
@@ -35787,8 +35388,7 @@
         ]
     },
     {
-        "term": "tim",
-        "roman_numeral": "II",
+        "term": "tim II",
         "definitions": [
             {
                 "sense": "1",
@@ -35806,8 +35406,7 @@
         ]
     },
     {
-        "term": "timah",
-        "roman_numeral": "II",
+        "term": "timah II",
         "definitions": [
             {
                 "sense": "1",
@@ -35870,8 +35469,7 @@
         ]
     },
     {
-        "term": "timang",
-        "roman_numeral": "II",
+        "term": "timang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -35900,8 +35498,7 @@
         ]
     },
     {
-        "term": "timba",
-        "roman_numeral": "I",
+        "term": "timba I",
         "definitions": [
             {
                 "sense": "1",
@@ -35978,8 +35575,7 @@
         ]
     },
     {
-        "term": "timba",
-        "roman_numeral": "II",
+        "term": "timba II;",
         "definitions": [
             {
                 "sense": "1",
@@ -36297,7 +35893,7 @@
         ]
     },
     {
-        "term": "timbang",
+        "term": "timbang rasa",
         "definitions": [
             {
                 "sense": "1",
@@ -36317,7 +35913,7 @@
         ]
     },
     {
-        "term": "timbang",
+        "term": "timbang tara",
         "definitions": [
             {
                 "sense": "1",
@@ -36346,7 +35942,7 @@
         ]
     },
     {
-        "term": "timbau",
+        "term": "timbau;",
         "definitions": [
             {
                 "sense": "1",
@@ -36386,7 +35982,7 @@
         ]
     },
     {
-        "term": "timbrung",
+        "term": "timbrung;",
         "origin": "Jw",
         "definitions": [
             {
@@ -36500,8 +36096,7 @@
         ]
     },
     {
-        "term": "timbul",
-        "roman_numeral": "II",
+        "term": "timbul II; penimbul",
         "definitions": [
             {
                 "sense": "1",
@@ -36626,7 +36221,7 @@
         ]
     },
     {
-        "term": "timbus",
+        "term": "timbus; menimbus",
         "definitions": [
             {
                 "sense": "1",
@@ -36802,8 +36397,7 @@
         ]
     },
     {
-        "term": "timpas",
-        "roman_numeral": "II",
+        "term": "timpas II",
         "origin": "Mn",
         "definitions": [
             {
@@ -36813,7 +36407,7 @@
         ]
     },
     {
-        "term": "timpuh",
+        "term": "timpuh; bertimpuh",
         "definitions": [
             {
                 "sense": "1",
@@ -36914,8 +36508,7 @@
         ]
     },
     {
-        "term": "timur",
-        "roman_numeral": "II",
+        "term": "timur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -36975,8 +36568,7 @@
         ]
     },
     {
-        "term": "tin",
-        "roman_numeral": "II",
+        "term": "tin II",
         "definitions": [
             {
                 "sense": "1",
@@ -36995,8 +36587,7 @@
         ]
     },
     {
-        "term": "tinak",
-        "roman_numeral": "I",
+        "term": "tinak I",
         "definitions": [
             {
                 "sense": "1",
@@ -37005,8 +36596,7 @@
         ]
     },
     {
-        "term": "tinak",
-        "roman_numeral": "II",
+        "term": "tinak II; meninak",
         "origin": "Kl",
         "definitions": [
             {
@@ -37063,7 +36653,7 @@
         ]
     },
     {
-        "term": "tindak",
+        "term": "tindak balas",
         "definitions": [
             {
                 "sense": "1",
@@ -37163,7 +36753,7 @@
         ]
     },
     {
-        "term": "tindas",
+        "term": "tindas; menindas",
         "definitions": [
             {
                 "sense": "1",
@@ -37338,7 +36928,7 @@
         ]
     },
     {
-        "term": "tindik",
+        "term": "tindik; bertindik",
         "definitions": [
             {
                 "sense": "1",
@@ -37424,8 +37014,7 @@
         ]
     },
     {
-        "term": "tingau",
-        "roman_numeral": "I",
+        "term": "tingau I",
         "definitions": [
             {
                 "sense": "1",
@@ -37434,8 +37023,7 @@
         ]
     },
     {
-        "term": "tingau",
-        "roman_numeral": "II",
+        "term": "tingau II",
         "definitions": [
             {
                 "sense": "1",
@@ -37649,8 +37237,7 @@
         ]
     },
     {
-        "term": "tinggal",
-        "roman_numeral": "II",
+        "term": "tinggal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -37791,7 +37378,7 @@
         ]
     },
     {
-        "term": "tinggung",
+        "term": "tinggung; bertinggung, meninggung",
         "definitions": [
             {
                 "sense": "1",
@@ -37810,8 +37397,7 @@
         ]
     },
     {
-        "term": "tingkah",
-        "roman_numeral": "I",
+        "term": "tingkah I",
         "definitions": [
             {
                 "sense": "1",
@@ -37886,8 +37472,7 @@
         ]
     },
     {
-        "term": "tingkah",
-        "roman_numeral": "III",
+        "term": "tingkah III; meningkah",
         "definitions": [
             {
                 "sense": "1",
@@ -37896,7 +37481,7 @@
         ]
     },
     {
-        "term": "tingkal",
+        "term": "tingkal;",
         "definitions": [
             {
                 "sense": "1",
@@ -37982,7 +37567,7 @@
         ]
     },
     {
-        "term": "tingkas",
+        "term": "tingkas;",
         "definitions": [
             {
                 "sense": "1",
@@ -38139,8 +37724,7 @@
         ]
     },
     {
-        "term": "tingkil",
-        "roman_numeral": "I",
+        "term": "tingkil I; bertingkil-tingkil",
         "definitions": [
             {
                 "sense": "1",
@@ -38149,8 +37733,7 @@
         ]
     },
     {
-        "term": "tingkil",
-        "roman_numeral": "II",
+        "term": "tingkil II; bertingkil",
         "definitions": [
             {
                 "sense": "1",
@@ -38159,7 +37742,7 @@
         ]
     },
     {
-        "term": "tingkir",
+        "term": "tingkir; bertingkir",
         "definitions": [
             {
                 "sense": "1",
@@ -38168,7 +37751,7 @@
         ]
     },
     {
-        "term": "tingkis",
+        "term": "tingkis;",
         "definitions": [
             {
                 "sense": "1",
@@ -38197,8 +37780,7 @@
         ]
     },
     {
-        "term": "tingting",
-        "roman_numeral": "I",
+        "term": "tingting I",
         "definitions": [
             {
                 "sense": "1",
@@ -38207,8 +37789,7 @@
         ]
     },
     {
-        "term": "tingting",
-        "roman_numeral": "II",
+        "term": "tingting II",
         "definitions": [
             {
                 "sense": "1",
@@ -38245,8 +37826,7 @@
         ]
     },
     {
-        "term": "tinjau",
-        "roman_numeral": "I",
+        "term": "tinjau I;",
         "definitions": [
             {
                 "sense": "1",
@@ -38344,8 +37924,7 @@
         ]
     },
     {
-        "term": "tinjau",
-        "roman_numeral": "II",
+        "term": "tinjau II;",
         "definitions": [
             {
                 "sense": "1",
@@ -38464,8 +38043,7 @@
         ]
     },
     {
-        "term": "tinting",
-        "roman_numeral": "II",
+        "term": "tinting II",
         "definitions": [
             {
                 "sense": "1",
@@ -38474,8 +38052,7 @@
         ]
     },
     {
-        "term": "tinting",
-        "roman_numeral": "III",
+        "term": "tinting III;",
         "definitions": [
             {
                 "sense": "1",
@@ -38528,8 +38105,7 @@
         ]
     },
     {
-        "term": "tip",
-        "roman_numeral": "II",
+        "term": "tip II;",
         "definitions": [
             {
                 "sense": "1",
@@ -38549,8 +38125,7 @@
         ]
     },
     {
-        "term": "tip",
-        "roman_numeral": "III",
+        "term": "tip III; mengetip;",
         "definitions": [
             {
                 "sense": "1",
@@ -38606,8 +38181,7 @@
         ]
     },
     {
-        "term": "tipak",
-        "roman_numeral": "II",
+        "term": "tipak II",
         "definitions": [
             {
                 "sense": "1",
@@ -38626,7 +38200,7 @@
         ]
     },
     {
-        "term": "tipas",
+        "term": "tipas; menipas",
         "origin": "Kl",
         "definitions": [
             {
@@ -38894,8 +38468,7 @@
         ]
     },
     {
-        "term": "tiram",
-        "roman_numeral": "I",
+        "term": "tiram I",
         "definitions": [
             {
                 "sense": "1",
@@ -38915,8 +38488,7 @@
         ]
     },
     {
-        "term": "tiram",
-        "roman_numeral": "II",
+        "term": "tiram II",
         "definitions": [
             {
                 "sense": "1",
@@ -39006,7 +38578,7 @@
         ]
     },
     {
-        "term": "tirjup",
+        "term": "tirjup;",
         "definitions": [
             {
                 "sense": "1",
@@ -39024,7 +38596,7 @@
         ]
     },
     {
-        "term": "tiroid",
+        "term": "tiroid;",
         "definitions": [
             {
                 "sense": "1",
@@ -39062,7 +38634,7 @@
         ]
     },
     {
-        "term": "tiru",
+        "term": "tiru;",
         "definitions": [
             {
                 "sense": "1",
@@ -39144,8 +38716,7 @@
         ]
     },
     {
-        "term": "tiruk",
-        "roman_numeral": "I",
+        "term": "tiruk I",
         "definitions": [
             {
                 "sense": "1",
@@ -39154,8 +38725,7 @@
         ]
     },
     {
-        "term": "tiruk",
-        "roman_numeral": "II",
+        "term": "tiruk II",
         "definitions": [
             {
                 "sense": "1",
@@ -39164,8 +38734,7 @@
         ]
     },
     {
-        "term": "tiruk",
-        "roman_numeral": "III",
+        "term": "tiruk III;",
         "definitions": [
             {
                 "sense": "1",
@@ -39174,8 +38743,7 @@
         ]
     },
     {
-        "term": "tiruk",
-        "roman_numeral": "IV",
+        "term": "tiruk IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -39232,7 +38800,7 @@
         ]
     },
     {
-        "term": "tisik",
+        "term": "tisik; menisik, menisiki",
         "definitions": [
             {
                 "sense": "1",
@@ -39312,11 +38880,12 @@
         ]
     },
     {
-        "term": "titar",
+        "term": "titar; bertitar-titar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bergerak ke sana sini dgn pantas:  maka Tun Tuah  pun segera berbangkit lalu berdiri ~ di hadapan Taming Sari."
+                "definition": "bergerak ke sana sini dgn pantas:  maka Tun Tuah  pun segera berbangkit lalu berdiri ~ di hadapan Taming Sari."
             }
         ]
     },
@@ -39492,8 +39061,7 @@
         ]
     },
     {
-        "term": "titik",
-        "roman_numeral": "III",
+        "term": "titik III; bertitik",
         "definitions": [
             {
                 "sense": "1",
@@ -39546,7 +39114,7 @@
         ]
     },
     {
-        "term": "titik",
+        "term": "titik tolak",
         "definitions": [
             {
                 "sense": "1",
@@ -39614,8 +39182,7 @@
         ]
     },
     {
-        "term": "titir",
-        "roman_numeral": "I",
+        "term": "titir I",
         "definitions": [
             {
                 "sense": "1",
@@ -39635,8 +39202,7 @@
         ]
     },
     {
-        "term": "titir",
-        "roman_numeral": "II",
+        "term": "titir II; titiran",
         "origin": "Jk",
         "definitions": [
             {
@@ -39646,8 +39212,7 @@
         ]
     },
     {
-        "term": "titir",
-        "roman_numeral": "III",
+        "term": "titir III; ketitir, ketitiran",
         "definitions": [
             {
                 "sense": "1",
@@ -39667,8 +39232,7 @@
         ]
     },
     {
-        "term": "titis",
-        "roman_numeral": "I",
+        "term": "titis I",
         "definitions": [
             {
                 "sense": "1",
@@ -39737,8 +39301,7 @@
         ]
     },
     {
-        "term": "titis",
-        "roman_numeral": "II",
+        "term": "titis II",
         "origin": "Jw",
         "definitions": [
             {
@@ -39828,8 +39391,7 @@
         ]
     },
     {
-        "term": "tiub",
-        "roman_numeral": "II",
+        "term": "tiub II",
         "definitions": [
             {
                 "sense": "1",
@@ -40091,10 +39653,11 @@
     },
     {
         "term": "tobji",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl orang yg menembak meriam, penembak meriam."
+                "definition": "orang yg menembak meriam, penembak meriam."
             }
         ]
     },
@@ -40349,8 +39912,7 @@
         ]
     },
     {
-        "term": "togok",
-        "roman_numeral": "I",
+        "term": "togok I",
         "definitions": [
             {
                 "sense": "1",
@@ -40370,8 +39932,7 @@
         ]
     },
     {
-        "term": "togok",
-        "roman_numeral": "II",
+        "term": "togok II",
         "definitions": [
             {
                 "sense": "1",
@@ -40380,8 +39941,7 @@
         ]
     },
     {
-        "term": "togok",
-        "roman_numeral": "III",
+        "term": "togok III",
         "definitions": [
             {
                 "sense": "1",
@@ -40390,8 +39950,7 @@
         ]
     },
     {
-        "term": "toh",
-        "roman_numeral": "I",
+        "term": "toh I",
         "origin": "Jk",
         "definitions": [
             {
@@ -40401,8 +39960,7 @@
         ]
     },
     {
-        "term": "toh",
-        "roman_numeral": "II",
+        "term": "toh II",
         "origin": "IB",
         "definitions": [
             {
@@ -40412,8 +39970,7 @@
         ]
     },
     {
-        "term": "Toh",
-        "roman_numeral": "III",
+        "term": "Toh III;",
         "definitions": [
             {
                 "sense": "1",
@@ -40442,8 +39999,7 @@
         ]
     },
     {
-        "term": "tohok",
-        "roman_numeral": "I",
+        "term": "tohok I",
         "definitions": [
             {
                 "sense": "1",
@@ -40472,8 +40028,7 @@
         ]
     },
     {
-        "term": "tohok",
-        "roman_numeral": "II",
+        "term": "tohok II;",
         "definitions": [
             {
                 "sense": "1",
@@ -40482,8 +40037,7 @@
         ]
     },
     {
-        "term": "tohok",
-        "roman_numeral": "III",
+        "term": "tohok III;",
         "definitions": [
             {
                 "sense": "1",
@@ -40492,8 +40046,7 @@
         ]
     },
     {
-        "term": "tohok",
-        "roman_numeral": "IV",
+        "term": "tohok IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -40609,7 +40162,7 @@
         ]
     },
     {
-        "term": "tojok",
+        "term": "tojok;",
         "definitions": [
             {
                 "sense": "1",
@@ -40646,8 +40199,7 @@
         ]
     },
     {
-        "term": "tokak",
-        "roman_numeral": "I",
+        "term": "tokak I",
         "definitions": [
             {
                 "sense": "1",
@@ -40667,8 +40219,7 @@
         ]
     },
     {
-        "term": "tokak",
-        "roman_numeral": "II",
+        "term": "tokak II; menokak",
         "definitions": [
             {
                 "sense": "1",
@@ -40690,8 +40241,7 @@
         ]
     },
     {
-        "term": "tokak",
-        "roman_numeral": "IV",
+        "term": "tokak IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -40700,7 +40250,7 @@
         ]
     },
     {
-        "term": "tokca",
+        "term": "tokca, tokcai",
         "origin": "Kl",
         "definitions": [
             {
@@ -40710,7 +40260,7 @@
         ]
     },
     {
-        "term": "tokcan",
+        "term": "tokcan;",
         "definitions": [
             {
                 "sense": "1",
@@ -40794,8 +40344,7 @@
         ]
     },
     {
-        "term": "tokoh",
-        "roman_numeral": "I",
+        "term": "tokoh I",
         "definitions": [
             {
                 "sense": "1",
@@ -40860,8 +40409,7 @@
         ]
     },
     {
-        "term": "tokoh",
-        "roman_numeral": "II",
+        "term": "tokoh II",
         "definitions": [
             {
                 "sense": "1",
@@ -40890,8 +40438,7 @@
         ]
     },
     {
-        "term": "tokok",
-        "roman_numeral": "I",
+        "term": "tokok I",
         "definitions": [
             {
                 "sense": "1",
@@ -40947,8 +40494,7 @@
         ]
     },
     {
-        "term": "tokok",
-        "roman_numeral": "II",
+        "term": "tokok II",
         "definitions": [
             {
                 "sense": "1",
@@ -40977,7 +40523,7 @@
         ]
     },
     {
-        "term": "tokok",
+        "term": "tokok tambah",
         "definitions": [
             {
                 "sense": "1",
@@ -41025,8 +40571,7 @@
         ]
     },
     {
-        "term": "tokong",
-        "roman_numeral": "I",
+        "term": "tokong I",
         "definitions": [
             {
                 "sense": "1",
@@ -41035,8 +40580,7 @@
         ]
     },
     {
-        "term": "tokong",
-        "roman_numeral": "II",
+        "term": "tokong II",
         "definitions": [
             {
                 "sense": "1",
@@ -41045,8 +40589,7 @@
         ]
     },
     {
-        "term": "tokong",
-        "roman_numeral": "III",
+        "term": "tokong III",
         "origin": "Mn",
         "definitions": [
             {
@@ -41056,8 +40599,7 @@
         ]
     },
     {
-        "term": "tokong",
-        "roman_numeral": "IV",
+        "term": "tokong IV",
         "definitions": [
             {
                 "sense": "1",
@@ -41364,8 +40906,7 @@
         ]
     },
     {
-        "term": "tolok",
-        "roman_numeral": "I",
+        "term": "tolok I",
         "definitions": [
             {
                 "sense": "1",
@@ -41412,8 +40953,7 @@
         ]
     },
     {
-        "term": "tolok",
-        "roman_numeral": "II",
+        "term": "tolok II",
         "origin": "IB",
         "definitions": [
             {
@@ -41423,8 +40963,7 @@
         ]
     },
     {
-        "term": "tolok",
-        "roman_numeral": "III",
+        "term": "tolok III",
         "definitions": [
             {
                 "sense": "1",
@@ -41545,8 +41084,7 @@
         ]
     },
     {
-        "term": "tom",
-        "roman_numeral": "I",
+        "term": "tom I",
         "definitions": [
             {
                 "sense": "1",
@@ -41555,8 +41093,7 @@
         ]
     },
     {
-        "term": "tom",
-        "roman_numeral": "II",
+        "term": "tom II",
         "origin": "Jw",
         "definitions": [
             {
@@ -41594,8 +41131,7 @@
         ]
     },
     {
-        "term": "tombak",
-        "roman_numeral": "I",
+        "term": "tombak I",
         "definitions": [
             {
                 "sense": "1",
@@ -41633,8 +41169,7 @@
         ]
     },
     {
-        "term": "tombak",
-        "roman_numeral": "II",
+        "term": "tombak II",
         "definitions": [
             {
                 "sense": "1",
@@ -41643,8 +41178,7 @@
         ]
     },
     {
-        "term": "tombak",
-        "roman_numeral": "III",
+        "term": "tombak III",
         "definitions": [
             {
                 "sense": "1",
@@ -41672,8 +41206,7 @@
         ]
     },
     {
-        "term": "tombol",
-        "roman_numeral": "I",
+        "term": "tombol I",
         "definitions": [
             {
                 "sense": "1",
@@ -41682,8 +41215,7 @@
         ]
     },
     {
-        "term": "tombol",
-        "roman_numeral": "II",
+        "term": "tombol II;",
         "definitions": [
             {
                 "sense": "1",
@@ -41701,8 +41233,7 @@
         ]
     },
     {
-        "term": "tombong",
-        "roman_numeral": "I",
+        "term": "tombong I",
         "definitions": [
             {
                 "sense": "1",
@@ -41711,8 +41242,7 @@
         ]
     },
     {
-        "term": "tombong",
-        "roman_numeral": "II",
+        "term": "tombong II",
         "definitions": [
             {
                 "sense": "1",
@@ -41857,8 +41387,7 @@
         ]
     },
     {
-        "term": "ton",
-        "roman_numeral": "II",
+        "term": "ton II",
         "origin": "IB",
         "definitions": [
             {
@@ -41924,8 +41453,7 @@
         ]
     },
     {
-        "term": "tong",
-        "roman_numeral": "II",
+        "term": "tong II",
         "definitions": [
             {
                 "sense": "1",
@@ -41934,8 +41462,7 @@
         ]
     },
     {
-        "term": "tong",
-        "roman_numeral": "III",
+        "term": "tong III",
         "origin": "Jk",
         "definitions": [
             {
@@ -41974,8 +41501,7 @@
         ]
     },
     {
-        "term": "tonggak",
-        "roman_numeral": "II",
+        "term": "tonggak II; menonggak",
         "definitions": [
             {
                 "sense": "1",
@@ -41984,8 +41510,7 @@
         ]
     },
     {
-        "term": "tonggak",
-        "roman_numeral": "III",
+        "term": "tonggak III",
         "origin": "Pr",
         "definitions": [
             {
@@ -42114,8 +41639,7 @@
         ]
     },
     {
-        "term": "tonggok",
-        "roman_numeral": "I",
+        "term": "tonggok I",
         "definitions": [
             {
                 "sense": "1",
@@ -42124,8 +41648,7 @@
         ]
     },
     {
-        "term": "tonggok",
-        "roman_numeral": "II",
+        "term": "tonggok II",
         "origin": "Mn",
         "definitions": [
             {
@@ -42150,8 +41673,7 @@
         ]
     },
     {
-        "term": "tonggong",
-        "roman_numeral": "I",
+        "term": "tonggong I",
         "definitions": [
             {
                 "sense": "1",
@@ -42160,8 +41682,7 @@
         ]
     },
     {
-        "term": "tonggong",
-        "roman_numeral": "II",
+        "term": "tonggong II",
         "origin": "Mn",
         "definitions": [
             {
@@ -42171,8 +41692,7 @@
         ]
     },
     {
-        "term": "tonggong",
-        "roman_numeral": "III",
+        "term": "tonggong III",
         "origin": "Mn",
         "definitions": [
             {
@@ -42191,8 +41711,7 @@
         ]
     },
     {
-        "term": "tongkah",
-        "roman_numeral": "I",
+        "term": "tongkah I;",
         "definitions": [
             {
                 "sense": "1",
@@ -42229,8 +41748,7 @@
         ]
     },
     {
-        "term": "tongkah",
-        "roman_numeral": "II",
+        "term": "tongkah II",
         "definitions": [
             {
                 "sense": "1",
@@ -42259,8 +41777,7 @@
         ]
     },
     {
-        "term": "tongkah",
-        "roman_numeral": "III",
+        "term": "tongkah III",
         "definitions": [
             {
                 "sense": "1",
@@ -42298,8 +41815,7 @@
         ]
     },
     {
-        "term": "tongkat",
-        "roman_numeral": "I",
+        "term": "tongkat I",
         "definitions": [
             {
                 "sense": "1",
@@ -42350,8 +41866,7 @@
         ]
     },
     {
-        "term": "tongkat",
-        "roman_numeral": "II",
+        "term": "tongkat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -42378,7 +41893,7 @@
         ]
     },
     {
-        "term": "tongkok",
+        "term": "tongkok; penongkok",
         "origin": "Kd",
         "definitions": [
             {
@@ -42688,7 +42203,7 @@
         ]
     },
     {
-        "term": "tonton",
+        "term": "tonton; menonton",
         "definitions": [
             {
                 "sense": "1",
@@ -42817,7 +42332,7 @@
         ]
     },
     {
-        "term": "tonyok",
+        "term": "tonyok; menonyok",
         "definitions": [
             {
                 "sense": "1",
@@ -42826,8 +42341,7 @@
         ]
     },
     {
-        "term": "top",
-        "roman_numeral": "I",
+        "term": "top I",
         "definitions": [
             {
                 "sense": "1",
@@ -42836,8 +42350,7 @@
         ]
     },
     {
-        "term": "top",
-        "roman_numeral": "II",
+        "term": "top II;",
         "definitions": [
             {
                 "sense": "1",
@@ -42857,8 +42370,7 @@
         ]
     },
     {
-        "term": "top",
-        "roman_numeral": "III",
+        "term": "top III;",
         "definitions": [
             {
                 "sense": "1",
@@ -42867,8 +42379,7 @@
         ]
     },
     {
-        "term": "top",
-        "roman_numeral": "IV",
+        "term": "top IV",
         "definitions": [
             {
                 "sense": "1",
@@ -42887,16 +42398,16 @@
     },
     {
         "term": "topak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl senapang."
+                "definition": "senapang."
             }
         ]
     },
     {
-        "term": "topang",
-        "roman_numeral": "I",
+        "term": "topang I",
         "definitions": [
             {
                 "sense": "1",
@@ -43135,8 +42646,7 @@
         ]
     },
     {
-        "term": "topo",
-        "roman_numeral": "I",
+        "term": "topo I",
         "origin": "Jk",
         "definitions": [
             {
@@ -43146,8 +42656,7 @@
         ]
     },
     {
-        "term": "topo",
-        "roman_numeral": "II",
+        "term": "topo II",
         "definitions": [
             {
                 "sense": "1",
@@ -43187,8 +42696,7 @@
         ]
     },
     {
-        "term": "topok",
-        "roman_numeral": "I",
+        "term": "topok I",
         "origin": "Pr",
         "definitions": [
             {
@@ -43198,8 +42706,7 @@
         ]
     },
     {
-        "term": "topok",
-        "roman_numeral": "II",
+        "term": "topok II",
         "origin": "Kl",
         "definitions": [
             {
@@ -43209,8 +42716,7 @@
         ]
     },
     {
-        "term": "topong",
-        "roman_numeral": "I",
+        "term": "topong I",
         "definitions": [
             {
                 "sense": "1",
@@ -43219,8 +42725,7 @@
         ]
     },
     {
-        "term": "topong",
-        "roman_numeral": "II",
+        "term": "topong II",
         "definitions": [
             {
                 "sense": "1",
@@ -43247,8 +42752,7 @@
         ]
     },
     {
-        "term": "tor",
-        "roman_numeral": "I",
+        "term": "tor I",
         "origin": "Kd",
         "definitions": [
             {
@@ -43258,8 +42762,7 @@
         ]
     },
     {
-        "term": "tor",
-        "roman_numeral": "II",
+        "term": "tor II",
         "origin": "Kl",
         "definitions": [
             {
@@ -43278,8 +42781,7 @@
         ]
     },
     {
-        "term": "torak",
-        "roman_numeral": "I",
+        "term": "torak I",
         "definitions": [
             {
                 "sense": "1",
@@ -43299,8 +42801,7 @@
         ]
     },
     {
-        "term": "torak",
-        "roman_numeral": "II",
+        "term": "torak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -43309,8 +42810,7 @@
         ]
     },
     {
-        "term": "torak",
-        "roman_numeral": "III",
+        "term": "torak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -43662,8 +43162,7 @@
         ]
     },
     {
-        "term": "totok",
-        "roman_numeral": "II",
+        "term": "totok II",
         "definitions": [
             {
                 "sense": "1",
@@ -43693,8 +43192,7 @@
         ]
     },
     {
-        "term": "toya",
-        "roman_numeral": "I",
+        "term": "toya I",
         "definitions": [
             {
                 "sense": "1",
@@ -43703,8 +43201,7 @@
         ]
     },
     {
-        "term": "toya",
-        "roman_numeral": "II",
+        "term": "toya II, toyah, toyak",
         "origin": "C",
         "definitions": [
             {
@@ -44616,8 +44113,7 @@
         ]
     },
     {
-        "term": "trik",
-        "roman_numeral": "II",
+        "term": "trik II",
         "origin": "Id",
         "definitions": [
             {
@@ -44812,8 +44308,7 @@
         ]
     },
     {
-        "term": "trip",
-        "roman_numeral": "II",
+        "term": "trip II;",
         "definitions": [
             {
                 "sense": "1",
@@ -44889,10 +44384,11 @@
     },
     {
         "term": "trisula",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj tombak atau serampang yg hujungnya bercabang tiga (utk  menangkap ikan dll)."
+                "definition": "sj tombak atau serampang yg hujungnya bercabang tiga (utk  menangkap ikan dll)."
             }
         ]
     },
@@ -44935,10 +44431,11 @@
     },
     {
         "term": "triwangsa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tiga kasta (iaitu Brahman, Kesatria, Waisya)."
+                "definition": "tiga kasta (iaitu Brahman, Kesatria, Waisya)."
             }
         ]
     },
@@ -45232,8 +44729,7 @@
         ]
     },
     {
-        "term": "tu",
-        "roman_numeral": "I",
+        "term": "tu I",
         "definitions": [
             {
                 "sense": "1",
@@ -45242,8 +44738,7 @@
         ]
     },
     {
-        "term": "tu",
-        "roman_numeral": "II",
+        "term": "tu II",
         "definitions": [
             {
                 "sense": "1",
@@ -45429,8 +44924,7 @@
         ]
     },
     {
-        "term": "tua",
-        "roman_numeral": "II",
+        "term": "tua II;",
         "definitions": [
             {
                 "sense": "1",
@@ -45514,8 +45008,7 @@
         ]
     },
     {
-        "term": "tuai",
-        "roman_numeral": "I",
+        "term": "tuai I",
         "definitions": [
             {
                 "sense": "1",
@@ -45575,8 +45068,7 @@
         ]
     },
     {
-        "term": "tuai",
-        "roman_numeral": "II",
+        "term": "tuai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -45585,8 +45077,7 @@
         ]
     },
     {
-        "term": "tuak",
-        "roman_numeral": "I",
+        "term": "tuak I",
         "definitions": [
             {
                 "sense": "1",
@@ -45595,8 +45086,7 @@
         ]
     },
     {
-        "term": "tuak",
-        "roman_numeral": "II",
+        "term": "tuak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -45605,8 +45095,7 @@
         ]
     },
     {
-        "term": "tual",
-        "roman_numeral": "I",
+        "term": "tual I",
         "definitions": [
             {
                 "sense": "1",
@@ -45644,8 +45133,7 @@
         ]
     },
     {
-        "term": "tual",
-        "roman_numeral": "II",
+        "term": "tual II",
         "origin": "Mn",
         "definitions": [
             {
@@ -45758,8 +45246,7 @@
         ]
     },
     {
-        "term": "tualang",
-        "roman_numeral": "II",
+        "term": "tualang II",
         "definitions": [
             {
                 "sense": "1",
@@ -45982,8 +45469,7 @@
         ]
     },
     {
-        "term": "tuang",
-        "roman_numeral": "I",
+        "term": "tuang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -46073,8 +45559,7 @@
         ]
     },
     {
-        "term": "tuang",
-        "roman_numeral": "II",
+        "term": "tuang II",
         "definitions": [
             {
                 "sense": "1",
@@ -46145,8 +45630,7 @@
         ]
     },
     {
-        "term": "tuar",
-        "roman_numeral": "II",
+        "term": "tuar II",
         "definitions": [
             {
                 "sense": "1",
@@ -46155,8 +45639,7 @@
         ]
     },
     {
-        "term": "tuar",
-        "roman_numeral": "III",
+        "term": "tuar III;",
         "definitions": [
             {
                 "sense": "1",
@@ -46174,8 +45657,7 @@
         ]
     },
     {
-        "term": "tuas",
-        "roman_numeral": "I",
+        "term": "tuas I",
         "definitions": [
             {
                 "sense": "1",
@@ -46195,8 +45677,7 @@
         ]
     },
     {
-        "term": "tuas",
-        "roman_numeral": "II",
+        "term": "tuas II",
         "origin": "Kd",
         "definitions": [
             {
@@ -46229,8 +45710,7 @@
         ]
     },
     {
-        "term": "tuat",
-        "roman_numeral": "I",
+        "term": "tuat I",
         "definitions": [
             {
                 "sense": "1",
@@ -46239,8 +45719,7 @@
         ]
     },
     {
-        "term": "tuat",
-        "roman_numeral": "II",
+        "term": "tuat II",
         "origin": "Kd",
         "definitions": [
             {
@@ -46263,8 +45742,7 @@
         ]
     },
     {
-        "term": "tuba",
-        "roman_numeral": "I",
+        "term": "tuba I",
         "definitions": [
             {
                 "sense": "1",
@@ -46306,8 +45784,7 @@
         ]
     },
     {
-        "term": "tuba",
-        "roman_numeral": "II",
+        "term": "tuba II;",
         "definitions": [
             {
                 "sense": "1",
@@ -46316,8 +45793,7 @@
         ]
     },
     {
-        "term": "tuba",
-        "roman_numeral": "III",
+        "term": "tuba III",
         "definitions": [
             {
                 "sense": "1",
@@ -46375,7 +45851,7 @@
         ]
     },
     {
-        "term": "tubi",
+        "term": "tubi;",
         "definitions": [
             {
                 "sense": "1",
@@ -46404,18 +45880,17 @@
         ]
     },
     {
-        "term": "tubin",
-        "roman_numeral": "I",
+        "term": "tubin I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hari keempat selepas hari ini (selepas tulat), tonggeng."
+                "definition": "hari keempat selepas hari ini (selepas tulat), tonggeng."
             }
         ]
     },
     {
-        "term": "tubin",
-        "roman_numeral": "II",
+        "term": "tubin II",
         "definitions": [
             {
                 "sense": "1",
@@ -46424,8 +45899,7 @@
         ]
     },
     {
-        "term": "tubin",
-        "roman_numeral": "III",
+        "term": "tubin III",
         "origin": "Pr",
         "definitions": [
             {
@@ -46435,8 +45909,7 @@
         ]
     },
     {
-        "term": "tubing",
-        "roman_numeral": "I",
+        "term": "tubing I",
         "definitions": [
             {
                 "sense": "1",
@@ -46445,8 +45918,7 @@
         ]
     },
     {
-        "term": "tubing",
-        "roman_numeral": "II",
+        "term": "tubing II",
         "definitions": [
             {
                 "sense": "1",
@@ -46674,7 +46146,7 @@
         ]
     },
     {
-        "term": "tubul",
+        "term": "tubul;",
         "definitions": [
             {
                 "sense": "1",
@@ -46696,8 +46168,7 @@
         ]
     },
     {
-        "term": "tuding",
-        "roman_numeral": "II",
+        "term": "tuding II",
         "origin": "Jw",
         "definitions": [
             {
@@ -46809,8 +46280,7 @@
         ]
     },
     {
-        "term": "tudung",
-        "roman_numeral": "I",
+        "term": "tudung I",
         "definitions": [
             {
                 "sense": "1",
@@ -46893,8 +46363,7 @@
         ]
     },
     {
-        "term": "tudung",
-        "roman_numeral": "II",
+        "term": "tudung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -46903,8 +46372,7 @@
         ]
     },
     {
-        "term": "tudung",
-        "roman_numeral": "III",
+        "term": "tudung III;",
         "definitions": [
             {
                 "sense": "1",
@@ -47043,8 +46511,7 @@
         ]
     },
     {
-        "term": "tugas",
-        "roman_numeral": "II",
+        "term": "tugas II",
         "definitions": [
             {
                 "sense": "1",
@@ -47078,16 +46545,16 @@
     },
     {
         "term": "tuha",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tua."
+                "definition": "tua."
             }
         ]
     },
     {
-        "term": "tuhan",
-        "roman_numeral": "I",
+        "term": "tuhan I",
         "definitions": [
             {
                 "sense": "1",
@@ -47125,8 +46592,7 @@
         ]
     },
     {
-        "term": "Tuhan",
-        "roman_numeral": "II",
+        "term": "Tuhan II",
         "definitions": [
             {
                 "sense": "1",
@@ -47163,7 +46629,7 @@
         ]
     },
     {
-        "term": "tuhfah",
+        "term": "tuhfah, tuhfat",
         "origin": "Ar",
         "definitions": [
             {
@@ -47217,8 +46683,7 @@
         ]
     },
     {
-        "term": "tui",
-        "roman_numeral": "I",
+        "term": "tui I",
         "definitions": [
             {
                 "sense": "1",
@@ -47227,8 +46692,7 @@
         ]
     },
     {
-        "term": "tui",
-        "roman_numeral": "II",
+        "term": "tui II",
         "origin": "C",
         "definitions": [
             {
@@ -47238,8 +46702,7 @@
         ]
     },
     {
-        "term": "tui",
-        "roman_numeral": "III",
+        "term": "tui III",
         "definitions": [
             {
                 "sense": "1",
@@ -47248,8 +46711,7 @@
         ]
     },
     {
-        "term": "tui",
-        "roman_numeral": "IV",
+        "term": "tui IV",
         "definitions": [
             {
                 "sense": "1",
@@ -47258,8 +46720,7 @@
         ]
     },
     {
-        "term": "tui",
-        "roman_numeral": "V",
+        "term": "tui V",
         "definitions": [
             {
                 "sense": "1",
@@ -47334,7 +46795,7 @@
         ]
     },
     {
-        "term": "tujah",
+        "term": "tujah; menujah",
         "definitions": [
             {
                 "sense": "1",
@@ -47382,10 +46843,11 @@
     },
     {
         "term": "tuji",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl berulang-ulang (melakukan sesuatu), bertubi-tubi, berturut-turut."
+                "definition": "berulang-ulang (melakukan sesuatu), bertubi-tubi, berturut-turut."
             }
         ]
     },
@@ -47591,8 +47053,7 @@
         ]
     },
     {
-        "term": "tuju",
-        "roman_numeral": "II",
+        "term": "tuju II",
         "definitions": [
             {
                 "sense": "1",
@@ -47669,7 +47130,7 @@
         ]
     },
     {
-        "term": "tukai",
+        "term": "tukai; menukai",
         "definitions": [
             {
                 "sense": "1",
@@ -47678,8 +47139,7 @@
         ]
     },
     {
-        "term": "tukal",
-        "roman_numeral": "I",
+        "term": "tukal I",
         "definitions": [
             {
                 "sense": "1",
@@ -47688,8 +47148,7 @@
         ]
     },
     {
-        "term": "tukal",
-        "roman_numeral": "II",
+        "term": "tukal II",
         "origin": "Kd",
         "definitions": [
             {
@@ -47699,8 +47158,7 @@
         ]
     },
     {
-        "term": "tukal",
-        "roman_numeral": "III",
+        "term": "tukal III",
         "origin": "Tr",
         "definitions": [
             {
@@ -47710,7 +47168,7 @@
         ]
     },
     {
-        "term": "tukam",
+        "term": "tukam; menukam",
         "definitions": [
             {
                 "sense": "1",
@@ -47795,8 +47253,7 @@
         ]
     },
     {
-        "term": "tukang",
-        "roman_numeral": "II",
+        "term": "tukang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -47968,8 +47425,7 @@
         ]
     },
     {
-        "term": "tukas",
-        "roman_numeral": "I",
+        "term": "tukas I; menukas, menukasi",
         "definitions": [
             {
                 "sense": "1",
@@ -47989,8 +47445,7 @@
         ]
     },
     {
-        "term": "tukas",
-        "roman_numeral": "II",
+        "term": "tukas II",
         "origin": "Mn",
         "definitions": [
             {
@@ -48020,8 +47475,7 @@
         ]
     },
     {
-        "term": "tukas",
-        "roman_numeral": "III",
+        "term": "tukas III",
         "definitions": [
             {
                 "sense": "1",
@@ -48058,8 +47512,7 @@
         ]
     },
     {
-        "term": "tukik",
-        "roman_numeral": "II",
+        "term": "tukik II",
         "definitions": [
             {
                 "sense": "1",
@@ -48092,8 +47545,7 @@
         ]
     },
     {
-        "term": "tukil",
-        "roman_numeral": "I",
+        "term": "tukil I",
         "definitions": [
             {
                 "sense": "1",
@@ -48102,8 +47554,7 @@
         ]
     },
     {
-        "term": "tukil",
-        "roman_numeral": "II",
+        "term": "tukil II",
         "definitions": [
             {
                 "sense": "1",
@@ -48180,8 +47631,7 @@
         ]
     },
     {
-        "term": "tukus",
-        "roman_numeral": "I",
+        "term": "tukus I;",
         "definitions": [
             {
                 "sense": "1",
@@ -48190,8 +47640,7 @@
         ]
     },
     {
-        "term": "tukus",
-        "roman_numeral": "II",
+        "term": "tukus II",
         "definitions": [
             {
                 "sense": "1",
@@ -48200,7 +47649,7 @@
         ]
     },
     {
-        "term": "tul",
+        "term": "tul;",
         "definitions": [
             {
                 "sense": "1",
@@ -48209,8 +47658,7 @@
         ]
     },
     {
-        "term": "tulah",
-        "roman_numeral": "I",
+        "term": "tulah I",
         "definitions": [
             {
                 "sense": "1",
@@ -48239,8 +47687,7 @@
         ]
     },
     {
-        "term": "tulah",
-        "roman_numeral": "II",
+        "term": "tulah II",
         "origin": "IB",
         "definitions": [
             {
@@ -48327,8 +47774,7 @@
         ]
     },
     {
-        "term": "tulang",
-        "roman_numeral": "II",
+        "term": "tulang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -48517,7 +47963,7 @@
         ]
     },
     {
-        "term": "tulis",
+        "term": "tulis;",
         "definitions": [
             {
                 "sense": "1",
@@ -48722,8 +48168,7 @@
         ]
     },
     {
-        "term": "tum",
-        "roman_numeral": "I",
+        "term": "tum I",
         "definitions": [
             {
                 "sense": "1",
@@ -48732,8 +48177,7 @@
         ]
     },
     {
-        "term": "tum",
-        "roman_numeral": "II",
+        "term": "tum II",
         "origin": "Jw",
         "definitions": [
             {
@@ -48743,8 +48187,7 @@
         ]
     },
     {
-        "term": "tum",
-        "roman_numeral": "III",
+        "term": "tum III",
         "definitions": [
             {
                 "sense": "1",
@@ -48773,16 +48216,16 @@
     },
     {
         "term": "tumandang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kacak, segak (kelihatan)."
+                "definition": "kacak, segak (kelihatan)."
             }
         ]
     },
     {
-        "term": "tumang",
-        "roman_numeral": "I",
+        "term": "tumang I",
         "definitions": [
             {
                 "sense": "1",
@@ -48878,8 +48321,7 @@
         ]
     },
     {
-        "term": "tumbang",
-        "roman_numeral": "II",
+        "term": "tumbang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -48953,7 +48395,7 @@
         ]
     },
     {
-        "term": "tumbit",
+        "term": "tumbit;",
         "definitions": [
             {
                 "sense": "1",
@@ -49087,8 +48529,7 @@
         ]
     },
     {
-        "term": "tumbuh",
-        "roman_numeral": "II",
+        "term": "tumbuh II;",
         "definitions": [
             {
                 "sense": "1",
@@ -49282,8 +48723,7 @@
         ]
     },
     {
-        "term": "tumbuk",
-        "roman_numeral": "II",
+        "term": "tumbuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -49292,8 +48732,7 @@
         ]
     },
     {
-        "term": "tumbuk",
-        "roman_numeral": "III",
+        "term": "tumbuk III",
         "definitions": [
             {
                 "sense": "1",
@@ -49524,8 +48963,7 @@
         ]
     },
     {
-        "term": "tumpak",
-        "roman_numeral": "II",
+        "term": "tumpak II; tumpakan",
         "definitions": [
             {
                 "sense": "1",
@@ -49534,7 +48972,7 @@
         ]
     },
     {
-        "term": "tumpang",
+        "term": "tumpang;",
         "definitions": [
             {
                 "sense": "1",
@@ -49675,8 +49113,7 @@
         ]
     },
     {
-        "term": "tumpas",
-        "roman_numeral": "I",
+        "term": "tumpas I",
         "definitions": [
             {
                 "sense": "1",
@@ -49705,8 +49142,7 @@
         ]
     },
     {
-        "term": "tumpas",
-        "roman_numeral": "II",
+        "term": "tumpas II",
         "definitions": [
             {
                 "sense": "1",
@@ -49715,8 +49151,7 @@
         ]
     },
     {
-        "term": "tumpas",
-        "roman_numeral": "III",
+        "term": "tumpas III",
         "origin": "Pr",
         "definitions": [
             {
@@ -49839,7 +49274,7 @@
         ]
     },
     {
-        "term": "tumplak",
+        "term": "tumplak, tumplek",
         "origin": "Jk",
         "definitions": [
             {
@@ -50122,7 +49557,7 @@
         ]
     },
     {
-        "term": "tumus",
+        "term": "tumus; tertumus",
         "definitions": [
             {
                 "sense": "1",
@@ -50155,12 +49590,12 @@
         ]
     },
     {
-        "term": "tuna",
-        "roman_numeral": "I",
+        "term": "tuna I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl luka, cacat, rosak;"
+                "definition": "luka, cacat, rosak;"
             }
         ],
         "sub_terms": [
@@ -50180,8 +49615,7 @@
         ]
     },
     {
-        "term": "tuna",
-        "roman_numeral": "II",
+        "term": "tuna II",
         "definitions": [
             {
                 "sense": "1",
@@ -50278,7 +49712,8 @@
         ]
     },
     {
-        "term": "tunak sl",
+        "term": "tunak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -50310,8 +49745,7 @@
         ]
     },
     {
-        "term": "tunam",
-        "roman_numeral": "I",
+        "term": "tunam I",
         "definitions": [
             {
                 "sense": "1",
@@ -50320,8 +49754,7 @@
         ]
     },
     {
-        "term": "tunam",
-        "roman_numeral": "II",
+        "term": "tunam II",
         "origin": "Mn",
         "definitions": [
             {
@@ -50543,8 +49976,7 @@
         ]
     },
     {
-        "term": "tunda",
-        "roman_numeral": "I",
+        "term": "tunda I",
         "definitions": [
             {
                 "sense": "1",
@@ -50608,8 +50040,7 @@
         ]
     },
     {
-        "term": "tunda",
-        "roman_numeral": "II",
+        "term": "tunda II",
         "definitions": [
             {
                 "sense": "1",
@@ -50660,8 +50091,7 @@
         ]
     },
     {
-        "term": "tunda",
-        "roman_numeral": "III",
+        "term": "tunda III",
         "origin": "Mn",
         "definitions": [
             {
@@ -50847,8 +50277,7 @@
         ]
     },
     {
-        "term": "tundun",
-        "roman_numeral": "I",
+        "term": "tundun I",
         "origin": "Jw",
         "definitions": [
             {
@@ -50871,7 +50300,7 @@
         ]
     },
     {
-        "term": "tundung",
+        "term": "tundung; menundung",
         "definitions": [
             {
                 "sense": "1",
@@ -50891,8 +50320,7 @@
         ]
     },
     {
-        "term": "tungau",
-        "roman_numeral": "I",
+        "term": "tungau I",
         "definitions": [
             {
                 "sense": "1",
@@ -50901,8 +50329,7 @@
         ]
     },
     {
-        "term": "tungau",
-        "roman_numeral": "II",
+        "term": "tungau II",
         "origin": "Mn",
         "definitions": [
             {
@@ -51022,8 +50449,7 @@
         ]
     },
     {
-        "term": "tunggang",
-        "roman_numeral": "I",
+        "term": "tunggang I",
         "definitions": [
             {
                 "sense": "1",
@@ -51087,8 +50513,7 @@
         ]
     },
     {
-        "term": "tunggang",
-        "roman_numeral": "II",
+        "term": "tunggang II",
         "definitions": [
             {
                 "sense": "1",
@@ -51097,8 +50522,7 @@
         ]
     },
     {
-        "term": "tunggang",
-        "roman_numeral": "III",
+        "term": "tunggang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -51140,8 +50564,7 @@
         ]
     },
     {
-        "term": "tunggang",
-        "roman_numeral": "IV",
+        "term": "tunggang IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -51151,7 +50574,7 @@
         ]
     },
     {
-        "term": "tunggang",
+        "term": "tunggang balik",
         "definitions": [
             {
                 "sense": "1",
@@ -51217,8 +50640,7 @@
         ]
     },
     {
-        "term": "tunggu",
-        "roman_numeral": "I",
+        "term": "tunggu I",
         "definitions": [
             {
                 "sense": "1",
@@ -51311,8 +50733,7 @@
         ]
     },
     {
-        "term": "tunggu",
-        "roman_numeral": "II",
+        "term": "tunggu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -51376,18 +50797,17 @@
         ]
     },
     {
-        "term": "tunggul",
-        "roman_numeral": "II",
+        "term": "tunggul II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bendera, panji-panji:  maka Laksamana pun berdirilah di  bawah ~ itu; ~ panji-panji  bendera dan panji-panji;  ~ putih   bendera putih (tanda menyerah kalah);  ~ merual  bermacam-macam  jenis bendera."
+                "definition": "bendera, panji-panji:  maka Laksamana pun berdirilah di  bawah ~ itu; ~ panji-panji  bendera dan panji-panji;  ~ putih   bendera putih (tanda menyerah kalah);  ~ merual  bermacam-macam  jenis bendera."
             }
         ]
     },
     {
-        "term": "tunggul",
-        "roman_numeral": "III",
+        "term": "tunggul III; penunggul",
         "definitions": [
             {
                 "sense": "1",
@@ -51396,8 +50816,7 @@
         ]
     },
     {
-        "term": "tunggul",
-        "roman_numeral": "IV",
+        "term": "tunggul IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -51459,8 +50878,7 @@
         ]
     },
     {
-        "term": "tungku",
-        "roman_numeral": "I",
+        "term": "tungku I",
         "definitions": [
             {
                 "sense": "1",
@@ -51469,8 +50887,7 @@
         ]
     },
     {
-        "term": "tungku",
-        "roman_numeral": "II",
+        "term": "tungku II",
         "definitions": [
             {
                 "sense": "1",
@@ -51479,12 +50896,12 @@
         ]
     },
     {
-        "term": "tungkul",
-        "roman_numeral": "I",
+        "term": "tungkul I; menungkul",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl mengaku kalah, takluk, tunduk;"
+                "definition": "mengaku kalah, takluk, tunduk;"
             }
         ],
         "sub_terms": [
@@ -51500,8 +50917,7 @@
         ]
     },
     {
-        "term": "tungkul",
-        "roman_numeral": "II",
+        "term": "tungkul II",
         "origin": "Mn",
         "definitions": [
             {
@@ -51511,7 +50927,7 @@
         ]
     },
     {
-        "term": "tungkum",
+        "term": "tungkum; menungkum",
         "definitions": [
             {
                 "sense": "1",
@@ -51570,8 +50986,7 @@
         ]
     },
     {
-        "term": "tungkus",
-        "roman_numeral": "I",
+        "term": "tungkus I",
         "definitions": [
             {
                 "sense": "1",
@@ -51591,8 +51006,7 @@
         ]
     },
     {
-        "term": "tungkus",
-        "roman_numeral": "II",
+        "term": "tungkus II;",
         "definitions": [
             {
                 "sense": "1",
@@ -51601,8 +51015,7 @@
         ]
     },
     {
-        "term": "tungkus",
-        "roman_numeral": "III",
+        "term": "tungkus III",
         "origin": "Br",
         "definitions": [
             {
@@ -51635,7 +51048,7 @@
         ]
     },
     {
-        "term": "tunjam",
+        "term": "tunjam; menunjam",
         "definitions": [
             {
                 "sense": "1",
@@ -51644,8 +51057,7 @@
         ]
     },
     {
-        "term": "tunjang",
-        "roman_numeral": "I",
+        "term": "tunjang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -51722,8 +51134,7 @@
         ]
     },
     {
-        "term": "tunjang",
-        "roman_numeral": "II",
+        "term": "tunjang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -51932,7 +51343,7 @@
         ]
     },
     {
-        "term": "tunjung",
+        "term": "tunjung;",
         "definitions": [
             {
                 "sense": "1",
@@ -51987,8 +51398,7 @@
         ]
     },
     {
-        "term": "tuntun",
-        "roman_numeral": "I",
+        "term": "tuntun I",
         "origin": "Jw",
         "definitions": [
             {
@@ -52035,8 +51445,7 @@
         ]
     },
     {
-        "term": "tuntun",
-        "roman_numeral": "II",
+        "term": "tuntun II",
         "origin": "Mn",
         "definitions": [
             {
@@ -52066,8 +51475,7 @@
         ]
     },
     {
-        "term": "tuntung",
-        "roman_numeral": "I",
+        "term": "tuntung I",
         "definitions": [
             {
                 "sense": "1",
@@ -52076,8 +51484,7 @@
         ]
     },
     {
-        "term": "tuntung",
-        "roman_numeral": "II",
+        "term": "tuntung II",
         "origin": "Mn",
         "definitions": [
             {
@@ -52098,8 +51505,7 @@
         ]
     },
     {
-        "term": "tuntung",
-        "roman_numeral": "III",
+        "term": "tuntung III",
         "origin": "Mn",
         "definitions": [
             {
@@ -52137,8 +51543,7 @@
         ]
     },
     {
-        "term": "tuntung",
-        "roman_numeral": "IV",
+        "term": "tuntung IV",
         "definitions": [
             {
                 "sense": "1",
@@ -52223,10 +51628,11 @@
     },
     {
         "term": "tunu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl dimakan api, terbakar;"
+                "definition": "dimakan api, terbakar;"
             }
         ],
         "sub_terms": [
@@ -52291,8 +51697,7 @@
         ]
     },
     {
-        "term": "tupai",
-        "roman_numeral": "II",
+        "term": "tupai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -52319,7 +51724,7 @@
         ]
     },
     {
-        "term": "tupuk",
+        "term": "tupuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -52412,8 +51817,7 @@
         ]
     },
     {
-        "term": "turas",
-        "roman_numeral": "I",
+        "term": "turas I",
         "definitions": [
             {
                 "sense": "1",
@@ -52460,8 +51864,7 @@
         ]
     },
     {
-        "term": "turas",
-        "roman_numeral": "II",
+        "term": "turas II",
         "definitions": [
             {
                 "sense": "1",
@@ -52479,8 +51882,7 @@
         ]
     },
     {
-        "term": "turi",
-        "roman_numeral": "I",
+        "term": "turi I",
         "definitions": [
             {
                 "sense": "1",
@@ -52489,8 +51891,7 @@
         ]
     },
     {
-        "term": "turi",
-        "roman_numeral": "II",
+        "term": "turi II",
         "definitions": [
             {
                 "sense": "1",
@@ -53163,8 +52564,7 @@
         ]
     },
     {
-        "term": "tus",
-        "roman_numeral": "I",
+        "term": "tus I",
         "definitions": [
             {
                 "sense": "1",
@@ -53202,8 +52602,7 @@
         ]
     },
     {
-        "term": "tus",
-        "roman_numeral": "II",
+        "term": "tus II",
         "definitions": [
             {
                 "sense": "1",
@@ -53364,8 +52763,7 @@
         ]
     },
     {
-        "term": "tut-tut",
-        "roman_numeral": "I",
+        "term": "tut-tut I",
         "definitions": [
             {
                 "sense": "1",
@@ -53374,8 +52772,7 @@
         ]
     },
     {
-        "term": "tut-tut",
-        "roman_numeral": "II",
+        "term": "tut-tut II",
         "definitions": [
             {
                 "sense": "1",
@@ -53384,8 +52781,7 @@
         ]
     },
     {
-        "term": "tutu",
-        "roman_numeral": "I",
+        "term": "tutu I; bertutu",
         "definitions": [
             {
                 "sense": "1",
@@ -53428,8 +52824,7 @@
         ]
     },
     {
-        "term": "tutuk",
-        "roman_numeral": "I",
+        "term": "tutuk I; menutuk",
         "definitions": [
             {
                 "sense": "1",
@@ -53438,8 +52833,7 @@
         ]
     },
     {
-        "term": "tutuk",
-        "roman_numeral": "II",
+        "term": "tutuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -53448,8 +52842,7 @@
         ]
     },
     {
-        "term": "tutul",
-        "roman_numeral": "I",
+        "term": "tutul I",
         "origin": "Jw",
         "definitions": [
             {
@@ -53459,8 +52852,7 @@
         ]
     },
     {
-        "term": "tutul",
-        "roman_numeral": "II",
+        "term": "tutul II;",
         "definitions": [
             {
                 "sense": "1",
@@ -53616,8 +53008,7 @@
         ]
     },
     {
-        "term": "tutup",
-        "roman_numeral": "II",
+        "term": "tutup II;",
         "definitions": [
             {
                 "sense": "1",
@@ -53626,8 +53017,7 @@
         ]
     },
     {
-        "term": "tutur",
-        "roman_numeral": "I",
+        "term": "tutur I",
         "definitions": [
             {
                 "sense": "1",
@@ -53704,8 +53094,7 @@
         ]
     },
     {
-        "term": "tutur",
-        "roman_numeral": "II",
+        "term": "tutur II; tuturan;",
         "definitions": [
             {
                 "sense": "1",
@@ -53729,7 +53118,7 @@
         ]
     },
     {
-        "term": "tuwu",
+        "term": "tuwu;",
         "definitions": [
             {
                 "sense": "1",

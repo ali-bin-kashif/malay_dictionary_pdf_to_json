@@ -1502,7 +1502,7 @@
         ]
     },
     {
-        "term": "vulkan",
+        "term": "vulkan;",
         "definitions": [
             {
                 "sense": "1",

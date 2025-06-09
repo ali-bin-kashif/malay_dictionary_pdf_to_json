@@ -9,8 +9,7 @@
         ]
     },
     {
-        "term": "U",
-        "roman_numeral": "I",
+        "term": "U I",
         "definitions": [
             {
                 "sense": "1",
@@ -19,8 +18,7 @@
         ]
     },
     {
-        "term": "U",
-        "roman_numeral": "II",
+        "term": "U II",
         "definitions": [
             {
                 "sense": "1",
@@ -98,7 +96,7 @@
         ]
     },
     {
-        "term": "uak-uak",
+        "term": "uak-uak;",
         "definitions": [
             {
                 "sense": "1",
@@ -152,7 +150,7 @@
         ]
     },
     {
-        "term": "uar",
+        "term": "uar;",
         "definitions": [
             {
                 "sense": "1",
@@ -342,7 +340,7 @@
         ]
     },
     {
-        "term": "ubah",
+        "term": "ubah ansur",
         "definitions": [
             {
                 "sense": "1",
@@ -351,7 +349,7 @@
         ]
     },
     {
-        "term": "ubah",
+        "term": "ubah suai; mengubah suai",
         "definitions": [
             {
                 "sense": "1",
@@ -389,7 +387,7 @@
         ]
     },
     {
-        "term": "ubai",
+        "term": "ubai;",
         "definitions": [
             {
                 "sense": "1",
@@ -487,7 +485,7 @@
         ]
     },
     {
-        "term": "ubang",
+        "term": "ubang;",
         "definitions": [
             {
                 "sense": "1",
@@ -528,8 +526,7 @@
         ]
     },
     {
-        "term": "ubar",
-        "roman_numeral": "II",
+        "term": "ubar II",
         "definitions": [
             {
                 "sense": "1",
@@ -684,8 +681,7 @@
         ]
     },
     {
-        "term": "ubat",
-        "roman_numeral": "II",
+        "term": "ubat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -796,7 +792,7 @@
         ]
     },
     {
-        "term": "ubrak",
+        "term": "ubrak;",
         "definitions": [
             {
                 "sense": "1",
@@ -824,12 +820,12 @@
         ]
     },
     {
-        "term": "ubun-ubun",
-        "roman_numeral": "II",
+        "term": "ubun-ubun II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pertapa perempuan."
+                "definition": "pertapa perempuan."
             }
         ]
     },
@@ -1054,8 +1050,7 @@
         ]
     },
     {
-        "term": "uda",
-        "roman_numeral": "I",
+        "term": "uda I",
         "definitions": [
             {
                 "sense": "1",
@@ -1064,8 +1059,7 @@
         ]
     },
     {
-        "term": "uda",
-        "roman_numeral": "II",
+        "term": "uda II",
         "origin": "Mn",
         "definitions": [
             {
@@ -1122,8 +1116,7 @@
         ]
     },
     {
-        "term": "udang",
-        "roman_numeral": "I",
+        "term": "udang I",
         "definitions": [
             {
                 "sense": "1",
@@ -1143,8 +1136,7 @@
         ]
     },
     {
-        "term": "udang",
-        "roman_numeral": "II",
+        "term": "udang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1162,7 +1154,7 @@
         ]
     },
     {
-        "term": "udap",
+        "term": "udap; udap-udapan",
         "definitions": [
             {
                 "sense": "1",
@@ -1171,8 +1163,7 @@
         ]
     },
     {
-        "term": "udar",
-        "roman_numeral": "I",
+        "term": "udar I",
         "origin": "Jw",
         "definitions": [
             {
@@ -1193,8 +1184,7 @@
         ]
     },
     {
-        "term": "udar",
-        "roman_numeral": "II",
+        "term": "udar II",
         "origin": "Br",
         "definitions": [
             {
@@ -1352,8 +1342,7 @@
         ]
     },
     {
-        "term": "udu",
-        "roman_numeral": "I",
+        "term": "udu I",
         "definitions": [
             {
                 "sense": "1",
@@ -1373,8 +1362,7 @@
         ]
     },
     {
-        "term": "udu",
-        "roman_numeral": "II",
+        "term": "udu II",
         "definitions": [
             {
                 "sense": "1",
@@ -1383,8 +1371,7 @@
         ]
     },
     {
-        "term": "uduh",
-        "roman_numeral": "I",
+        "term": "uduh I",
         "definitions": [
             {
                 "sense": "1",
@@ -1393,8 +1380,7 @@
         ]
     },
     {
-        "term": "uduh",
-        "roman_numeral": "II",
+        "term": "uduh II",
         "definitions": [
             {
                 "sense": "1",
@@ -1403,8 +1389,7 @@
         ]
     },
     {
-        "term": "uduk",
-        "roman_numeral": "I",
+        "term": "uduk I",
         "definitions": [
             {
                 "sense": "1",
@@ -1413,8 +1398,7 @@
         ]
     },
     {
-        "term": "uduk",
-        "roman_numeral": "II",
+        "term": "uduk II",
         "origin": "Jk",
         "definitions": [
             {
@@ -1453,7 +1437,7 @@
         ]
     },
     {
-        "term": "udut",
+        "term": "udut; mengudut",
         "definitions": [
             {
                 "sense": "1",
@@ -1523,10 +1507,11 @@
     },
     {
         "term": "ugahari",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sederhana, sedang, pertengahan:  angin paksa pun turunlah  dgn ~ kencangnya;  gahari."
+                "definition": "sederhana, sedang, pertengahan:  angin paksa pun turunlah  dgn ~ kencangnya;  gahari."
             }
         ]
     },
@@ -1579,7 +1564,7 @@
         ]
     },
     {
-        "term": "ugut",
+        "term": "ugut;",
         "definitions": [
             {
                 "sense": "1",
@@ -1635,7 +1620,7 @@
         ]
     },
     {
-        "term": "uik",
+        "term": "uik; menguik, menguik-uik",
         "definitions": [
             {
                 "sense": "1",
@@ -1653,7 +1638,7 @@
         ]
     },
     {
-        "term": "uis",
+        "term": "uis; menguis-uis",
         "definitions": [
             {
                 "sense": "1",
@@ -1662,7 +1647,7 @@
         ]
     },
     {
-        "term": "uit",
+        "term": "uit; menguit",
         "definitions": [
             {
                 "sense": "1",
@@ -1733,8 +1718,7 @@
         ]
     },
     {
-        "term": "ujana",
-        "roman_numeral": "I",
+        "term": "ujana I",
         "definitions": [
             {
                 "sense": "1",
@@ -1743,12 +1727,12 @@
         ]
     },
     {
-        "term": "ujana",
-        "roman_numeral": "II",
+        "term": "ujana II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl taman."
+                "definition": "taman."
             }
         ]
     },
@@ -1910,7 +1894,7 @@
         ]
     },
     {
-        "term": "uji",
+        "term": "uji bakat",
         "definitions": [
             {
                 "sense": "1",
@@ -1930,7 +1914,7 @@
         ]
     },
     {
-        "term": "uji",
+        "term": "uji kaji",
         "definitions": [
             {
                 "sense": "1",
@@ -1968,7 +1952,7 @@
         ]
     },
     {
-        "term": "ujrah",
+        "term": "ujrah, ujrat",
         "origin": "Ar",
         "definitions": [
             {
@@ -2028,7 +2012,7 @@
         ]
     },
     {
-        "term": "ujul",
+        "term": "ujul;",
         "definitions": [
             {
                 "sense": "1",
@@ -2392,7 +2376,7 @@
         ]
     },
     {
-        "term": "ulak-ulak",
+        "term": "ulak-ulak;",
         "definitions": [
             {
                 "sense": "1",
@@ -2443,8 +2427,7 @@
         ]
     },
     {
-        "term": "ulam",
-        "roman_numeral": "II",
+        "term": "ulam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2473,7 +2456,7 @@
         ]
     },
     {
-        "term": "ulan",
+        "term": "ulan;",
         "definitions": [
             {
                 "sense": "1",
@@ -2683,7 +2666,7 @@
         ]
     },
     {
-        "term": "ulang",
+        "term": "ulang kaji",
         "definitions": [
             {
                 "sense": "1",
@@ -2707,8 +2690,7 @@
         ]
     },
     {
-        "term": "ulap-ulap",
-        "roman_numeral": "I",
+        "term": "ulap-ulap I",
         "definitions": [
             {
                 "sense": "1",
@@ -2730,8 +2712,7 @@
         ]
     },
     {
-        "term": "ular",
-        "roman_numeral": "I",
+        "term": "ular I",
         "definitions": [
             {
                 "sense": "1",
@@ -2768,8 +2749,7 @@
         ]
     },
     {
-        "term": "ular",
-        "roman_numeral": "II",
+        "term": "ular II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2874,8 +2854,7 @@
         ]
     },
     {
-        "term": "ulas",
-        "roman_numeral": "III",
+        "term": "ulas III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2922,8 +2901,7 @@
         ]
     },
     {
-        "term": "ulas",
-        "roman_numeral": "IV",
+        "term": "ulas IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -3032,8 +3010,7 @@
         ]
     },
     {
-        "term": "ulat",
-        "roman_numeral": "II",
+        "term": "ulat II",
         "definitions": [
             {
                 "sense": "1",
@@ -3051,7 +3028,7 @@
         ]
     },
     {
-        "term": "ulayah",
+        "term": "ulayah, ulayat",
         "definitions": [
             {
                 "sense": "1",
@@ -3129,8 +3106,7 @@
         ]
     },
     {
-        "term": "uli",
-        "roman_numeral": "I",
+        "term": "uli I",
         "definitions": [
             {
                 "sense": "1",
@@ -3190,18 +3166,17 @@
         ]
     },
     {
-        "term": "uli",
-        "roman_numeral": "II",
+        "term": "uli II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl baik atau elok (utk nama timang-timangan)."
+                "definition": "baik atau elok (utk nama timang-timangan)."
             }
         ]
     },
     {
-        "term": "ulik",
-        "roman_numeral": "I",
+        "term": "ulik I",
         "definitions": [
             {
                 "sense": "1",
@@ -3210,8 +3185,7 @@
         ]
     },
     {
-        "term": "ulik",
-        "roman_numeral": "II",
+        "term": "ulik II",
         "definitions": [
             {
                 "sense": "1",
@@ -3220,8 +3194,7 @@
         ]
     },
     {
-        "term": "ulik",
-        "roman_numeral": "III",
+        "term": "ulik III;",
         "definitions": [
             {
                 "sense": "1",
@@ -3230,7 +3203,7 @@
         ]
     },
     {
-        "term": "ulin",
+        "term": "ulin;",
         "origin": "Br",
         "definitions": [
             {
@@ -3240,8 +3213,7 @@
         ]
     },
     {
-        "term": "uling",
-        "roman_numeral": "I",
+        "term": "uling I",
         "definitions": [
             {
                 "sense": "1",
@@ -3250,8 +3222,7 @@
         ]
     },
     {
-        "term": "uling",
-        "roman_numeral": "II",
+        "term": "uling II",
         "origin": "Kl",
         "definitions": [
             {
@@ -3322,8 +3293,7 @@
         ]
     },
     {
-        "term": "ulit",
-        "roman_numeral": "II",
+        "term": "ulit II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3444,7 +3414,7 @@
         ]
     },
     {
-        "term": "ultra",
+        "term": "ultra vires",
         "definitions": [
             {
                 "sense": "1",
@@ -3453,7 +3423,7 @@
         ]
     },
     {
-        "term": "uluh",
+        "term": "uluh;",
         "definitions": [
             {
                 "sense": "1",
@@ -3482,16 +3452,16 @@
     },
     {
         "term": "ulun",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hamba, abdi, sahaya."
+                "definition": "hamba, abdi, sahaya."
             }
         ]
     },
     {
-        "term": "ulung",
-        "roman_numeral": "I",
+        "term": "ulung I",
         "definitions": [
             {
                 "sense": "1",
@@ -3593,7 +3563,7 @@
         ]
     },
     {
-        "term": "umanah",
+        "term": "umanah, umanat",
         "definitions": [
             {
                 "sense": "1",
@@ -3665,8 +3635,7 @@
         ]
     },
     {
-        "term": "umbai",
-        "roman_numeral": "I",
+        "term": "umbai I",
         "definitions": [
             {
                 "sense": "1",
@@ -3675,8 +3644,7 @@
         ]
     },
     {
-        "term": "umbai",
-        "roman_numeral": "II",
+        "term": "umbai II",
         "definitions": [
             {
                 "sense": "1",
@@ -3685,8 +3653,7 @@
         ]
     },
     {
-        "term": "umbai",
-        "roman_numeral": "III",
+        "term": "umbai III",
         "definitions": [
             {
                 "sense": "1",
@@ -3695,8 +3662,7 @@
         ]
     },
     {
-        "term": "umbai",
-        "roman_numeral": "IV",
+        "term": "umbai IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -3738,8 +3704,7 @@
         ]
     },
     {
-        "term": "umbang",
-        "roman_numeral": "II",
+        "term": "umbang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3807,7 +3772,7 @@
         ]
     },
     {
-        "term": "umbara",
+        "term": "umbara; mengumbara",
         "definitions": [
             {
                 "sense": "1",
@@ -3865,8 +3830,7 @@
         ]
     },
     {
-        "term": "umbi",
-        "roman_numeral": "II",
+        "term": "umbi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3965,8 +3929,7 @@
         ]
     },
     {
-        "term": "umbut",
-        "roman_numeral": "I",
+        "term": "umbut I",
         "definitions": [
             {
                 "sense": "1",
@@ -4038,8 +4001,7 @@
         ]
     },
     {
-        "term": "ummi",
-        "roman_numeral": "I",
+        "term": "ummi I",
         "definitions": [
             {
                 "sense": "1",
@@ -4048,8 +4010,7 @@
         ]
     },
     {
-        "term": "ummi",
-        "roman_numeral": "II",
+        "term": "ummi II",
         "origin": "Ar",
         "definitions": [
             {
@@ -4068,8 +4029,7 @@
         ]
     },
     {
-        "term": "umpak",
-        "roman_numeral": "I",
+        "term": "umpak I",
         "origin": "Jk",
         "definitions": [
             {
@@ -4090,8 +4050,7 @@
         ]
     },
     {
-        "term": "umpak",
-        "roman_numeral": "II",
+        "term": "umpak II",
         "definitions": [
             {
                 "sense": "1",
@@ -4362,8 +4321,7 @@
         ]
     },
     {
-        "term": "umpat",
-        "roman_numeral": "II",
+        "term": "umpat II",
         "definitions": [
             {
                 "sense": "1",
@@ -4524,7 +4482,7 @@
         ]
     },
     {
-        "term": "umu",
+        "term": "umu;",
         "definitions": [
             {
                 "sense": "1",
@@ -4632,7 +4590,8 @@
         ]
     },
     {
-        "term": "umum II sl",
+        "term": "umum II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -4752,8 +4711,7 @@
         ]
     },
     {
-        "term": "uncang",
-        "roman_numeral": "I",
+        "term": "uncang I",
         "definitions": [
             {
                 "sense": "1",
@@ -4775,8 +4733,7 @@
         ]
     },
     {
-        "term": "uncang",
-        "roman_numeral": "III",
+        "term": "uncang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -4794,7 +4751,7 @@
         ]
     },
     {
-        "term": "uncit",
+        "term": "uncit;",
         "definitions": [
             {
                 "sense": "1",
@@ -4841,8 +4798,7 @@
         ]
     },
     {
-        "term": "undak",
-        "roman_numeral": "I",
+        "term": "undak I; mengundak, mengundak-undak",
         "definitions": [
             {
                 "sense": "1",
@@ -4894,8 +4850,7 @@
         ]
     },
     {
-        "term": "undang",
-        "roman_numeral": "I",
+        "term": "undang I; mengundang",
         "definitions": [
             {
                 "sense": "1",
@@ -5018,8 +4973,7 @@
         ]
     },
     {
-        "term": "undang",
-        "roman_numeral": "III",
+        "term": "undang III",
         "definitions": [
             {
                 "sense": "1",
@@ -5131,7 +5085,7 @@
         ]
     },
     {
-        "term": "undung",
+        "term": "undung; undung-undung",
         "origin": "Mn",
         "definitions": [
             {
@@ -5161,7 +5115,7 @@
         ]
     },
     {
-        "term": "undung-undung",
+        "term": "undung-undung; berundung-undung",
         "definitions": [
             {
                 "sense": "1",
@@ -5265,7 +5219,7 @@
         ]
     },
     {
-        "term": "ungap",
+        "term": "ungap; ungap-ungap",
         "definitions": [
             {
                 "sense": "1",
@@ -5296,7 +5250,7 @@
         ]
     },
     {
-        "term": "unggang",
+        "term": "unggang;",
         "definitions": [
             {
                 "sense": "1",
@@ -5325,7 +5279,7 @@
         ]
     },
     {
-        "term": "unggat",
+        "term": "unggat;",
         "definitions": [
             {
                 "sense": "1",
@@ -5334,7 +5288,7 @@
         ]
     },
     {
-        "term": "unggis",
+        "term": "unggis; mengunggis",
         "definitions": [
             {
                 "sense": "1",
@@ -5343,8 +5297,7 @@
         ]
     },
     {
-        "term": "unggit",
-        "roman_numeral": "I",
+        "term": "unggit I;",
         "definitions": [
             {
                 "sense": "1",
@@ -5353,8 +5306,7 @@
         ]
     },
     {
-        "term": "unggit",
-        "roman_numeral": "II",
+        "term": "unggit II",
         "definitions": [
             {
                 "sense": "1",
@@ -5372,8 +5324,7 @@
         ]
     },
     {
-        "term": "unggul",
-        "roman_numeral": "I",
+        "term": "unggul I",
         "definitions": [
             {
                 "sense": "1",
@@ -5403,10 +5354,11 @@
     },
     {
         "term": "unggul-unggul",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl    panji-panji."
+                "definition": "panji-panji."
             }
         ]
     },
@@ -5469,7 +5421,7 @@
         ]
     },
     {
-        "term": "unggut",
+        "term": "unggut; berunggut-unggutan",
         "definitions": [
             {
                 "sense": "1",
@@ -5576,8 +5528,7 @@
         ]
     },
     {
-        "term": "ungkang",
-        "roman_numeral": "I",
+        "term": "ungkang I; ungkang-ungkang;",
         "definitions": [
             {
                 "sense": "1",
@@ -5586,8 +5537,7 @@
         ]
     },
     {
-        "term": "ungkang",
-        "roman_numeral": "II",
+        "term": "ungkang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5596,8 +5546,7 @@
         ]
     },
     {
-        "term": "ungkap",
-        "roman_numeral": "I",
+        "term": "ungkap I; mengungkap",
         "definitions": [
             {
                 "sense": "1",
@@ -5707,7 +5656,7 @@
         ]
     },
     {
-        "term": "ungkil",
+        "term": "ungkil; mengungkil",
         "definitions": [
             {
                 "sense": "1",
@@ -5736,7 +5685,7 @@
         ]
     },
     {
-        "term": "ungkit",
+        "term": "ungkit;",
         "definitions": [
             {
                 "sense": "1",
@@ -5816,7 +5765,7 @@
         ]
     },
     {
-        "term": "ungsi",
+        "term": "ungsi; mengungsi",
         "definitions": [
             {
                 "sense": "1",
@@ -5897,8 +5846,7 @@
         ]
     },
     {
-        "term": "uni",
-        "roman_numeral": "I",
+        "term": "uni I",
         "origin": "Mn",
         "definitions": [
             {
@@ -5908,8 +5856,7 @@
         ]
     },
     {
-        "term": "uni",
-        "roman_numeral": "II",
+        "term": "uni II",
         "origin": "IB",
         "definitions": [
             {
@@ -6165,8 +6112,7 @@
         ]
     },
     {
-        "term": "unjam",
-        "roman_numeral": "I",
+        "term": "unjam I",
         "definitions": [
             {
                 "sense": "1",
@@ -6175,8 +6121,7 @@
         ]
     },
     {
-        "term": "unjam",
-        "roman_numeral": "II",
+        "term": "unjam II",
         "definitions": [
             {
                 "sense": "1",
@@ -6194,8 +6139,7 @@
         ]
     },
     {
-        "term": "unjuk",
-        "roman_numeral": "I",
+        "term": "unjuk I;",
         "definitions": [
             {
                 "sense": "1",
@@ -6250,8 +6194,7 @@
         ]
     },
     {
-        "term": "unjuk",
-        "roman_numeral": "II",
+        "term": "unjuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -6290,16 +6233,16 @@
     },
     {
         "term": "unjun",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl;  mengunjun  menghulurkan (tangan, tali, dll) dan menariknya  kembali kuat-kuat, menarik (menyentak) kuat-kuat, merentak."
+                "definition": ";  mengunjun  menghulurkan (tangan, tali, dll) dan menariknya  kembali kuat-kuat, menarik (menyentak) kuat-kuat, merentak."
             }
         ]
     },
     {
-        "term": "unjung",
-        "roman_numeral": "I",
+        "term": "unjung I",
         "definitions": [
             {
                 "sense": "1",
@@ -6308,8 +6251,7 @@
         ]
     },
     {
-        "term": "unjung",
-        "roman_numeral": "II",
+        "term": "unjung II",
         "definitions": [
             {
                 "sense": "1",
@@ -6449,10 +6391,11 @@
     },
     {
         "term": "unsuri",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl berkaitan dgn unsur (asal mula dll)."
+                "definition": "berkaitan dgn unsur (asal mula dll)."
             }
         ]
     },
@@ -6549,7 +6492,7 @@
         ]
     },
     {
-        "term": "untang",
+        "term": "untang;",
         "definitions": [
             {
                 "sense": "1",
@@ -6558,8 +6501,7 @@
         ]
     },
     {
-        "term": "until",
-        "roman_numeral": "I",
+        "term": "until I",
         "definitions": [
             {
                 "sense": "1",
@@ -6592,8 +6534,7 @@
         ]
     },
     {
-        "term": "unting",
-        "roman_numeral": "I",
+        "term": "unting I",
         "definitions": [
             {
                 "sense": "1",
@@ -6622,8 +6563,7 @@
         ]
     },
     {
-        "term": "unting",
-        "roman_numeral": "II",
+        "term": "unting II; unting-unting",
         "definitions": [
             {
                 "sense": "1",
@@ -6941,10 +6881,11 @@
     },
     {
         "term": "upaduta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl penolong (naib, timbalan) duta besar."
+                "definition": "penolong (naib, timbalan) duta besar."
             }
         ]
     },
@@ -7035,7 +6976,7 @@
         ]
     },
     {
-        "term": "upam",
+        "term": "upam; mengupam",
         "definitions": [
             {
                 "sense": "1",
@@ -7090,7 +7031,7 @@
         ]
     },
     {
-        "term": "upar",
+        "term": "upar; mengupar, menguparkan",
         "definitions": [
             {
                 "sense": "1",
@@ -7099,8 +7040,7 @@
         ]
     },
     {
-        "term": "upas",
-        "roman_numeral": "I",
+        "term": "upas I",
         "definitions": [
             {
                 "sense": "1",
@@ -7109,8 +7049,7 @@
         ]
     },
     {
-        "term": "upas",
-        "roman_numeral": "II",
+        "term": "upas II",
         "definitions": [
             {
                 "sense": "1",
@@ -7119,8 +7058,7 @@
         ]
     },
     {
-        "term": "upat",
-        "roman_numeral": "I",
+        "term": "upat I",
         "definitions": [
             {
                 "sense": "1",
@@ -7129,8 +7067,7 @@
         ]
     },
     {
-        "term": "upat",
-        "roman_numeral": "II",
+        "term": "upat II",
         "definitions": [
             {
                 "sense": "1",
@@ -7271,7 +7208,7 @@
         ]
     },
     {
-        "term": "upiah",
+        "term": "upiah;",
         "definitions": [
             {
                 "sense": "1",
@@ -7280,8 +7217,7 @@
         ]
     },
     {
-        "term": "upih",
-        "roman_numeral": "I",
+        "term": "upih I",
         "definitions": [
             {
                 "sense": "1",
@@ -7301,8 +7237,7 @@
         ]
     },
     {
-        "term": "upih",
-        "roman_numeral": "II",
+        "term": "upih II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7481,7 +7416,7 @@
         ]
     },
     {
-        "term": "urang",
+        "term": "urang;",
         "definitions": [
             {
                 "sense": "1",
@@ -7528,8 +7463,7 @@
         ]
     },
     {
-        "term": "urap",
-        "roman_numeral": "I",
+        "term": "urap I",
         "definitions": [
             {
                 "sense": "1",
@@ -7585,8 +7519,7 @@
         ]
     },
     {
-        "term": "urap",
-        "roman_numeral": "II",
+        "term": "urap II",
         "definitions": [
             {
                 "sense": "1",
@@ -7716,8 +7649,7 @@
         ]
     },
     {
-        "term": "urat",
-        "roman_numeral": "II",
+        "term": "urat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7726,8 +7658,7 @@
         ]
     },
     {
-        "term": "urat",
-        "roman_numeral": "III",
+        "term": "urat III",
         "definitions": [
             {
                 "sense": "1",
@@ -7736,8 +7667,7 @@
         ]
     },
     {
-        "term": "urat",
-        "roman_numeral": "IV",
+        "term": "urat IV; mengurat",
         "definitions": [
             {
                 "sense": "1",
@@ -7746,7 +7676,7 @@
         ]
     },
     {
-        "term": "urat-urat",
+        "term": "urat-urat;",
         "definitions": [
             {
                 "sense": "1",
@@ -7898,8 +7828,7 @@
         ]
     },
     {
-        "term": "uri",
-        "roman_numeral": "I",
+        "term": "uri I",
         "definitions": [
             {
                 "sense": "1",
@@ -7908,8 +7837,7 @@
         ]
     },
     {
-        "term": "uri",
-        "roman_numeral": "II",
+        "term": "uri II; menguri",
         "definitions": [
             {
                 "sense": "1",
@@ -7958,8 +7886,7 @@
         ]
     },
     {
-        "term": "uring",
-        "roman_numeral": "I",
+        "term": "uring I",
         "origin": "Jk",
         "definitions": [
             {
@@ -7969,8 +7896,7 @@
         ]
     },
     {
-        "term": "uring",
-        "roman_numeral": "II",
+        "term": "uring II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8011,7 +7937,7 @@
         ]
     },
     {
-        "term": "urit",
+        "term": "urit, urita",
         "definitions": [
             {
                 "sense": "1",
@@ -8031,10 +7957,11 @@
     },
     {
         "term": "urna",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl warna."
+                "definition": "warna."
             }
         ]
     },
@@ -8092,7 +8019,7 @@
         ]
     },
     {
-        "term": "urup",
+        "term": "urup; urup-urup;",
         "definitions": [
             {
                 "sense": "1",
@@ -8134,7 +8061,7 @@
         ]
     },
     {
-        "term": "urus",
+        "term": "urus;",
         "definitions": [
             {
                 "sense": "1",
@@ -8292,7 +8219,7 @@
         ]
     },
     {
-        "term": "urus",
+        "term": "urus niaga",
         "definitions": [
             {
                 "sense": "1",
@@ -8372,8 +8299,7 @@
         ]
     },
     {
-        "term": "urut",
-        "roman_numeral": "I",
+        "term": "urut I;",
         "definitions": [
             {
                 "sense": "1",
@@ -8463,8 +8389,7 @@
         ]
     },
     {
-        "term": "urut",
-        "roman_numeral": "II",
+        "term": "urut II;",
         "definitions": [
             {
                 "sense": "1",
@@ -8605,7 +8530,7 @@
         ]
     },
     {
-        "term": "usaha",
+        "term": "usaha sama",
         "definitions": [
             {
                 "sense": "1",
@@ -8720,8 +8645,7 @@
         ]
     },
     {
-        "term": "usam",
-        "roman_numeral": "I",
+        "term": "usam I",
         "definitions": [
             {
                 "sense": "1",
@@ -8730,8 +8654,7 @@
         ]
     },
     {
-        "term": "usam",
-        "roman_numeral": "II",
+        "term": "usam II",
         "definitions": [
             {
                 "sense": "1",
@@ -9059,8 +8982,7 @@
         ]
     },
     {
-        "term": "usis",
-        "roman_numeral": "II",
+        "term": "usis II",
         "definitions": [
             {
                 "sense": "1",
@@ -9139,10 +9061,11 @@
     },
     {
         "term": "usta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tukang cukur."
+                "definition": "tukang cukur."
             }
         ]
     },
@@ -9209,8 +9132,7 @@
         ]
     },
     {
-        "term": "usul",
-        "roman_numeral": "II",
+        "term": "usul II",
         "definitions": [
             {
                 "sense": "1",
@@ -9239,8 +9161,7 @@
         ]
     },
     {
-        "term": "usul",
-        "roman_numeral": "III",
+        "term": "usul III;",
         "definitions": [
             {
                 "sense": "1",
@@ -9269,8 +9190,7 @@
         ]
     },
     {
-        "term": "usul",
-        "roman_numeral": "IV",
+        "term": "usul IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -9370,8 +9290,7 @@
         ]
     },
     {
-        "term": "usut",
-        "roman_numeral": "I",
+        "term": "usut I",
         "origin": "Jk",
         "definitions": [
             {
@@ -9381,8 +9300,7 @@
         ]
     },
     {
-        "term": "usut",
-        "roman_numeral": "II",
+        "term": "usut II; mengusut",
         "definitions": [
             {
                 "sense": "1",
@@ -9506,8 +9424,7 @@
         ]
     },
     {
-        "term": "utara",
-        "roman_numeral": "I",
+        "term": "utara I",
         "definitions": [
             {
                 "sense": "1",
@@ -9586,8 +9503,7 @@
         ]
     },
     {
-        "term": "utas",
-        "roman_numeral": "II",
+        "term": "utas II",
         "definitions": [
             {
                 "sense": "1",
@@ -9664,8 +9580,7 @@
         ]
     },
     {
-        "term": "uting",
-        "roman_numeral": "I",
+        "term": "uting I",
         "origin": "Kl",
         "definitions": [
             {
@@ -9675,8 +9590,7 @@
         ]
     },
     {
-        "term": "uting",
-        "roman_numeral": "II",
+        "term": "uting II",
         "origin": "Tr",
         "definitions": [
             {
@@ -9686,7 +9600,7 @@
         ]
     },
     {
-        "term": "utit",
+        "term": "utit; mengutit",
         "definitions": [
             {
                 "sense": "1",
@@ -9773,12 +9687,12 @@
         ]
     },
     {
-        "term": "utus",
-        "roman_numeral": "I",
+        "term": "utus I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl suruhan, wakil:  adik Bendahara Paduka Raja, dititahkan Sultan  Mansur Shah ~ ke benua China;"
+                "definition": "suruhan, wakil:  adik Bendahara Paduka Raja, dititahkan Sultan  Mansur Shah ~ ke benua China;"
             }
         ],
         "sub_terms": [
@@ -9855,7 +9769,8 @@
         ]
     },
     {
-        "term": "utus II sl",
+        "term": "utus II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -9928,7 +9843,7 @@
         ]
     },
     {
-        "term": "uzlah",
+        "term": "uzlah, uzlat",
         "origin": "Ar",
         "definitions": [
             {

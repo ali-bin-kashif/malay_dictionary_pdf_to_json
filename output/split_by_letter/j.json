@@ -27,8 +27,7 @@
         ]
     },
     {
-        "term": "jabal",
-        "roman_numeral": "I",
+        "term": "jabal I",
         "origin": "Ar",
         "definitions": [
             {
@@ -49,8 +48,7 @@
         ]
     },
     {
-        "term": "jabal",
-        "roman_numeral": "II",
+        "term": "jabal II",
         "origin": "Jk",
         "definitions": [
             {
@@ -71,8 +69,7 @@
         ]
     },
     {
-        "term": "jabang",
-        "roman_numeral": "I",
+        "term": "jabang I",
         "definitions": [
             {
                 "sense": "1",
@@ -81,8 +78,7 @@
         ]
     },
     {
-        "term": "jabang",
-        "roman_numeral": "II",
+        "term": "jabang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -92,8 +88,7 @@
         ]
     },
     {
-        "term": "jabang",
-        "roman_numeral": "III",
+        "term": "jabang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -102,8 +97,7 @@
         ]
     },
     {
-        "term": "jabar",
-        "roman_numeral": "I",
+        "term": "jabar I",
         "origin": "Ar",
         "definitions": [
             {
@@ -113,8 +107,7 @@
         ]
     },
     {
-        "term": "jabar",
-        "roman_numeral": "II",
+        "term": "jabar II; menjabarkan",
         "origin": "Id",
         "definitions": [
             {
@@ -135,7 +128,7 @@
         ]
     },
     {
-        "term": "jabat",
+        "term": "jabat; sejabat",
         "definitions": [
             {
                 "sense": "1",
@@ -233,7 +226,7 @@
         ]
     },
     {
-        "term": "jabat",
+        "term": "jabat tangan; berjabat tangan",
         "definitions": [
             {
                 "sense": "1",
@@ -263,7 +256,7 @@
         ]
     },
     {
-        "term": "jabing",
+        "term": "jabing;",
         "definitions": [
             {
                 "sense": "1",
@@ -296,8 +289,7 @@
         ]
     },
     {
-        "term": "jabir",
-        "roman_numeral": "II",
+        "term": "jabir II",
         "origin": "Kl",
         "definitions": [
             {
@@ -307,8 +299,7 @@
         ]
     },
     {
-        "term": "jabu",
-        "roman_numeral": "I",
+        "term": "jabu I",
         "origin": "Kd",
         "definitions": [
             {
@@ -318,8 +309,7 @@
         ]
     },
     {
-        "term": "jabu",
-        "roman_numeral": "II",
+        "term": "jabu II",
         "origin": "Kl",
         "definitions": [
             {
@@ -353,8 +343,7 @@
         ]
     },
     {
-        "term": "jabung",
-        "roman_numeral": "I",
+        "term": "jabung I",
         "definitions": [
             {
                 "sense": "1",
@@ -363,8 +352,7 @@
         ]
     },
     {
-        "term": "jabung",
-        "roman_numeral": "II",
+        "term": "jabung II",
         "definitions": [
             {
                 "sense": "1",
@@ -382,8 +370,7 @@
         ]
     },
     {
-        "term": "jadam",
-        "roman_numeral": "I",
+        "term": "jadam I",
         "definitions": [
             {
                 "sense": "1",
@@ -392,8 +379,7 @@
         ]
     },
     {
-        "term": "jadam",
-        "roman_numeral": "II",
+        "term": "jadam II",
         "definitions": [
             {
                 "sense": "1",
@@ -402,8 +388,7 @@
         ]
     },
     {
-        "term": "jadar",
-        "roman_numeral": "I",
+        "term": "jadar I",
         "origin": "Kl",
         "definitions": [
             {
@@ -413,8 +398,7 @@
         ]
     },
     {
-        "term": "jadar",
-        "roman_numeral": "II",
+        "term": "jadar II",
         "definitions": [
             {
                 "sense": "1",
@@ -829,8 +813,7 @@
         ]
     },
     {
-        "term": "jagal",
-        "roman_numeral": "I",
+        "term": "jagal I",
         "definitions": [
             {
                 "sense": "1",
@@ -881,8 +864,7 @@
         ]
     },
     {
-        "term": "jagal",
-        "roman_numeral": "II",
+        "term": "jagal II",
         "origin": "Jw",
         "definitions": [
             {
@@ -930,8 +912,7 @@
         ]
     },
     {
-        "term": "jagat",
-        "roman_numeral": "I",
+        "term": "jagat I",
         "definitions": [
             {
                 "sense": "1",
@@ -978,8 +959,7 @@
         ]
     },
     {
-        "term": "jagat",
-        "roman_numeral": "II",
+        "term": "jagat II",
         "definitions": [
             {
                 "sense": "1",
@@ -1128,8 +1108,7 @@
         ]
     },
     {
-        "term": "jah",
-        "roman_numeral": "I",
+        "term": "jah I",
         "definitions": [
             {
                 "sense": "1",
@@ -1138,8 +1117,7 @@
         ]
     },
     {
-        "term": "jah",
-        "roman_numeral": "II",
+        "term": "jah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -1230,8 +1208,7 @@
         ]
     },
     {
-        "term": "jahang",
-        "roman_numeral": "I",
+        "term": "jahang I",
         "definitions": [
             {
                 "sense": "1",
@@ -1240,8 +1217,7 @@
         ]
     },
     {
-        "term": "jahang",
-        "roman_numeral": "II",
+        "term": "jahang II",
         "definitions": [
             {
                 "sense": "1",
@@ -1275,7 +1251,8 @@
         ]
     },
     {
-        "term": "jaharu sl",
+        "term": "jaharu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -1530,8 +1507,7 @@
         ]
     },
     {
-        "term": "jail",
-        "roman_numeral": "I",
+        "term": "jail I;",
         "definitions": [
             {
                 "sense": "1",
@@ -1737,7 +1713,7 @@
         ]
     },
     {
-        "term": "jajap",
+        "term": "jajap; menjajap",
         "definitions": [
             {
                 "sense": "1",
@@ -1757,8 +1733,7 @@
         ]
     },
     {
-        "term": "jajar",
-        "roman_numeral": "I",
+        "term": "jajar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1870,8 +1845,7 @@
         ]
     },
     {
-        "term": "jajar",
-        "roman_numeral": "II",
+        "term": "jajar II",
         "origin": "Mn",
         "definitions": [
             {
@@ -1910,8 +1884,7 @@
         ]
     },
     {
-        "term": "jajat",
-        "roman_numeral": "I",
+        "term": "jajat I",
         "definitions": [
             {
                 "sense": "1",
@@ -1920,8 +1893,7 @@
         ]
     },
     {
-        "term": "jajat",
-        "roman_numeral": "II",
+        "term": "jajat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -1931,8 +1903,7 @@
         ]
     },
     {
-        "term": "jak",
-        "roman_numeral": "I",
+        "term": "jak I",
         "origin": "Kl",
         "definitions": [
             {
@@ -1942,8 +1913,7 @@
         ]
     },
     {
-        "term": "jak",
-        "roman_numeral": "II",
+        "term": "jak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -1953,8 +1923,7 @@
         ]
     },
     {
-        "term": "jak",
-        "roman_numeral": "III",
+        "term": "jak III",
         "origin": "Kl",
         "definitions": [
             {
@@ -1964,8 +1933,7 @@
         ]
     },
     {
-        "term": "jaka",
-        "roman_numeral": "I",
+        "term": "jaka I",
         "definitions": [
             {
                 "sense": "1",
@@ -1974,8 +1942,7 @@
         ]
     },
     {
-        "term": "jaka",
-        "roman_numeral": "II",
+        "term": "jaka II",
         "origin": "Jw",
         "definitions": [
             {
@@ -2090,8 +2057,7 @@
         ]
     },
     {
-        "term": "jakun",
-        "roman_numeral": "I",
+        "term": "jakun I",
         "origin": "Mn",
         "definitions": [
             {
@@ -2101,8 +2067,7 @@
         ]
     },
     {
-        "term": "Jakun",
-        "roman_numeral": "II",
+        "term": "Jakun II",
         "definitions": [
             {
                 "sense": "1",
@@ -2120,8 +2085,7 @@
         ]
     },
     {
-        "term": "jala",
-        "roman_numeral": "I",
+        "term": "jala I",
         "definitions": [
             {
                 "sense": "1",
@@ -2181,8 +2145,7 @@
         ]
     },
     {
-        "term": "jala",
-        "roman_numeral": "II",
+        "term": "jala II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2191,8 +2154,7 @@
         ]
     },
     {
-        "term": "jalad",
-        "roman_numeral": "I",
+        "term": "jalad I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2202,8 +2164,7 @@
         ]
     },
     {
-        "term": "jalad",
-        "roman_numeral": "II",
+        "term": "jalad II",
         "origin": "Id",
         "definitions": [
             {
@@ -2230,8 +2191,7 @@
         ]
     },
     {
-        "term": "jalak",
-        "roman_numeral": "II",
+        "term": "jalak II",
         "definitions": [
             {
                 "sense": "1",
@@ -2415,8 +2375,7 @@
         ]
     },
     {
-        "term": "jalang",
-        "roman_numeral": "I",
+        "term": "jalang I",
         "definitions": [
             {
                 "sense": "1",
@@ -2445,8 +2404,7 @@
         ]
     },
     {
-        "term": "jalang",
-        "roman_numeral": "II",
+        "term": "jalang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2455,8 +2413,7 @@
         ]
     },
     {
-        "term": "jalang",
-        "roman_numeral": "III",
+        "term": "jalang III",
         "origin": "Mn",
         "definitions": [
             {
@@ -2484,7 +2441,7 @@
         ]
     },
     {
-        "term": "jalar",
+        "term": "jalar;",
         "definitions": [
             {
                 "sense": "1",
@@ -2614,8 +2571,7 @@
         ]
     },
     {
-        "term": "jali",
-        "roman_numeral": "I",
+        "term": "jali I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2636,8 +2592,7 @@
         ]
     },
     {
-        "term": "jali",
-        "roman_numeral": "II",
+        "term": "jali II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2829,7 +2784,7 @@
         ]
     },
     {
-        "term": "jalir",
+        "term": "jalir; menjalir, menjalirkan",
         "definitions": [
             {
                 "sense": "1",
@@ -2954,8 +2909,7 @@
         ]
     },
     {
-        "term": "jalur",
-        "roman_numeral": "II",
+        "term": "jalur II",
         "definitions": [
             {
                 "sense": "1",
@@ -3093,8 +3047,7 @@
         ]
     },
     {
-        "term": "jamak",
-        "roman_numeral": "I",
+        "term": "jamak I",
         "origin": "Ar",
         "definitions": [
             {
@@ -3161,8 +3114,7 @@
         ]
     },
     {
-        "term": "jamak",
-        "roman_numeral": "III",
+        "term": "jamak III",
         "definitions": [
             {
                 "sense": "1",
@@ -3182,8 +3134,7 @@
         ]
     },
     {
-        "term": "jamang",
-        "roman_numeral": "I",
+        "term": "jamang I",
         "definitions": [
             {
                 "sense": "1",
@@ -3192,8 +3143,7 @@
         ]
     },
     {
-        "term": "jamang",
-        "roman_numeral": "II",
+        "term": "jamang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3236,8 +3186,7 @@
         ]
     },
     {
-        "term": "jambak",
-        "roman_numeral": "II",
+        "term": "jambak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3246,8 +3195,7 @@
         ]
     },
     {
-        "term": "jambak",
-        "roman_numeral": "III",
+        "term": "jambak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -3300,8 +3248,7 @@
         ]
     },
     {
-        "term": "jambang",
-        "roman_numeral": "II",
+        "term": "jambang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3310,8 +3257,7 @@
         ]
     },
     {
-        "term": "jambar",
-        "roman_numeral": "I",
+        "term": "jambar I",
         "definitions": [
             {
                 "sense": "1",
@@ -3320,8 +3266,7 @@
         ]
     },
     {
-        "term": "jambar",
-        "roman_numeral": "II",
+        "term": "jambar II",
         "definitions": [
             {
                 "sense": "1",
@@ -3368,10 +3313,11 @@
     },
     {
         "term": "jambiah",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl golok (bengkok dan bermata dua), kerambit."
+                "definition": "golok (bengkok dan bermata dua), kerambit."
             }
         ]
     },
@@ -3686,8 +3632,7 @@
         ]
     },
     {
-        "term": "jampuk",
-        "roman_numeral": "I",
+        "term": "jampuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -3696,8 +3641,7 @@
         ]
     },
     {
-        "term": "jampuk",
-        "roman_numeral": "II",
+        "term": "jampuk II; menjampuk",
         "definitions": [
             {
                 "sense": "1",
@@ -3789,8 +3733,7 @@
         ]
     },
     {
-        "term": "jamu",
-        "roman_numeral": "II",
+        "term": "jamu II",
         "definitions": [
             {
                 "sense": "1",
@@ -3908,7 +3851,7 @@
         ]
     },
     {
-        "term": "jana",
+        "term": "jana kuasa",
         "definitions": [
             {
                 "sense": "1",
@@ -3928,8 +3871,7 @@
         ]
     },
     {
-        "term": "janda",
-        "roman_numeral": "I",
+        "term": "janda I",
         "definitions": [
             {
                 "sense": "1",
@@ -3967,8 +3909,7 @@
         ]
     },
     {
-        "term": "janda",
-        "roman_numeral": "II",
+        "term": "janda II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3977,8 +3918,7 @@
         ]
     },
     {
-        "term": "jangak",
-        "roman_numeral": "I",
+        "term": "jangak I",
         "definitions": [
             {
                 "sense": "1",
@@ -4002,8 +3942,7 @@
         ]
     },
     {
-        "term": "jangak",
-        "roman_numeral": "II",
+        "term": "jangak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -4119,8 +4058,7 @@
         ]
     },
     {
-        "term": "jangat",
-        "roman_numeral": "II",
+        "term": "jangat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -4139,8 +4077,7 @@
         ]
     },
     {
-        "term": "janggai",
-        "roman_numeral": "II",
+        "term": "janggai II",
         "definitions": [
             {
                 "sense": "1",
@@ -4149,8 +4086,7 @@
         ]
     },
     {
-        "term": "janggal",
-        "roman_numeral": "I",
+        "term": "janggal I",
         "definitions": [
             {
                 "sense": "1",
@@ -4183,8 +4119,7 @@
         ]
     },
     {
-        "term": "janggal",
-        "roman_numeral": "II",
+        "term": "janggal II",
         "origin": "Kl",
         "definitions": [
             {
@@ -4207,8 +4142,7 @@
         ]
     },
     {
-        "term": "janggi",
-        "roman_numeral": "II",
+        "term": "janggi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4293,8 +4227,7 @@
         ]
     },
     {
-        "term": "jangka",
-        "roman_numeral": "II",
+        "term": "jangka II",
         "definitions": [
             {
                 "sense": "1",
@@ -4336,8 +4269,7 @@
         ]
     },
     {
-        "term": "jangka",
-        "roman_numeral": "III",
+        "term": "jangka III",
         "definitions": [
             {
                 "sense": "1",
@@ -4395,8 +4327,7 @@
         ]
     },
     {
-        "term": "jangkang",
-        "roman_numeral": "I",
+        "term": "jangkang I",
         "definitions": [
             {
                 "sense": "1",
@@ -4420,8 +4351,7 @@
         ]
     },
     {
-        "term": "jangkang",
-        "roman_numeral": "II",
+        "term": "jangkang II",
         "definitions": [
             {
                 "sense": "1",
@@ -4440,8 +4370,7 @@
         ]
     },
     {
-        "term": "jangkar",
-        "roman_numeral": "I",
+        "term": "jangkar I",
         "definitions": [
             {
                 "sense": "1",
@@ -4450,8 +4379,7 @@
         ]
     },
     {
-        "term": "jangkar",
-        "roman_numeral": "II",
+        "term": "jangkar II",
         "definitions": [
             {
                 "sense": "1",
@@ -4482,8 +4410,7 @@
         ]
     },
     {
-        "term": "jangkat",
-        "roman_numeral": "II",
+        "term": "jangkat II",
         "definitions": [
             {
                 "sense": "1",
@@ -4552,8 +4479,7 @@
         ]
     },
     {
-        "term": "jangkih",
-        "roman_numeral": "I",
+        "term": "jangkih I;",
         "definitions": [
             {
                 "sense": "1",
@@ -4873,7 +4799,7 @@
         ]
     },
     {
-        "term": "jannah",
+        "term": "jannah, jannat",
         "origin": "Ar",
         "definitions": [
             {
@@ -4956,8 +4882,7 @@
         ]
     },
     {
-        "term": "jantang",
-        "roman_numeral": "I",
+        "term": "jantang I; berjantang, menjantang",
         "definitions": [
             {
                 "sense": "1",
@@ -4966,8 +4891,7 @@
         ]
     },
     {
-        "term": "jantang",
-        "roman_numeral": "II",
+        "term": "jantang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5031,8 +4955,7 @@
         ]
     },
     {
-        "term": "jantung",
-        "roman_numeral": "II",
+        "term": "jantung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5041,8 +4964,7 @@
         ]
     },
     {
-        "term": "jantur",
-        "roman_numeral": "I",
+        "term": "jantur I",
         "origin": "Jw",
         "definitions": [
             {
@@ -5072,8 +4994,7 @@
         ]
     },
     {
-        "term": "jantur",
-        "roman_numeral": "II",
+        "term": "jantur II; janturan",
         "definitions": [
             {
                 "sense": "1",
@@ -5111,8 +5032,7 @@
         ]
     },
     {
-        "term": "jap",
-        "roman_numeral": "I",
+        "term": "jap I",
         "definitions": [
             {
                 "sense": "1",
@@ -5121,8 +5041,7 @@
         ]
     },
     {
-        "term": "jap",
-        "roman_numeral": "II",
+        "term": "jap II",
         "definitions": [
             {
                 "sense": "1",
@@ -5131,7 +5050,7 @@
         ]
     },
     {
-        "term": "japuk",
+        "term": "japuk, japu",
         "origin": "Jk",
         "definitions": [
             {
@@ -5192,8 +5111,7 @@
         ]
     },
     {
-        "term": "jarah",
-        "roman_numeral": "I",
+        "term": "jarah I",
         "definitions": [
             {
                 "sense": "1",
@@ -5244,8 +5162,7 @@
         ]
     },
     {
-        "term": "jarah",
-        "roman_numeral": "II",
+        "term": "jarah II; berjarah",
         "definitions": [
             {
                 "sense": "1",
@@ -5369,8 +5286,7 @@
         ]
     },
     {
-        "term": "jaran",
-        "roman_numeral": "I",
+        "term": "jaran I",
         "origin": "Jw",
         "definitions": [
             {
@@ -5380,8 +5296,7 @@
         ]
     },
     {
-        "term": "jaran",
-        "roman_numeral": "II",
+        "term": "jaran II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5390,8 +5305,7 @@
         ]
     },
     {
-        "term": "jaran",
-        "roman_numeral": "III",
+        "term": "jaran III;",
         "definitions": [
             {
                 "sense": "1",
@@ -5454,8 +5368,7 @@
         ]
     },
     {
-        "term": "jarang",
-        "roman_numeral": "II",
+        "term": "jarang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5464,8 +5377,7 @@
         ]
     },
     {
-        "term": "jarang",
-        "roman_numeral": "III",
+        "term": "jarang III",
         "origin": "Mn",
         "definitions": [
             {
@@ -5475,7 +5387,7 @@
         ]
     },
     {
-        "term": "jarang-jarang",
+        "term": "jarang-jarang;",
         "definitions": [
             {
                 "sense": "1",
@@ -5484,8 +5396,7 @@
         ]
     },
     {
-        "term": "jaras",
-        "roman_numeral": "I",
+        "term": "jaras I",
         "definitions": [
             {
                 "sense": "1",
@@ -5509,8 +5420,7 @@
         ]
     },
     {
-        "term": "jaras",
-        "roman_numeral": "II",
+        "term": "jaras II",
         "definitions": [
             {
                 "sense": "1",
@@ -5566,8 +5476,7 @@
         ]
     },
     {
-        "term": "jari",
-        "roman_numeral": "II",
+        "term": "jari II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5576,8 +5485,7 @@
         ]
     },
     {
-        "term": "jari",
-        "roman_numeral": "III",
+        "term": "jari III;",
         "definitions": [
             {
                 "sense": "1",
@@ -5586,8 +5494,7 @@
         ]
     },
     {
-        "term": "jariah",
-        "roman_numeral": "I",
+        "term": "jariah I",
         "origin": "Ar",
         "definitions": [
             {
@@ -5597,8 +5504,7 @@
         ]
     },
     {
-        "term": "jariah",
-        "roman_numeral": "II",
+        "term": "jariah II",
         "origin": "Ar",
         "definitions": [
             {
@@ -5859,8 +5765,7 @@
         ]
     },
     {
-        "term": "jarum",
-        "roman_numeral": "II",
+        "term": "jarum II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6039,8 +5944,7 @@
         ]
     },
     {
-        "term": "jati",
-        "roman_numeral": "I",
+        "term": "jati I",
         "definitions": [
             {
                 "sense": "1",
@@ -6069,8 +5973,7 @@
         ]
     },
     {
-        "term": "jati",
-        "roman_numeral": "II",
+        "term": "jati II",
         "definitions": [
             {
                 "sense": "1",
@@ -6079,7 +5982,7 @@
         ]
     },
     {
-        "term": "jati",
+        "term": "jati diri",
         "definitions": [
             {
                 "sense": "1",
@@ -6088,7 +5991,7 @@
         ]
     },
     {
-        "term": "jatik",
+        "term": "jatik;",
         "definitions": [
             {
                 "sense": "1",
@@ -6372,7 +6275,7 @@
         ]
     },
     {
-        "term": "jaur",
+        "term": "jaur; berjaur",
         "definitions": [
             {
                 "sense": "1",
@@ -6381,8 +6284,7 @@
         ]
     },
     {
-        "term": "jawa",
-        "roman_numeral": "I",
+        "term": "jawa I;",
         "definitions": [
             {
                 "sense": "1",
@@ -6391,8 +6293,7 @@
         ]
     },
     {
-        "term": "jawa",
-        "roman_numeral": "II",
+        "term": "jawa II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6401,8 +6302,7 @@
         ]
     },
     {
-        "term": "jawa",
-        "roman_numeral": "III",
+        "term": "jawa III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6411,8 +6311,7 @@
         ]
     },
     {
-        "term": "jawa",
-        "roman_numeral": "IV",
+        "term": "jawa IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -6666,8 +6565,7 @@
         ]
     },
     {
-        "term": "jawi",
-        "roman_numeral": "I",
+        "term": "jawi I",
         "definitions": [
             {
                 "sense": "1",
@@ -6676,8 +6574,7 @@
         ]
     },
     {
-        "term": "Jawi",
-        "roman_numeral": "II",
+        "term": "Jawi II",
         "definitions": [
             {
                 "sense": "1",
@@ -7032,7 +6929,7 @@
         ]
     },
     {
-        "term": "jebik",
+        "term": "jebik; menjebik",
         "definitions": [
             {
                 "sense": "1",
@@ -7144,7 +7041,7 @@
         ]
     },
     {
-        "term": "jebung",
+        "term": "jebung;",
         "definitions": [
             {
                 "sense": "1",
@@ -7207,8 +7104,7 @@
         ]
     },
     {
-        "term": "jeding",
-        "roman_numeral": "I",
+        "term": "jeding I",
         "origin": "Jw",
         "definitions": [
             {
@@ -7218,8 +7114,7 @@
         ]
     },
     {
-        "term": "jeding",
-        "roman_numeral": "II",
+        "term": "jeding II",
         "origin": "Jk",
         "definitions": [
             {
@@ -7261,7 +7156,7 @@
         ]
     },
     {
-        "term": "jegil",
+        "term": "jegil; menjegil",
         "definitions": [
             {
                 "sense": "1",
@@ -7411,7 +7306,7 @@
         ]
     },
     {
-        "term": "jejal",
+        "term": "jejal; berjejal, berjejal-jejal",
         "definitions": [
             {
                 "sense": "1",
@@ -7814,7 +7709,7 @@
         ]
     },
     {
-        "term": "jelabak",
+        "term": "jelabak; terjelabak",
         "definitions": [
             {
                 "sense": "1",
@@ -7851,10 +7746,11 @@
     },
     {
         "term": "jeladeri",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lautan."
+                "definition": "lautan."
             }
         ]
     },
@@ -7888,8 +7784,7 @@
         ]
     },
     {
-        "term": "jelah",
-        "roman_numeral": "I",
+        "term": "jelah I",
         "definitions": [
             {
                 "sense": "1",
@@ -7898,8 +7793,7 @@
         ]
     },
     {
-        "term": "jelah",
-        "roman_numeral": "II",
+        "term": "jelah II; menjelah",
         "definitions": [
             {
                 "sense": "1",
@@ -7908,8 +7802,7 @@
         ]
     },
     {
-        "term": "jelai",
-        "roman_numeral": "I",
+        "term": "jelai I",
         "definitions": [
             {
                 "sense": "1",
@@ -7918,8 +7811,7 @@
         ]
     },
     {
-        "term": "jelai",
-        "roman_numeral": "II",
+        "term": "jelai II",
         "definitions": [
             {
                 "sense": "1",
@@ -7928,8 +7820,7 @@
         ]
     },
     {
-        "term": "jelajah",
-        "roman_numeral": "I",
+        "term": "jelajah I; menjelajah",
         "definitions": [
             {
                 "sense": "1",
@@ -7971,8 +7862,7 @@
         ]
     },
     {
-        "term": "jelajah",
-        "roman_numeral": "II",
+        "term": "jelajah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -7982,8 +7872,7 @@
         ]
     },
     {
-        "term": "jelak",
-        "roman_numeral": "I",
+        "term": "jelak I",
         "definitions": [
             {
                 "sense": "1",
@@ -8003,8 +7892,7 @@
         ]
     },
     {
-        "term": "jelak",
-        "roman_numeral": "II",
+        "term": "jelak II; menjelak",
         "origin": "Kl",
         "definitions": [
             {
@@ -8035,7 +7923,7 @@
         ]
     },
     {
-        "term": "jelamprang",
+        "term": "jelamprang, jelamperang",
         "origin": "Jw",
         "definitions": [
             {
@@ -8055,8 +7943,7 @@
         ]
     },
     {
-        "term": "jelanak",
-        "roman_numeral": "I",
+        "term": "jelanak I; menjelanak",
         "definitions": [
             {
                 "sense": "1",
@@ -8065,8 +7952,7 @@
         ]
     },
     {
-        "term": "jelanak",
-        "roman_numeral": "II",
+        "term": "jelanak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -8097,8 +7983,7 @@
         ]
     },
     {
-        "term": "jelang",
-        "roman_numeral": "II",
+        "term": "jelang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8121,8 +8006,7 @@
         ]
     },
     {
-        "term": "jelantah",
-        "roman_numeral": "I",
+        "term": "jelantah I",
         "definitions": [
             {
                 "sense": "1",
@@ -8131,8 +8015,7 @@
         ]
     },
     {
-        "term": "jelantah",
-        "roman_numeral": "II",
+        "term": "jelantah II",
         "definitions": [
             {
                 "sense": "1",
@@ -8291,8 +8174,7 @@
         ]
     },
     {
-        "term": "jelas",
-        "roman_numeral": "II",
+        "term": "jelas II",
         "definitions": [
             {
                 "sense": "1",
@@ -8311,7 +8193,7 @@
         ]
     },
     {
-        "term": "jelata",
+        "term": "jelata;",
         "definitions": [
             {
                 "sense": "1",
@@ -8488,7 +8370,7 @@
         ]
     },
     {
-        "term": "jelempah",
+        "term": "jelempah; menjelempah",
         "definitions": [
             {
                 "sense": "1",
@@ -8497,7 +8379,7 @@
         ]
     },
     {
-        "term": "jelengar",
+        "term": "jelengar; menjelengar, terjelengar",
         "definitions": [
             {
                 "sense": "1",
@@ -8506,7 +8388,7 @@
         ]
     },
     {
-        "term": "jelentik",
+        "term": "jelentik; menjelentik",
         "definitions": [
             {
                 "sense": "1",
@@ -8515,7 +8397,7 @@
         ]
     },
     {
-        "term": "jelepak",
+        "term": "jelepak; menjelepak;",
         "definitions": [
             {
                 "sense": "1",
@@ -8676,7 +8558,7 @@
         ]
     },
     {
-        "term": "jelir",
+        "term": "jelir; menjelir, terjelir",
         "definitions": [
             {
                 "sense": "1",
@@ -8714,8 +8596,7 @@
         ]
     },
     {
-        "term": "jelita",
-        "roman_numeral": "I",
+        "term": "jelita I",
         "definitions": [
             {
                 "sense": "1",
@@ -8735,8 +8616,7 @@
         ]
     },
     {
-        "term": "jelita",
-        "roman_numeral": "II",
+        "term": "jelita II",
         "definitions": [
             {
                 "sense": "1",
@@ -8852,8 +8732,7 @@
         ]
     },
     {
-        "term": "jelu",
-        "roman_numeral": "I",
+        "term": "jelu I",
         "origin": "Jk",
         "definitions": [
             {
@@ -8863,8 +8742,7 @@
         ]
     },
     {
-        "term": "jelu",
-        "roman_numeral": "II",
+        "term": "jelu II",
         "definitions": [
             {
                 "sense": "1",
@@ -8887,10 +8765,11 @@
     },
     {
         "term": "jeluang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kertas atau kain yg dibuat drpd kulit kayu."
+                "definition": "kertas atau kain yg dibuat drpd kulit kayu."
             }
         ]
     },
@@ -8905,7 +8784,7 @@
         ]
     },
     {
-        "term": "jeludu",
+        "term": "jeludu; menjeludu",
         "definitions": [
             {
                 "sense": "1",
@@ -8914,8 +8793,7 @@
         ]
     },
     {
-        "term": "jelujur",
-        "roman_numeral": "I",
+        "term": "jelujur I",
         "definitions": [
             {
                 "sense": "1",
@@ -8935,8 +8813,7 @@
         ]
     },
     {
-        "term": "jelujur",
-        "roman_numeral": "II",
+        "term": "jelujur II",
         "definitions": [
             {
                 "sense": "1",
@@ -8958,7 +8835,7 @@
         ]
     },
     {
-        "term": "jelum",
+        "term": "jelum; berjelum",
         "definitions": [
             {
                 "sense": "1",
@@ -9000,8 +8877,7 @@
         ]
     },
     {
-        "term": "jelunut",
-        "roman_numeral": "I",
+        "term": "jelunut I",
         "origin": "Mn",
         "definitions": [
             {
@@ -9024,7 +8900,7 @@
         ]
     },
     {
-        "term": "jelur",
+        "term": "jelur;",
         "definitions": [
             {
                 "sense": "1",
@@ -9143,8 +9019,7 @@
         ]
     },
     {
-        "term": "jemah",
-        "roman_numeral": "I",
+        "term": "jemah I",
         "definitions": [
             {
                 "sense": "1",
@@ -9153,8 +9028,7 @@
         ]
     },
     {
-        "term": "jemah",
-        "roman_numeral": "II",
+        "term": "jemah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -9165,10 +9039,11 @@
     },
     {
         "term": "jemala",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kepala;  batu ~  batu kepala, kepala;  di atas ~  di atas kepala."
+                "definition": "kepala;  batu ~  batu kepala, kepala;  di atas ~  di atas kepala."
             }
         ]
     },
@@ -9201,7 +9076,8 @@
         ]
     },
     {
-        "term": "jemawa sl",
+        "term": "jemawa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -9229,8 +9105,7 @@
         ]
     },
     {
-        "term": "jemba",
-        "roman_numeral": "I",
+        "term": "jemba I",
         "definitions": [
             {
                 "sense": "1",
@@ -9239,8 +9114,7 @@
         ]
     },
     {
-        "term": "jemba",
-        "roman_numeral": "II",
+        "term": "jemba II; menjemba",
         "origin": "Mn",
         "definitions": [
             {
@@ -9275,7 +9149,7 @@
         ]
     },
     {
-        "term": "jembak",
+        "term": "jembak; menjembak, terjembak-jembak",
         "definitions": [
             {
                 "sense": "1",
@@ -9405,7 +9279,7 @@
         ]
     },
     {
-        "term": "jemertas",
+        "term": "jemertas;",
         "definitions": [
             {
                 "sense": "1",
@@ -9428,8 +9302,7 @@
         ]
     },
     {
-        "term": "jemerung",
-        "roman_numeral": "I",
+        "term": "jemerung I",
         "definitions": [
             {
                 "sense": "1",
@@ -9438,8 +9311,7 @@
         ]
     },
     {
-        "term": "jemerung",
-        "roman_numeral": "II",
+        "term": "jemerung II",
         "origin": "Tr",
         "definitions": [
             {
@@ -9470,10 +9342,11 @@
     },
     {
         "term": "jempana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj tandu, usungan."
+                "definition": "sj tandu, usungan."
             }
         ]
     },
@@ -9535,8 +9408,7 @@
         ]
     },
     {
-        "term": "jemput",
-        "roman_numeral": "I",
+        "term": "jemput I; sejemput",
         "definitions": [
             {
                 "sense": "1",
@@ -9586,8 +9458,7 @@
         ]
     },
     {
-        "term": "jemput",
-        "roman_numeral": "II",
+        "term": "jemput II; berjemput",
         "definitions": [
             {
                 "sense": "1",
@@ -9811,8 +9682,7 @@
         ]
     },
     {
-        "term": "jenak",
-        "roman_numeral": "I",
+        "term": "jenak I",
         "definitions": [
             {
                 "sense": "1",
@@ -9832,8 +9702,7 @@
         ]
     },
     {
-        "term": "jenak",
-        "roman_numeral": "II",
+        "term": "jenak II",
         "definitions": [
             {
                 "sense": "1",
@@ -9842,8 +9711,7 @@
         ]
     },
     {
-        "term": "jenak",
-        "roman_numeral": "III",
+        "term": "jenak III",
         "definitions": [
             {
                 "sense": "1",
@@ -9977,8 +9845,7 @@
         ]
     },
     {
-        "term": "jenang",
-        "roman_numeral": "II",
+        "term": "jenang II",
         "definitions": [
             {
                 "sense": "1",
@@ -10010,7 +9877,7 @@
         ]
     },
     {
-        "term": "jenawi",
+        "term": "jenawi;",
         "definitions": [
             {
                 "sense": "1",
@@ -10060,7 +9927,7 @@
         ]
     },
     {
-        "term": "jendal",
+        "term": "jendal;",
         "definitions": [
             {
                 "sense": "1",
@@ -10096,7 +9963,7 @@
         ]
     },
     {
-        "term": "jenderal",
+        "term": "jenderal;",
         "definitions": [
             {
                 "sense": "1",
@@ -10194,8 +10061,7 @@
         ]
     },
     {
-        "term": "jengah",
-        "roman_numeral": "II",
+        "term": "jengah II",
         "origin": "Jk",
         "definitions": [
             {
@@ -10205,8 +10071,7 @@
         ]
     },
     {
-        "term": "jengah",
-        "roman_numeral": "III",
+        "term": "jengah III; menjengah",
         "definitions": [
             {
                 "sense": "1",
@@ -10254,15 +10119,16 @@
     },
     {
         "term": "jenggala",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hutan rimba;  hantu ~  hantu hutan."
+                "definition": "hutan rimba;  hantu ~  hantu hutan."
             }
         ]
     },
     {
-        "term": "jenggar",
+        "term": "jenggar;",
         "definitions": [
             {
                 "sense": "1",
@@ -10307,7 +10173,7 @@
         ]
     },
     {
-        "term": "jenggur",
+        "term": "jenggur;",
         "definitions": [
             {
                 "sense": "1",
@@ -10337,7 +10203,7 @@
         ]
     },
     {
-        "term": "jengit",
+        "term": "jengit; menjengit, menjengit-jengit",
         "definitions": [
             {
                 "sense": "1",
@@ -10346,8 +10212,7 @@
         ]
     },
     {
-        "term": "jengkal",
-        "roman_numeral": "I",
+        "term": "jengkal I",
         "definitions": [
             {
                 "sense": "1",
@@ -10367,8 +10232,7 @@
         ]
     },
     {
-        "term": "jengkal",
-        "roman_numeral": "II",
+        "term": "jengkal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10410,7 +10274,7 @@
         ]
     },
     {
-        "term": "jengkau",
+        "term": "jengkau; menjengkau",
         "definitions": [
             {
                 "sense": "1",
@@ -10475,10 +10339,11 @@
     },
     {
         "term": "jengkelenan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj bunga."
+                "definition": "sj bunga."
             }
         ]
     },
@@ -10577,8 +10442,7 @@
         ]
     },
     {
-        "term": "jengking",
-        "roman_numeral": "I",
+        "term": "jengking I",
         "definitions": [
             {
                 "sense": "1",
@@ -10587,8 +10451,7 @@
         ]
     },
     {
-        "term": "jengking",
-        "roman_numeral": "II",
+        "term": "jengking II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10597,7 +10460,7 @@
         ]
     },
     {
-        "term": "jengkit",
+        "term": "jengkit; menjengkit",
         "definitions": [
             {
                 "sense": "1",
@@ -10725,7 +10588,7 @@
         ]
     },
     {
-        "term": "jengul",
+        "term": "jengul; menjengul, terjengul",
         "definitions": [
             {
                 "sense": "1",
@@ -10759,8 +10622,7 @@
         ]
     },
     {
-        "term": "jeni",
-        "roman_numeral": "II",
+        "term": "jeni II",
         "origin": "IB",
         "definitions": [
             {
@@ -10770,7 +10632,7 @@
         ]
     },
     {
-        "term": "jenin",
+        "term": "jenin;",
         "definitions": [
             {
                 "sense": "1",
@@ -10857,10 +10719,11 @@
     },
     {
         "term": "jenjala",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lancang mulut."
+                "definition": "lancang mulut."
             }
         ]
     },
@@ -10893,8 +10756,7 @@
         ]
     },
     {
-        "term": "jenjang",
-        "roman_numeral": "I",
+        "term": "jenjang I",
         "definitions": [
             {
                 "sense": "1",
@@ -10914,8 +10776,7 @@
         ]
     },
     {
-        "term": "jenjang",
-        "roman_numeral": "II",
+        "term": "jenjang II",
         "definitions": [
             {
                 "sense": "1",
@@ -10924,8 +10785,7 @@
         ]
     },
     {
-        "term": "jenjang",
-        "roman_numeral": "III",
+        "term": "jenjang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -10952,8 +10812,7 @@
         ]
     },
     {
-        "term": "jenjulung",
-        "roman_numeral": "I",
+        "term": "jenjulung I",
         "definitions": [
             {
                 "sense": "1",
@@ -10962,8 +10821,7 @@
         ]
     },
     {
-        "term": "jenjulung",
-        "roman_numeral": "II",
+        "term": "jenjulung II",
         "definitions": [
             {
                 "sense": "1",
@@ -10999,7 +10857,7 @@
         ]
     },
     {
-        "term": "jentat",
+        "term": "jentat; menjentat",
         "definitions": [
             {
                 "sense": "1",
@@ -11008,7 +10866,8 @@
         ]
     },
     {
-        "term": "jentayu sl",
+        "term": "jentayu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -11079,8 +10938,7 @@
         ]
     },
     {
-        "term": "jentik",
-        "roman_numeral": "I",
+        "term": "jentik I; sejentik",
         "definitions": [
             {
                 "sense": "1",
@@ -11121,8 +10979,7 @@
         ]
     },
     {
-        "term": "jentik",
-        "roman_numeral": "II",
+        "term": "jentik II",
         "origin": "Jw",
         "definitions": [
             {
@@ -11211,8 +11068,7 @@
         ]
     },
     {
-        "term": "jenuh",
-        "roman_numeral": "II",
+        "term": "jenuh II",
         "origin": "Kl",
         "definitions": [
             {
@@ -11244,7 +11100,7 @@
         ]
     },
     {
-        "term": "jepit",
+        "term": "jepit, menjepit",
         "definitions": [
             {
                 "sense": "1",
@@ -11325,8 +11181,7 @@
         ]
     },
     {
-        "term": "jepun",
-        "roman_numeral": "I",
+        "term": "jepun I",
         "definitions": [
             {
                 "sense": "1",
@@ -11335,8 +11190,7 @@
         ]
     },
     {
-        "term": "jepun",
-        "roman_numeral": "II",
+        "term": "jepun II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11345,8 +11199,7 @@
         ]
     },
     {
-        "term": "jeput",
-        "roman_numeral": "I",
+        "term": "jeput I; sejeput",
         "definitions": [
             {
                 "sense": "1",
@@ -11366,8 +11219,7 @@
         ]
     },
     {
-        "term": "jeput",
-        "roman_numeral": "II",
+        "term": "jeput II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11416,7 +11268,7 @@
         ]
     },
     {
-        "term": "jerabai",
+        "term": "jerabai; berjerabai",
         "definitions": [
             {
                 "sense": "1",
@@ -11482,8 +11334,7 @@
         ]
     },
     {
-        "term": "jerah",
-        "roman_numeral": "I",
+        "term": "jerah I",
         "definitions": [
             {
                 "sense": "1",
@@ -11492,8 +11343,7 @@
         ]
     },
     {
-        "term": "jerah",
-        "roman_numeral": "II",
+        "term": "jerah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11502,8 +11352,7 @@
         ]
     },
     {
-        "term": "jerah",
-        "roman_numeral": "III",
+        "term": "jerah III",
         "origin": "Kl",
         "definitions": [
             {
@@ -11513,7 +11362,7 @@
         ]
     },
     {
-        "term": "jerahak",
+        "term": "jerahak; terjerahak",
         "definitions": [
             {
                 "sense": "1",
@@ -11522,7 +11371,7 @@
         ]
     },
     {
-        "term": "jerahap",
+        "term": "jerahap; menjerahap",
         "definitions": [
             {
                 "sense": "1",
@@ -11551,7 +11400,7 @@
         ]
     },
     {
-        "term": "jerait",
+        "term": "jerait; berjerait, berjeraitan",
         "definitions": [
             {
                 "sense": "1",
@@ -11569,8 +11418,7 @@
         ]
     },
     {
-        "term": "jeram",
-        "roman_numeral": "I",
+        "term": "jeram I",
         "definitions": [
             {
                 "sense": "1",
@@ -11590,8 +11438,7 @@
         ]
     },
     {
-        "term": "jeram",
-        "roman_numeral": "II",
+        "term": "jeram II; menjeram",
         "definitions": [
             {
                 "sense": "1",
@@ -11600,7 +11447,7 @@
         ]
     },
     {
-        "term": "jeramah",
+        "term": "jeramah; berjeramah",
         "definitions": [
             {
                 "sense": "1",
@@ -11653,7 +11500,7 @@
         ]
     },
     {
-        "term": "jerambai",
+        "term": "jerambai; berjerambai",
         "definitions": [
             {
                 "sense": "1",
@@ -11825,7 +11672,7 @@
         ]
     },
     {
-        "term": "jerap",
+        "term": "jerap, menjerap",
         "definitions": [
             {
                 "sense": "1",
@@ -11908,8 +11755,7 @@
         ]
     },
     {
-        "term": "jerat",
-        "roman_numeral": "II",
+        "term": "jerat II",
         "definitions": [
             {
                 "sense": "1",
@@ -11989,7 +11835,7 @@
         ]
     },
     {
-        "term": "jerbak",
+        "term": "jerbak; menjerbak",
         "definitions": [
             {
                 "sense": "1",
@@ -12037,7 +11883,7 @@
         ]
     },
     {
-        "term": "jereguk",
+        "term": "jereguk, jeregut",
         "origin": "Kl",
         "definitions": [
             {
@@ -12094,7 +11940,7 @@
         ]
     },
     {
-        "term": "jeremba",
+        "term": "jeremba; menjeremba",
         "definitions": [
             {
                 "sense": "1",
@@ -12179,7 +12025,7 @@
         ]
     },
     {
-        "term": "jerembun",
+        "term": "jerembun; terjerembun",
         "definitions": [
             {
                 "sense": "1",
@@ -12188,7 +12034,7 @@
         ]
     },
     {
-        "term": "jerempak",
+        "term": "jerempak;",
         "definitions": [
             {
                 "sense": "1",
@@ -12319,7 +12165,7 @@
         ]
     },
     {
-        "term": "jerih",
+        "term": "jerih perih",
         "definitions": [
             {
                 "sense": "1",
@@ -12339,8 +12185,7 @@
         ]
     },
     {
-        "term": "jeriji",
-        "roman_numeral": "I",
+        "term": "jeriji I",
         "definitions": [
             {
                 "sense": "1",
@@ -12349,8 +12194,7 @@
         ]
     },
     {
-        "term": "jeriji",
-        "roman_numeral": "II",
+        "term": "jeriji II",
         "definitions": [
             {
                 "sense": "1",
@@ -12396,8 +12240,7 @@
         ]
     },
     {
-        "term": "jerit",
-        "roman_numeral": "I",
+        "term": "jerit I",
         "definitions": [
             {
                 "sense": "1",
@@ -12443,8 +12286,7 @@
         ]
     },
     {
-        "term": "jerit",
-        "roman_numeral": "II",
+        "term": "jerit II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12510,7 +12352,7 @@
         ]
     },
     {
-        "term": "jerkat",
+        "term": "jerkat;",
         "definitions": [
             {
                 "sense": "1",
@@ -12519,16 +12361,17 @@
         ]
     },
     {
-        "term": "jerlai",
+        "term": "jerlai; terjerlai-jerlai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl berjumbai-jumbai, berumbai-rumbai."
+                "definition": "berjumbai-jumbai, berumbai-rumbai."
             }
         ]
     },
     {
-        "term": "jerlus",
+        "term": "jerlus; terjerlus",
         "definitions": [
             {
                 "sense": "1",
@@ -12538,10 +12381,11 @@
     },
     {
         "term": "jermal",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl alat utk menangkap ikan (pagar yg merupakan bubu yg  dipasang di tepi laut, di belakangnya terdapat pintu dgn jaring yg  boleh diangkat-angkat)."
+                "definition": "alat utk menangkap ikan (pagar yg merupakan bubu yg  dipasang di tepi laut, di belakangnya terdapat pintu dgn jaring yg  boleh diangkat-angkat)."
             }
         ]
     },
@@ -12655,7 +12499,7 @@
         ]
     },
     {
-        "term": "jerohok",
+        "term": "jerohok; terjerohok",
         "definitions": [
             {
                 "sense": "1",
@@ -12664,7 +12508,7 @@
         ]
     },
     {
-        "term": "jerojol",
+        "term": "jerojol; menjerojol, terjerojol",
         "definitions": [
             {
                 "sense": "1",
@@ -12703,7 +12547,7 @@
         ]
     },
     {
-        "term": "jerongkang",
+        "term": "jerongkang;",
         "definitions": [
             {
                 "sense": "1",
@@ -12732,7 +12576,7 @@
         ]
     },
     {
-        "term": "jerongkoh",
+        "term": "jerongkoh; terjerongkoh",
         "definitions": [
             {
                 "sense": "1",
@@ -12741,7 +12585,7 @@
         ]
     },
     {
-        "term": "jerongkok",
+        "term": "jerongkok; menjerongkok, terjerongkok",
         "definitions": [
             {
                 "sense": "1",
@@ -12750,7 +12594,7 @@
         ]
     },
     {
-        "term": "jerongkong",
+        "term": "jerongkong; menjerongkong",
         "definitions": [
             {
                 "sense": "1",
@@ -12824,7 +12668,7 @@
         ]
     },
     {
-        "term": "jeruang",
+        "term": "jeruang;",
         "definitions": [
             {
                 "sense": "1",
@@ -12893,8 +12737,7 @@
         ]
     },
     {
-        "term": "jeruk",
-        "roman_numeral": "II",
+        "term": "jeruk II",
         "origin": "Kl",
         "definitions": [
             {
@@ -12904,7 +12747,7 @@
         ]
     },
     {
-        "term": "jerukun",
+        "term": "jerukun; menjerukun",
         "definitions": [
             {
                 "sense": "1",
@@ -12923,7 +12766,7 @@
         ]
     },
     {
-        "term": "jerumat",
+        "term": "jerumat; menjerumat",
         "definitions": [
             {
                 "sense": "1",
@@ -12961,7 +12804,7 @@
         ]
     },
     {
-        "term": "jerumbai",
+        "term": "jerumbai; berjerumbai",
         "definitions": [
             {
                 "sense": "1",
@@ -12979,8 +12822,7 @@
         ]
     },
     {
-        "term": "jerumun",
-        "roman_numeral": "I",
+        "term": "jerumun I, jerumbun",
         "definitions": [
             {
                 "sense": "1",
@@ -13039,7 +12881,7 @@
         ]
     },
     {
-        "term": "jerun",
+        "term": "jerun;",
         "definitions": [
             {
                 "sense": "1",
@@ -13057,8 +12899,7 @@
         ]
     },
     {
-        "term": "jerung",
-        "roman_numeral": "I",
+        "term": "jerung I",
         "definitions": [
             {
                 "sense": "1",
@@ -13067,8 +12908,7 @@
         ]
     },
     {
-        "term": "jerung",
-        "roman_numeral": "II",
+        "term": "jerung II",
         "origin": "Kl",
         "definitions": [
             {
@@ -13088,7 +12928,7 @@
         ]
     },
     {
-        "term": "jerungkau",
+        "term": "jerungkau; menjerungkau",
         "definitions": [
             {
                 "sense": "1",
@@ -13117,7 +12957,7 @@
         ]
     },
     {
-        "term": "jerungkup",
+        "term": "jerungkup; menjerungkup",
         "definitions": [
             {
                 "sense": "1",
@@ -13137,7 +12977,7 @@
         ]
     },
     {
-        "term": "jerut",
+        "term": "jerut; menjerut",
         "definitions": [
             {
                 "sense": "1",
@@ -13323,7 +13163,7 @@
         ]
     },
     {
-        "term": "jibun",
+        "term": "jibun;",
         "definitions": [
             {
                 "sense": "1",
@@ -13517,7 +13357,7 @@
         ]
     },
     {
-        "term": "jijit",
+        "term": "jijit; menjijit",
         "definitions": [
             {
                 "sense": "1",
@@ -13526,7 +13366,7 @@
         ]
     },
     {
-        "term": "jika",
+        "term": "jika, jikalau",
         "definitions": [
             {
                 "sense": "1",
@@ -13576,7 +13416,7 @@
         ]
     },
     {
-        "term": "jilat",
+        "term": "jilat; berjilat",
         "definitions": [
             {
                 "sense": "1",
@@ -13836,8 +13676,7 @@
         ]
     },
     {
-        "term": "jimat",
-        "roman_numeral": "II",
+        "term": "jimat II",
         "definitions": [
             {
                 "sense": "1",
@@ -13855,7 +13694,7 @@
         ]
     },
     {
-        "term": "jimbit",
+        "term": "jimbit; menjimbit",
         "definitions": [
             {
                 "sense": "1",
@@ -13873,8 +13712,7 @@
         ]
     },
     {
-        "term": "jin",
-        "roman_numeral": "I",
+        "term": "jin I",
         "definitions": [
             {
                 "sense": "1",
@@ -13894,8 +13732,7 @@
         ]
     },
     {
-        "term": "jin",
-        "roman_numeral": "II",
+        "term": "jin II",
         "definitions": [
             {
                 "sense": "1",
@@ -13904,8 +13741,7 @@
         ]
     },
     {
-        "term": "jin",
-        "roman_numeral": "III",
+        "term": "jin III",
         "definitions": [
             {
                 "sense": "1",
@@ -14053,7 +13889,7 @@
         ]
     },
     {
-        "term": "jinggih",
+        "term": "jinggih, jinggir, jinggit",
         "definitions": [
             {
                 "sense": "1",
@@ -14062,7 +13898,7 @@
         ]
     },
     {
-        "term": "jingkat",
+        "term": "jingkat; berjingkat, berjingkat-jingkat, terjingkat, terjingkat-jingkat",
         "definitions": [
             {
                 "sense": "1",
@@ -14089,7 +13925,7 @@
         ]
     },
     {
-        "term": "jingkit",
+        "term": "jingkit; berjingkit, berjingkit-jingkit",
         "definitions": [
             {
                 "sense": "1",
@@ -14158,8 +13994,7 @@
         ]
     },
     {
-        "term": "jinjing",
-        "roman_numeral": "I",
+        "term": "jinjing I; menjinjing",
         "definitions": [
             {
                 "sense": "1",
@@ -14179,8 +14014,7 @@
         ]
     },
     {
-        "term": "jinjing",
-        "roman_numeral": "II",
+        "term": "jinjing II",
         "definitions": [
             {
                 "sense": "1",
@@ -14189,8 +14023,7 @@
         ]
     },
     {
-        "term": "jinjing",
-        "roman_numeral": "III",
+        "term": "jinjing III",
         "origin": "Kl",
         "definitions": [
             {
@@ -14200,8 +14033,7 @@
         ]
     },
     {
-        "term": "jinjit",
-        "roman_numeral": "I",
+        "term": "jinjit I",
         "origin": "Jw",
         "definitions": [
             {
@@ -14222,8 +14054,7 @@
         ]
     },
     {
-        "term": "jinjit",
-        "roman_numeral": "II",
+        "term": "jinjit II; menjinjit",
         "definitions": [
             {
                 "sense": "1",
@@ -14232,8 +14063,7 @@
         ]
     },
     {
-        "term": "jinjit",
-        "roman_numeral": "III",
+        "term": "jinjit III; menjinjit",
         "definitions": [
             {
                 "sense": "1",
@@ -14265,7 +14095,7 @@
         ]
     },
     {
-        "term": "jintih",
+        "term": "jintih;",
         "definitions": [
             {
                 "sense": "1",
@@ -14283,8 +14113,7 @@
         ]
     },
     {
-        "term": "jipang",
-        "roman_numeral": "I",
+        "term": "jipang I",
         "definitions": [
             {
                 "sense": "1",
@@ -14293,8 +14122,7 @@
         ]
     },
     {
-        "term": "jipang",
-        "roman_numeral": "II",
+        "term": "jipang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -14318,7 +14146,7 @@
         ]
     },
     {
-        "term": "jiperak",
+        "term": "jiperak;",
         "definitions": [
             {
                 "sense": "1",
@@ -14461,8 +14289,7 @@
         ]
     },
     {
-        "term": "jirat",
-        "roman_numeral": "II",
+        "term": "jirat II",
         "origin": "Jk",
         "definitions": [
             {
@@ -14500,8 +14327,7 @@
         ]
     },
     {
-        "term": "jirus",
-        "roman_numeral": "I",
+        "term": "jirus I; menjirus",
         "definitions": [
             {
                 "sense": "1",
@@ -14525,8 +14351,7 @@
         ]
     },
     {
-        "term": "jirus",
-        "roman_numeral": "II",
+        "term": "jirus II",
         "definitions": [
             {
                 "sense": "1",
@@ -14549,7 +14374,7 @@
         ]
     },
     {
-        "term": "jitah",
+        "term": "jitah;",
         "definitions": [
             {
                 "sense": "1",
@@ -14740,7 +14565,7 @@
         ]
     },
     {
-        "term": "jiwit",
+        "term": "jiwit; menjiwit",
         "definitions": [
             {
                 "sense": "1",
@@ -14939,7 +14764,7 @@
         ]
     },
     {
-        "term": "jodong",
+        "term": "jodong; menjodongkan",
         "definitions": [
             {
                 "sense": "1",
@@ -14960,10 +14785,11 @@
     },
     {
         "term": "jogan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tombak, bendera (sbg tanda kebesaran raja);     ~ alam  tombak kerajaan (yg dihiasi dgn emas);  ~ alamat  jogan yg  memberi tanda utk memulakan sesuatu (memukul gendang,  berarak, dll);     cogan."
+                "definition": "tombak, bendera (sbg tanda kebesaran raja);     ~ alam  tombak kerajaan (yg dihiasi dgn emas);  ~ alamat  jogan yg  memberi tanda utk memulakan sesuatu (memukul gendang,  berarak, dll);     cogan."
             }
         ]
     },
@@ -15074,8 +14900,7 @@
         ]
     },
     {
-        "term": "johar",
-        "roman_numeral": "I",
+        "term": "johar I;",
         "definitions": [
             {
                 "sense": "1",
@@ -15084,8 +14909,7 @@
         ]
     },
     {
-        "term": "johar",
-        "roman_numeral": "II",
+        "term": "johar II",
         "origin": "Jw",
         "definitions": [
             {
@@ -15095,8 +14919,7 @@
         ]
     },
     {
-        "term": "johong",
-        "roman_numeral": "I",
+        "term": "johong I",
         "definitions": [
             {
                 "sense": "1",
@@ -15116,8 +14939,7 @@
         ]
     },
     {
-        "term": "johong",
-        "roman_numeral": "II",
+        "term": "johong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15139,8 +14961,7 @@
         ]
     },
     {
-        "term": "Johor",
-        "roman_numeral": "II",
+        "term": "Johor II",
         "definitions": [
             {
                 "sense": "1",
@@ -15235,7 +15056,7 @@
         ]
     },
     {
-        "term": "jolak",
+        "term": "jolak; berjolak, menjolak",
         "definitions": [
             {
                 "sense": "1",
@@ -15253,8 +15074,7 @@
         ]
     },
     {
-        "term": "joli",
-        "roman_numeral": "I",
+        "term": "joli I",
         "definitions": [
             {
                 "sense": "1",
@@ -15263,8 +15083,7 @@
         ]
     },
     {
-        "term": "joli",
-        "roman_numeral": "II",
+        "term": "joli II",
         "definitions": [
             {
                 "sense": "1",
@@ -15273,8 +15092,7 @@
         ]
     },
     {
-        "term": "joli",
-        "roman_numeral": "III",
+        "term": "joli III; berjoli",
         "definitions": [
             {
                 "sense": "1",
@@ -15340,8 +15158,7 @@
         ]
     },
     {
-        "term": "jolok",
-        "roman_numeral": "II",
+        "term": "jolok II",
         "definitions": [
             {
                 "sense": "1",
@@ -15374,8 +15191,7 @@
         ]
     },
     {
-        "term": "jolong-jolong",
-        "roman_numeral": "I",
+        "term": "jolong-jolong I;",
         "definitions": [
             {
                 "sense": "1",
@@ -15384,8 +15200,7 @@
         ]
     },
     {
-        "term": "jolong-jolong",
-        "roman_numeral": "II",
+        "term": "jolong-jolong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15444,7 +15259,7 @@
         ]
     },
     {
-        "term": "jompak",
+        "term": "jompak; berjompak, menjompak",
         "definitions": [
             {
                 "sense": "1",
@@ -15478,8 +15293,7 @@
         ]
     },
     {
-        "term": "jong",
-        "roman_numeral": "I",
+        "term": "jong I",
         "definitions": [
             {
                 "sense": "1",
@@ -15488,8 +15302,7 @@
         ]
     },
     {
-        "term": "jong",
-        "roman_numeral": "II",
+        "term": "jong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15554,7 +15367,7 @@
         ]
     },
     {
-        "term": "jongkang",
+        "term": "jongkang;",
         "definitions": [
             {
                 "sense": "1",
@@ -15574,7 +15387,7 @@
         ]
     },
     {
-        "term": "jongkar",
+        "term": "jongkar;",
         "definitions": [
             {
                 "sense": "1",
@@ -15640,8 +15453,7 @@
         ]
     },
     {
-        "term": "jongkong",
-        "roman_numeral": "I",
+        "term": "jongkong I",
         "definitions": [
             {
                 "sense": "1",
@@ -15650,8 +15462,7 @@
         ]
     },
     {
-        "term": "jongkong",
-        "roman_numeral": "II",
+        "term": "jongkong II",
         "definitions": [
             {
                 "sense": "1",
@@ -15660,8 +15471,7 @@
         ]
     },
     {
-        "term": "jongkong",
-        "roman_numeral": "III",
+        "term": "jongkong III",
         "origin": "Kd",
         "definitions": [
             {
@@ -15671,8 +15481,7 @@
         ]
     },
     {
-        "term": "jongkong",
-        "roman_numeral": "IV",
+        "term": "jongkong IV",
         "definitions": [
             {
                 "sense": "1",
@@ -15681,7 +15490,7 @@
         ]
     },
     {
-        "term": "jongol",
+        "term": "jongol; berjongolan",
         "definitions": [
             {
                 "sense": "1",
@@ -15787,7 +15596,7 @@
         ]
     },
     {
-        "term": "joon",
+        "term": "joon,",
         "origin": "Kl",
         "definitions": [
             {
@@ -15807,7 +15616,7 @@
         ]
     },
     {
-        "term": "joran",
+        "term": "joran;",
         "definitions": [
             {
                 "sense": "1",
@@ -15854,8 +15663,7 @@
         ]
     },
     {
-        "term": "jorok",
-        "roman_numeral": "I",
+        "term": "jorok I",
         "origin": "Mn",
         "definitions": [
             {
@@ -15886,8 +15694,7 @@
         ]
     },
     {
-        "term": "jorong",
-        "roman_numeral": "I",
+        "term": "jorong I",
         "definitions": [
             {
                 "sense": "1",
@@ -15896,8 +15703,7 @@
         ]
     },
     {
-        "term": "jorong",
-        "roman_numeral": "II",
+        "term": "jorong II",
         "definitions": [
             {
                 "sense": "1",
@@ -15906,8 +15712,7 @@
         ]
     },
     {
-        "term": "jorong",
-        "roman_numeral": "III",
+        "term": "jorong III",
         "definitions": [
             {
                 "sense": "1",
@@ -16105,8 +15910,7 @@
         ]
     },
     {
-        "term": "juak",
-        "roman_numeral": "I",
+        "term": "juak I; juak-juak",
         "definitions": [
             {
                 "sense": "1",
@@ -16115,8 +15919,7 @@
         ]
     },
     {
-        "term": "juak",
-        "roman_numeral": "II",
+        "term": "juak II; berjuak",
         "definitions": [
             {
                 "sense": "1",
@@ -16149,8 +15952,7 @@
         ]
     },
     {
-        "term": "juak",
-        "roman_numeral": "III",
+        "term": "juak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -16175,8 +15977,7 @@
         ]
     },
     {
-        "term": "juak",
-        "roman_numeral": "IV",
+        "term": "juak IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -16186,8 +15987,7 @@
         ]
     },
     {
-        "term": "juak",
-        "roman_numeral": "V",
+        "term": "juak V",
         "origin": "Kl",
         "definitions": [
             {
@@ -16197,8 +15997,7 @@
         ]
     },
     {
-        "term": "juak",
-        "roman_numeral": "VI",
+        "term": "juak VI",
         "definitions": [
             {
                 "sense": "1",
@@ -16315,7 +16114,7 @@
         ]
     },
     {
-        "term": "juala",
+        "term": "juala;",
         "definitions": [
             {
                 "sense": "1",
@@ -16324,7 +16123,7 @@
         ]
     },
     {
-        "term": "jual",
+        "term": "jual beli",
         "definitions": [
             {
                 "sense": "1",
@@ -16362,7 +16161,7 @@
         ]
     },
     {
-        "term": "juang",
+        "term": "juang;",
         "definitions": [
             {
                 "sense": "1",
@@ -16453,7 +16252,7 @@
         ]
     },
     {
-        "term": "juar",
+        "term": "juar;",
         "definitions": [
             {
                 "sense": "1",
@@ -16515,8 +16314,7 @@
         ]
     },
     {
-        "term": "juara",
-        "roman_numeral": "II",
+        "term": "juara II;",
         "definitions": [
             {
                 "sense": "1",
@@ -16789,7 +16587,7 @@
         ]
     },
     {
-        "term": "jugel",
+        "term": "jugel; menjugel",
         "definitions": [
             {
                 "sense": "1",
@@ -16809,7 +16607,7 @@
         ]
     },
     {
-        "term": "juih",
+        "term": "juih; menjuih, terjuih",
         "definitions": [
             {
                 "sense": "1",
@@ -16842,20 +16640,22 @@
         ]
     },
     {
-        "term": "jujai",
+        "term": "jujai; berjujai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tidak putus-putus, tidak berhenti-henti (hujan, orang yg  pergi atau datang, dll)."
+                "definition": "tidak putus-putus, tidak berhenti-henti (hujan, orang yg  pergi atau datang, dll)."
             }
         ]
     },
     {
         "term": "jujat",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl fitnah, celaan, umpat."
+                "definition": "fitnah, celaan, umpat."
             }
         ]
     },
@@ -16869,7 +16669,7 @@
         ]
     },
     {
-        "term": "juju",
+        "term": "juju; menjuju",
         "definitions": [
             {
                 "sense": "1",
@@ -16898,8 +16698,7 @@
         ]
     },
     {
-        "term": "jujuh",
-        "roman_numeral": "I",
+        "term": "jujuh I; berjujuh, menjujuh",
         "definitions": [
             {
                 "sense": "1",
@@ -16908,8 +16707,7 @@
         ]
     },
     {
-        "term": "jujuh",
-        "roman_numeral": "II",
+        "term": "jujuh II",
         "origin": "Kd",
         "definitions": [
             {
@@ -16949,8 +16747,7 @@
         ]
     },
     {
-        "term": "jujur",
-        "roman_numeral": "I",
+        "term": "jujur I",
         "definitions": [
             {
                 "sense": "1",
@@ -16970,8 +16767,7 @@
         ]
     },
     {
-        "term": "jujur",
-        "roman_numeral": "II",
+        "term": "jujur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17000,7 +16796,7 @@
         ]
     },
     {
-        "term": "jujut",
+        "term": "jujut; berjujut-jujutan",
         "definitions": [
             {
                 "sense": "1",
@@ -17052,7 +16848,7 @@
         ]
     },
     {
-        "term": "julah",
+        "term": "julah;",
         "definitions": [
             {
                 "sense": "1",
@@ -17061,8 +16857,7 @@
         ]
     },
     {
-        "term": "julai",
-        "roman_numeral": "II",
+        "term": "julai II",
         "definitions": [
             {
                 "sense": "1",
@@ -17082,8 +16877,7 @@
         ]
     },
     {
-        "term": "Julai",
-        "roman_numeral": "I",
+        "term": "Julai I",
         "definitions": [
             {
                 "sense": "1",
@@ -17289,8 +17083,7 @@
         ]
     },
     {
-        "term": "julung",
-        "roman_numeral": "III",
+        "term": "julung III",
         "origin": "Jw",
         "definitions": [
             {
@@ -17313,8 +17106,7 @@
         ]
     },
     {
-        "term": "julung-julung",
-        "roman_numeral": "II",
+        "term": "julung-julung II",
         "definitions": [
             {
                 "sense": "1",
@@ -17323,8 +17115,7 @@
         ]
     },
     {
-        "term": "julur",
-        "roman_numeral": "I",
+        "term": "julur I;",
         "definitions": [
             {
                 "sense": "1",
@@ -17362,8 +17153,7 @@
         ]
     },
     {
-        "term": "julur",
-        "roman_numeral": "II",
+        "term": "julur II",
         "origin": "Mn",
         "definitions": [
             {
@@ -17407,20 +17197,22 @@
         ]
     },
     {
-        "term": "jumantan",
+        "term": "jumantan, jumanten",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl zamrud."
+                "definition": "zamrud."
             }
         ]
     },
     {
         "term": "jumantara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl langit, udara, cakerawala."
+                "definition": "langit, udara, cakerawala."
             }
         ]
     },
@@ -17481,7 +17273,7 @@
         ]
     },
     {
-        "term": "jumbul",
+        "term": "jumbul; terjumbul-jumbul",
         "definitions": [
             {
                 "sense": "1",
@@ -17596,7 +17388,7 @@
         ]
     },
     {
-        "term": "jumpa",
+        "term": "jumpa; berjumpa",
         "definitions": [
             {
                 "sense": "1",
@@ -17738,8 +17530,7 @@
         ]
     },
     {
-        "term": "Jun",
-        "roman_numeral": "I",
+        "term": "Jun I",
         "definitions": [
             {
                 "sense": "1",
@@ -17748,8 +17539,7 @@
         ]
     },
     {
-        "term": "jun",
-        "roman_numeral": "II",
+        "term": "jun II",
         "origin": "Jw",
         "definitions": [
             {
@@ -17759,7 +17549,7 @@
         ]
     },
     {
-        "term": "junam",
+        "term": "junam; menjunam",
         "definitions": [
             {
                 "sense": "1",
@@ -17792,7 +17582,7 @@
         ]
     },
     {
-        "term": "jundai",
+        "term": "jundai; sijundai",
         "origin": "Mn",
         "definitions": [
             {
@@ -17823,7 +17613,7 @@
         ]
     },
     {
-        "term": "junggang",
+        "term": "junggang;",
         "definitions": [
             {
                 "sense": "1",
@@ -17857,7 +17647,7 @@
         ]
     },
     {
-        "term": "jungkar",
+        "term": "jungkar; menjungkar",
         "definitions": [
             {
                 "sense": "1",
@@ -17934,7 +17724,7 @@
         ]
     },
     {
-        "term": "jungkir",
+        "term": "jungkir balik",
         "definitions": [
             {
                 "sense": "1",
@@ -18067,7 +17857,7 @@
         ]
     },
     {
-        "term": "juntai",
+        "term": "juntai; berjuntai",
         "definitions": [
             {
                 "sense": "1",
@@ -18303,8 +18093,7 @@
         ]
     },
     {
-        "term": "juring",
-        "roman_numeral": "I",
+        "term": "juring I",
         "definitions": [
             {
                 "sense": "1",
@@ -18337,8 +18126,7 @@
         ]
     },
     {
-        "term": "juring",
-        "roman_numeral": "II",
+        "term": "juring II",
         "origin": "Kl",
         "definitions": [
             {
@@ -18412,8 +18200,7 @@
         ]
     },
     {
-        "term": "juru",
-        "roman_numeral": "I",
+        "term": "juru I",
         "definitions": [
             {
                 "sense": "1",
@@ -18433,8 +18220,7 @@
         ]
     },
     {
-        "term": "juru",
-        "roman_numeral": "II",
+        "term": "juru II",
         "definitions": [
             {
                 "sense": "1",
@@ -18667,10 +18453,11 @@
     },
     {
         "term": "jurukaki",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pesuruh, bentara."
+                "definition": "pesuruh, bentara."
             }
         ]
     },
@@ -18703,10 +18490,11 @@
     },
     {
         "term": "jurukerah",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl jawatan yg di bawah batin."
+                "definition": "jawatan yg di bawah batin."
             }
         ]
     },
@@ -18910,8 +18698,7 @@
         ]
     },
     {
-        "term": "jurus",
-        "roman_numeral": "I",
+        "term": "jurus I; sejurus",
         "definitions": [
             {
                 "sense": "1",
@@ -18931,8 +18718,7 @@
         ]
     },
     {
-        "term": "jurus",
-        "roman_numeral": "II",
+        "term": "jurus II",
         "definitions": [
             {
                 "sense": "1",
@@ -19093,10 +18879,11 @@
     },
     {
         "term": "jurutanak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl orang yg menanak nasi."
+                "definition": "orang yg menanak nasi."
             }
         ]
     },
@@ -19278,7 +19065,7 @@
         ]
     },
     {
-        "term": "jus",
+        "term": "jus soli",
         "definitions": [
             {
                 "sense": "1",
@@ -19330,8 +19117,7 @@
         ]
     },
     {
-        "term": "jut",
-        "roman_numeral": "I",
+        "term": "jut I",
         "definitions": [
             {
                 "sense": "1",
@@ -19340,8 +19126,7 @@
         ]
     },
     {
-        "term": "jut",
-        "roman_numeral": "II",
+        "term": "jut II",
         "origin": "Kl",
         "definitions": [
             {
@@ -19389,7 +19174,7 @@
         ]
     },
     {
-        "term": "jutung",
+        "term": "jutung;",
         "definitions": [
             {
                 "sense": "1",

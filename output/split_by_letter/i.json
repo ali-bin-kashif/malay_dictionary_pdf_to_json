@@ -1,7 +1,6 @@
 [
     {
-        "term": "i",
-        "roman_numeral": "I",
+        "term": "i I",
         "definitions": [
             {
                 "sense": "1",
@@ -19,8 +18,7 @@
         ]
     },
     {
-        "term": "I",
-        "roman_numeral": "III",
+        "term": "I III",
         "definitions": [
             {
                 "sense": "1",
@@ -42,8 +40,7 @@
         ]
     },
     {
-        "term": "ia",
-        "roman_numeral": "II",
+        "term": "ia II",
         "definitions": [
             {
                 "sense": "1",
@@ -184,7 +181,7 @@
         ]
     },
     {
-        "term": "ibadat",
+        "term": "ibadat, ibadah",
         "origin": "Ar",
         "definitions": [
             {
@@ -232,7 +229,7 @@
         ]
     },
     {
-        "term": "ibar",
+        "term": "ibar, ibar-ibar",
         "definitions": [
             {
                 "sense": "1",
@@ -450,8 +447,7 @@
         ]
     },
     {
-        "term": "ibu",
-        "roman_numeral": "II",
+        "term": "ibu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -460,7 +456,7 @@
         ]
     },
     {
-        "term": "ibu",
+        "term": "ibu angkat",
         "definitions": [
             {
                 "sense": "1",
@@ -480,7 +476,7 @@
         ]
     },
     {
-        "term": "ibu",
+        "term": "ibu bapa",
         "definitions": [
             {
                 "sense": "1",
@@ -500,7 +496,7 @@
         ]
     },
     {
-        "term": "ibu",
+        "term": "ibu tiri",
         "definitions": [
             {
                 "sense": "1",
@@ -623,12 +619,12 @@
         ]
     },
     {
-        "term": "idah",
-        "roman_numeral": "I",
+        "term": "idah I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hantaran oleh seorang laki-laki kpd perempuan sbg tanda  mengikat tali percintaan;     ~ gelap  pemberian tanda percintaan dgn tidak bercadang hendak  berkahwin (utk berkendak);  ~   terang  pemberian tanda percintaan  dgn maksud hendak berkahwin;"
+                "definition": "hantaran oleh seorang laki-laki kpd perempuan sbg tanda  mengikat tali percintaan;     ~ gelap  pemberian tanda percintaan dgn tidak bercadang hendak  berkahwin (utk berkendak);  ~   terang  pemberian tanda percintaan  dgn maksud hendak berkahwin;"
             }
         ],
         "sub_terms": [
@@ -653,8 +649,7 @@
         ]
     },
     {
-        "term": "idah",
-        "roman_numeral": "II",
+        "term": "idah II",
         "origin": "Ar",
         "definitions": [
             {
@@ -684,8 +679,7 @@
         ]
     },
     {
-        "term": "idam",
-        "roman_numeral": "I",
+        "term": "idam I",
         "definitions": [
             {
                 "sense": "1",
@@ -727,8 +721,7 @@
         ]
     },
     {
-        "term": "idam",
-        "roman_numeral": "II",
+        "term": "idam II",
         "definitions": [
             {
                 "sense": "1",
@@ -1123,8 +1116,7 @@
         ]
     },
     {
-        "term": "igal",
-        "roman_numeral": "II",
+        "term": "igal II",
         "origin": "Ar",
         "definitions": [
             {
@@ -1212,8 +1204,7 @@
         ]
     },
     {
-        "term": "igau",
-        "roman_numeral": "II",
+        "term": "igau II",
         "origin": "Mn",
         "definitions": [
             {
@@ -1418,7 +1409,7 @@
         ]
     },
     {
-        "term": "ijab",
+        "term": "ijab kabul",
         "definitions": [
             {
                 "sense": "1",
@@ -2746,7 +2737,7 @@
         ]
     },
     {
-        "term": "ikut",
+        "term": "ikut serta",
         "definitions": [
             {
                 "sense": "1",
@@ -2808,7 +2799,7 @@
         ]
     },
     {
-        "term": "ilahiah",
+        "term": "ilahiah, ilahiat",
         "origin": "Ar",
         "definitions": [
             {
@@ -2818,7 +2809,7 @@
         ]
     },
     {
-        "term": "ilai",
+        "term": "ilai; mengilai-ilai",
         "definitions": [
             {
                 "sense": "1",
@@ -2846,7 +2837,7 @@
         ]
     },
     {
-        "term": "ilas",
+        "term": "ilas; mengilas",
         "origin": "Jk",
         "definitions": [
             {
@@ -2974,7 +2965,7 @@
         ]
     },
     {
-        "term": "ili",
+        "term": "ili; mengili",
         "origin": "Jk",
         "definitions": [
             {
@@ -3389,7 +3380,7 @@
         ]
     },
     {
-        "term": "imarah",
+        "term": "imarah; mengimarahkan",
         "definitions": [
             {
                 "sense": "1",
@@ -3461,8 +3452,7 @@
         ]
     },
     {
-        "term": "imbal",
-        "roman_numeral": "II",
+        "term": "imbal II; imbalan",
         "definitions": [
             {
                 "sense": "1",
@@ -3482,8 +3472,7 @@
         ]
     },
     {
-        "term": "imbang",
-        "roman_numeral": "I",
+        "term": "imbang I",
         "definitions": [
             {
                 "sense": "1",
@@ -3666,8 +3655,7 @@
         ]
     },
     {
-        "term": "imbang",
-        "roman_numeral": "II",
+        "term": "imbang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3772,7 +3760,7 @@
         ]
     },
     {
-        "term": "imbas",
+        "term": "imbas kembali",
         "definitions": [
             {
                 "sense": "1",
@@ -3792,7 +3780,7 @@
         ]
     },
     {
-        "term": "imbau",
+        "term": "imbau; mengimbau",
         "origin": "Mn",
         "definitions": [
             {
@@ -4136,7 +4124,7 @@
         ]
     },
     {
-        "term": "impi",
+        "term": "impi; mengimpi",
         "definitions": [
             {
                 "sense": "1",
@@ -4574,7 +4562,7 @@
         ]
     },
     {
-        "term": "in",
+        "term": "in personam",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -4664,7 +4652,7 @@
         ]
     },
     {
-        "term": "inap",
+        "term": "inap; menginap",
         "definitions": [
             {
                 "sense": "1",
@@ -4697,8 +4685,7 @@
         ]
     },
     {
-        "term": "inas",
-        "roman_numeral": "I",
+        "term": "inas I;",
         "definitions": [
             {
                 "sense": "1",
@@ -4707,8 +4694,7 @@
         ]
     },
     {
-        "term": "inas",
-        "roman_numeral": "II",
+        "term": "inas II",
         "origin": "Kl",
         "definitions": [
             {
@@ -4728,7 +4714,7 @@
         ]
     },
     {
-        "term": "inca",
+        "term": "inca;",
         "definitions": [
             {
                 "sense": "1",
@@ -4750,8 +4736,7 @@
         ]
     },
     {
-        "term": "incar",
-        "roman_numeral": "I",
+        "term": "incar I",
         "definitions": [
             {
                 "sense": "1",
@@ -4783,8 +4768,7 @@
         ]
     },
     {
-        "term": "inci",
-        "roman_numeral": "I",
+        "term": "inci I",
         "definitions": [
             {
                 "sense": "1",
@@ -4793,8 +4777,7 @@
         ]
     },
     {
-        "term": "inci",
-        "roman_numeral": "II",
+        "term": "inci II",
         "definitions": [
             {
                 "sense": "1",
@@ -4804,10 +4787,11 @@
     },
     {
         "term": "incil",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj pin yg berkepalakan batu permata;"
+                "definition": "sj pin yg berkepalakan batu permata;"
             }
         ],
         "sub_terms": [
@@ -4834,10 +4818,11 @@
     },
     {
         "term": "incit",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl nyah!, pergi!;"
+                "definition": "nyah!, pergi!;"
             }
         ],
         "sub_terms": [
@@ -4948,8 +4933,7 @@
         ]
     },
     {
-        "term": "indang",
-        "roman_numeral": "I",
+        "term": "indang I; mengindang",
         "origin": "Mn",
         "definitions": [
             {
@@ -4959,8 +4943,7 @@
         ]
     },
     {
-        "term": "indang",
-        "roman_numeral": "II",
+        "term": "indang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -5137,7 +5120,7 @@
         ]
     },
     {
-        "term": "Indera",
+        "term": "Indera Kayangan",
         "definitions": [
             {
                 "sense": "1",
@@ -5156,10 +5139,11 @@
     },
     {
         "term": "inderaloka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tempat Bentara Indera, syurga."
+                "definition": "tempat Bentara Indera, syurga."
             }
         ]
     },
@@ -5809,7 +5793,7 @@
         ]
     },
     {
-        "term": "inga",
+        "term": "inga; inga-inga, teringa-inga",
         "definitions": [
             {
                 "sense": "1",
@@ -6051,7 +6035,7 @@
         ]
     },
     {
-        "term": "ingau",
+        "term": "ingau; mengingau",
         "definitions": [
             {
                 "sense": "1",
@@ -6084,7 +6068,7 @@
         ]
     },
     {
-        "term": "inggang",
+        "term": "inggang;",
         "definitions": [
             {
                 "sense": "1",
@@ -6254,7 +6238,7 @@
         ]
     },
     {
-        "term": "ingka",
+        "term": "ingka, ingkak;",
         "definitions": [
             {
                 "sense": "1",
@@ -6416,7 +6400,7 @@
         ]
     },
     {
-        "term": "inja",
+        "term": "inja;",
         "definitions": [
             {
                 "sense": "1",
@@ -7001,7 +6985,7 @@
         ]
     },
     {
-        "term": "in",
+        "term": "in situ",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -7296,7 +7280,7 @@
         ]
     },
     {
-        "term": "intai",
+        "term": "intai; mengintai",
         "definitions": [
             {
                 "sense": "1",
@@ -8106,7 +8090,7 @@
         ]
     },
     {
-        "term": "inti",
+        "term": "inti pati, inti sari",
         "definitions": [
             {
                 "sense": "1",
@@ -8240,7 +8224,7 @@
         ]
     },
     {
-        "term": "intu",
+        "term": "intu; mengintu",
         "origin": "Pr",
         "definitions": [
             {
@@ -8381,7 +8365,7 @@
         ]
     },
     {
-        "term": "in",
+        "term": "in vitro",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -8391,7 +8375,7 @@
         ]
     },
     {
-        "term": "in",
+        "term": "in vivo",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -8722,8 +8706,7 @@
         ]
     },
     {
-        "term": "Ir",
-        "roman_numeral": "II",
+        "term": "Ir II",
         "origin": "Id",
         "definitions": [
             {
@@ -8819,7 +8802,7 @@
         ]
     },
     {
-        "term": "iram-iram",
+        "term": "iram-iram;",
         "definitions": [
             {
                 "sense": "1",
@@ -8837,8 +8820,7 @@
         ]
     },
     {
-        "term": "irap",
-        "roman_numeral": "I",
+        "term": "irap I",
         "definitions": [
             {
                 "sense": "1",
@@ -8847,8 +8829,7 @@
         ]
     },
     {
-        "term": "irap",
-        "roman_numeral": "II",
+        "term": "irap II",
         "definitions": [
             {
                 "sense": "1",
@@ -8857,8 +8838,7 @@
         ]
     },
     {
-        "term": "iras",
-        "roman_numeral": "I",
+        "term": "iras I",
         "definitions": [
             {
                 "sense": "1",
@@ -8878,8 +8858,7 @@
         ]
     },
     {
-        "term": "iras",
-        "roman_numeral": "II",
+        "term": "iras II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8918,8 +8897,7 @@
         ]
     },
     {
-        "term": "iras",
-        "roman_numeral": "III",
+        "term": "iras III;",
         "definitions": [
             {
                 "sense": "1",
@@ -8928,7 +8906,7 @@
         ]
     },
     {
-        "term": "iri",
+        "term": "iri;",
         "definitions": [
             {
                 "sense": "1",
@@ -9042,8 +9020,7 @@
         ]
     },
     {
-        "term": "iring",
-        "roman_numeral": "I",
+        "term": "iring I",
         "definitions": [
             {
                 "sense": "1",
@@ -9142,8 +9119,7 @@
         ]
     },
     {
-        "term": "iring",
-        "roman_numeral": "II",
+        "term": "iring II",
         "definitions": [
             {
                 "sense": "1",
@@ -9199,8 +9175,7 @@
         ]
     },
     {
-        "term": "irit",
-        "roman_numeral": "I",
+        "term": "irit I",
         "origin": "Jw",
         "definitions": [
             {
@@ -9239,8 +9214,7 @@
         ]
     },
     {
-        "term": "irit",
-        "roman_numeral": "II",
+        "term": "irit II; iritan",
         "definitions": [
             {
                 "sense": "1",
@@ -9520,7 +9494,7 @@
         ]
     },
     {
-        "term": "isih",
+        "term": "isih; berisih",
         "definitions": [
             {
                 "sense": "1",
@@ -9598,7 +9572,7 @@
         ]
     },
     {
-        "term": "isi",
+        "term": "isi padu",
         "definitions": [
             {
                 "sense": "1",
@@ -10000,7 +9974,7 @@
         ]
     },
     {
-        "term": "istana",
+        "term": "istana kota",
         "definitions": [
             {
                 "sense": "1",
@@ -10352,10 +10326,11 @@
     },
     {
         "term": "istinggar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj senapang kuno:  bunyi ~nya spt kacang direndang."
+                "definition": "sj senapang kuno:  bunyi ~nya spt kacang direndang."
             }
         ]
     },
@@ -10976,8 +10951,7 @@
         ]
     },
     {
-        "term": "iris",
-        "roman_numeral": "II",
+        "term": "iris II",
         "definitions": [
             {
                 "sense": "1",

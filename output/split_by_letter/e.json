@@ -450,8 +450,7 @@
         ]
     },
     {
-        "term": "efek",
-        "roman_numeral": "I",
+        "term": "efek I",
         "definitions": [
             {
                 "sense": "1",
@@ -460,8 +459,7 @@
         ]
     },
     {
-        "term": "efek",
-        "roman_numeral": "II",
+        "term": "efek II",
         "definitions": [
             {
                 "sense": "1",
@@ -798,8 +796,7 @@
         ]
     },
     {
-        "term": "ejan",
-        "roman_numeral": "I",
+        "term": "ejan I; mengejan",
         "definitions": [
             {
                 "sense": "1",
@@ -808,8 +805,7 @@
         ]
     },
     {
-        "term": "ejan",
-        "roman_numeral": "II",
+        "term": "ejan II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3025,8 +3021,7 @@
         ]
     },
     {
-        "term": "emas",
-        "roman_numeral": "III",
+        "term": "emas III",
         "definitions": [
             {
                 "sense": "1",
@@ -3093,8 +3088,7 @@
         ]
     },
     {
-        "term": "embalau",
-        "roman_numeral": "I",
+        "term": "embalau I",
         "definitions": [
             {
                 "sense": "1",
@@ -3103,8 +3097,7 @@
         ]
     },
     {
-        "term": "embalau",
-        "roman_numeral": "II",
+        "term": "embalau II",
         "definitions": [
             {
                 "sense": "1",
@@ -3113,8 +3106,7 @@
         ]
     },
     {
-        "term": "emban",
-        "roman_numeral": "I",
+        "term": "emban I",
         "definitions": [
             {
                 "sense": "1",
@@ -3123,8 +3115,7 @@
         ]
     },
     {
-        "term": "emban",
-        "roman_numeral": "II",
+        "term": "emban II",
         "origin": "Jw",
         "definitions": [
             {
@@ -3201,7 +3192,7 @@
         ]
     },
     {
-        "term": "embat",
+        "term": "embat; mengembat",
         "definitions": [
             {
                 "sense": "1",
@@ -3378,16 +3369,16 @@
     },
     {
         "term": "embuai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl panggilan kpd dayang istana (perempuan yg bekerja di istana)."
+                "definition": "panggilan kpd dayang istana (perempuan yg bekerja di istana)."
             }
         ]
     },
     {
-        "term": "embuh",
-        "roman_numeral": "I",
+        "term": "embuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -3407,8 +3398,7 @@
         ]
     },
     {
-        "term": "embuh",
-        "roman_numeral": "II",
+        "term": "embuh II; embuh-embuhan",
         "definitions": [
             {
                 "sense": "1",
@@ -3476,8 +3466,7 @@
         ]
     },
     {
-        "term": "embun",
-        "roman_numeral": "II",
+        "term": "embun II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3486,8 +3475,7 @@
         ]
     },
     {
-        "term": "embun",
-        "roman_numeral": "III",
+        "term": "embun III;",
         "definitions": [
             {
                 "sense": "1",
@@ -3505,7 +3493,7 @@
         ]
     },
     {
-        "term": "embut",
+        "term": "embut; mengembut",
         "definitions": [
             {
                 "sense": "1",
@@ -4277,8 +4265,7 @@
         ]
     },
     {
-        "term": "empoyan",
-        "roman_numeral": "I",
+        "term": "empoyan I",
         "definitions": [
             {
                 "sense": "1",
@@ -4298,8 +4285,7 @@
         ]
     },
     {
-        "term": "empoyan",
-        "roman_numeral": "II",
+        "term": "empoyan II",
         "definitions": [
             {
                 "sense": "1",
@@ -4308,7 +4294,8 @@
         ]
     },
     {
-        "term": "empu I sl",
+        "term": "empu I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -4332,8 +4319,7 @@
         ]
     },
     {
-        "term": "empu",
-        "roman_numeral": "II",
+        "term": "empu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4342,8 +4328,7 @@
         ]
     },
     {
-        "term": "empu",
-        "roman_numeral": "III",
+        "term": "empu III",
         "definitions": [
             {
                 "sense": "1",
@@ -4402,8 +4387,7 @@
         ]
     },
     {
-        "term": "empuk",
-        "roman_numeral": "II",
+        "term": "empuk II",
         "origin": "Pr",
         "definitions": [
             {
@@ -4422,8 +4406,7 @@
         ]
     },
     {
-        "term": "empulur",
-        "roman_numeral": "I",
+        "term": "empulur I",
         "definitions": [
             {
                 "sense": "1",
@@ -4432,8 +4415,7 @@
         ]
     },
     {
-        "term": "empulur",
-        "roman_numeral": "II",
+        "term": "empulur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4695,8 +4677,7 @@
         ]
     },
     {
-        "term": "enap",
-        "roman_numeral": "I",
+        "term": "enap I",
         "definitions": [
             {
                 "sense": "1",
@@ -4751,8 +4732,7 @@
         ]
     },
     {
-        "term": "enap",
-        "roman_numeral": "II",
+        "term": "enap II",
         "origin": "Mn",
         "definitions": [
             {
@@ -4782,7 +4762,7 @@
         ]
     },
     {
-        "term": "enca",
+        "term": "enca;",
         "definitions": [
             {
                 "sense": "1",
@@ -4791,8 +4771,7 @@
         ]
     },
     {
-        "term": "encal",
-        "roman_numeral": "I",
+        "term": "encal I; encal-encal",
         "definitions": [
             {
                 "sense": "1",
@@ -4801,18 +4780,17 @@
         ]
     },
     {
-        "term": "encal",
-        "roman_numeral": "II",
+        "term": "encal II; encal-encal",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl jangan tidak sahaja, tidak sungguh-sungguh atau  hati-hati (berbuat sesuatu dll)."
+                "definition": "jangan tidak sahaja, tidak sungguh-sungguh atau  hati-hati (berbuat sesuatu dll)."
             }
         ]
     },
     {
-        "term": "encang",
-        "roman_numeral": "I",
+        "term": "encang I",
         "definitions": [
             {
                 "sense": "1",
@@ -4821,8 +4799,7 @@
         ]
     },
     {
-        "term": "encang",
-        "roman_numeral": "II",
+        "term": "encang II; mengencang",
         "definitions": [
             {
                 "sense": "1",
@@ -4954,7 +4931,7 @@
         ]
     },
     {
-        "term": "enda",
+        "term": "enda;",
         "definitions": [
             {
                 "sense": "1",
@@ -5049,7 +5026,7 @@
         ]
     },
     {
-        "term": "endap",
+        "term": "endap; endap-endap, endapan",
         "definitions": [
             {
                 "sense": "1",
@@ -5258,7 +5235,7 @@
         ]
     },
     {
-        "term": "endong",
+        "term": "endong; mengendong",
         "definitions": [
             {
                 "sense": "1",
@@ -5406,8 +5383,7 @@
         ]
     },
     {
-        "term": "endut",
-        "roman_numeral": "I",
+        "term": "endut I",
         "definitions": [
             {
                 "sense": "1",
@@ -5431,8 +5407,7 @@
         ]
     },
     {
-        "term": "endut",
-        "roman_numeral": "II",
+        "term": "endut II; endut-endutan",
         "origin": "Id",
         "definitions": [
             {
@@ -5548,8 +5523,7 @@
         ]
     },
     {
-        "term": "enggak",
-        "roman_numeral": "I",
+        "term": "enggak I",
         "origin": "Jk",
         "definitions": [
             {
@@ -5559,8 +5533,7 @@
         ]
     },
     {
-        "term": "enggak",
-        "roman_numeral": "II",
+        "term": "enggak II",
         "definitions": [
             {
                 "sense": "1",
@@ -5607,8 +5580,7 @@
         ]
     },
     {
-        "term": "enggang",
-        "roman_numeral": "I",
+        "term": "enggang I",
         "definitions": [
             {
                 "sense": "1",
@@ -5617,8 +5589,7 @@
         ]
     },
     {
-        "term": "enggang",
-        "roman_numeral": "II",
+        "term": "enggang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5672,8 +5643,7 @@
         ]
     },
     {
-        "term": "engkah",
-        "roman_numeral": "I",
+        "term": "engkah I",
         "origin": "C",
         "definitions": [
             {
@@ -5706,7 +5676,7 @@
         ]
     },
     {
-        "term": "engkap",
+        "term": "engkap; engkap-engkip, terengkap-engkip",
         "definitions": [
             {
                 "sense": "1",
@@ -5753,7 +5723,7 @@
         ]
     },
     {
-        "term": "engkil",
+        "term": "engkil; terengkil",
         "definitions": [
             {
                 "sense": "1",
@@ -5762,7 +5732,7 @@
         ]
     },
     {
-        "term": "engkip",
+        "term": "engkip;",
         "definitions": [
             {
                 "sense": "1",
@@ -5957,8 +5927,7 @@
         ]
     },
     {
-        "term": "enjak",
-        "roman_numeral": "I",
+        "term": "enjak I; mengenjak",
         "definitions": [
             {
                 "sense": "1",
@@ -5978,8 +5947,7 @@
         ]
     },
     {
-        "term": "enjak",
-        "roman_numeral": "II",
+        "term": "enjak II",
         "definitions": [
             {
                 "sense": "1",
@@ -6042,7 +6010,7 @@
         ]
     },
     {
-        "term": "enjut",
+        "term": "enjut; enjut-enjut;",
         "definitions": [
             {
                 "sense": "1",
@@ -6246,8 +6214,7 @@
         ]
     },
     {
-        "term": "entang",
-        "roman_numeral": "I",
+        "term": "entang I",
         "origin": "Pr",
         "definitions": [
             {
@@ -6257,8 +6224,7 @@
         ]
     },
     {
-        "term": "entang",
-        "roman_numeral": "II",
+        "term": "entang II",
         "origin": "Pr",
         "definitions": [
             {
@@ -6268,8 +6234,7 @@
         ]
     },
     {
-        "term": "entang",
-        "roman_numeral": "III",
+        "term": "entang III",
         "definitions": [
             {
                 "sense": "1",
@@ -6439,7 +6404,7 @@
         ]
     },
     {
-        "term": "entomofili",
+        "term": "entomofili ",
         "definitions": [
             {
                 "sense": "1",
@@ -6569,7 +6534,7 @@
         ]
     },
     {
-        "term": "epak",
+        "term": "epak; mengepak",
         "origin": "Id",
         "definitions": [
             {
@@ -7302,7 +7267,7 @@
         ]
     },
     {
-        "term": "erik",
+        "term": "erik; mengerik",
         "definitions": [
             {
                 "sense": "1",
@@ -7811,7 +7776,7 @@
         ]
     },
     {
-        "term": "esprit",
+        "term": "esprit de corps",
         "definitions": [
             {
                 "sense": "1",
@@ -8352,7 +8317,7 @@
         ]
     },
     {
-        "term": "ex",
+        "term": "ex gratia",
         "definitions": [
             {
                 "sense": "1",
@@ -8361,7 +8326,7 @@
         ]
     },
     {
-        "term": "ex",
+        "term": "ex officio",
         "definitions": [
             {
                 "sense": "1",
@@ -8370,7 +8335,7 @@
         ]
     },
     {
-        "term": "ex",
+        "term": "ex parte",
         "definitions": [
             {
                 "sense": "1",

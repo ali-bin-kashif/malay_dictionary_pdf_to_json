@@ -9,8 +9,7 @@
         ]
     },
     {
-        "term": "qada",
-        "roman_numeral": "I",
+        "term": "qada I;",
         "definitions": [
             {
                 "sense": "1",
@@ -19,8 +18,7 @@
         ]
     },
     {
-        "term": "qada",
-        "roman_numeral": "II",
+        "term": "qada II",
         "origin": "Ar",
         "definitions": [
             {
@@ -61,8 +59,7 @@
         ]
     },
     {
-        "term": "qadim",
-        "roman_numeral": "I",
+        "term": "qadim I",
         "origin": "Ar",
         "definitions": [
             {
@@ -83,8 +80,7 @@
         ]
     },
     {
-        "term": "qadim",
-        "roman_numeral": "II",
+        "term": "qadim II",
         "origin": "Ar",
         "definitions": [
             {
@@ -220,7 +216,7 @@
         ]
     },
     {
-        "term": "qiraah",
+        "term": "qiraah, qiraat",
         "origin": "Ar",
         "definitions": [
             {

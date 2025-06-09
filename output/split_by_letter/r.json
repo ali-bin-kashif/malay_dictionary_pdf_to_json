@@ -1,7 +1,6 @@
 [
     {
-        "term": "r",
-        "roman_numeral": "I",
+        "term": "r I",
         "definitions": [
             {
                 "sense": "1",
@@ -10,8 +9,7 @@
         ]
     },
     {
-        "term": "R",
-        "roman_numeral": "II",
+        "term": "R II",
         "origin": "Id",
         "definitions": [
             {
@@ -71,8 +69,7 @@
         ]
     },
     {
-        "term": "raba",
-        "roman_numeral": "I",
+        "term": "raba I",
         "definitions": [
             {
                 "sense": "1",
@@ -144,8 +141,7 @@
         ]
     },
     {
-        "term": "raba",
-        "roman_numeral": "II",
+        "term": "raba II",
         "origin": "Mn",
         "definitions": [
             {
@@ -166,8 +162,7 @@
         ]
     },
     {
-        "term": "raba",
-        "roman_numeral": "III",
+        "term": "raba III;",
         "definitions": [
             {
                 "sense": "1",
@@ -176,8 +171,7 @@
         ]
     },
     {
-        "term": "raba",
-        "roman_numeral": "IV",
+        "term": "raba IV",
         "origin": "Kd",
         "definitions": [
             {
@@ -196,8 +190,7 @@
         ]
     },
     {
-        "term": "rabah",
-        "roman_numeral": "I",
+        "term": "rabah I",
         "definitions": [
             {
                 "sense": "1",
@@ -206,8 +199,7 @@
         ]
     },
     {
-        "term": "rabah",
-        "roman_numeral": "II",
+        "term": "rabah II",
         "origin": "Br",
         "definitions": [
             {
@@ -237,7 +229,7 @@
         ]
     },
     {
-        "term": "raban",
+        "term": "raban;",
         "definitions": [
             {
                 "sense": "1",
@@ -261,7 +253,7 @@
         ]
     },
     {
-        "term": "raba-raba",
+        "term": "raba-raba;",
         "definitions": [
             {
                 "sense": "1",
@@ -445,8 +437,7 @@
         ]
     },
     {
-        "term": "rabu",
-        "roman_numeral": "I",
+        "term": "rabu I",
         "origin": "Mn",
         "definitions": [
             {
@@ -456,8 +447,7 @@
         ]
     },
     {
-        "term": "rabu",
-        "roman_numeral": "II",
+        "term": "rabu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -466,8 +456,7 @@
         ]
     },
     {
-        "term": "Rabu",
-        "roman_numeral": "III",
+        "term": "Rabu III",
         "definitions": [
             {
                 "sense": "1",
@@ -502,8 +491,7 @@
         ]
     },
     {
-        "term": "rabuk",
-        "roman_numeral": "II",
+        "term": "rabuk II",
         "origin": "Jw",
         "definitions": [
             {
@@ -524,8 +512,7 @@
         ]
     },
     {
-        "term": "rabun",
-        "roman_numeral": "I",
+        "term": "rabun I",
         "definitions": [
             {
                 "sense": "1",
@@ -563,8 +550,7 @@
         ]
     },
     {
-        "term": "rabun",
-        "roman_numeral": "II",
+        "term": "rabun II",
         "definitions": [
             {
                 "sense": "1",
@@ -648,8 +634,7 @@
         ]
     },
     {
-        "term": "rabut",
-        "roman_numeral": "I",
+        "term": "rabut I",
         "definitions": [
             {
                 "sense": "1",
@@ -669,8 +654,7 @@
         ]
     },
     {
-        "term": "rabut",
-        "roman_numeral": "II",
+        "term": "rabut II; berabut",
         "origin": "Br",
         "definitions": [
             {
@@ -680,7 +664,7 @@
         ]
     },
     {
-        "term": "racak",
+        "term": "racak Mn",
         "definitions": [
             {
                 "sense": "1",
@@ -689,8 +673,7 @@
         ]
     },
     {
-        "term": "racau",
-        "roman_numeral": "I",
+        "term": "racau I; meracau, meracau-racau",
         "definitions": [
             {
                 "sense": "1",
@@ -710,8 +693,7 @@
         ]
     },
     {
-        "term": "racau",
-        "roman_numeral": "II",
+        "term": "racau II",
         "origin": "Mn",
         "definitions": [
             {
@@ -721,8 +703,7 @@
         ]
     },
     {
-        "term": "racik",
-        "roman_numeral": "I",
+        "term": "racik I",
         "definitions": [
             {
                 "sense": "1",
@@ -751,8 +732,7 @@
         ]
     },
     {
-        "term": "racik",
-        "roman_numeral": "II",
+        "term": "racik II; meracik",
         "definitions": [
             {
                 "sense": "1",
@@ -876,7 +856,7 @@
         ]
     },
     {
-        "term": "racut",
+        "term": "racut; peracut",
         "definitions": [
             {
                 "sense": "1",
@@ -904,8 +884,7 @@
         ]
     },
     {
-        "term": "radai",
-        "roman_numeral": "I",
+        "term": "radai I",
         "origin": "Mn",
         "definitions": [
             {
@@ -929,8 +908,7 @@
         ]
     },
     {
-        "term": "radak",
-        "roman_numeral": "I",
+        "term": "radak I; beradak",
         "definitions": [
             {
                 "sense": "1",
@@ -1500,7 +1478,7 @@
         ]
     },
     {
-        "term": "radung",
+        "term": "radung; meradung",
         "definitions": [
             {
                 "sense": "1",
@@ -1520,7 +1498,7 @@
         ]
     },
     {
-        "term": "radup",
+        "term": "radup;",
         "definitions": [
             {
                 "sense": "1",
@@ -1573,8 +1551,7 @@
         ]
     },
     {
-        "term": "rafik",
-        "roman_numeral": "I",
+        "term": "rafik I",
         "origin": "Ar",
         "definitions": [
             {
@@ -1584,8 +1561,7 @@
         ]
     },
     {
-        "term": "rafik",
-        "roman_numeral": "II",
+        "term": "rafik II",
         "origin": "Ar",
         "definitions": [
             {
@@ -1619,8 +1595,7 @@
         ]
     },
     {
-        "term": "raga",
-        "roman_numeral": "II",
+        "term": "raga II",
         "origin": "Jw",
         "definitions": [
             {
@@ -1630,12 +1605,12 @@
         ]
     },
     {
-        "term": "raga",
-        "roman_numeral": "III",
+        "term": "raga III; raga-raga",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl,  beraga, meraga  memperlihat-lihatkan  (menunjukkan) diri, berlagak, sombong, menyombongkan dirinya:  akan kita ~ dgn bermain;"
+                "definition": ",  beraga, meraga  memperlihat-lihatkan  (menunjukkan) diri, berlagak, sombong, menyombongkan dirinya:  akan kita ~ dgn bermain;"
             }
         ],
         "sub_terms": [
@@ -1677,8 +1652,7 @@
         ]
     },
     {
-        "term": "ragah",
-        "roman_numeral": "I",
+        "term": "ragah I; beragah-agah",
         "definitions": [
             {
                 "sense": "1",
@@ -1687,8 +1661,7 @@
         ]
     },
     {
-        "term": "ragah",
-        "roman_numeral": "II",
+        "term": "ragah II",
         "origin": "Pr",
         "definitions": [
             {
@@ -1809,8 +1782,7 @@
         ]
     },
     {
-        "term": "ragam",
-        "roman_numeral": "II",
+        "term": "ragam II",
         "origin": "Jw",
         "definitions": [
             {
@@ -1863,8 +1835,7 @@
         ]
     },
     {
-        "term": "ragang",
-        "roman_numeral": "II",
+        "term": "ragang II; ragangan",
         "origin": "Jk",
         "definitions": [
             {
@@ -1975,8 +1946,7 @@
         ]
     },
     {
-        "term": "ragi",
-        "roman_numeral": "II",
+        "term": "ragi II",
         "definitions": [
             {
                 "sense": "1",
@@ -2020,10 +1990,11 @@
     },
     {
         "term": "ragin",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tumbuhan (pokok memanjat),  Microglossa volubilis."
+                "definition": "tumbuhan (pokok memanjat),  Microglossa volubilis."
             }
         ]
     },
@@ -2037,7 +2008,7 @@
         ]
     },
     {
-        "term": "ragu",
+        "term": "ragu;",
         "definitions": [
             {
                 "sense": "1",
@@ -2168,8 +2139,7 @@
         ]
     },
     {
-        "term": "rahak",
-        "roman_numeral": "I",
+        "term": "rahak I",
         "origin": "Mn",
         "definitions": [
             {
@@ -2179,8 +2149,7 @@
         ]
     },
     {
-        "term": "rahak",
-        "roman_numeral": "II",
+        "term": "rahak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -2190,8 +2159,7 @@
         ]
     },
     {
-        "term": "rahak",
-        "roman_numeral": "III",
+        "term": "rahak III",
         "origin": "Sl",
         "definitions": [
             {
@@ -2210,8 +2178,7 @@
         ]
     },
     {
-        "term": "rahang",
-        "roman_numeral": "I",
+        "term": "rahang I",
         "definitions": [
             {
                 "sense": "1",
@@ -2220,8 +2187,7 @@
         ]
     },
     {
-        "term": "rahang",
-        "roman_numeral": "II",
+        "term": "rahang II",
         "definitions": [
             {
                 "sense": "1",
@@ -2230,8 +2196,7 @@
         ]
     },
     {
-        "term": "rahap",
-        "roman_numeral": "I",
+        "term": "rahap I;",
         "definitions": [
             {
                 "sense": "1",
@@ -2297,8 +2262,7 @@
         ]
     },
     {
-        "term": "rahat",
-        "roman_numeral": "I",
+        "term": "rahat I",
         "definitions": [
             {
                 "sense": "1",
@@ -2307,8 +2271,7 @@
         ]
     },
     {
-        "term": "rahat",
-        "roman_numeral": "II",
+        "term": "rahat II",
         "definitions": [
             {
                 "sense": "1",
@@ -2317,8 +2280,7 @@
         ]
     },
     {
-        "term": "rahat",
-        "roman_numeral": "III",
+        "term": "rahat III",
         "origin": "Ar",
         "definitions": [
             {
@@ -2381,8 +2343,7 @@
         ]
     },
     {
-        "term": "rahim",
-        "roman_numeral": "II",
+        "term": "rahim II",
         "origin": "Ar",
         "definitions": [
             {
@@ -2402,7 +2363,7 @@
         ]
     },
     {
-        "term": "rahman",
+        "term": "rahman, rahmani",
         "origin": "Ar",
         "definitions": [
             {
@@ -2549,8 +2510,7 @@
         ]
     },
     {
-        "term": "rai",
-        "roman_numeral": "I",
+        "term": "rai I",
         "definitions": [
             {
                 "sense": "1",
@@ -2559,8 +2519,7 @@
         ]
     },
     {
-        "term": "rai",
-        "roman_numeral": "II",
+        "term": "rai II",
         "definitions": [
             {
                 "sense": "1",
@@ -2669,7 +2628,7 @@
         ]
     },
     {
-        "term": "rais",
+        "term": "rais; merais",
         "definitions": [
             {
                 "sense": "1",
@@ -2834,8 +2793,7 @@
         ]
     },
     {
-        "term": "raja",
-        "roman_numeral": "II",
+        "term": "raja II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2844,8 +2802,7 @@
         ]
     },
     {
-        "term": "raja",
-        "roman_numeral": "III",
+        "term": "raja III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2903,8 +2860,7 @@
         ]
     },
     {
-        "term": "rajah",
-        "roman_numeral": "II",
+        "term": "rajah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2971,7 +2927,7 @@
         ]
     },
     {
-        "term": "rajastali",
+        "term": "rajastali;",
         "definitions": [
             {
                 "sense": "1",
@@ -3207,8 +3163,7 @@
         ]
     },
     {
-        "term": "rak",
-        "roman_numeral": "II",
+        "term": "rak II",
         "definitions": [
             {
                 "sense": "1",
@@ -3217,8 +3172,7 @@
         ]
     },
     {
-        "term": "rak",
-        "roman_numeral": "III",
+        "term": "rak III",
         "origin": "Kl",
         "definitions": [
             {
@@ -3228,8 +3182,7 @@
         ]
     },
     {
-        "term": "rak",
-        "roman_numeral": "IV",
+        "term": "rak IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -3258,7 +3211,7 @@
         ]
     },
     {
-        "term": "rakah",
+        "term": "rakah; merakah",
         "definitions": [
             {
                 "sense": "1",
@@ -3456,8 +3409,7 @@
         ]
     },
     {
-        "term": "rakap",
-        "roman_numeral": "II",
+        "term": "rakap II",
         "definitions": [
             {
                 "sense": "1",
@@ -3467,10 +3419,11 @@
     },
     {
         "term": "rakat",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj pertunjukan tari-menari dgn lawak jenaka (dgn memakai  topeng);"
+                "definition": "sj pertunjukan tari-menari dgn lawak jenaka (dgn memakai  topeng);"
             }
         ],
         "sub_terms": [
@@ -3505,8 +3458,7 @@
         ]
     },
     {
-        "term": "rakit",
-        "roman_numeral": "I",
+        "term": "rakit I",
         "definitions": [
             {
                 "sense": "1",
@@ -3561,8 +3513,7 @@
         ]
     },
     {
-        "term": "rakit",
-        "roman_numeral": "II",
+        "term": "rakit II",
         "origin": "Jw",
         "definitions": [
             {
@@ -3572,8 +3523,7 @@
         ]
     },
     {
-        "term": "rakit",
-        "roman_numeral": "III",
+        "term": "rakit III;",
         "definitions": [
             {
                 "sense": "1",
@@ -3676,8 +3626,7 @@
         ]
     },
     {
-        "term": "raksi",
-        "roman_numeral": "II",
+        "term": "raksi II",
         "definitions": [
             {
                 "sense": "1",
@@ -3725,8 +3674,7 @@
         ]
     },
     {
-        "term": "rakung",
-        "roman_numeral": "I",
+        "term": "rakung I",
         "origin": "Kl",
         "definitions": [
             {
@@ -3736,8 +3684,7 @@
         ]
     },
     {
-        "term": "rakung",
-        "roman_numeral": "II",
+        "term": "rakung II; rakungan",
         "origin": "Mn",
         "definitions": [
             {
@@ -3872,8 +3819,7 @@
         ]
     },
     {
-        "term": "ralat",
-        "roman_numeral": "II",
+        "term": "ralat II",
         "definitions": [
             {
                 "sense": "1",
@@ -3950,8 +3896,7 @@
         ]
     },
     {
-        "term": "ram",
-        "roman_numeral": "I",
+        "term": "ram I",
         "definitions": [
             {
                 "sense": "1",
@@ -3974,8 +3919,7 @@
         ]
     },
     {
-        "term": "ram",
-        "roman_numeral": "III",
+        "term": "ram III",
         "definitions": [
             {
                 "sense": "1",
@@ -3984,8 +3928,7 @@
         ]
     },
     {
-        "term": "ram",
-        "roman_numeral": "IV",
+        "term": "ram IV",
         "definitions": [
             {
                 "sense": "1",
@@ -4027,7 +3970,7 @@
         ]
     },
     {
-        "term": "Ramadan",
+        "term": "Ramadan al-Mubarak",
         "origin": "Ar",
         "definitions": [
             {
@@ -4318,8 +4261,7 @@
         ]
     },
     {
-        "term": "ramal",
-        "roman_numeral": "II",
+        "term": "ramal II",
         "definitions": [
             {
                 "sense": "1",
@@ -4388,8 +4330,7 @@
         ]
     },
     {
-        "term": "ramas",
-        "roman_numeral": "II",
+        "term": "ramas II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4435,7 +4376,7 @@
         ]
     },
     {
-        "term": "rambahan",
+        "term": "rambahan;",
         "definitions": [
             {
                 "sense": "1",
@@ -4444,8 +4385,7 @@
         ]
     },
     {
-        "term": "rambai",
-        "roman_numeral": "I",
+        "term": "rambai I",
         "definitions": [
             {
                 "sense": "1",
@@ -4478,8 +4418,7 @@
         ]
     },
     {
-        "term": "rambai",
-        "roman_numeral": "III",
+        "term": "rambai III",
         "definitions": [
             {
                 "sense": "1",
@@ -4516,8 +4455,7 @@
         ]
     },
     {
-        "term": "rambak",
-        "roman_numeral": "II",
+        "term": "rambak II",
         "origin": "Jw",
         "definitions": [
             {
@@ -4527,8 +4465,7 @@
         ]
     },
     {
-        "term": "rambak",
-        "roman_numeral": "III",
+        "term": "rambak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -4537,7 +4474,7 @@
         ]
     },
     {
-        "term": "ramban",
+        "term": "ramban, rambanan",
         "origin": "Jk",
         "definitions": [
             {
@@ -4653,8 +4590,7 @@
         ]
     },
     {
-        "term": "rambat",
-        "roman_numeral": "II",
+        "term": "rambat II",
         "definitions": [
             {
                 "sense": "1",
@@ -4687,7 +4623,7 @@
         ]
     },
     {
-        "term": "rambih",
+        "term": "rambih; berambih, merambih",
         "definitions": [
             {
                 "sense": "1",
@@ -4696,8 +4632,7 @@
         ]
     },
     {
-        "term": "rambu",
-        "roman_numeral": "I",
+        "term": "rambu I",
         "definitions": [
             {
                 "sense": "1",
@@ -4721,8 +4656,7 @@
         ]
     },
     {
-        "term": "rambu",
-        "roman_numeral": "II",
+        "term": "rambu II",
         "definitions": [
             {
                 "sense": "1",
@@ -4731,8 +4665,7 @@
         ]
     },
     {
-        "term": "rambu",
-        "roman_numeral": "III",
+        "term": "rambu III;",
         "definitions": [
             {
                 "sense": "1",
@@ -4761,8 +4694,7 @@
         ]
     },
     {
-        "term": "rambung",
-        "roman_numeral": "I",
+        "term": "rambung I",
         "definitions": [
             {
                 "sense": "1",
@@ -4771,8 +4703,7 @@
         ]
     },
     {
-        "term": "rambung",
-        "roman_numeral": "II",
+        "term": "rambung II",
         "definitions": [
             {
                 "sense": "1",
@@ -4782,10 +4713,11 @@
     },
     {
         "term": "rambuni",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj kayu."
+                "definition": "sj kayu."
             }
         ]
     },
@@ -4850,8 +4782,7 @@
         ]
     },
     {
-        "term": "rambut",
-        "roman_numeral": "II",
+        "term": "rambut II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4887,8 +4818,7 @@
         ]
     },
     {
-        "term": "ramin",
-        "roman_numeral": "I",
+        "term": "ramin I",
         "definitions": [
             {
                 "sense": "1",
@@ -4908,8 +4838,7 @@
         ]
     },
     {
-        "term": "ramin",
-        "roman_numeral": "II",
+        "term": "ramin II",
         "definitions": [
             {
                 "sense": "1",
@@ -5000,8 +4929,7 @@
         ]
     },
     {
-        "term": "rampak",
-        "roman_numeral": "II",
+        "term": "rampak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -5051,7 +4979,7 @@
         ]
     },
     {
-        "term": "rampas",
+        "term": "rampas; berampas-rampasan",
         "definitions": [
             {
                 "sense": "1",
@@ -5152,8 +5080,7 @@
         ]
     },
     {
-        "term": "ramping",
-        "roman_numeral": "II",
+        "term": "ramping II; meramping",
         "definitions": [
             {
                 "sense": "1",
@@ -5292,7 +5219,7 @@
         ]
     },
     {
-        "term": "ramu",
+        "term": "ramu; meramu",
         "definitions": [
             {
                 "sense": "1",
@@ -5377,8 +5304,7 @@
         ]
     },
     {
-        "term": "rana",
-        "roman_numeral": "III",
+        "term": "rana III",
         "definitions": [
             {
                 "sense": "1",
@@ -5404,8 +5330,7 @@
         ]
     },
     {
-        "term": "ranah",
-        "roman_numeral": "II",
+        "term": "ranah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5472,8 +5397,7 @@
         ]
     },
     {
-        "term": "ranap",
-        "roman_numeral": "II",
+        "term": "ranap II",
         "origin": "Mn",
         "definitions": [
             {
@@ -5556,8 +5480,7 @@
         ]
     },
     {
-        "term": "rancak",
-        "roman_numeral": "II",
+        "term": "rancak II",
         "origin": "Jw",
         "definitions": [
             {
@@ -5567,8 +5490,7 @@
         ]
     },
     {
-        "term": "rancak",
-        "roman_numeral": "III",
+        "term": "rancak III",
         "origin": "Jw",
         "definitions": [
             {
@@ -5589,8 +5511,7 @@
         ]
     },
     {
-        "term": "rancang",
-        "roman_numeral": "I",
+        "term": "rancang I",
         "definitions": [
             {
                 "sense": "1",
@@ -5686,8 +5607,7 @@
         ]
     },
     {
-        "term": "rancang",
-        "roman_numeral": "III",
+        "term": "rancang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -5696,7 +5616,7 @@
         ]
     },
     {
-        "term": "rancang",
+        "term": "rancang usaha",
         "definitions": [
             {
                 "sense": "1",
@@ -5705,8 +5625,7 @@
         ]
     },
     {
-        "term": "rancap",
-        "roman_numeral": "I",
+        "term": "rancap I",
         "origin": "Id",
         "definitions": [
             {
@@ -5727,8 +5646,7 @@
         ]
     },
     {
-        "term": "rancap",
-        "roman_numeral": "II",
+        "term": "rancap II",
         "origin": "Jw",
         "definitions": [
             {
@@ -5800,8 +5718,7 @@
         ]
     },
     {
-        "term": "randa",
-        "roman_numeral": "I",
+        "term": "randa I",
         "definitions": [
             {
                 "sense": "1",
@@ -5821,8 +5738,7 @@
         ]
     },
     {
-        "term": "randa",
-        "roman_numeral": "II",
+        "term": "randa II",
         "definitions": [
             {
                 "sense": "1",
@@ -5831,7 +5747,7 @@
         ]
     },
     {
-        "term": "randah",
+        "term": "randah;",
         "definitions": [
             {
                 "sense": "1",
@@ -5840,8 +5756,7 @@
         ]
     },
     {
-        "term": "randai",
-        "roman_numeral": "I",
+        "term": "randai I; merandai",
         "definitions": [
             {
                 "sense": "1",
@@ -5850,8 +5765,7 @@
         ]
     },
     {
-        "term": "randai",
-        "roman_numeral": "II",
+        "term": "randai II",
         "origin": "Mn",
         "definitions": [
             {
@@ -5881,8 +5795,7 @@
         ]
     },
     {
-        "term": "randau",
-        "roman_numeral": "I",
+        "term": "randau I; merandau",
         "definitions": [
             {
                 "sense": "1",
@@ -5902,8 +5815,7 @@
         ]
     },
     {
-        "term": "randau",
-        "roman_numeral": "II",
+        "term": "randau II",
         "definitions": [
             {
                 "sense": "1",
@@ -5933,7 +5845,7 @@
         ]
     },
     {
-        "term": "randi",
+        "term": "randi;",
         "definitions": [
             {
                 "sense": "1",
@@ -5942,7 +5854,7 @@
         ]
     },
     {
-        "term": "randih",
+        "term": "randih;",
         "definitions": [
             {
                 "sense": "1",
@@ -5951,8 +5863,7 @@
         ]
     },
     {
-        "term": "randu",
-        "roman_numeral": "I",
+        "term": "randu I",
         "definitions": [
             {
                 "sense": "1",
@@ -5961,8 +5872,7 @@
         ]
     },
     {
-        "term": "randu",
-        "roman_numeral": "II",
+        "term": "randu II; merandukan",
         "definitions": [
             {
                 "sense": "1",
@@ -5971,8 +5881,7 @@
         ]
     },
     {
-        "term": "randuk",
-        "roman_numeral": "I",
+        "term": "randuk I; meranduk",
         "definitions": [
             {
                 "sense": "1",
@@ -5981,8 +5890,7 @@
         ]
     },
     {
-        "term": "randuk",
-        "roman_numeral": "II",
+        "term": "randuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6024,8 +5932,7 @@
         ]
     },
     {
-        "term": "rang",
-        "roman_numeral": "I",
+        "term": "rang I",
         "definitions": [
             {
                 "sense": "1",
@@ -6034,8 +5941,7 @@
         ]
     },
     {
-        "term": "rang",
-        "roman_numeral": "II",
+        "term": "rang II",
         "definitions": [
             {
                 "sense": "1",
@@ -6044,8 +5950,7 @@
         ]
     },
     {
-        "term": "rang",
-        "roman_numeral": "III",
+        "term": "rang III",
         "origin": "IB",
         "definitions": [
             {
@@ -6055,8 +5960,7 @@
         ]
     },
     {
-        "term": "rang",
-        "roman_numeral": "IV",
+        "term": "rang IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -6066,8 +5970,7 @@
         ]
     },
     {
-        "term": "rang",
-        "roman_numeral": "V",
+        "term": "rang V;",
         "definitions": [
             {
                 "sense": "1",
@@ -6099,7 +6002,7 @@
         ]
     },
     {
-        "term": "rangai",
+        "term": "rangai; merangai",
         "definitions": [
             {
                 "sense": "1",
@@ -6108,8 +6011,7 @@
         ]
     },
     {
-        "term": "rangak",
-        "roman_numeral": "I",
+        "term": "rangak I;",
         "definitions": [
             {
                 "sense": "1",
@@ -6118,8 +6020,7 @@
         ]
     },
     {
-        "term": "rangak",
-        "roman_numeral": "II",
+        "term": "rangak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -6168,8 +6069,7 @@
         ]
     },
     {
-        "term": "rangga",
-        "roman_numeral": "I",
+        "term": "rangga I;",
         "definitions": [
             {
                 "sense": "1",
@@ -6189,8 +6089,7 @@
         ]
     },
     {
-        "term": "rangga",
-        "roman_numeral": "II",
+        "term": "rangga II",
         "origin": "Jw",
         "definitions": [
             {
@@ -6200,8 +6099,7 @@
         ]
     },
     {
-        "term": "ranggah",
-        "roman_numeral": "I",
+        "term": "ranggah I; meranggah",
         "definitions": [
             {
                 "sense": "1",
@@ -6210,8 +6108,7 @@
         ]
     },
     {
-        "term": "ranggah",
-        "roman_numeral": "II",
+        "term": "ranggah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -6234,8 +6131,7 @@
         ]
     },
     {
-        "term": "ranggak",
-        "roman_numeral": "I",
+        "term": "ranggak I; meranggakkan",
         "definitions": [
             {
                 "sense": "1",
@@ -6244,8 +6140,7 @@
         ]
     },
     {
-        "term": "ranggak",
-        "roman_numeral": "II",
+        "term": "ranggak II",
         "origin": "Tr",
         "definitions": [
             {
@@ -6352,8 +6247,7 @@
         ]
     },
     {
-        "term": "ranggi",
-        "roman_numeral": "II",
+        "term": "ranggi II",
         "definitions": [
             {
                 "sense": "1",
@@ -6382,7 +6276,7 @@
         ]
     },
     {
-        "term": "ranggoi",
+        "term": "ranggoi; meranggoi",
         "definitions": [
             {
                 "sense": "1",
@@ -6391,8 +6285,7 @@
         ]
     },
     {
-        "term": "ranggu",
-        "roman_numeral": "I",
+        "term": "ranggu I; meranggu",
         "definitions": [
             {
                 "sense": "1",
@@ -6419,8 +6312,7 @@
         ]
     },
     {
-        "term": "ranggung",
-        "roman_numeral": "I",
+        "term": "ranggung I",
         "definitions": [
             {
                 "sense": "1",
@@ -6453,8 +6345,7 @@
         ]
     },
     {
-        "term": "ranggung",
-        "roman_numeral": "II",
+        "term": "ranggung II",
         "definitions": [
             {
                 "sense": "1",
@@ -6463,8 +6354,7 @@
         ]
     },
     {
-        "term": "ranggung",
-        "roman_numeral": "III",
+        "term": "ranggung III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6552,8 +6442,7 @@
         ]
     },
     {
-        "term": "rangka",
-        "roman_numeral": "II",
+        "term": "rangka II",
         "definitions": [
             {
                 "sense": "1",
@@ -6890,7 +6779,7 @@
         ]
     },
     {
-        "term": "rangkit",
+        "term": "rangkit; merangkit",
         "definitions": [
             {
                 "sense": "1",
@@ -6942,8 +6831,7 @@
         ]
     },
     {
-        "term": "rangkum",
-        "roman_numeral": "I",
+        "term": "rangkum I; serangkum",
         "definitions": [
             {
                 "sense": "1",
@@ -7023,8 +6911,7 @@
         ]
     },
     {
-        "term": "rangkum",
-        "roman_numeral": "II",
+        "term": "rangkum II",
         "definitions": [
             {
                 "sense": "1",
@@ -7057,8 +6944,7 @@
         ]
     },
     {
-        "term": "rangkung",
-        "roman_numeral": "I",
+        "term": "rangkung I; merangkung",
         "definitions": [
             {
                 "sense": "1",
@@ -7067,8 +6953,7 @@
         ]
     },
     {
-        "term": "rangkung",
-        "roman_numeral": "II",
+        "term": "rangkung II; rangkungan",
         "definitions": [
             {
                 "sense": "1",
@@ -7077,8 +6962,7 @@
         ]
     },
     {
-        "term": "rangkup",
-        "roman_numeral": "I",
+        "term": "rangkup I",
         "definitions": [
             {
                 "sense": "1",
@@ -7140,8 +7024,7 @@
         ]
     },
     {
-        "term": "rangrang",
-        "roman_numeral": "I",
+        "term": "rangrang I",
         "origin": "Jw",
         "definitions": [
             {
@@ -7151,8 +7034,7 @@
         ]
     },
     {
-        "term": "rangrang",
-        "roman_numeral": "II",
+        "term": "rangrang II",
         "definitions": [
             {
                 "sense": "1",
@@ -7347,7 +7229,7 @@
         ]
     },
     {
-        "term": "rangu",
+        "term": "rangu;",
         "definitions": [
             {
                 "sense": "1",
@@ -7398,8 +7280,7 @@
         ]
     },
     {
-        "term": "rani",
-        "roman_numeral": "I",
+        "term": "rani I",
         "definitions": [
             {
                 "sense": "1",
@@ -7408,8 +7289,7 @@
         ]
     },
     {
-        "term": "rani",
-        "roman_numeral": "II",
+        "term": "rani II",
         "definitions": [
             {
                 "sense": "1",
@@ -7418,8 +7298,7 @@
         ]
     },
     {
-        "term": "rani",
-        "roman_numeral": "III",
+        "term": "rani III",
         "definitions": [
             {
                 "sense": "1",
@@ -7623,7 +7502,7 @@
         ]
     },
     {
-        "term": "rantam",
+        "term": "rantam; berantam",
         "definitions": [
             {
                 "sense": "1",
@@ -7742,8 +7621,7 @@
         ]
     },
     {
-        "term": "rantau",
-        "roman_numeral": "II",
+        "term": "rantau II",
         "origin": "Br",
         "definitions": [
             {
@@ -7807,7 +7685,7 @@
         ]
     },
     {
-        "term": "rantuk",
+        "term": "rantuk; merantuk",
         "definitions": [
             {
                 "sense": "1",
@@ -7836,8 +7714,7 @@
         ]
     },
     {
-        "term": "rantus",
-        "roman_numeral": "I",
+        "term": "rantus I",
         "definitions": [
             {
                 "sense": "1",
@@ -7846,8 +7723,7 @@
         ]
     },
     {
-        "term": "rantus",
-        "roman_numeral": "II",
+        "term": "rantus II",
         "origin": "Mn",
         "definitions": [
             {
@@ -7926,8 +7802,7 @@
         ]
     },
     {
-        "term": "ranyah",
-        "roman_numeral": "I",
+        "term": "ranyah I",
         "definitions": [
             {
                 "sense": "1",
@@ -7936,8 +7811,7 @@
         ]
     },
     {
-        "term": "ranyah",
-        "roman_numeral": "II",
+        "term": "ranyah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -7968,8 +7842,7 @@
         ]
     },
     {
-        "term": "ranyau",
-        "roman_numeral": "I",
+        "term": "ranyau I",
         "definitions": [
             {
                 "sense": "1",
@@ -7978,8 +7851,7 @@
         ]
     },
     {
-        "term": "ranyau",
-        "roman_numeral": "II",
+        "term": "ranyau II",
         "definitions": [
             {
                 "sense": "1",
@@ -8008,8 +7880,7 @@
         ]
     },
     {
-        "term": "rap",
-        "roman_numeral": "I",
+        "term": "rap I",
         "definitions": [
             {
                 "sense": "1",
@@ -8018,8 +7889,7 @@
         ]
     },
     {
-        "term": "rap",
-        "roman_numeral": "II",
+        "term": "rap II;",
         "definitions": [
             {
                 "sense": "1",
@@ -8042,8 +7912,7 @@
         ]
     },
     {
-        "term": "rap",
-        "roman_numeral": "IV",
+        "term": "rap IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -8109,7 +7978,7 @@
         ]
     },
     {
-        "term": "rapana",
+        "term": "rapana, rampana",
         "origin": "Br",
         "definitions": [
             {
@@ -8268,8 +8137,7 @@
         ]
     },
     {
-        "term": "rapat",
-        "roman_numeral": "II",
+        "term": "rapat II",
         "definitions": [
             {
                 "sense": "1",
@@ -8302,8 +8170,7 @@
         ]
     },
     {
-        "term": "rapat",
-        "roman_numeral": "III",
+        "term": "rapat III;",
         "definitions": [
             {
                 "sense": "1",
@@ -8411,8 +8278,7 @@
         ]
     },
     {
-        "term": "rapih",
-        "roman_numeral": "I",
+        "term": "rapih I",
         "definitions": [
             {
                 "sense": "1",
@@ -8421,8 +8287,7 @@
         ]
     },
     {
-        "term": "rapih",
-        "roman_numeral": "II",
+        "term": "rapih II",
         "origin": "Pr",
         "definitions": [
             {
@@ -8432,8 +8297,7 @@
         ]
     },
     {
-        "term": "rapik",
-        "roman_numeral": "I",
+        "term": "rapik I; merapik",
         "definitions": [
             {
                 "sense": "1",
@@ -8442,8 +8306,7 @@
         ]
     },
     {
-        "term": "rapik",
-        "roman_numeral": "II",
+        "term": "rapik II",
         "definitions": [
             {
                 "sense": "1",
@@ -8599,8 +8462,7 @@
         ]
     },
     {
-        "term": "rapun",
-        "roman_numeral": "I",
+        "term": "rapun I",
         "origin": "Mn",
         "definitions": [
             {
@@ -8621,8 +8483,7 @@
         ]
     },
     {
-        "term": "rapun",
-        "roman_numeral": "II",
+        "term": "rapun II",
         "origin": "Kd",
         "definitions": [
             {
@@ -8647,7 +8508,7 @@
         ]
     },
     {
-        "term": "rapung",
+        "term": "rapung; merapung",
         "definitions": [
             {
                 "sense": "1",
@@ -8667,8 +8528,7 @@
         ]
     },
     {
-        "term": "rapus",
-        "roman_numeral": "I",
+        "term": "rapus I; merapus",
         "definitions": [
             {
                 "sense": "1",
@@ -8677,8 +8537,7 @@
         ]
     },
     {
-        "term": "rapus",
-        "roman_numeral": "II",
+        "term": "rapus II; merapus",
         "definitions": [
             {
                 "sense": "1",
@@ -8715,7 +8574,7 @@
         ]
     },
     {
-        "term": "rarak",
+        "term": "rarak; berarakan",
         "definitions": [
             {
                 "sense": "1",
@@ -8745,8 +8604,7 @@
         ]
     },
     {
-        "term": "ras",
-        "roman_numeral": "I",
+        "term": "ras I",
         "definitions": [
             {
                 "sense": "1",
@@ -8755,8 +8613,7 @@
         ]
     },
     {
-        "term": "ras",
-        "roman_numeral": "II",
+        "term": "ras II;",
         "definitions": [
             {
                 "sense": "1",
@@ -8765,8 +8622,7 @@
         ]
     },
     {
-        "term": "ras",
-        "roman_numeral": "III",
+        "term": "ras III",
         "definitions": [
             {
                 "sense": "1",
@@ -9043,8 +8899,7 @@
         ]
     },
     {
-        "term": "rasam",
-        "roman_numeral": "I",
+        "term": "rasam I",
         "definitions": [
             {
                 "sense": "1",
@@ -9053,8 +8908,7 @@
         ]
     },
     {
-        "term": "rasam",
-        "roman_numeral": "II",
+        "term": "rasam II",
         "definitions": [
             {
                 "sense": "1",
@@ -9072,8 +8926,7 @@
         ]
     },
     {
-        "term": "rasan",
-        "roman_numeral": "I",
+        "term": "rasan I",
         "definitions": [
             {
                 "sense": "1",
@@ -9082,8 +8935,7 @@
         ]
     },
     {
-        "term": "rasan",
-        "roman_numeral": "II",
+        "term": "rasan II",
         "definitions": [
             {
                 "sense": "1",
@@ -9103,8 +8955,7 @@
         ]
     },
     {
-        "term": "rasan",
-        "roman_numeral": "III",
+        "term": "rasan III",
         "definitions": [
             {
                 "sense": "1",
@@ -9113,8 +8964,7 @@
         ]
     },
     {
-        "term": "rasan",
-        "roman_numeral": "IV",
+        "term": "rasan IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -9426,7 +9276,7 @@
         ]
     },
     {
-        "term": "rastali",
+        "term": "rastali;",
         "definitions": [
             {
                 "sense": "1",
@@ -9464,8 +9314,7 @@
         ]
     },
     {
-        "term": "rasuk",
-        "roman_numeral": "I",
+        "term": "rasuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -9474,8 +9323,7 @@
         ]
     },
     {
-        "term": "rasuk",
-        "roman_numeral": "II",
+        "term": "rasuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -9567,8 +9415,7 @@
         ]
     },
     {
-        "term": "rat",
-        "roman_numeral": "I",
+        "term": "rat I",
         "origin": "Jw",
         "definitions": [
             {
@@ -9578,8 +9425,7 @@
         ]
     },
     {
-        "term": "rat",
-        "roman_numeral": "II",
+        "term": "rat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -9732,12 +9578,12 @@
         ]
     },
     {
-        "term": "rata",
-        "roman_numeral": "II",
+        "term": "rata II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj kenderaan, kereta;  ~   terbang (melayang)  sl kereta yg dapat  terbang."
+                "definition": "sj kenderaan, kereta;  ~   terbang (melayang)  sl kereta yg dapat  terbang."
             }
         ]
     },
@@ -9792,8 +9638,7 @@
         ]
     },
     {
-        "term": "ratap",
-        "roman_numeral": "I",
+        "term": "ratap I",
         "definitions": [
             {
                 "sense": "1",
@@ -9822,8 +9667,7 @@
         ]
     },
     {
-        "term": "ratap",
-        "roman_numeral": "II",
+        "term": "ratap II; meratap",
         "definitions": [
             {
                 "sense": "1",
@@ -9832,8 +9676,7 @@
         ]
     },
     {
-        "term": "ratap",
-        "roman_numeral": "III",
+        "term": "ratap III",
         "origin": "Pr",
         "definitions": [
             {
@@ -9863,7 +9706,7 @@
         ]
     },
     {
-        "term": "rati",
+        "term": "rati; merati, meratikan",
         "definitions": [
             {
                 "sense": "1",
@@ -9976,8 +9819,7 @@
         ]
     },
     {
-        "term": "ratus",
-        "roman_numeral": "I",
+        "term": "ratus I",
         "definitions": [
             {
                 "sense": "1",
@@ -10071,8 +9913,7 @@
         ]
     },
     {
-        "term": "ratus",
-        "roman_numeral": "III",
+        "term": "ratus III",
         "origin": "Jw",
         "definitions": [
             {
@@ -10082,8 +9923,7 @@
         ]
     },
     {
-        "term": "ratus",
-        "roman_numeral": "IV",
+        "term": "ratus IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -10092,8 +9932,7 @@
         ]
     },
     {
-        "term": "rau",
-        "roman_numeral": "I",
+        "term": "rau I",
         "definitions": [
             {
                 "sense": "1",
@@ -10102,8 +9941,7 @@
         ]
     },
     {
-        "term": "rau",
-        "roman_numeral": "II",
+        "term": "rau II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10122,7 +9960,7 @@
         ]
     },
     {
-        "term": "raum",
+        "term": "raum; meraum",
         "definitions": [
             {
                 "sense": "1",
@@ -10206,7 +10044,7 @@
         ]
     },
     {
-        "term": "raup",
+        "term": "raup; seraup",
         "definitions": [
             {
                 "sense": "1",
@@ -10230,8 +10068,7 @@
         ]
     },
     {
-        "term": "raut",
-        "roman_numeral": "I",
+        "term": "raut I;",
         "definitions": [
             {
                 "sense": "1",
@@ -10260,8 +10097,7 @@
         ]
     },
     {
-        "term": "raut",
-        "roman_numeral": "II",
+        "term": "raut II",
         "definitions": [
             {
                 "sense": "1",
@@ -10270,8 +10106,7 @@
         ]
     },
     {
-        "term": "raut",
-        "roman_numeral": "III",
+        "term": "raut III;",
         "definitions": [
             {
                 "sense": "1",
@@ -10290,8 +10125,7 @@
         ]
     },
     {
-        "term": "rawa",
-        "roman_numeral": "I",
+        "term": "rawa I;",
         "definitions": [
             {
                 "sense": "1",
@@ -10300,8 +10134,7 @@
         ]
     },
     {
-        "term": "rawa",
-        "roman_numeral": "II",
+        "term": "rawa II",
         "definitions": [
             {
                 "sense": "1",
@@ -10321,8 +10154,7 @@
         ]
     },
     {
-        "term": "rawa",
-        "roman_numeral": "III",
+        "term": "rawa III;",
         "definitions": [
             {
                 "sense": "1",
@@ -10344,8 +10176,7 @@
         ]
     },
     {
-        "term": "rawa",
-        "roman_numeral": "V",
+        "term": "rawa V",
         "origin": "Kl",
         "definitions": [
             {
@@ -10355,8 +10186,7 @@
         ]
     },
     {
-        "term": "rawa",
-        "roman_numeral": "VI",
+        "term": "rawa VI",
         "origin": "Kl",
         "definitions": [
             {
@@ -10366,8 +10196,7 @@
         ]
     },
     {
-        "term": "rawah",
-        "roman_numeral": "I",
+        "term": "rawah I",
         "origin": "Mn",
         "definitions": [
             {
@@ -10377,8 +10206,7 @@
         ]
     },
     {
-        "term": "rawah",
-        "roman_numeral": "II",
+        "term": "rawah II",
         "definitions": [
             {
                 "sense": "1",
@@ -10387,8 +10215,7 @@
         ]
     },
     {
-        "term": "rawai",
-        "roman_numeral": "I",
+        "term": "rawai I",
         "definitions": [
             {
                 "sense": "1",
@@ -10408,8 +10235,7 @@
         ]
     },
     {
-        "term": "rawai",
-        "roman_numeral": "II",
+        "term": "rawai II",
         "definitions": [
             {
                 "sense": "1",
@@ -10457,8 +10283,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "I",
+        "term": "rawan I =",
         "definitions": [
             {
                 "sense": "1",
@@ -10514,8 +10339,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "II",
+        "term": "rawan II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10524,8 +10348,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "III",
+        "term": "rawan III",
         "definitions": [
             {
                 "sense": "1",
@@ -10534,8 +10357,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "IV",
+        "term": "rawan IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -10544,8 +10366,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "V",
+        "term": "rawan V",
         "definitions": [
             {
                 "sense": "1",
@@ -10554,8 +10375,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "VI",
+        "term": "rawan VI",
         "definitions": [
             {
                 "sense": "1",
@@ -10564,8 +10384,7 @@
         ]
     },
     {
-        "term": "rawan",
-        "roman_numeral": "VII",
+        "term": "rawan VII;",
         "definitions": [
             {
                 "sense": "1",
@@ -10574,8 +10393,7 @@
         ]
     },
     {
-        "term": "rawang",
-        "roman_numeral": "I",
+        "term": "rawang I",
         "definitions": [
             {
                 "sense": "1",
@@ -10584,8 +10402,7 @@
         ]
     },
     {
-        "term": "rawang",
-        "roman_numeral": "II",
+        "term": "rawang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -10595,8 +10412,7 @@
         ]
     },
     {
-        "term": "rawat",
-        "roman_numeral": "I",
+        "term": "rawat I;",
         "definitions": [
             {
                 "sense": "1",
@@ -10652,8 +10468,7 @@
         ]
     },
     {
-        "term": "rawat",
-        "roman_numeral": "II",
+        "term": "rawat II",
         "definitions": [
             {
                 "sense": "1",
@@ -10710,18 +10525,17 @@
         ]
     },
     {
-        "term": "rawi",
-        "roman_numeral": "II",
+        "term": "rawi II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl matahari."
+                "definition": "matahari."
             }
         ]
     },
     {
-        "term": "rawit",
-        "roman_numeral": "I",
+        "term": "rawit I;",
         "definitions": [
             {
                 "sense": "1",
@@ -10744,8 +10558,7 @@
         ]
     },
     {
-        "term": "rawit",
-        "roman_numeral": "III",
+        "term": "rawit III; merawit",
         "definitions": [
             {
                 "sense": "1",
@@ -10810,8 +10623,7 @@
         ]
     },
     {
-        "term": "raya",
-        "roman_numeral": "II",
+        "term": "raya II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10820,7 +10632,7 @@
         ]
     },
     {
-        "term": "rayah",
+        "term": "rayah; merayah",
         "definitions": [
             {
                 "sense": "1",
@@ -10854,7 +10666,7 @@
         ]
     },
     {
-        "term": "rayang",
+        "term": "rayang; merayang",
         "definitions": [
             {
                 "sense": "1",
@@ -11000,8 +10812,7 @@
         ]
     },
     {
-        "term": "rayu",
-        "roman_numeral": "II",
+        "term": "rayu II",
         "definitions": [
             {
                 "sense": "1",
@@ -11082,7 +10893,7 @@
         ]
     },
     {
-        "term": "rayu",
+        "term": "rayu undi; merayu",
         "definitions": [
             {
                 "sense": "1",
@@ -11385,8 +11196,7 @@
         ]
     },
     {
-        "term": "rebah",
-        "roman_numeral": "I",
+        "term": "rebah I",
         "definitions": [
             {
                 "sense": "1",
@@ -11440,8 +11250,7 @@
         ]
     },
     {
-        "term": "rebah",
-        "roman_numeral": "II",
+        "term": "rebah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11450,8 +11259,7 @@
         ]
     },
     {
-        "term": "rebak",
-        "roman_numeral": "I",
+        "term": "rebak I",
         "origin": "Pr",
         "definitions": [
             {
@@ -11472,8 +11280,7 @@
         ]
     },
     {
-        "term": "rebak",
-        "roman_numeral": "II",
+        "term": "rebak II; merebak",
         "definitions": [
             {
                 "sense": "1",
@@ -11537,8 +11344,7 @@
         ]
     },
     {
-        "term": "reban",
-        "roman_numeral": "I",
+        "term": "reban I",
         "definitions": [
             {
                 "sense": "1",
@@ -11558,8 +11364,7 @@
         ]
     },
     {
-        "term": "reban",
-        "roman_numeral": "II",
+        "term": "reban II",
         "origin": "Kd",
         "definitions": [
             {
@@ -11589,8 +11394,7 @@
         ]
     },
     {
-        "term": "rebana",
-        "roman_numeral": "I",
+        "term": "rebana I",
         "definitions": [
             {
                 "sense": "1",
@@ -11610,8 +11414,7 @@
         ]
     },
     {
-        "term": "rebana",
-        "roman_numeral": "II",
+        "term": "rebana II",
         "definitions": [
             {
                 "sense": "1",
@@ -11678,7 +11481,7 @@
         ]
     },
     {
-        "term": "rebat",
+        "term": "rebat; merebat",
         "definitions": [
             {
                 "sense": "1",
@@ -11789,7 +11592,7 @@
         ]
     },
     {
-        "term": "rebuk",
+        "term": "rebuk; merebuk",
         "definitions": [
             {
                 "sense": "1",
@@ -11818,7 +11621,7 @@
         ]
     },
     {
-        "term": "rebus",
+        "term": "rebus;",
         "definitions": [
             {
                 "sense": "1",
@@ -11865,7 +11668,7 @@
         ]
     },
     {
-        "term": "rebut",
+        "term": "rebut;",
         "definitions": [
             {
                 "sense": "1",
@@ -11972,8 +11775,7 @@
         ]
     },
     {
-        "term": "recak",
-        "roman_numeral": "I",
+        "term": "recak I",
         "origin": "Jw",
         "definitions": [
             {
@@ -11983,8 +11785,7 @@
         ]
     },
     {
-        "term": "recak",
-        "roman_numeral": "II",
+        "term": "recak II",
         "definitions": [
             {
                 "sense": "1",
@@ -11993,8 +11794,7 @@
         ]
     },
     {
-        "term": "recak",
-        "roman_numeral": "III",
+        "term": "recak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -12004,8 +11804,7 @@
         ]
     },
     {
-        "term": "recak",
-        "roman_numeral": "IV",
+        "term": "recak IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -12227,8 +12026,7 @@
         ]
     },
     {
-        "term": "redah",
-        "roman_numeral": "I",
+        "term": "redah I",
         "origin": "Mn",
         "definitions": [
             {
@@ -12275,8 +12073,7 @@
         ]
     },
     {
-        "term": "redak",
-        "roman_numeral": "I",
+        "term": "redak I; meredak",
         "definitions": [
             {
                 "sense": "1",
@@ -12327,8 +12124,7 @@
         ]
     },
     {
-        "term": "redam",
-        "roman_numeral": "I",
+        "term": "redam I",
         "definitions": [
             {
                 "sense": "1",
@@ -12366,8 +12162,7 @@
         ]
     },
     {
-        "term": "redam",
-        "roman_numeral": "II",
+        "term": "redam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12387,8 +12182,7 @@
         ]
     },
     {
-        "term": "redam",
-        "roman_numeral": "III",
+        "term": "redam III",
         "definitions": [
             {
                 "sense": "1",
@@ -12441,8 +12235,7 @@
         ]
     },
     {
-        "term": "redap",
-        "roman_numeral": "I",
+        "term": "redap I",
         "definitions": [
             {
                 "sense": "1",
@@ -12464,8 +12257,7 @@
         ]
     },
     {
-        "term": "redas",
-        "roman_numeral": "I",
+        "term": "redas I",
         "origin": "Kl",
         "definitions": [
             {
@@ -12475,8 +12267,7 @@
         ]
     },
     {
-        "term": "redas",
-        "roman_numeral": "II",
+        "term": "redas II",
         "origin": "Kl",
         "definitions": [
             {
@@ -12535,7 +12326,7 @@
         ]
     },
     {
-        "term": "redip",
+        "term": "redip;",
         "definitions": [
             {
                 "sense": "1",
@@ -12580,8 +12371,7 @@
         ]
     },
     {
-        "term": "redum",
-        "roman_numeral": "I",
+        "term": "redum I",
         "definitions": [
             {
                 "sense": "1",
@@ -12590,8 +12380,7 @@
         ]
     },
     {
-        "term": "redum",
-        "roman_numeral": "II",
+        "term": "redum II",
         "definitions": [
             {
                 "sense": "1",
@@ -12600,8 +12389,7 @@
         ]
     },
     {
-        "term": "redum",
-        "roman_numeral": "III",
+        "term": "redum III",
         "origin": "Kd",
         "definitions": [
             {
@@ -12896,7 +12684,7 @@
         ]
     },
     {
-        "term": "regas",
+        "term": "regas; meregas",
         "definitions": [
             {
                 "sense": "1",
@@ -13020,8 +12808,7 @@
         ]
     },
     {
-        "term": "regis",
-        "roman_numeral": "I",
+        "term": "regis I",
         "origin": "Kl",
         "definitions": [
             {
@@ -13031,8 +12818,7 @@
         ]
     },
     {
-        "term": "regis",
-        "roman_numeral": "II",
+        "term": "regis II",
         "origin": "Kd",
         "definitions": [
             {
@@ -13316,7 +13102,7 @@
         ]
     },
     {
-        "term": "rejah",
+        "term": "rejah; merejah",
         "definitions": [
             {
                 "sense": "1",
@@ -13378,12 +13164,12 @@
         ]
     },
     {
-        "term": "rejam",
-        "roman_numeral": "II",
+        "term": "rejam II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl seksaan, aniaya:  alamat ~ dan azab atas diriku akan terus  berlaku;"
+                "definition": "seksaan, aniaya:  alamat ~ dan azab atas diriku akan terus  berlaku;"
             }
         ],
         "sub_terms": [
@@ -13412,8 +13198,7 @@
         ]
     },
     {
-        "term": "rejan",
-        "roman_numeral": "I",
+        "term": "rejan I;",
         "definitions": [
             {
                 "sense": "1",
@@ -13433,8 +13218,7 @@
         ]
     },
     {
-        "term": "rejan",
-        "roman_numeral": "II",
+        "term": "rejan II",
         "origin": "Kl",
         "definitions": [
             {
@@ -13444,8 +13228,7 @@
         ]
     },
     {
-        "term": "rejang",
-        "roman_numeral": "I",
+        "term": "rejang I",
         "definitions": [
             {
                 "sense": "1",
@@ -13454,8 +13237,7 @@
         ]
     },
     {
-        "term": "rejang",
-        "roman_numeral": "II",
+        "term": "rejang II; merejang",
         "definitions": [
             {
                 "sense": "1",
@@ -13475,8 +13257,7 @@
         ]
     },
     {
-        "term": "rejang",
-        "roman_numeral": "III",
+        "term": "rejang III; serejang;",
         "definitions": [
             {
                 "sense": "1",
@@ -13568,7 +13349,7 @@
         ]
     },
     {
-        "term": "rejuk",
+        "term": "rejuk; merejuk",
         "definitions": [
             {
                 "sense": "1",
@@ -13678,7 +13459,7 @@
         ]
     },
     {
-        "term": "reka",
+        "term": "reka bentuk",
         "definitions": [
             {
                 "sense": "1",
@@ -13707,7 +13488,7 @@
         ]
     },
     {
-        "term": "reka",
+        "term": "reka cipta",
         "definitions": [
             {
                 "sense": "1",
@@ -13835,8 +13616,7 @@
         ]
     },
     {
-        "term": "rekan",
-        "roman_numeral": "II",
+        "term": "rekan II",
         "definitions": [
             {
                 "sense": "1",
@@ -13845,7 +13625,7 @@
         ]
     },
     {
-        "term": "rekat",
+        "term": "rekat; merekat",
         "definitions": [
             {
                 "sense": "1",
@@ -14356,8 +14136,7 @@
         ]
     },
     {
-        "term": "relai",
-        "roman_numeral": "I",
+        "term": "relai I",
         "definitions": [
             {
                 "sense": "1",
@@ -14366,8 +14145,7 @@
         ]
     },
     {
-        "term": "relai",
-        "roman_numeral": "II",
+        "term": "relai II",
         "definitions": [
             {
                 "sense": "1",
@@ -14435,8 +14213,7 @@
         ]
     },
     {
-        "term": "relang",
-        "roman_numeral": "I",
+        "term": "relang I; merelang",
         "definitions": [
             {
                 "sense": "1",
@@ -14470,7 +14247,7 @@
         ]
     },
     {
-        "term": "relap",
+        "term": "relap; merelap",
         "definitions": [
             {
                 "sense": "1",
@@ -14638,8 +14415,7 @@
         ]
     },
     {
-        "term": "relung",
-        "roman_numeral": "I",
+        "term": "relung I",
         "definitions": [
             {
                 "sense": "1",
@@ -14659,8 +14435,7 @@
         ]
     },
     {
-        "term": "relung",
-        "roman_numeral": "II",
+        "term": "relung II",
         "definitions": [
             {
                 "sense": "1",
@@ -14809,10 +14584,11 @@
     },
     {
         "term": "remak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lebih baik, biarlah:  ~lah aku mati drpd berkhianat kpd  kawanku."
+                "definition": "lebih baik, biarlah:  ~lah aku mati drpd berkhianat kpd  kawanku."
             }
         ]
     },
@@ -14847,8 +14623,7 @@
         ]
     },
     {
-        "term": "remang",
-        "roman_numeral": "I",
+        "term": "remang I",
         "definitions": [
             {
                 "sense": "1",
@@ -14877,8 +14652,7 @@
         ]
     },
     {
-        "term": "remang",
-        "roman_numeral": "II",
+        "term": "remang II",
         "definitions": [
             {
                 "sense": "1",
@@ -14887,8 +14661,7 @@
         ]
     },
     {
-        "term": "remang",
-        "roman_numeral": "III",
+        "term": "remang III; remang-remang",
         "definitions": [
             {
                 "sense": "1",
@@ -14908,8 +14681,7 @@
         ]
     },
     {
-        "term": "remang",
-        "roman_numeral": "IV",
+        "term": "remang IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -15039,8 +14811,7 @@
         ]
     },
     {
-        "term": "rembang",
-        "roman_numeral": "II",
+        "term": "rembang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15049,8 +14820,7 @@
         ]
     },
     {
-        "term": "rembas",
-        "roman_numeral": "I",
+        "term": "rembas I",
         "definitions": [
             {
                 "sense": "1",
@@ -15059,8 +14829,7 @@
         ]
     },
     {
-        "term": "rembas",
-        "roman_numeral": "II",
+        "term": "rembas II; merembas",
         "definitions": [
             {
                 "sense": "1",
@@ -15069,8 +14838,7 @@
         ]
     },
     {
-        "term": "rembas",
-        "roman_numeral": "III",
+        "term": "rembas III; merembas",
         "definitions": [
             {
                 "sense": "1",
@@ -15247,7 +15015,7 @@
         ]
     },
     {
-        "term": "rembih",
+        "term": "rembih; merembih",
         "definitions": [
             {
                 "sense": "1",
@@ -15256,7 +15024,7 @@
         ]
     },
     {
-        "term": "rembik",
+        "term": "rembik; berembik",
         "definitions": [
             {
                 "sense": "1",
@@ -15265,7 +15033,7 @@
         ]
     },
     {
-        "term": "rembuh",
+        "term": "rembuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -15332,10 +15100,11 @@
     },
     {
         "term": "rembunai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sedang (besarnya atau tingginya), sederhana:  tubuh kecil  rendah ~."
+                "definition": "sedang (besarnya atau tingginya), sederhana:  tubuh kecil  rendah ~."
             }
         ]
     },
@@ -15350,8 +15119,7 @@
         ]
     },
     {
-        "term": "rembut",
-        "roman_numeral": "I",
+        "term": "rembut I; terembut-rembut",
         "definitions": [
             {
                 "sense": "1",
@@ -15360,8 +15128,7 @@
         ]
     },
     {
-        "term": "rembut",
-        "roman_numeral": "II",
+        "term": "rembut II",
         "origin": "Jw",
         "definitions": [
             {
@@ -15371,8 +15138,7 @@
         ]
     },
     {
-        "term": "rembut",
-        "roman_numeral": "III",
+        "term": "rembut III;",
         "definitions": [
             {
                 "sense": "1",
@@ -15466,7 +15232,7 @@
         ]
     },
     {
-        "term": "remiak",
+        "term": "remiak;",
         "definitions": [
             {
                 "sense": "1",
@@ -15475,8 +15241,7 @@
         ]
     },
     {
-        "term": "remis",
-        "roman_numeral": "I",
+        "term": "remis I",
         "definitions": [
             {
                 "sense": "1",
@@ -15485,8 +15250,7 @@
         ]
     },
     {
-        "term": "remis",
-        "roman_numeral": "II",
+        "term": "remis II",
         "origin": "IB",
         "definitions": [
             {
@@ -15543,8 +15307,7 @@
         ]
     },
     {
-        "term": "rempah",
-        "roman_numeral": "I",
+        "term": "rempah I",
         "definitions": [
             {
                 "sense": "1",
@@ -15553,8 +15316,7 @@
         ]
     },
     {
-        "term": "rempah",
-        "roman_numeral": "II",
+        "term": "rempah II",
         "definitions": [
             {
                 "sense": "1",
@@ -15596,8 +15358,7 @@
         ]
     },
     {
-        "term": "rempah",
-        "roman_numeral": "III",
+        "term": "rempah III;",
         "definitions": [
             {
                 "sense": "1",
@@ -15615,8 +15376,7 @@
         ]
     },
     {
-        "term": "rempak",
-        "roman_numeral": "I",
+        "term": "rempak I; berempak",
         "definitions": [
             {
                 "sense": "1",
@@ -15654,8 +15414,7 @@
         ]
     },
     {
-        "term": "rempak",
-        "roman_numeral": "II",
+        "term": "rempak II",
         "definitions": [
             {
                 "sense": "1",
@@ -15733,7 +15492,7 @@
         ]
     },
     {
-        "term": "rempenang",
+        "term": "rempenang;",
         "definitions": [
             {
                 "sense": "1",
@@ -15790,7 +15549,7 @@
         ]
     },
     {
-        "term": "rempuh",
+        "term": "rempuh; berempuh-rempuh, berempuh-rempuhan",
         "definitions": [
             {
                 "sense": "1",
@@ -15819,7 +15578,7 @@
         ]
     },
     {
-        "term": "rempung",
+        "term": "rempung;",
         "definitions": [
             {
                 "sense": "1",
@@ -15828,7 +15587,7 @@
         ]
     },
     {
-        "term": "rempus",
+        "term": "rempus; merempus",
         "definitions": [
             {
                 "sense": "1",
@@ -15893,7 +15652,7 @@
         ]
     },
     {
-        "term": "remut",
+        "term": "remut; meremut",
         "definitions": [
             {
                 "sense": "1",
@@ -15969,8 +15728,7 @@
         ]
     },
     {
-        "term": "renang",
-        "roman_numeral": "I",
+        "term": "renang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -16035,8 +15793,7 @@
         ]
     },
     {
-        "term": "renang",
-        "roman_numeral": "II",
+        "term": "renang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -16086,8 +15843,7 @@
         ]
     },
     {
-        "term": "rencah",
-        "roman_numeral": "II",
+        "term": "rencah II",
         "definitions": [
             {
                 "sense": "1",
@@ -16130,8 +15886,7 @@
         ]
     },
     {
-        "term": "rencam",
-        "roman_numeral": "I",
+        "term": "rencam I; merencam",
         "definitions": [
             {
                 "sense": "1",
@@ -16283,7 +16038,7 @@
         ]
     },
     {
-        "term": "rencat",
+        "term": "rencat;",
         "definitions": [
             {
                 "sense": "1",
@@ -16648,8 +16403,7 @@
         ]
     },
     {
-        "term": "rendah",
-        "roman_numeral": "II",
+        "term": "rendah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17066,10 +16820,11 @@
     },
     {
         "term": "rengak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl;  merengak  berbau keras (sehingga menusuk hidung)."
+                "definition": ";  merengak  berbau keras (sehingga menusuk hidung)."
             }
         ]
     },
@@ -17152,8 +16907,7 @@
         ]
     },
     {
-        "term": "rengas",
-        "roman_numeral": "II",
+        "term": "rengas II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17162,8 +16916,7 @@
         ]
     },
     {
-        "term": "rengat",
-        "roman_numeral": "I",
+        "term": "rengat I",
         "definitions": [
             {
                 "sense": "1",
@@ -17172,8 +16925,7 @@
         ]
     },
     {
-        "term": "rengat",
-        "roman_numeral": "II",
+        "term": "rengat II",
         "origin": "Mn",
         "definitions": [
             {
@@ -17183,8 +16935,7 @@
         ]
     },
     {
-        "term": "rengat",
-        "roman_numeral": "III",
+        "term": "rengat III; merengat-rengat",
         "definitions": [
             {
                 "sense": "1",
@@ -17193,8 +16944,7 @@
         ]
     },
     {
-        "term": "rengau",
-        "roman_numeral": "I",
+        "term": "rengau I",
         "definitions": [
             {
                 "sense": "1",
@@ -17203,8 +16953,7 @@
         ]
     },
     {
-        "term": "rengau",
-        "roman_numeral": "II",
+        "term": "rengau II",
         "origin": "Kd",
         "definitions": [
             {
@@ -17384,8 +17133,7 @@
         ]
     },
     {
-        "term": "renggang",
-        "roman_numeral": "II",
+        "term": "renggang II; merenggang;",
         "definitions": [
             {
                 "sense": "1",
@@ -17484,10 +17232,11 @@
     },
     {
         "term": "rengka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tempat duduk di belakang gajah;     rengga."
+                "definition": "tempat duduk di belakang gajah;     rengga."
             }
         ]
     },
@@ -17664,7 +17413,7 @@
         ]
     },
     {
-        "term": "rengkuh",
+        "term": "rengkuh; merengkuh",
         "definitions": [
             {
                 "sense": "1",
@@ -17702,8 +17451,7 @@
         ]
     },
     {
-        "term": "rengkung",
-        "roman_numeral": "I",
+        "term": "rengkung I",
         "definitions": [
             {
                 "sense": "1",
@@ -17823,7 +17571,7 @@
         ]
     },
     {
-        "term": "rengus",
+        "term": "rengus; merengus",
         "definitions": [
             {
                 "sense": "1",
@@ -17852,8 +17600,7 @@
         ]
     },
     {
-        "term": "rengut",
-        "roman_numeral": "I",
+        "term": "rengut I",
         "definitions": [
             {
                 "sense": "1",
@@ -17886,8 +17633,7 @@
         ]
     },
     {
-        "term": "rengut",
-        "roman_numeral": "II",
+        "term": "rengut II",
         "definitions": [
             {
                 "sense": "1",
@@ -17934,7 +17680,7 @@
         ]
     },
     {
-        "term": "rening",
+        "term": "rening; merening, rening-rening",
         "definitions": [
             {
                 "sense": "1",
@@ -17998,8 +17744,7 @@
         ]
     },
     {
-        "term": "renjis",
-        "roman_numeral": "I",
+        "term": "renjis I",
         "definitions": [
             {
                 "sense": "1",
@@ -18077,8 +17822,7 @@
         ]
     },
     {
-        "term": "renjis",
-        "roman_numeral": "II",
+        "term": "renjis II;",
         "definitions": [
             {
                 "sense": "1",
@@ -18193,8 +17937,7 @@
         ]
     },
     {
-        "term": "rentak",
-        "roman_numeral": "II",
+        "term": "rentak II",
         "definitions": [
             {
                 "sense": "1",
@@ -18223,8 +17966,7 @@
         ]
     },
     {
-        "term": "rentak",
-        "roman_numeral": "III",
+        "term": "rentak III; serentak",
         "definitions": [
             {
                 "sense": "1",
@@ -18243,10 +17985,11 @@
     },
     {
         "term": "rentaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl meriam yg boleh dipusing-pusingkan;    lela II."
+                "definition": "meriam yg boleh dipusing-pusingkan;    lela II."
             }
         ]
     },
@@ -18361,7 +18104,7 @@
         ]
     },
     {
-        "term": "rentap",
+        "term": "rentap; berentap",
         "definitions": [
             {
                 "sense": "1",
@@ -18602,7 +18345,7 @@
         ]
     },
     {
-        "term": "renti",
+        "term": "renti; merentikan",
         "definitions": [
             {
                 "sense": "1",
@@ -18702,8 +18445,7 @@
         ]
     },
     {
-        "term": "renung",
-        "roman_numeral": "II",
+        "term": "renung II; merenung",
         "definitions": [
             {
                 "sense": "1",
@@ -18742,8 +18484,7 @@
         ]
     },
     {
-        "term": "renyah",
-        "roman_numeral": "I",
+        "term": "renyah I",
         "definitions": [
             {
                 "sense": "1",
@@ -18767,8 +18508,7 @@
         ]
     },
     {
-        "term": "renyah",
-        "roman_numeral": "II",
+        "term": "renyah II",
         "definitions": [
             {
                 "sense": "1",
@@ -18788,8 +18528,7 @@
         ]
     },
     {
-        "term": "renyah",
-        "roman_numeral": "III",
+        "term": "renyah III",
         "origin": "Jk",
         "definitions": [
             {
@@ -18799,7 +18538,7 @@
         ]
     },
     {
-        "term": "renyai",
+        "term": "renyai;",
         "definitions": [
             {
                 "sense": "1",
@@ -18878,8 +18617,7 @@
         ]
     },
     {
-        "term": "renyam",
-        "roman_numeral": "II",
+        "term": "renyam II; merenyam",
         "definitions": [
             {
                 "sense": "1",
@@ -19035,8 +18773,7 @@
         ]
     },
     {
-        "term": "renyuk",
-        "roman_numeral": "II",
+        "term": "renyuk II",
         "origin": "Mn",
         "definitions": [
             {
@@ -19057,8 +18794,7 @@
         ]
     },
     {
-        "term": "renyuk",
-        "roman_numeral": "III",
+        "term": "renyuk III",
         "origin": "Mn",
         "definitions": [
             {
@@ -19096,8 +18832,7 @@
         ]
     },
     {
-        "term": "renyut",
-        "roman_numeral": "I",
+        "term": "renyut I",
         "definitions": [
             {
                 "sense": "1",
@@ -19139,8 +18874,7 @@
         ]
     },
     {
-        "term": "renyut",
-        "roman_numeral": "III",
+        "term": "renyut III;",
         "definitions": [
             {
                 "sense": "1",
@@ -19418,8 +19152,7 @@
         ]
     },
     {
-        "term": "repih",
-        "roman_numeral": "I",
+        "term": "repih I",
         "definitions": [
             {
                 "sense": "1",
@@ -19448,8 +19181,7 @@
         ]
     },
     {
-        "term": "repih",
-        "roman_numeral": "II",
+        "term": "repih II",
         "definitions": [
             {
                 "sense": "1",
@@ -19695,8 +19427,7 @@
         ]
     },
     {
-        "term": "repuh",
-        "roman_numeral": "II",
+        "term": "repuh II",
         "origin": "Pr",
         "definitions": [
             {
@@ -19847,8 +19578,7 @@
         ]
     },
     {
-        "term": "reriang",
-        "roman_numeral": "I",
+        "term": "reriang I",
         "definitions": [
             {
                 "sense": "1",
@@ -19857,8 +19587,7 @@
         ]
     },
     {
-        "term": "reriang",
-        "roman_numeral": "II",
+        "term": "reriang II",
         "definitions": [
             {
                 "sense": "1",
@@ -20004,8 +19733,7 @@
         ]
     },
     {
-        "term": "resam",
-        "roman_numeral": "I",
+        "term": "resam I",
         "definitions": [
             {
                 "sense": "1",
@@ -20047,8 +19775,7 @@
         ]
     },
     {
-        "term": "resam",
-        "roman_numeral": "III",
+        "term": "resam III;",
         "definitions": [
             {
                 "sense": "1",
@@ -20264,18 +19991,17 @@
         ]
     },
     {
-        "term": "resi",
-        "roman_numeral": "I",
+        "term": "resi I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl orang pertapa, orang suci."
+                "definition": "orang pertapa, orang suci."
             }
         ]
     },
     {
-        "term": "resi",
-        "roman_numeral": "II",
+        "term": "resi II",
         "definitions": [
             {
                 "sense": "1",
@@ -20347,8 +20073,7 @@
         ]
     },
     {
-        "term": "resik",
-        "roman_numeral": "II",
+        "term": "resik II",
         "origin": "Jk",
         "definitions": [
             {
@@ -20573,8 +20298,7 @@
         ]
     },
     {
-        "term": "restung",
-        "roman_numeral": "I",
+        "term": "restung I",
         "definitions": [
             {
                 "sense": "1",
@@ -20596,7 +20320,7 @@
         ]
     },
     {
-        "term": "resuk",
+        "term": "resuk; meresukkan",
         "definitions": [
             {
                 "sense": "1",
@@ -20647,7 +20371,7 @@
         ]
     },
     {
-        "term": "retai",
+        "term": "retai;",
         "definitions": [
             {
                 "sense": "1",
@@ -20828,8 +20552,7 @@
         ]
     },
     {
-        "term": "retih",
-        "roman_numeral": "I",
+        "term": "retih I; meretih",
         "definitions": [
             {
                 "sense": "1",
@@ -20838,8 +20561,7 @@
         ]
     },
     {
-        "term": "retih",
-        "roman_numeral": "II",
+        "term": "retih II; meretih",
         "definitions": [
             {
                 "sense": "1",
@@ -20848,8 +20570,7 @@
         ]
     },
     {
-        "term": "retik",
-        "roman_numeral": "I",
+        "term": "retik I",
         "origin": "Kd",
         "definitions": [
             {
@@ -20859,8 +20580,7 @@
         ]
     },
     {
-        "term": "retik",
-        "roman_numeral": "II",
+        "term": "retik II",
         "origin": "Kl",
         "definitions": [
             {
@@ -21358,8 +21078,7 @@
         ]
     },
     {
-        "term": "ria",
-        "roman_numeral": "II",
+        "term": "ria II",
         "origin": "Ar",
         "definitions": [
             {
@@ -21369,8 +21088,7 @@
         ]
     },
     {
-        "term": "ria",
-        "roman_numeral": "III",
+        "term": "ria III",
         "origin": "(Geog)",
         "definitions": [
             {
@@ -21380,8 +21098,7 @@
         ]
     },
     {
-        "term": "riadah",
-        "roman_numeral": "I",
+        "term": "riadah I",
         "origin": "Ar",
         "definitions": [
             {
@@ -21420,7 +21137,7 @@
         ]
     },
     {
-        "term": "riadiah",
+        "term": "riadiah, riadiat",
         "definitions": [
             {
                 "sense": "1",
@@ -21470,8 +21187,7 @@
         ]
     },
     {
-        "term": "riak",
-        "roman_numeral": "II",
+        "term": "riak II",
         "definitions": [
             {
                 "sense": "1",
@@ -21480,8 +21196,7 @@
         ]
     },
     {
-        "term": "riak",
-        "roman_numeral": "III",
+        "term": "riak III",
         "definitions": [
             {
                 "sense": "1",
@@ -21533,8 +21248,7 @@
         ]
     },
     {
-        "term": "riang",
-        "roman_numeral": "I",
+        "term": "riang I",
         "definitions": [
             {
                 "sense": "1",
@@ -21585,8 +21299,7 @@
         ]
     },
     {
-        "term": "riang",
-        "roman_numeral": "II",
+        "term": "riang II",
         "definitions": [
             {
                 "sense": "1",
@@ -21595,8 +21308,7 @@
         ]
     },
     {
-        "term": "riang",
-        "roman_numeral": "III",
+        "term": "riang III",
         "origin": "Kd",
         "definitions": [
             {
@@ -21606,8 +21318,7 @@
         ]
     },
     {
-        "term": "riang",
-        "roman_numeral": "IV",
+        "term": "riang IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -21617,8 +21328,7 @@
         ]
     },
     {
-        "term": "riang",
-        "roman_numeral": "V",
+        "term": "riang V;",
         "definitions": [
             {
                 "sense": "1",
@@ -21627,8 +21337,7 @@
         ]
     },
     {
-        "term": "riang-riang",
-        "roman_numeral": "I",
+        "term": "riang-riang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -21637,8 +21346,7 @@
         ]
     },
     {
-        "term": "riang-riang",
-        "roman_numeral": "II",
+        "term": "riang-riang II",
         "definitions": [
             {
                 "sense": "1",
@@ -21680,8 +21388,7 @@
         ]
     },
     {
-        "term": "rias",
-        "roman_numeral": "I",
+        "term": "rias I",
         "definitions": [
             {
                 "sense": "1",
@@ -21690,8 +21397,7 @@
         ]
     },
     {
-        "term": "rias",
-        "roman_numeral": "II",
+        "term": "rias II",
         "origin": "Jk",
         "definitions": [
             {
@@ -21740,8 +21446,7 @@
         ]
     },
     {
-        "term": "riba",
-        "roman_numeral": "I",
+        "term": "riba I",
         "definitions": [
             {
                 "sense": "1",
@@ -22014,7 +21719,7 @@
         ]
     },
     {
-        "term": "ricih",
+        "term": "ricih; mericih",
         "definitions": [
             {
                 "sense": "1",
@@ -22023,7 +21728,7 @@
         ]
     },
     {
-        "term": "ricis",
+        "term": "ricis; mericis",
         "definitions": [
             {
                 "sense": "1",
@@ -22070,7 +21775,7 @@
         ]
     },
     {
-        "term": "ridap",
+        "term": "ridap; meridap",
         "definitions": [
             {
                 "sense": "1",
@@ -22153,8 +21858,7 @@
         ]
     },
     {
-        "term": "rigap",
-        "roman_numeral": "I",
+        "term": "rigap I",
         "origin": "Pr",
         "definitions": [
             {
@@ -22164,8 +21868,7 @@
         ]
     },
     {
-        "term": "rigap",
-        "roman_numeral": "II",
+        "term": "rigap II, rigat",
         "origin": "Kl",
         "definitions": [
             {
@@ -22273,8 +21976,7 @@
         ]
     },
     {
-        "term": "rim",
-        "roman_numeral": "I",
+        "term": "rim I",
         "definitions": [
             {
                 "sense": "1",
@@ -22283,8 +21985,7 @@
         ]
     },
     {
-        "term": "rim",
-        "roman_numeral": "II",
+        "term": "rim II",
         "origin": "IB",
         "definitions": [
             {
@@ -22294,8 +21995,7 @@
         ]
     },
     {
-        "term": "rim",
-        "roman_numeral": "III",
+        "term": "rim III",
         "definitions": [
             {
                 "sense": "1",
@@ -22304,8 +22004,7 @@
         ]
     },
     {
-        "term": "rima",
-        "roman_numeral": "I",
+        "term": "rima I",
         "definitions": [
             {
                 "sense": "1",
@@ -22314,8 +22013,7 @@
         ]
     },
     {
-        "term": "rima",
-        "roman_numeral": "II",
+        "term": "rima II",
         "definitions": [
             {
                 "sense": "1",
@@ -22357,8 +22055,7 @@
         ]
     },
     {
-        "term": "rimau",
-        "roman_numeral": "I",
+        "term": "rimau I",
         "definitions": [
             {
                 "sense": "1",
@@ -22367,8 +22064,7 @@
         ]
     },
     {
-        "term": "rimau",
-        "roman_numeral": "II",
+        "term": "rimau II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22588,7 +22284,7 @@
         ]
     },
     {
-        "term": "rimping",
+        "term": "rimping; perimping",
         "definitions": [
             {
                 "sense": "1",
@@ -22646,8 +22342,7 @@
         ]
     },
     {
-        "term": "rinai",
-        "roman_numeral": "I",
+        "term": "rinai I",
         "origin": "Mn",
         "definitions": [
             {
@@ -22657,8 +22352,7 @@
         ]
     },
     {
-        "term": "rinai",
-        "roman_numeral": "II",
+        "term": "rinai II",
         "definitions": [
             {
                 "sense": "1",
@@ -22788,7 +22482,7 @@
         ]
     },
     {
-        "term": "rincu",
+        "term": "rincu, rincuh",
         "definitions": [
             {
                 "sense": "1",
@@ -22797,8 +22491,7 @@
         ]
     },
     {
-        "term": "rinding",
-        "roman_numeral": "I",
+        "term": "rinding I",
         "origin": "Jw",
         "definitions": [
             {
@@ -22808,8 +22501,7 @@
         ]
     },
     {
-        "term": "rinding",
-        "roman_numeral": "II",
+        "term": "rinding II; merinding",
         "definitions": [
             {
                 "sense": "1",
@@ -22908,8 +22600,7 @@
         ]
     },
     {
-        "term": "rindu",
-        "roman_numeral": "II",
+        "term": "rindu II; perindu;",
         "definitions": [
             {
                 "sense": "1",
@@ -22918,8 +22609,7 @@
         ]
     },
     {
-        "term": "rindu",
-        "roman_numeral": "III",
+        "term": "rindu III;",
         "definitions": [
             {
                 "sense": "1",
@@ -22928,8 +22618,7 @@
         ]
     },
     {
-        "term": "ring",
-        "roman_numeral": "I",
+        "term": "ring I",
         "definitions": [
             {
                 "sense": "1",
@@ -22938,8 +22627,7 @@
         ]
     },
     {
-        "term": "ring",
-        "roman_numeral": "II",
+        "term": "ring II",
         "origin": "IB",
         "definitions": [
             {
@@ -23100,7 +22788,7 @@
         ]
     },
     {
-        "term": "ringgin",
+        "term": "ringgin;",
         "definitions": [
             {
                 "sense": "1",
@@ -23142,8 +22830,7 @@
         ]
     },
     {
-        "term": "ringgit",
-        "roman_numeral": "II",
+        "term": "ringgit II",
         "definitions": [
             {
                 "sense": "1",
@@ -23172,7 +22859,7 @@
         ]
     },
     {
-        "term": "ringih",
+        "term": "ringih; meringih",
         "definitions": [
             {
                 "sense": "1",
@@ -23181,7 +22868,7 @@
         ]
     },
     {
-        "term": "ringin",
+        "term": "ringin;",
         "definitions": [
             {
                 "sense": "1",
@@ -23207,8 +22894,7 @@
         ]
     },
     {
-        "term": "ringkai",
-        "roman_numeral": "I",
+        "term": "ringkai I",
         "definitions": [
             {
                 "sense": "1",
@@ -23237,8 +22923,7 @@
         ]
     },
     {
-        "term": "ringkai",
-        "roman_numeral": "II",
+        "term": "ringkai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23510,8 +23195,7 @@
         ]
     },
     {
-        "term": "rintang",
-        "roman_numeral": "I",
+        "term": "rintang I; merintang",
         "definitions": [
             {
                 "sense": "1",
@@ -23612,7 +23296,7 @@
         ]
     },
     {
-        "term": "rintas",
+        "term": "rintas; merintas",
         "definitions": [
             {
                 "sense": "1",
@@ -23657,8 +23341,7 @@
         ]
     },
     {
-        "term": "rintih",
-        "roman_numeral": "II",
+        "term": "rintih II",
         "origin": "Kd",
         "definitions": [
             {
@@ -23932,8 +23615,7 @@
         ]
     },
     {
-        "term": "risau",
-        "roman_numeral": "I",
+        "term": "risau I",
         "definitions": [
             {
                 "sense": "1",
@@ -24048,8 +23730,7 @@
         ]
     },
     {
-        "term": "risik",
-        "roman_numeral": "I",
+        "term": "risik I; merisik",
         "definitions": [
             {
                 "sense": "1",
@@ -24141,8 +23822,7 @@
         ]
     },
     {
-        "term": "risik",
-        "roman_numeral": "IV",
+        "term": "risik IV; berisik",
         "definitions": [
             {
                 "sense": "1",
@@ -24278,8 +23958,7 @@
         ]
     },
     {
-        "term": "riuh",
-        "roman_numeral": "I",
+        "term": "riuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -24308,8 +23987,7 @@
         ]
     },
     {
-        "term": "riuh",
-        "roman_numeral": "II",
+        "term": "riuh II",
         "definitions": [
             {
                 "sense": "1",
@@ -24611,7 +24289,7 @@
         ]
     },
     {
-        "term": "robah",
+        "term": "robah; merobah",
         "definitions": [
             {
                 "sense": "1",
@@ -24751,8 +24429,7 @@
         ]
     },
     {
-        "term": "robok",
-        "roman_numeral": "I",
+        "term": "robok I",
         "definitions": [
             {
                 "sense": "1",
@@ -24761,8 +24438,7 @@
         ]
     },
     {
-        "term": "robok",
-        "roman_numeral": "II",
+        "term": "robok II; merobok",
         "definitions": [
             {
                 "sense": "1",
@@ -24771,8 +24447,7 @@
         ]
     },
     {
-        "term": "robot",
-        "roman_numeral": "I",
+        "term": "robot I",
         "origin": "Jk",
         "definitions": [
             {
@@ -24842,7 +24517,7 @@
         ]
     },
     {
-        "term": "rocoh",
+        "term": "rocoh; merocoh",
         "definitions": [
             {
                 "sense": "1",
@@ -24851,8 +24526,7 @@
         ]
     },
     {
-        "term": "rod",
-        "roman_numeral": "I",
+        "term": "rod I",
         "definitions": [
             {
                 "sense": "1",
@@ -24861,8 +24535,7 @@
         ]
     },
     {
-        "term": "rod",
-        "roman_numeral": "II",
+        "term": "rod II",
         "definitions": [
             {
                 "sense": "1",
@@ -24891,7 +24564,7 @@
         ]
     },
     {
-        "term": "rodak",
+        "term": "rodak; merodak",
         "definitions": [
             {
                 "sense": "1",
@@ -24901,10 +24574,11 @@
     },
     {
         "term": "rodan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl terlalu (sangat) sakit."
+                "definition": "terlalu (sangat) sakit."
             }
         ]
     },
@@ -25253,8 +24927,7 @@
         ]
     },
     {
-        "term": "rojak",
-        "roman_numeral": "II",
+        "term": "rojak II; merojak",
         "definitions": [
             {
                 "sense": "1",
@@ -25284,7 +24957,7 @@
         ]
     },
     {
-        "term": "rojol",
+        "term": "rojol; merojol",
         "definitions": [
             {
                 "sense": "1",
@@ -25293,8 +24966,7 @@
         ]
     },
     {
-        "term": "rok",
-        "roman_numeral": "I",
+        "term": "rok I",
         "definitions": [
             {
                 "sense": "1",
@@ -25303,8 +24975,7 @@
         ]
     },
     {
-        "term": "rok",
-        "roman_numeral": "II",
+        "term": "rok II",
         "origin": "IB",
         "definitions": [
             {
@@ -25314,8 +24985,7 @@
         ]
     },
     {
-        "term": "rok",
-        "roman_numeral": "III",
+        "term": "rok III",
         "origin": "Kl",
         "definitions": [
             {
@@ -25325,8 +24995,7 @@
         ]
     },
     {
-        "term": "rok",
-        "roman_numeral": "IV",
+        "term": "rok IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -25359,8 +25028,7 @@
         ]
     },
     {
-        "term": "rokok",
-        "roman_numeral": "I",
+        "term": "rokok I",
         "definitions": [
             {
                 "sense": "1",
@@ -25389,8 +25057,7 @@
         ]
     },
     {
-        "term": "rokok",
-        "roman_numeral": "II",
+        "term": "rokok II",
         "definitions": [
             {
                 "sense": "1",
@@ -25399,8 +25066,7 @@
         ]
     },
     {
-        "term": "rol",
-        "roman_numeral": "I",
+        "term": "rol I",
         "origin": "IB",
         "definitions": [
             {
@@ -25465,8 +25131,7 @@
         ]
     },
     {
-        "term": "roman",
-        "roman_numeral": "I",
+        "term": "roman I",
         "definitions": [
             {
                 "sense": "1",
@@ -25499,8 +25164,7 @@
         ]
     },
     {
-        "term": "roman",
-        "roman_numeral": "III",
+        "term": "roman III",
         "definitions": [
             {
                 "sense": "1",
@@ -25509,8 +25173,7 @@
         ]
     },
     {
-        "term": "Roman",
-        "roman_numeral": "IV",
+        "term": "Roman IV",
         "definitions": [
             {
                 "sense": "1",
@@ -25620,7 +25283,7 @@
         ]
     },
     {
-        "term": "rombang",
+        "term": "rombang;",
         "definitions": [
             {
                 "sense": "1",
@@ -25769,7 +25432,7 @@
         ]
     },
     {
-        "term": "romok",
+        "term": "romok; meromok, teromok",
         "definitions": [
             {
                 "sense": "1",
@@ -25788,8 +25451,7 @@
         ]
     },
     {
-        "term": "rompak",
-        "roman_numeral": "I",
+        "term": "rompak I; merompak",
         "definitions": [
             {
                 "sense": "1",
@@ -25827,8 +25489,7 @@
         ]
     },
     {
-        "term": "rompak",
-        "roman_numeral": "II",
+        "term": "rompak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -25838,7 +25499,7 @@
         ]
     },
     {
-        "term": "rompang",
+        "term": "rompang;",
         "definitions": [
             {
                 "sense": "1",
@@ -25905,7 +25566,7 @@
         ]
     },
     {
-        "term": "romusya",
+        "term": "romusya, romusa",
         "definitions": [
             {
                 "sense": "1",
@@ -26037,7 +25698,7 @@
         ]
     },
     {
-        "term": "rondah",
+        "term": "rondah;",
         "definitions": [
             {
                 "sense": "1",
@@ -26093,8 +25754,7 @@
         ]
     },
     {
-        "term": "rong",
-        "roman_numeral": "I",
+        "term": "rong I",
         "origin": "Jw",
         "definitions": [
             {
@@ -26104,8 +25764,7 @@
         ]
     },
     {
-        "term": "rong",
-        "roman_numeral": "II",
+        "term": "rong II",
         "origin": "Jw",
         "definitions": [
             {
@@ -26144,8 +25803,7 @@
         ]
     },
     {
-        "term": "rongga",
-        "roman_numeral": "I",
+        "term": "rongga I",
         "definitions": [
             {
                 "sense": "1",
@@ -26239,8 +25897,7 @@
         ]
     },
     {
-        "term": "ronggok",
-        "roman_numeral": "I",
+        "term": "ronggok I",
         "definitions": [
             {
                 "sense": "1",
@@ -26249,8 +25906,7 @@
         ]
     },
     {
-        "term": "ronggok",
-        "roman_numeral": "II",
+        "term": "ronggok II; beronggok, beronggok-ronggok",
         "definitions": [
             {
                 "sense": "1",
@@ -26269,7 +25925,7 @@
         ]
     },
     {
-        "term": "rongkok",
+        "term": "rongkok; merongkok",
         "definitions": [
             {
                 "sense": "1",
@@ -26298,8 +25954,7 @@
         ]
     },
     {
-        "term": "rongkong",
-        "roman_numeral": "I",
+        "term": "rongkong I",
         "definitions": [
             {
                 "sense": "1",
@@ -26327,8 +25982,7 @@
         ]
     },
     {
-        "term": "rongkong",
-        "roman_numeral": "II",
+        "term": "rongkong II; rongkongan, rerongkongan",
         "origin": "Jk",
         "definitions": [
             {
@@ -26338,7 +25992,7 @@
         ]
     },
     {
-        "term": "rongoh",
+        "term": "rongoh, rongok",
         "definitions": [
             {
                 "sense": "1",
@@ -26422,7 +26076,7 @@
         ]
     },
     {
-        "term": "ronta",
+        "term": "ronta; meronta, meronta-ronta",
         "definitions": [
             {
                 "sense": "1",
@@ -26548,7 +26202,7 @@
         ]
     },
     {
-        "term": "ropak",
+        "term": "ropak;",
         "definitions": [
             {
                 "sense": "1",
@@ -26771,8 +26425,7 @@
         ]
     },
     {
-        "term": "rosok",
-        "roman_numeral": "I",
+        "term": "rosok I",
         "origin": "Mn",
         "definitions": [
             {
@@ -26793,8 +26446,7 @@
         ]
     },
     {
-        "term": "rosok",
-        "roman_numeral": "II",
+        "term": "rosok II",
         "definitions": [
             {
                 "sense": "1",
@@ -26814,8 +26466,7 @@
         ]
     },
     {
-        "term": "rosok",
-        "roman_numeral": "III",
+        "term": "rosok III",
         "definitions": [
             {
                 "sense": "1",
@@ -26949,8 +26600,7 @@
         ]
     },
     {
-        "term": "rotan",
-        "roman_numeral": "II",
+        "term": "rotan II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27021,7 +26671,7 @@
         ]
     },
     {
-        "term": "royak",
+        "term": "royak; meroyak",
         "definitions": [
             {
                 "sense": "1",
@@ -27112,8 +26762,7 @@
         ]
     },
     {
-        "term": "royong",
-        "roman_numeral": "I",
+        "term": "royong I;",
         "definitions": [
             {
                 "sense": "1",
@@ -27122,8 +26771,7 @@
         ]
     },
     {
-        "term": "royong",
-        "roman_numeral": "II",
+        "term": "royong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27162,8 +26810,7 @@
         ]
     },
     {
-        "term": "RRI",
-        "roman_numeral": "I",
+        "term": "RRI I",
         "definitions": [
             {
                 "sense": "1",
@@ -27172,8 +26819,7 @@
         ]
     },
     {
-        "term": "RRI",
-        "roman_numeral": "II",
+        "term": "RRI II",
         "origin": "Id",
         "definitions": [
             {
@@ -27244,8 +26890,7 @@
         ]
     },
     {
-        "term": "rua",
-        "roman_numeral": "II",
+        "term": "rua II",
         "definitions": [
             {
                 "sense": "1",
@@ -27263,8 +26908,7 @@
         ]
     },
     {
-        "term": "ruah",
-        "roman_numeral": "I",
+        "term": "ruah I;",
         "definitions": [
             {
                 "sense": "1",
@@ -27297,8 +26941,7 @@
         ]
     },
     {
-        "term": "ruah",
-        "roman_numeral": "II",
+        "term": "ruah II; seruah, seperuah",
         "definitions": [
             {
                 "sense": "1",
@@ -27318,8 +26961,7 @@
         ]
     },
     {
-        "term": "Ruah",
-        "roman_numeral": "III",
+        "term": "Ruah III;",
         "definitions": [
             {
                 "sense": "1",
@@ -27328,7 +26970,7 @@
         ]
     },
     {
-        "term": "ruah-ruah",
+        "term": "ruah-ruah;",
         "definitions": [
             {
                 "sense": "1",
@@ -27354,8 +26996,7 @@
         ]
     },
     {
-        "term": "ruai",
-        "roman_numeral": "II",
+        "term": "ruai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27364,8 +27005,7 @@
         ]
     },
     {
-        "term": "ruai",
-        "roman_numeral": "III",
+        "term": "ruai III",
         "definitions": [
             {
                 "sense": "1",
@@ -27583,8 +27223,7 @@
         ]
     },
     {
-        "term": "ruas",
-        "roman_numeral": "I",
+        "term": "ruas I",
         "definitions": [
             {
                 "sense": "1",
@@ -27613,8 +27252,7 @@
         ]
     },
     {
-        "term": "ruas",
-        "roman_numeral": "II",
+        "term": "ruas II;",
         "definitions": [
             {
                 "sense": "1",
@@ -27682,8 +27320,7 @@
         ]
     },
     {
-        "term": "ruat",
-        "roman_numeral": "III",
+        "term": "ruat III",
         "definitions": [
             {
                 "sense": "1",
@@ -27692,8 +27329,7 @@
         ]
     },
     {
-        "term": "ruat",
-        "roman_numeral": "IV",
+        "term": "ruat IV",
         "definitions": [
             {
                 "sense": "1",
@@ -27715,8 +27351,7 @@
         ]
     },
     {
-        "term": "rubah",
-        "roman_numeral": "I",
+        "term": "rubah I",
         "origin": "Ar",
         "definitions": [
             {
@@ -27726,8 +27361,7 @@
         ]
     },
     {
-        "term": "rubah",
-        "roman_numeral": "II",
+        "term": "rubah II",
         "definitions": [
             {
                 "sense": "1",
@@ -27756,8 +27390,7 @@
         ]
     },
     {
-        "term": "rubai",
-        "roman_numeral": "I",
+        "term": "rubai I",
         "definitions": [
             {
                 "sense": "1",
@@ -27766,8 +27399,7 @@
         ]
     },
     {
-        "term": "rubai",
-        "roman_numeral": "II",
+        "term": "rubai II",
         "origin": "Ar",
         "definitions": [
             {
@@ -27853,8 +27485,7 @@
         ]
     },
     {
-        "term": "rubin",
-        "roman_numeral": "I",
+        "term": "rubin I;",
         "definitions": [
             {
                 "sense": "1",
@@ -27863,8 +27494,7 @@
         ]
     },
     {
-        "term": "rubin",
-        "roman_numeral": "II",
+        "term": "rubin II",
         "origin": "Kd",
         "definitions": [
             {
@@ -27874,8 +27504,7 @@
         ]
     },
     {
-        "term": "rubing",
-        "roman_numeral": "I",
+        "term": "rubing I",
         "definitions": [
             {
                 "sense": "1",
@@ -27884,8 +27513,7 @@
         ]
     },
     {
-        "term": "rubing",
-        "roman_numeral": "II",
+        "term": "rubing II",
         "definitions": [
             {
                 "sense": "1",
@@ -27917,7 +27545,7 @@
         ]
     },
     {
-        "term": "rubung",
+        "term": "rubung; merubung, merubungi",
         "definitions": [
             {
                 "sense": "1",
@@ -27982,8 +27610,7 @@
         ]
     },
     {
-        "term": "rudu",
-        "roman_numeral": "I",
+        "term": "rudu I",
         "definitions": [
             {
                 "sense": "1",
@@ -28027,8 +27654,7 @@
         ]
     },
     {
-        "term": "rudus",
-        "roman_numeral": "I",
+        "term": "rudus I",
         "definitions": [
             {
                 "sense": "1",
@@ -28037,8 +27663,7 @@
         ]
     },
     {
-        "term": "rudus",
-        "roman_numeral": "II",
+        "term": "rudus II",
         "origin": "Kd",
         "definitions": [
             {
@@ -28201,7 +27826,7 @@
         ]
     },
     {
-        "term": "rujah",
+        "term": "rujah; merujah",
         "definitions": [
             {
                 "sense": "1",
@@ -28210,12 +27835,12 @@
         ]
     },
     {
-        "term": "ruji",
-        "roman_numeral": "I",
+        "term": "ruji I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl makanan harian yg utama (nasi dll):  beras ~; tanaman ~   tanaman bahan-bahan makanan yg utama."
+                "definition": "makanan harian yg utama (nasi dll):  beras ~; tanaman ~   tanaman bahan-bahan makanan yg utama."
             }
         ]
     },
@@ -28302,7 +27927,7 @@
         ]
     },
     {
-        "term": "rujuk",
+        "term": "rujuk silang",
         "definitions": [
             {
                 "sense": "1",
@@ -28341,7 +27966,7 @@
         ]
     },
     {
-        "term": "rukam",
+        "term": "rukam;",
         "definitions": [
             {
                 "sense": "1",
@@ -28370,7 +27995,7 @@
         ]
     },
     {
-        "term": "rukiah",
+        "term": "rukiah, rukiat",
         "origin": "Ar",
         "definitions": [
             {
@@ -28380,8 +28005,7 @@
         ]
     },
     {
-        "term": "ruku",
-        "roman_numeral": "I",
+        "term": "ruku I;",
         "definitions": [
             {
                 "sense": "1",
@@ -28390,8 +28014,7 @@
         ]
     },
     {
-        "term": "ruku",
-        "roman_numeral": "II",
+        "term": "ruku II; meruku",
         "definitions": [
             {
                 "sense": "1",
@@ -28524,7 +28147,7 @@
         ]
     },
     {
-        "term": "rulus",
+        "term": "rulus;",
         "definitions": [
             {
                 "sense": "1",
@@ -28533,8 +28156,7 @@
         ]
     },
     {
-        "term": "rum",
-        "roman_numeral": "I",
+        "term": "rum I",
         "origin": "IB",
         "definitions": [
             {
@@ -28544,8 +28166,7 @@
         ]
     },
     {
-        "term": "rum",
-        "roman_numeral": "II",
+        "term": "rum II",
         "definitions": [
             {
                 "sense": "1",
@@ -28703,8 +28324,7 @@
         ]
     },
     {
-        "term": "rumah",
-        "roman_numeral": "II",
+        "term": "rumah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -28713,7 +28333,7 @@
         ]
     },
     {
-        "term": "rumah",
+        "term": "rumah tangga",
         "definitions": [
             {
                 "sense": "1",
@@ -28777,8 +28397,7 @@
         ]
     },
     {
-        "term": "rumbai",
-        "roman_numeral": "I",
+        "term": "rumbai I",
         "definitions": [
             {
                 "sense": "1",
@@ -28807,8 +28426,7 @@
         ]
     },
     {
-        "term": "rumbai",
-        "roman_numeral": "II",
+        "term": "rumbai II",
         "definitions": [
             {
                 "sense": "1",
@@ -28836,8 +28454,7 @@
         ]
     },
     {
-        "term": "rumbu",
-        "roman_numeral": "I",
+        "term": "rumbu I",
         "definitions": [
             {
                 "sense": "1",
@@ -28874,8 +28491,7 @@
         ]
     },
     {
-        "term": "rumbu",
-        "roman_numeral": "III",
+        "term": "rumbu III; merumbu",
         "definitions": [
             {
                 "sense": "1",
@@ -28884,7 +28500,7 @@
         ]
     },
     {
-        "term": "rumbun",
+        "term": "rumbun; merumbun, merumbunkan;",
         "definitions": [
             {
                 "sense": "1",
@@ -29462,7 +29078,7 @@
         ]
     },
     {
-        "term": "rundu",
+        "term": "rundu;",
         "definitions": [
             {
                 "sense": "1",
@@ -29521,8 +29137,7 @@
         ]
     },
     {
-        "term": "rung",
-        "roman_numeral": "II",
+        "term": "rung II",
         "origin": "Kl",
         "definitions": [
             {
@@ -29532,7 +29147,7 @@
         ]
     },
     {
-        "term": "rungas",
+        "term": "rungas; berungas",
         "definitions": [
             {
                 "sense": "1",
@@ -29541,8 +29156,7 @@
         ]
     },
     {
-        "term": "runggas",
-        "roman_numeral": "I",
+        "term": "runggas I; merunggas",
         "definitions": [
             {
                 "sense": "1",
@@ -29551,8 +29165,7 @@
         ]
     },
     {
-        "term": "runggas",
-        "roman_numeral": "II",
+        "term": "runggas II; berunggas-runggas",
         "definitions": [
             {
                 "sense": "1",
@@ -29570,8 +29183,7 @@
         ]
     },
     {
-        "term": "runggu",
-        "roman_numeral": "I",
+        "term": "runggu I;",
         "definitions": [
             {
                 "sense": "1",
@@ -29580,8 +29192,7 @@
         ]
     },
     {
-        "term": "runggu",
-        "roman_numeral": "II",
+        "term": "runggu II",
         "origin": "Mn",
         "definitions": [
             {
@@ -29591,8 +29202,7 @@
         ]
     },
     {
-        "term": "rungguh",
-        "roman_numeral": "I",
+        "term": "rungguh I",
         "definitions": [
             {
                 "sense": "1",
@@ -29612,8 +29222,7 @@
         ]
     },
     {
-        "term": "rungguh",
-        "roman_numeral": "II",
+        "term": "rungguh II",
         "origin": "Mn",
         "definitions": [
             {
@@ -29632,7 +29241,7 @@
         ]
     },
     {
-        "term": "rungkai",
+        "term": "rungkai; merungkaikan",
         "definitions": [
             {
                 "sense": "1",
@@ -29641,7 +29250,7 @@
         ]
     },
     {
-        "term": "rungkap",
+        "term": "rungkap; merungkap",
         "definitions": [
             {
                 "sense": "1",
@@ -29650,7 +29259,7 @@
         ]
     },
     {
-        "term": "rungkas",
+        "term": "rungkas; merungkas",
         "definitions": [
             {
                 "sense": "1",
@@ -29726,8 +29335,7 @@
         ]
     },
     {
-        "term": "rungus",
-        "roman_numeral": "I",
+        "term": "rungus I",
         "origin": "Mn",
         "definitions": [
             {
@@ -29737,8 +29345,7 @@
         ]
     },
     {
-        "term": "Rungus",
-        "roman_numeral": "II",
+        "term": "Rungus II",
         "definitions": [
             {
                 "sense": "1",
@@ -29838,7 +29445,7 @@
         ]
     },
     {
-        "term": "runjun",
+        "term": "runjun; merunjun",
         "definitions": [
             {
                 "sense": "1",
@@ -29918,7 +29525,7 @@
         ]
     },
     {
-        "term": "runtai",
+        "term": "runtai; seruntai",
         "definitions": [
             {
                 "sense": "1",
@@ -29947,7 +29554,7 @@
         ]
     },
     {
-        "term": "runti",
+        "term": "runti; merunti",
         "definitions": [
             {
                 "sense": "1",
@@ -29956,7 +29563,7 @@
         ]
     },
     {
-        "term": "runtih",
+        "term": "runtih; meruntih",
         "definitions": [
             {
                 "sense": "1",
@@ -30090,8 +29697,7 @@
         ]
     },
     {
-        "term": "runtun",
-        "roman_numeral": "II",
+        "term": "runtun II; beruntun, beruntun-runtun",
         "definitions": [
             {
                 "sense": "1",
@@ -30111,8 +29717,7 @@
         ]
     },
     {
-        "term": "runtut",
-        "roman_numeral": "I",
+        "term": "runtut I",
         "origin": "Jw",
         "definitions": [
             {
@@ -30122,8 +29727,7 @@
         ]
     },
     {
-        "term": "runtut",
-        "roman_numeral": "II",
+        "term": "runtut II",
         "origin": "Jw",
         "definitions": [
             {
@@ -30186,7 +29790,7 @@
         ]
     },
     {
-        "term": "runyas",
+        "term": "runyas; merunyas",
         "definitions": [
             {
                 "sense": "1",
@@ -30559,7 +30163,7 @@
         ]
     },
     {
-        "term": "rupuh",
+        "term": "rupuh; merupuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -30586,8 +30190,7 @@
         ]
     },
     {
-        "term": "rurut",
-        "roman_numeral": "I",
+        "term": "rurut I",
         "origin": "Mn",
         "definitions": [
             {
@@ -30597,8 +30200,7 @@
         ]
     },
     {
-        "term": "rurut",
-        "roman_numeral": "II",
+        "term": "rurut II; merurut",
         "definitions": [
             {
                 "sense": "1",
@@ -30607,8 +30209,7 @@
         ]
     },
     {
-        "term": "rusa",
-        "roman_numeral": "I",
+        "term": "rusa I",
         "definitions": [
             {
                 "sense": "1",
@@ -30617,8 +30218,7 @@
         ]
     },
     {
-        "term": "rusa",
-        "roman_numeral": "II",
+        "term": "rusa II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30637,7 +30237,7 @@
         ]
     },
     {
-        "term": "rusih",
+        "term": "rusih;",
         "definitions": [
             {
                 "sense": "1",
@@ -30736,8 +30336,7 @@
         ]
     },
     {
-        "term": "rusuh",
-        "roman_numeral": "II",
+        "term": "rusuh II",
         "definitions": [
             {
                 "sense": "1",
@@ -30824,8 +30423,7 @@
         ]
     },
     {
-        "term": "rusuk",
-        "roman_numeral": "II",
+        "term": "rusuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -30834,8 +30432,7 @@
         ]
     },
     {
-        "term": "rut",
-        "roman_numeral": "I",
+        "term": "rut I",
         "definitions": [
             {
                 "sense": "1",
@@ -30844,8 +30441,7 @@
         ]
     },
     {
-        "term": "rut",
-        "roman_numeral": "II",
+        "term": "rut II",
         "origin": "Kl",
         "definitions": [
             {
@@ -30855,7 +30451,7 @@
         ]
     },
     {
-        "term": "rutai",
+        "term": "rutai; merutai",
         "definitions": [
             {
                 "sense": "1",
@@ -30918,7 +30514,7 @@
         ]
     },
     {
-        "term": "rutuk",
+        "term": "rutuk; merutuk",
         "definitions": [
             {
                 "sense": "1",
@@ -30996,8 +30592,7 @@
         ]
     },
     {
-        "term": "ruyung",
-        "roman_numeral": "I",
+        "term": "ruyung I",
         "definitions": [
             {
                 "sense": "1",

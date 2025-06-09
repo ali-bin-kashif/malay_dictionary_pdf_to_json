@@ -171,8 +171,7 @@
         ]
     },
     {
-        "term": "nada",
-        "roman_numeral": "II",
+        "term": "nada II",
         "origin": "Kl",
         "definitions": [
             {
@@ -220,8 +219,7 @@
         ]
     },
     {
-        "term": "nadir",
-        "roman_numeral": "I",
+        "term": "nadir I",
         "origin": "Ar",
         "definitions": [
             {
@@ -242,8 +240,7 @@
         ]
     },
     {
-        "term": "nadir",
-        "roman_numeral": "II",
+        "term": "nadir II",
         "definitions": [
             {
                 "sense": "1",
@@ -252,8 +249,7 @@
         ]
     },
     {
-        "term": "nadir",
-        "roman_numeral": "III",
+        "term": "nadir III",
         "definitions": [
             {
                 "sense": "1",
@@ -470,8 +466,7 @@
         ]
     },
     {
-        "term": "nafsi",
-        "roman_numeral": "II",
+        "term": "nafsi II",
         "origin": "Jk",
         "definitions": [
             {
@@ -561,8 +556,7 @@
         ]
     },
     {
-        "term": "naga",
-        "roman_numeral": "II",
+        "term": "naga II;",
         "definitions": [
             {
                 "sense": "1",
@@ -571,8 +565,7 @@
         ]
     },
     {
-        "term": "naga",
-        "roman_numeral": "III",
+        "term": "naga III;",
         "definitions": [
             {
                 "sense": "1",
@@ -601,8 +594,7 @@
         ]
     },
     {
-        "term": "nagara",
-        "roman_numeral": "I",
+        "term": "nagara I",
         "definitions": [
             {
                 "sense": "1",
@@ -611,8 +603,7 @@
         ]
     },
     {
-        "term": "nagara",
-        "roman_numeral": "II",
+        "term": "nagara II",
         "definitions": [
             {
                 "sense": "1",
@@ -630,8 +621,7 @@
         ]
     },
     {
-        "term": "nagasari",
-        "roman_numeral": "II",
+        "term": "nagasari II",
         "definitions": [
             {
                 "sense": "1",
@@ -946,7 +936,7 @@
         ]
     },
     {
-        "term": "najasah",
+        "term": "najasah, najasat",
         "origin": "Ar",
         "definitions": [
             {
@@ -1004,8 +994,7 @@
         ]
     },
     {
-        "term": "nak",
-        "roman_numeral": "I",
+        "term": "nak I",
         "definitions": [
             {
                 "sense": "1",
@@ -1014,8 +1003,7 @@
         ]
     },
     {
-        "term": "nak",
-        "roman_numeral": "II",
+        "term": "nak II",
         "definitions": [
             {
                 "sense": "1",
@@ -1165,8 +1153,7 @@
         ]
     },
     {
-        "term": "nalar",
-        "roman_numeral": "I",
+        "term": "nalar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1175,8 +1162,7 @@
         ]
     },
     {
-        "term": "nalar",
-        "roman_numeral": "II",
+        "term": "nalar II",
         "origin": "Ar",
         "definitions": [
             {
@@ -1186,8 +1172,7 @@
         ]
     },
     {
-        "term": "nalih",
-        "roman_numeral": "I",
+        "term": "nalih I",
         "definitions": [
             {
                 "sense": "1",
@@ -1196,8 +1181,7 @@
         ]
     },
     {
-        "term": "nalih",
-        "roman_numeral": "II",
+        "term": "nalih II",
         "definitions": [
             {
                 "sense": "1",
@@ -1624,8 +1608,7 @@
         ]
     },
     {
-        "term": "nanar",
-        "roman_numeral": "II",
+        "term": "nanar II",
         "origin": "Tr",
         "definitions": [
             {
@@ -1653,8 +1636,7 @@
         ]
     },
     {
-        "term": "nandung",
-        "roman_numeral": "I",
+        "term": "nandung I",
         "definitions": [
             {
                 "sense": "1",
@@ -1663,8 +1645,7 @@
         ]
     },
     {
-        "term": "nandung",
-        "roman_numeral": "II",
+        "term": "nandung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1673,7 +1654,7 @@
         ]
     },
     {
-        "term": "nanggal",
+        "term": "nanggal, nanggar",
         "origin": "Kl",
         "definitions": [
             {
@@ -1702,8 +1683,7 @@
         ]
     },
     {
-        "term": "nangka",
-        "roman_numeral": "I",
+        "term": "nangka I",
         "definitions": [
             {
                 "sense": "1",
@@ -1712,8 +1692,7 @@
         ]
     },
     {
-        "term": "nangka",
-        "roman_numeral": "II",
+        "term": "nangka II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1799,10 +1778,11 @@
     },
     {
         "term": "nantaboga",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj naga."
+                "definition": "sj naga."
             }
         ]
     },
@@ -1824,8 +1804,7 @@
         ]
     },
     {
-        "term": "nanti",
-        "roman_numeral": "II",
+        "term": "nanti II",
         "definitions": [
             {
                 "sense": "1",
@@ -2007,8 +1986,7 @@
         ]
     },
     {
-        "term": "nara",
-        "roman_numeral": "II",
+        "term": "nara II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2018,10 +1996,11 @@
     },
     {
         "term": "narapati",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl raja."
+                "definition": "raja."
             }
         ]
     },
@@ -2251,8 +2230,7 @@
         ]
     },
     {
-        "term": "nasi",
-        "roman_numeral": "II",
+        "term": "nasi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2261,8 +2239,7 @@
         ]
     },
     {
-        "term": "nasi",
-        "roman_numeral": "III",
+        "term": "nasi III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2424,7 +2401,7 @@
         ]
     },
     {
-        "term": "nasionalisir",
+        "term": "nasionalisir;",
         "definitions": [
             {
                 "sense": "1",
@@ -2540,8 +2517,7 @@
         ]
     },
     {
-        "term": "nat",
-        "roman_numeral": "I",
+        "term": "nat I",
         "definitions": [
             {
                 "sense": "1",
@@ -2550,8 +2526,7 @@
         ]
     },
     {
-        "term": "nat",
-        "roman_numeral": "II",
+        "term": "nat II",
         "origin": "Kd",
         "definitions": [
             {
@@ -2580,10 +2555,11 @@
     },
     {
         "term": "natang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tingkap (jendela) kecil."
+                "definition": "tingkap (jendela) kecil."
             }
         ]
     },
@@ -2821,7 +2797,7 @@
         ]
     },
     {
-        "term": "nauzubillah",
+        "term": "nauzubillah, nauzubillahi",
         "origin": "Ar",
         "definitions": [
             {
@@ -2884,10 +2860,11 @@
     },
     {
         "term": "nayaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pembesar negeri, menteri."
+                "definition": "pembesar negeri, menteri."
             }
         ]
     },
@@ -3041,8 +3018,7 @@
         ]
     },
     {
-        "term": "ndak",
-        "roman_numeral": "I",
+        "term": "ndak I",
         "definitions": [
             {
                 "sense": "1",
@@ -3051,8 +3027,7 @@
         ]
     },
     {
-        "term": "ndak",
-        "roman_numeral": "II",
+        "term": "ndak II",
         "definitions": [
             {
                 "sense": "1",
@@ -3252,8 +3227,7 @@
         ]
     },
     {
-        "term": "negara",
-        "roman_numeral": "II",
+        "term": "negara II",
         "definitions": [
             {
                 "sense": "1",
@@ -3410,7 +3384,7 @@
         ]
     },
     {
-        "term": "Negeri",
+        "term": "Negeri Sembilan",
         "definitions": [
             {
                 "sense": "1",
@@ -3676,7 +3650,7 @@
         ]
     },
     {
-        "term": "nenek",
+        "term": "nenek moyang",
         "definitions": [
             {
                 "sense": "1",
@@ -3696,7 +3670,7 @@
         ]
     },
     {
-        "term": "neneri",
+        "term": "neneri, nenering",
         "definitions": [
             {
                 "sense": "1",
@@ -3762,10 +3736,11 @@
     },
     {
         "term": "nentiasa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sentiasa, senantiasa."
+                "definition": "sentiasa, senantiasa."
             }
         ]
     },
@@ -4389,16 +4364,16 @@
     },
     {
         "term": "ngadap",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl mengadap;     hadap ."
+                "definition": "mengadap;     hadap ."
             }
         ]
     },
     {
-        "term": "ngah",
-        "roman_numeral": "I",
+        "term": "ngah I",
         "definitions": [
             {
                 "sense": "1",
@@ -4407,8 +4382,7 @@
         ]
     },
     {
-        "term": "ngah",
-        "roman_numeral": "II",
+        "term": "ngah II; terngah-ngah",
         "definitions": [
             {
                 "sense": "1",
@@ -4417,8 +4391,7 @@
         ]
     },
     {
-        "term": "ngah",
-        "roman_numeral": "III",
+        "term": "ngah III",
         "origin": "Jk",
         "definitions": [
             {
@@ -4582,7 +4555,7 @@
         ]
     },
     {
-        "term": "ngangut",
+        "term": "ngangut; mengangut",
         "definitions": [
             {
                 "sense": "1",
@@ -4600,8 +4573,7 @@
         ]
     },
     {
-        "term": "ngap",
-        "roman_numeral": "I",
+        "term": "ngap I",
         "definitions": [
             {
                 "sense": "1",
@@ -4621,8 +4593,7 @@
         ]
     },
     {
-        "term": "ngap",
-        "roman_numeral": "II",
+        "term": "ngap II; mengap",
         "origin": "Pr",
         "definitions": [
             {
@@ -4632,8 +4603,7 @@
         ]
     },
     {
-        "term": "ngap",
-        "roman_numeral": "III",
+        "term": "ngap III",
         "definitions": [
             {
                 "sense": "1",
@@ -4671,8 +4641,7 @@
         ]
     },
     {
-        "term": "ngarai",
-        "roman_numeral": "I",
+        "term": "ngarai I",
         "origin": "(Geog)",
         "definitions": [
             {
@@ -4701,7 +4670,7 @@
         ]
     },
     {
-        "term": "ngaum",
+        "term": "ngaum; ngauman",
         "definitions": [
             {
                 "sense": "1",
@@ -4740,8 +4709,7 @@
         ]
     },
     {
-        "term": "ngayau",
-        "roman_numeral": "I",
+        "term": "ngayau I; mengayau",
         "definitions": [
             {
                 "sense": "1",
@@ -5014,7 +4982,7 @@
         ]
     },
     {
-        "term": "ngerung",
+        "term": "ngerung;",
         "definitions": [
             {
                 "sense": "1",
@@ -5056,8 +5024,7 @@
         ]
     },
     {
-        "term": "ngiang",
-        "roman_numeral": "II",
+        "term": "ngiang II; si ngiang-ngiang",
         "definitions": [
             {
                 "sense": "1",
@@ -5084,7 +5051,7 @@
         ]
     },
     {
-        "term": "ngidem",
+        "term": "ngidem;",
         "definitions": [
             {
                 "sense": "1",
@@ -5093,7 +5060,7 @@
         ]
     },
     {
-        "term": "ngih",
+        "term": "ngih; mengih",
         "definitions": [
             {
                 "sense": "1",
@@ -5102,7 +5069,7 @@
         ]
     },
     {
-        "term": "ngijo",
+        "term": "ngijo, ngijon",
         "definitions": [
             {
                 "sense": "1",
@@ -5173,10 +5140,11 @@
     },
     {
         "term": "ngiring",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl mengiring."
+                "definition": "mengiring."
             }
         ]
     },
@@ -5208,7 +5176,7 @@
         ]
     },
     {
-        "term": "ngombin",
+        "term": "ngombin;",
         "definitions": [
             {
                 "sense": "1",
@@ -5330,7 +5298,7 @@
         ]
     },
     {
-        "term": "ngumpet",
+        "term": "ngumpet; mengumpet",
         "definitions": [
             {
                 "sense": "1",
@@ -5379,8 +5347,7 @@
         ]
     },
     {
-        "term": "ni",
-        "roman_numeral": "I",
+        "term": "ni I",
         "definitions": [
             {
                 "sense": "1",
@@ -5389,8 +5356,7 @@
         ]
     },
     {
-        "term": "ni",
-        "roman_numeral": "II",
+        "term": "ni II",
         "definitions": [
             {
                 "sense": "1",
@@ -5399,8 +5365,7 @@
         ]
     },
     {
-        "term": "ni",
-        "roman_numeral": "III",
+        "term": "ni III",
         "origin": "Mn",
         "definitions": [
             {
@@ -5410,8 +5375,7 @@
         ]
     },
     {
-        "term": "ni",
-        "roman_numeral": "IV",
+        "term": "ni IV",
         "origin": "Kd",
         "definitions": [
             {
@@ -5614,10 +5578,11 @@
     },
     {
         "term": "nidera",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl terlena, nyedar, nyenyak."
+                "definition": "terlena, nyedar, nyenyak."
             }
         ]
     },
@@ -5978,8 +5943,7 @@
         ]
     },
     {
-        "term": "nilam",
-        "roman_numeral": "I",
+        "term": "nilam I;",
         "definitions": [
             {
                 "sense": "1",
@@ -5988,8 +5952,7 @@
         ]
     },
     {
-        "term": "nilam",
-        "roman_numeral": "II",
+        "term": "nilam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5998,8 +5961,7 @@
         ]
     },
     {
-        "term": "nilam",
-        "roman_numeral": "III",
+        "term": "nilam III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6036,7 +5998,7 @@
         ]
     },
     {
-        "term": "nilur",
+        "term": "nilur;",
         "definitions": [
             {
                 "sense": "1",
@@ -6065,10 +6027,11 @@
     },
     {
         "term": "nin",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl ini."
+                "definition": "ini."
             }
         ]
     },
@@ -6101,8 +6064,7 @@
         ]
     },
     {
-        "term": "ning",
-        "roman_numeral": "I",
+        "term": "ning I",
         "definitions": [
             {
                 "sense": "1",
@@ -6111,8 +6073,7 @@
         ]
     },
     {
-        "term": "ning",
-        "roman_numeral": "II",
+        "term": "ning II",
         "origin": "Pr",
         "definitions": [
             {
@@ -6198,8 +6159,7 @@
         ]
     },
     {
-        "term": "nipis",
-        "roman_numeral": "I",
+        "term": "nipis I",
         "definitions": [
             {
                 "sense": "1",
@@ -6246,8 +6206,7 @@
         ]
     },
     {
-        "term": "nipis",
-        "roman_numeral": "II",
+        "term": "nipis II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6256,8 +6215,7 @@
         ]
     },
     {
-        "term": "nipis",
-        "roman_numeral": "III",
+        "term": "nipis III",
         "definitions": [
             {
                 "sense": "1",
@@ -6286,10 +6244,11 @@
     },
     {
         "term": "nirmala",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tidak bernoda (cemar), bersih, suci."
+                "definition": "tidak bernoda (cemar), bersih, suci."
             }
         ]
     },
@@ -6313,8 +6272,7 @@
         ]
     },
     {
-        "term": "nisab",
-        "roman_numeral": "I",
+        "term": "nisab I",
         "origin": "Ar",
         "definitions": [
             {
@@ -6324,8 +6282,7 @@
         ]
     },
     {
-        "term": "nisab",
-        "roman_numeral": "II",
+        "term": "nisab II",
         "origin": "Ar",
         "definitions": [
             {
@@ -6344,8 +6301,7 @@
         ]
     },
     {
-        "term": "nisbah",
-        "roman_numeral": "I",
+        "term": "nisbah I",
         "origin": "Ar",
         "definitions": [
             {
@@ -6355,8 +6311,7 @@
         ]
     },
     {
-        "term": "nisbah",
-        "roman_numeral": "II",
+        "term": "nisbah II",
         "definitions": [
             {
                 "sense": "1",
@@ -6918,8 +6873,7 @@
         ]
     },
     {
-        "term": "non",
-        "roman_numeral": "I",
+        "term": "non I",
         "origin": "Id",
         "definitions": [
             {
@@ -6929,8 +6883,7 @@
         ]
     },
     {
-        "term": "non",
-        "roman_numeral": "II",
+        "term": "non II",
         "origin": "Id",
         "definitions": [
             {
@@ -6940,8 +6893,7 @@
         ]
     },
     {
-        "term": "nona",
-        "roman_numeral": "I",
+        "term": "nona I",
         "origin": "Id",
         "definitions": [
             {
@@ -6951,8 +6903,7 @@
         ]
     },
     {
-        "term": "nona",
-        "roman_numeral": "II",
+        "term": "nona II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7075,7 +7026,7 @@
         ]
     },
     {
-        "term": "nonong",
+        "term": "nonong; menonong, ternonong-nonong",
         "definitions": [
             {
                 "sense": "1",
@@ -7223,8 +7174,7 @@
         ]
     },
     {
-        "term": "not",
-        "roman_numeral": "II",
+        "term": "not II",
         "definitions": [
             {
                 "sense": "1",
@@ -7233,8 +7183,7 @@
         ]
     },
     {
-        "term": "not",
-        "roman_numeral": "III",
+        "term": "not III",
         "definitions": [
             {
                 "sense": "1",
@@ -7264,7 +7213,7 @@
         ]
     },
     {
-        "term": "nota",
+        "term": "nota bene",
         "definitions": [
             {
                 "sense": "1",
@@ -7283,7 +7232,7 @@
         ]
     },
     {
-        "term": "notari",
+        "term": "notari;",
         "definitions": [
             {
                 "sense": "1",
@@ -7777,8 +7726,7 @@
         ]
     },
     {
-        "term": "nun",
-        "roman_numeral": "I",
+        "term": "nun I;",
         "definitions": [
             {
                 "sense": "1",
@@ -7787,8 +7735,7 @@
         ]
     },
     {
-        "term": "nun",
-        "roman_numeral": "II",
+        "term": "nun II",
         "definitions": [
             {
                 "sense": "1",
@@ -7810,8 +7757,7 @@
         ]
     },
     {
-        "term": "nung",
-        "roman_numeral": "I",
+        "term": "nung I",
         "definitions": [
             {
                 "sense": "1",
@@ -7820,8 +7766,7 @@
         ]
     },
     {
-        "term": "nung",
-        "roman_numeral": "II",
+        "term": "nung II",
         "definitions": [
             {
                 "sense": "1",
@@ -7889,8 +7834,7 @@
         ]
     },
     {
-        "term": "nuri",
-        "roman_numeral": "I",
+        "term": "nuri I",
         "definitions": [
             {
                 "sense": "1",
@@ -7899,8 +7843,7 @@
         ]
     },
     {
-        "term": "nuri",
-        "roman_numeral": "II",
+        "term": "nuri II",
         "definitions": [
             {
                 "sense": "1",
@@ -7931,7 +7874,7 @@
         ]
     },
     {
-        "term": "nus",
+        "term": "nus;",
         "definitions": [
             {
                 "sense": "1",
@@ -8052,8 +7995,7 @@
         ]
     },
     {
-        "term": "nya",
-        "roman_numeral": "I",
+        "term": "nya I",
         "definitions": [
             {
                 "sense": "1",
@@ -8140,7 +8082,7 @@
         ]
     },
     {
-        "term": "nyahasli",
+        "term": "nyahasli; penyahaslian",
         "origin": "(Bio)",
         "definitions": [
             {
@@ -8159,7 +8101,7 @@
         ]
     },
     {
-        "term": "nyahhutan",
+        "term": "nyahhutan; penyahhutanan",
         "definitions": [
             {
                 "sense": "1",
@@ -8220,7 +8162,7 @@
         ]
     },
     {
-        "term": "nyahtentera",
+        "term": "nyahtentera; menyahtenterakan",
         "definitions": [
             {
                 "sense": "1",
@@ -8229,7 +8171,7 @@
         ]
     },
     {
-        "term": "nyahtoksik",
+        "term": "nyahtoksik; menyahtoksikkan",
         "definitions": [
             {
                 "sense": "1",
@@ -8249,7 +8191,7 @@
         ]
     },
     {
-        "term": "nyahwarna",
+        "term": "nyahwarna; menyahwarnakan",
         "definitions": [
             {
                 "sense": "1",
@@ -8295,7 +8237,7 @@
         ]
     },
     {
-        "term": "nyala",
+        "term": "nyala;",
         "definitions": [
             {
                 "sense": "1",
@@ -8462,8 +8404,7 @@
         ]
     },
     {
-        "term": "nyaman",
-        "roman_numeral": "II",
+        "term": "nyaman II",
         "origin": "Br",
         "definitions": [
             {
@@ -8575,7 +8516,7 @@
         ]
     },
     {
-        "term": "nyanyah",
+        "term": "nyanyah; menyanyah",
         "definitions": [
             {
                 "sense": "1",
@@ -8776,7 +8717,7 @@
         ]
     },
     {
-        "term": "nyaris",
+        "term": "nyaris, nyaris-nyaris",
         "definitions": [
             {
                 "sense": "1",
@@ -9333,7 +9274,7 @@
         ]
     },
     {
-        "term": "nyonyong",
+        "term": "nyonyong; menyonyong",
         "definitions": [
             {
                 "sense": "1",
@@ -9360,8 +9301,7 @@
         ]
     },
     {
-        "term": "nyunyut",
-        "roman_numeral": "I",
+        "term": "nyunyut I; menyunyut",
         "definitions": [
             {
                 "sense": "1",
@@ -9370,8 +9310,7 @@
         ]
     },
     {
-        "term": "nyunyut",
-        "roman_numeral": "II",
+        "term": "nyunyut II; menyunyut",
         "definitions": [
             {
                 "sense": "1",
@@ -9380,8 +9319,7 @@
         ]
     },
     {
-        "term": "nyunyut",
-        "roman_numeral": "III",
+        "term": "nyunyut III",
         "origin": "Kl",
         "definitions": [
             {

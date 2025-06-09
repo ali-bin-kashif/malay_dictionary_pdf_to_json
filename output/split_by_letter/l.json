@@ -1,7 +1,6 @@
 [
     {
-        "term": "l",
-        "roman_numeral": "I",
+        "term": "l I",
         "definitions": [
             {
                 "sense": "1",
@@ -10,8 +9,7 @@
         ]
     },
     {
-        "term": "l",
-        "roman_numeral": "II",
+        "term": "l II",
         "definitions": [
             {
                 "sense": "1",
@@ -20,8 +18,7 @@
         ]
     },
     {
-        "term": "la",
-        "roman_numeral": "I",
+        "term": "la I",
         "origin": "Kd",
         "definitions": [
             {
@@ -31,8 +28,7 @@
         ]
     },
     {
-        "term": "la",
-        "roman_numeral": "II",
+        "term": "la II",
         "definitions": [
             {
                 "sense": "1",
@@ -41,8 +37,7 @@
         ]
     },
     {
-        "term": "la",
-        "roman_numeral": "III",
+        "term": "la III",
         "definitions": [
             {
                 "sense": "1",
@@ -140,8 +135,7 @@
         ]
     },
     {
-        "term": "labak",
-        "roman_numeral": "II",
+        "term": "labak II",
         "definitions": [
             {
                 "sense": "1",
@@ -150,8 +144,7 @@
         ]
     },
     {
-        "term": "labang",
-        "roman_numeral": "I",
+        "term": "labang I",
         "definitions": [
             {
                 "sense": "1",
@@ -160,18 +153,17 @@
         ]
     },
     {
-        "term": "labang",
-        "roman_numeral": "II",
+        "term": "labang II; melabang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl berjalan tidak tentu hala:  ~lah puteri itu masuk  hutan, keluar hutan, masuk padang, keluar padang."
+                "definition": "berjalan tidak tentu hala:  ~lah puteri itu masuk  hutan, keluar hutan, masuk padang, keluar padang."
             }
         ]
     },
     {
-        "term": "labang",
-        "roman_numeral": "III",
+        "term": "labang III",
         "origin": "Mn",
         "definitions": [
             {
@@ -181,8 +173,7 @@
         ]
     },
     {
-        "term": "labang",
-        "roman_numeral": "IV",
+        "term": "labang IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -423,7 +414,7 @@
         ]
     },
     {
-        "term": "la",
+        "term": "la bud, la budda",
         "origin": "Ar",
         "definitions": [
             {
@@ -495,8 +486,7 @@
         ]
     },
     {
-        "term": "labuh",
-        "roman_numeral": "II",
+        "term": "labuh II",
         "origin": "Kd",
         "definitions": [
             {
@@ -506,7 +496,7 @@
         ]
     },
     {
-        "term": "labun",
+        "term": "labun; berlabun, berlabun-labun",
         "definitions": [
             {
                 "sense": "1",
@@ -526,8 +516,7 @@
         ]
     },
     {
-        "term": "labur",
-        "roman_numeral": "I",
+        "term": "labur I; melabur",
         "definitions": [
             {
                 "sense": "1",
@@ -586,8 +575,7 @@
         ]
     },
     {
-        "term": "labur",
-        "roman_numeral": "III",
+        "term": "labur III; kelaburan",
         "definitions": [
             {
                 "sense": "1",
@@ -596,8 +584,7 @@
         ]
     },
     {
-        "term": "labut",
-        "roman_numeral": "I",
+        "term": "labut I",
         "definitions": [
             {
                 "sense": "1",
@@ -606,8 +593,7 @@
         ]
     },
     {
-        "term": "labut",
-        "roman_numeral": "II",
+        "term": "labut II",
         "origin": "Kl",
         "definitions": [
             {
@@ -617,8 +603,7 @@
         ]
     },
     {
-        "term": "lacak",
-        "roman_numeral": "I",
+        "term": "lacak I; melacak, belacak",
         "definitions": [
             {
                 "sense": "1",
@@ -627,8 +612,7 @@
         ]
     },
     {
-        "term": "lacak",
-        "roman_numeral": "II",
+        "term": "lacak II; melacak",
         "definitions": [
             {
                 "sense": "1",
@@ -843,7 +827,7 @@
         ]
     },
     {
-        "term": "ladan",
+        "term": "ladan;",
         "definitions": [
             {
                 "sense": "1",
@@ -949,7 +933,7 @@
         ]
     },
     {
-        "term": "ladi",
+        "term": "ladi;",
         "definitions": [
             {
                 "sense": "1",
@@ -967,8 +951,7 @@
         ]
     },
     {
-        "term": "lading",
-        "roman_numeral": "I",
+        "term": "lading I;",
         "definitions": [
             {
                 "sense": "1",
@@ -977,8 +960,7 @@
         ]
     },
     {
-        "term": "lading",
-        "roman_numeral": "II",
+        "term": "lading II;",
         "definitions": [
             {
                 "sense": "1",
@@ -987,8 +969,7 @@
         ]
     },
     {
-        "term": "lading",
-        "roman_numeral": "III",
+        "term": "lading III",
         "origin": "IB",
         "definitions": [
             {
@@ -998,8 +979,7 @@
         ]
     },
     {
-        "term": "ladu",
-        "roman_numeral": "I",
+        "term": "ladu I",
         "origin": "Jw",
         "definitions": [
             {
@@ -1009,8 +989,7 @@
         ]
     },
     {
-        "term": "ladu",
-        "roman_numeral": "II",
+        "term": "ladu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1019,8 +998,7 @@
         ]
     },
     {
-        "term": "ladung",
-        "roman_numeral": "I",
+        "term": "ladung I",
         "definitions": [
             {
                 "sense": "1",
@@ -1049,8 +1027,7 @@
         ]
     },
     {
-        "term": "ladung",
-        "roman_numeral": "II",
+        "term": "ladung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1206,8 +1183,7 @@
         ]
     },
     {
-        "term": "laga",
-        "roman_numeral": "II",
+        "term": "laga II",
         "origin": "Jw",
         "definitions": [
             {
@@ -1217,8 +1193,7 @@
         ]
     },
     {
-        "term": "laga",
-        "roman_numeral": "III",
+        "term": "laga III;",
         "definitions": [
             {
                 "sense": "1",
@@ -1299,8 +1274,7 @@
         ]
     },
     {
-        "term": "lagam",
-        "roman_numeral": "I",
+        "term": "lagam I",
         "definitions": [
             {
                 "sense": "1",
@@ -1309,8 +1283,7 @@
         ]
     },
     {
-        "term": "lagam",
-        "roman_numeral": "II",
+        "term": "lagam II",
         "definitions": [
             {
                 "sense": "1",
@@ -1319,8 +1292,7 @@
         ]
     },
     {
-        "term": "lagan",
-        "roman_numeral": "I",
+        "term": "lagan I",
         "origin": "Id",
         "definitions": [
             {
@@ -1330,8 +1302,7 @@
         ]
     },
     {
-        "term": "lagan",
-        "roman_numeral": "II",
+        "term": "lagan II",
         "origin": "Id",
         "definitions": [
             {
@@ -1341,7 +1312,7 @@
         ]
     },
     {
-        "term": "lagang",
+        "term": "lagang; melagang, melagangkan",
         "definitions": [
             {
                 "sense": "1",
@@ -1527,7 +1498,7 @@
         ]
     },
     {
-        "term": "laguh",
+        "term": "laguh;",
         "definitions": [
             {
                 "sense": "1",
@@ -1563,8 +1534,7 @@
         ]
     },
     {
-        "term": "lah",
-        "roman_numeral": "I",
+        "term": "lah I",
         "definitions": [
             {
                 "sense": "1",
@@ -1573,8 +1543,7 @@
         ]
     },
     {
-        "term": "lah",
-        "roman_numeral": "II",
+        "term": "lah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -1584,8 +1553,7 @@
         ]
     },
     {
-        "term": "lah",
-        "roman_numeral": "III",
+        "term": "lah III;",
         "definitions": [
             {
                 "sense": "1",
@@ -1613,8 +1581,7 @@
         ]
     },
     {
-        "term": "lahak",
-        "roman_numeral": "I",
+        "term": "lahak I",
         "origin": "Mn",
         "definitions": [
             {
@@ -1624,8 +1591,7 @@
         ]
     },
     {
-        "term": "lahak",
-        "roman_numeral": "II",
+        "term": "lahak II",
         "origin": "Kd",
         "definitions": [
             {
@@ -1635,8 +1601,7 @@
         ]
     },
     {
-        "term": "lahak",
-        "roman_numeral": "III",
+        "term": "lahak III",
         "origin": "Kd",
         "definitions": [
             {
@@ -1703,8 +1668,7 @@
         ]
     },
     {
-        "term": "lahar",
-        "roman_numeral": "I",
+        "term": "lahar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1724,8 +1688,7 @@
         ]
     },
     {
-        "term": "lahar",
-        "roman_numeral": "II",
+        "term": "lahar II",
         "origin": "Kl",
         "definitions": [
             {
@@ -1850,8 +1813,7 @@
         ]
     },
     {
-        "term": "lai",
-        "roman_numeral": "I",
+        "term": "lai I",
         "definitions": [
             {
                 "sense": "1",
@@ -1860,8 +1822,7 @@
         ]
     },
     {
-        "term": "lai",
-        "roman_numeral": "II",
+        "term": "lai II",
         "definitions": [
             {
                 "sense": "1",
@@ -1909,7 +1870,7 @@
         ]
     },
     {
-        "term": "lailah",
+        "term": "lailah, lailat",
         "origin": "Ar",
         "definitions": [
             {
@@ -2064,8 +2025,7 @@
         ]
     },
     {
-        "term": "lais",
-        "roman_numeral": "I",
+        "term": "lais I; melais",
         "definitions": [
             {
                 "sense": "1",
@@ -2074,8 +2034,7 @@
         ]
     },
     {
-        "term": "lais",
-        "roman_numeral": "II",
+        "term": "lais II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2084,8 +2043,7 @@
         ]
     },
     {
-        "term": "lais",
-        "roman_numeral": "III",
+        "term": "lais III",
         "definitions": [
             {
                 "sense": "1",
@@ -2158,8 +2116,7 @@
         ]
     },
     {
-        "term": "lajak",
-        "roman_numeral": "II",
+        "term": "lajak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2168,8 +2125,7 @@
         ]
     },
     {
-        "term": "lajang",
-        "roman_numeral": "I",
+        "term": "lajang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -2178,8 +2134,7 @@
         ]
     },
     {
-        "term": "lajang",
-        "roman_numeral": "II",
+        "term": "lajang II; melajang",
         "origin": "Mn",
         "definitions": [
             {
@@ -2276,8 +2231,7 @@
         ]
     },
     {
-        "term": "laju",
-        "roman_numeral": "II",
+        "term": "laju II",
         "definitions": [
             {
                 "sense": "1",
@@ -2487,8 +2441,7 @@
         ]
     },
     {
-        "term": "laki",
-        "roman_numeral": "I",
+        "term": "laki I",
         "definitions": [
             {
                 "sense": "1",
@@ -2535,8 +2488,7 @@
         ]
     },
     {
-        "term": "laki",
-        "roman_numeral": "II",
+        "term": "laki II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2734,8 +2686,7 @@
         ]
     },
     {
-        "term": "laksa",
-        "roman_numeral": "I",
+        "term": "laksa I",
         "definitions": [
             {
                 "sense": "1",
@@ -3078,8 +3029,7 @@
         ]
     },
     {
-        "term": "lakum",
-        "roman_numeral": "II",
+        "term": "lakum II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3136,8 +3086,7 @@
         ]
     },
     {
-        "term": "lala",
-        "roman_numeral": "I",
+        "term": "lala I",
         "definitions": [
             {
                 "sense": "1",
@@ -3146,8 +3095,7 @@
         ]
     },
     {
-        "term": "lala",
-        "roman_numeral": "II",
+        "term": "lala II; melala",
         "definitions": [
             {
                 "sense": "1",
@@ -3156,18 +3104,17 @@
         ]
     },
     {
-        "term": "lala",
-        "roman_numeral": "III",
+        "term": "lala III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lagu (yg dinyanyikan):  masing-masing pun duduklah memujuk  rayu dodoikan ~ supaya Pangkulun beradu segera."
+                "definition": "lagu (yg dinyanyikan):  masing-masing pun duduklah memujuk  rayu dodoikan ~ supaya Pangkulun beradu segera."
             }
         ]
     },
     {
-        "term": "lala",
-        "roman_numeral": "IV",
+        "term": "lala IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -3177,8 +3124,7 @@
         ]
     },
     {
-        "term": "lalah",
-        "roman_numeral": "I",
+        "term": "lalah I",
         "definitions": [
             {
                 "sense": "1",
@@ -3198,8 +3144,7 @@
         ]
     },
     {
-        "term": "lalah",
-        "roman_numeral": "II",
+        "term": "lalah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3326,8 +3271,7 @@
         ]
     },
     {
-        "term": "lalai",
-        "roman_numeral": "II",
+        "term": "lalai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3336,8 +3280,7 @@
         ]
     },
     {
-        "term": "lalak",
-        "roman_numeral": "I",
+        "term": "lalak I",
         "definitions": [
             {
                 "sense": "1",
@@ -3370,7 +3313,7 @@
         ]
     },
     {
-        "term": "lalalat",
+        "term": "lalalat ",
         "definitions": [
             {
                 "sense": "1",
@@ -3389,8 +3332,7 @@
         ]
     },
     {
-        "term": "lalang",
-        "roman_numeral": "I",
+        "term": "lalang I",
         "definitions": [
             {
                 "sense": "1",
@@ -3410,8 +3352,7 @@
         ]
     },
     {
-        "term": "lalang",
-        "roman_numeral": "II",
+        "term": "lalang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3420,8 +3361,7 @@
         ]
     },
     {
-        "term": "lalang",
-        "roman_numeral": "III",
+        "term": "lalang III",
         "definitions": [
             {
                 "sense": "1",
@@ -3430,8 +3370,7 @@
         ]
     },
     {
-        "term": "lalang",
-        "roman_numeral": "IV",
+        "term": "lalang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -3440,8 +3379,7 @@
         ]
     },
     {
-        "term": "lalap",
-        "roman_numeral": "I",
+        "term": "lalap I",
         "definitions": [
             {
                 "sense": "1",
@@ -3461,8 +3399,7 @@
         ]
     },
     {
-        "term": "lalap",
-        "roman_numeral": "II",
+        "term": "lalap II",
         "origin": "Br",
         "definitions": [
             {
@@ -3486,8 +3423,7 @@
         ]
     },
     {
-        "term": "lalat",
-        "roman_numeral": "I",
+        "term": "lalat I",
         "definitions": [
             {
                 "sense": "1",
@@ -3507,8 +3443,7 @@
         ]
     },
     {
-        "term": "lalat",
-        "roman_numeral": "II",
+        "term": "lalat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3517,8 +3452,7 @@
         ]
     },
     {
-        "term": "lalat",
-        "roman_numeral": "III",
+        "term": "lalat III;",
         "definitions": [
             {
                 "sense": "1",
@@ -3527,11 +3461,12 @@
         ]
     },
     {
-        "term": "lalau",
+        "term": "lalau; melalau",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl membatasi, menghalang-halangi, menyekat;"
+                "definition": "membatasi, menghalang-halangi, menyekat;"
             }
         ],
         "sub_terms": [
@@ -3616,8 +3551,7 @@
         ]
     },
     {
-        "term": "lali",
-        "roman_numeral": "II",
+        "term": "lali II",
         "definitions": [
             {
                 "sense": "1",
@@ -3824,8 +3758,7 @@
         ]
     },
     {
-        "term": "lalu",
-        "roman_numeral": "II",
+        "term": "lalu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3847,7 +3780,7 @@
         ]
     },
     {
-        "term": "lalut",
+        "term": "lalut; melalut",
         "definitions": [
             {
                 "sense": "1",
@@ -4000,8 +3933,7 @@
         ]
     },
     {
-        "term": "lama",
-        "roman_numeral": "II",
+        "term": "lama II",
         "definitions": [
             {
                 "sense": "1",
@@ -4010,7 +3942,7 @@
         ]
     },
     {
-        "term": "lamai",
+        "term": "lamai;",
         "definitions": [
             {
                 "sense": "1",
@@ -4165,8 +4097,7 @@
         ]
     },
     {
-        "term": "lambai",
-        "roman_numeral": "II",
+        "term": "lambai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4175,8 +4106,7 @@
         ]
     },
     {
-        "term": "lambai",
-        "roman_numeral": "III",
+        "term": "lambai III",
         "definitions": [
             {
                 "sense": "1",
@@ -4185,8 +4115,7 @@
         ]
     },
     {
-        "term": "lambai",
-        "roman_numeral": "IV",
+        "term": "lambai IV",
         "definitions": [
             {
                 "sense": "1",
@@ -4488,8 +4417,7 @@
         ]
     },
     {
-        "term": "lambuk",
-        "roman_numeral": "I",
+        "term": "lambuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -4513,8 +4441,7 @@
         ]
     },
     {
-        "term": "lambuk",
-        "roman_numeral": "II",
+        "term": "lambuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -4523,8 +4450,7 @@
         ]
     },
     {
-        "term": "lambuk",
-        "roman_numeral": "III",
+        "term": "lambuk III;",
         "definitions": [
             {
                 "sense": "1",
@@ -4533,8 +4459,7 @@
         ]
     },
     {
-        "term": "lambuk",
-        "roman_numeral": "IV",
+        "term": "lambuk IV",
         "definitions": [
             {
                 "sense": "1",
@@ -4556,8 +4481,7 @@
         ]
     },
     {
-        "term": "lambung",
-        "roman_numeral": "I",
+        "term": "lambung I",
         "definitions": [
             {
                 "sense": "1",
@@ -4620,8 +4544,7 @@
         ]
     },
     {
-        "term": "lambung",
-        "roman_numeral": "II",
+        "term": "lambung II",
         "definitions": [
             {
                 "sense": "1",
@@ -4654,8 +4577,7 @@
         ]
     },
     {
-        "term": "lambung",
-        "roman_numeral": "III",
+        "term": "lambung III",
         "origin": "Mn",
         "definitions": [
             {
@@ -4665,8 +4587,7 @@
         ]
     },
     {
-        "term": "lambung",
-        "roman_numeral": "IV",
+        "term": "lambung IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -4675,7 +4596,7 @@
         ]
     },
     {
-        "term": "lambung-lambung",
+        "term": "lambung-lambung;",
         "definitions": [
             {
                 "sense": "1",
@@ -4684,8 +4605,7 @@
         ]
     },
     {
-        "term": "lambur",
-        "roman_numeral": "I",
+        "term": "lambur I",
         "definitions": [
             {
                 "sense": "1",
@@ -4694,8 +4614,7 @@
         ]
     },
     {
-        "term": "lambur",
-        "roman_numeral": "II",
+        "term": "lambur II",
         "origin": "Pr",
         "definitions": [
             {
@@ -4705,8 +4624,7 @@
         ]
     },
     {
-        "term": "lambut",
-        "roman_numeral": "I",
+        "term": "lambut I; melambut",
         "definitions": [
             {
                 "sense": "1",
@@ -4715,8 +4633,7 @@
         ]
     },
     {
-        "term": "lambut",
-        "roman_numeral": "II",
+        "term": "lambut II",
         "origin": "Pr",
         "definitions": [
             {
@@ -4788,7 +4705,7 @@
         ]
     },
     {
-        "term": "lamina",
+        "term": "lamina, laminah;",
         "definitions": [
             {
                 "sense": "1",
@@ -4797,8 +4714,7 @@
         ]
     },
     {
-        "term": "lampai",
-        "roman_numeral": "I",
+        "term": "lampai I",
         "definitions": [
             {
                 "sense": "1",
@@ -4822,8 +4738,7 @@
         ]
     },
     {
-        "term": "lampai",
-        "roman_numeral": "II",
+        "term": "lampai II",
         "definitions": [
             {
                 "sense": "1",
@@ -4911,8 +4826,7 @@
         ]
     },
     {
-        "term": "lampas",
-        "roman_numeral": "I",
+        "term": "lampas I",
         "definitions": [
             {
                 "sense": "1",
@@ -4944,8 +4858,7 @@
         ]
     },
     {
-        "term": "lampas",
-        "roman_numeral": "II",
+        "term": "lampas II",
         "definitions": [
             {
                 "sense": "1",
@@ -5137,8 +5050,7 @@
         ]
     },
     {
-        "term": "lampin",
-        "roman_numeral": "II",
+        "term": "lampin II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5291,7 +5203,7 @@
         ]
     },
     {
-        "term": "lampung",
+        "term": "lampung; melampung",
         "definitions": [
             {
                 "sense": "1",
@@ -5346,8 +5258,7 @@
         ]
     },
     {
-        "term": "lamun",
-        "roman_numeral": "II",
+        "term": "lamun II; melamun",
         "definitions": [
             {
                 "sense": "1",
@@ -5425,8 +5336,7 @@
         ]
     },
     {
-        "term": "lanang",
-        "roman_numeral": "I",
+        "term": "lanang I; melanang",
         "definitions": [
             {
                 "sense": "1",
@@ -5435,8 +5345,7 @@
         ]
     },
     {
-        "term": "lanang",
-        "roman_numeral": "II",
+        "term": "lanang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -5446,8 +5355,7 @@
         ]
     },
     {
-        "term": "lanar",
-        "roman_numeral": "I",
+        "term": "lanar I",
         "definitions": [
             {
                 "sense": "1",
@@ -5456,8 +5364,7 @@
         ]
     },
     {
-        "term": "lanar",
-        "roman_numeral": "II",
+        "term": "lanar II",
         "definitions": [
             {
                 "sense": "1",
@@ -5466,8 +5373,7 @@
         ]
     },
     {
-        "term": "lanar",
-        "roman_numeral": "III",
+        "term": "lanar III",
         "origin": "Kl",
         "definitions": [
             {
@@ -5477,8 +5383,7 @@
         ]
     },
     {
-        "term": "lanar",
-        "roman_numeral": "IV",
+        "term": "lanar IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -5506,8 +5411,7 @@
         ]
     },
     {
-        "term": "lanca",
-        "roman_numeral": "I",
+        "term": "lanca I",
         "definitions": [
             {
                 "sense": "1",
@@ -5516,8 +5420,7 @@
         ]
     },
     {
-        "term": "lanca",
-        "roman_numeral": "II",
+        "term": "lanca II",
         "definitions": [
             {
                 "sense": "1",
@@ -5585,8 +5488,7 @@
         ]
     },
     {
-        "term": "lancang",
-        "roman_numeral": "III",
+        "term": "lancang III",
         "definitions": [
             {
                 "sense": "1",
@@ -5595,8 +5497,7 @@
         ]
     },
     {
-        "term": "lancap",
-        "roman_numeral": "I",
+        "term": "lancap I",
         "definitions": [
             {
                 "sense": "1",
@@ -5605,8 +5506,7 @@
         ]
     },
     {
-        "term": "lancap",
-        "roman_numeral": "II",
+        "term": "lancap II; melancap",
         "definitions": [
             {
                 "sense": "1",
@@ -5615,8 +5515,7 @@
         ]
     },
     {
-        "term": "lancap",
-        "roman_numeral": "III",
+        "term": "lancap III",
         "origin": "Mn",
         "definitions": [
             {
@@ -5626,8 +5525,7 @@
         ]
     },
     {
-        "term": "lancar",
-        "roman_numeral": "I",
+        "term": "lancar I",
         "definitions": [
             {
                 "sense": "1",
@@ -5721,12 +5619,12 @@
         ]
     },
     {
-        "term": "lancar",
-        "roman_numeral": "II",
+        "term": "lancar II; lancaran",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj perahu yg laju:  pd ketika itu kelengkapan Suir  dua puluh ~ bertiang tiga."
+                "definition": "sj perahu yg laju:  pd ketika itu kelengkapan Suir  dua puluh ~ bertiang tiga."
             }
         ]
     },
@@ -5792,7 +5690,7 @@
         ]
     },
     {
-        "term": "lancong",
+        "term": "lancong; melancong",
         "definitions": [
             {
                 "sense": "1",
@@ -5867,8 +5765,7 @@
         ]
     },
     {
-        "term": "lancung",
-        "roman_numeral": "II",
+        "term": "lancung II",
         "definitions": [
             {
                 "sense": "1",
@@ -5877,8 +5774,7 @@
         ]
     },
     {
-        "term": "lancur",
-        "roman_numeral": "I",
+        "term": "lancur I; melancur",
         "definitions": [
             {
                 "sense": "1",
@@ -5887,8 +5783,7 @@
         ]
     },
     {
-        "term": "lancur",
-        "roman_numeral": "II",
+        "term": "lancur II",
         "definitions": [
             {
                 "sense": "1",
@@ -5897,8 +5792,7 @@
         ]
     },
     {
-        "term": "lancut",
-        "roman_numeral": "I",
+        "term": "lancut I; melancut",
         "definitions": [
             {
                 "sense": "1",
@@ -5907,8 +5801,7 @@
         ]
     },
     {
-        "term": "lancut",
-        "roman_numeral": "II",
+        "term": "lancut II",
         "definitions": [
             {
                 "sense": "1",
@@ -5917,8 +5810,7 @@
         ]
     },
     {
-        "term": "landa",
-        "roman_numeral": "I",
+        "term": "landa I; melanda",
         "definitions": [
             {
                 "sense": "1",
@@ -5965,8 +5857,7 @@
         ]
     },
     {
-        "term": "landa",
-        "roman_numeral": "II",
+        "term": "landa II; melanda",
         "definitions": [
             {
                 "sense": "1",
@@ -5986,8 +5877,7 @@
         ]
     },
     {
-        "term": "landa",
-        "roman_numeral": "III",
+        "term": "landa III",
         "origin": "Jw",
         "definitions": [
             {
@@ -6006,8 +5896,7 @@
         ]
     },
     {
-        "term": "landai",
-        "roman_numeral": "I",
+        "term": "landai I",
         "definitions": [
             {
                 "sense": "1",
@@ -6036,8 +5925,7 @@
         ]
     },
     {
-        "term": "landai",
-        "roman_numeral": "II",
+        "term": "landai II; landaian",
         "definitions": [
             {
                 "sense": "1",
@@ -6055,7 +5943,7 @@
         ]
     },
     {
-        "term": "landang",
+        "term": "landang;",
         "definitions": [
             {
                 "sense": "1",
@@ -6158,8 +6046,7 @@
         ]
     },
     {
-        "term": "landas",
-        "roman_numeral": "II",
+        "term": "landas II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6168,8 +6055,7 @@
         ]
     },
     {
-        "term": "landas",
-        "roman_numeral": "III",
+        "term": "landas III",
         "definitions": [
             {
                 "sense": "1",
@@ -6178,8 +6064,7 @@
         ]
     },
     {
-        "term": "landau",
-        "roman_numeral": "I",
+        "term": "landau I",
         "definitions": [
             {
                 "sense": "1",
@@ -6188,8 +6073,7 @@
         ]
     },
     {
-        "term": "landau",
-        "roman_numeral": "II",
+        "term": "landau II",
         "definitions": [
             {
                 "sense": "1",
@@ -6254,8 +6138,7 @@
         ]
     },
     {
-        "term": "landung",
-        "roman_numeral": "I",
+        "term": "landung I",
         "definitions": [
             {
                 "sense": "1",
@@ -6292,8 +6175,7 @@
         ]
     },
     {
-        "term": "landung",
-        "roman_numeral": "II",
+        "term": "landung II",
         "definitions": [
             {
                 "sense": "1",
@@ -6302,8 +6184,7 @@
         ]
     },
     {
-        "term": "landung",
-        "roman_numeral": "III",
+        "term": "landung III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6340,7 +6221,7 @@
         ]
     },
     {
-        "term": "landut",
+        "term": "landut; melandut",
         "definitions": [
             {
                 "sense": "1",
@@ -6360,8 +6241,7 @@
         ]
     },
     {
-        "term": "lang",
-        "roman_numeral": "I",
+        "term": "lang I",
         "definitions": [
             {
                 "sense": "1",
@@ -6370,8 +6250,7 @@
         ]
     },
     {
-        "term": "lang",
-        "roman_numeral": "II",
+        "term": "lang II",
         "definitions": [
             {
                 "sense": "1",
@@ -6380,8 +6259,7 @@
         ]
     },
     {
-        "term": "lang",
-        "roman_numeral": "III",
+        "term": "lang III",
         "origin": "Jk",
         "definitions": [
             {
@@ -6391,7 +6269,7 @@
         ]
     },
     {
-        "term": "langah",
+        "term": "langah;",
         "definitions": [
             {
                 "sense": "1",
@@ -6411,7 +6289,7 @@
         ]
     },
     {
-        "term": "langak",
+        "term": "langak;",
         "definitions": [
             {
                 "sense": "1",
@@ -6431,7 +6309,7 @@
         ]
     },
     {
-        "term": "langap",
+        "term": "langap; melangap",
         "definitions": [
             {
                 "sense": "1",
@@ -6449,8 +6327,7 @@
         ]
     },
     {
-        "term": "langgah",
-        "roman_numeral": "I",
+        "term": "langgah I; melanggah",
         "origin": "Kd",
         "definitions": [
             {
@@ -6460,8 +6337,7 @@
         ]
     },
     {
-        "term": "langgah",
-        "roman_numeral": "II",
+        "term": "langgah II",
         "origin": "Kd",
         "definitions": [
             {
@@ -6471,8 +6347,7 @@
         ]
     },
     {
-        "term": "langgai",
-        "roman_numeral": "I",
+        "term": "langgai I",
         "definitions": [
             {
                 "sense": "1",
@@ -6481,8 +6356,7 @@
         ]
     },
     {
-        "term": "langgai",
-        "roman_numeral": "II",
+        "term": "langgai II",
         "definitions": [
             {
                 "sense": "1",
@@ -6491,8 +6365,7 @@
         ]
     },
     {
-        "term": "langgai",
-        "roman_numeral": "III",
+        "term": "langgai III",
         "definitions": [
             {
                 "sense": "1",
@@ -6535,7 +6408,7 @@
         ]
     },
     {
-        "term": "langgan",
+        "term": "langgan; berlanggan, melanggan",
         "definitions": [
             {
                 "sense": "1",
@@ -6589,7 +6462,7 @@
         ]
     },
     {
-        "term": "langgang",
+        "term": "langgang;",
         "definitions": [
             {
                 "sense": "1",
@@ -6598,8 +6471,7 @@
         ]
     },
     {
-        "term": "langgar",
-        "roman_numeral": "I",
+        "term": "langgar I",
         "definitions": [
             {
                 "sense": "1",
@@ -6697,8 +6569,7 @@
         ]
     },
     {
-        "term": "langgar",
-        "roman_numeral": "II",
+        "term": "langgar II",
         "definitions": [
             {
                 "sense": "1",
@@ -6707,8 +6578,7 @@
         ]
     },
     {
-        "term": "langgar",
-        "roman_numeral": "III",
+        "term": "langgar III",
         "origin": "Br",
         "definitions": [
             {
@@ -6771,8 +6641,7 @@
         ]
     },
     {
-        "term": "langgung",
-        "roman_numeral": "I",
+        "term": "langgung I; melanggungkan",
         "definitions": [
             {
                 "sense": "1",
@@ -6781,8 +6650,7 @@
         ]
     },
     {
-        "term": "langgung",
-        "roman_numeral": "II",
+        "term": "langgung II",
         "definitions": [
             {
                 "sense": "1",
@@ -6833,8 +6701,7 @@
         ]
     },
     {
-        "term": "langis",
-        "roman_numeral": "I",
+        "term": "langis I",
         "definitions": [
             {
                 "sense": "1",
@@ -6843,8 +6710,7 @@
         ]
     },
     {
-        "term": "langis",
-        "roman_numeral": "II",
+        "term": "langis II",
         "origin": "Br",
         "definitions": [
             {
@@ -7055,8 +6921,7 @@
         ]
     },
     {
-        "term": "langkap",
-        "roman_numeral": "I",
+        "term": "langkap I",
         "definitions": [
             {
                 "sense": "1",
@@ -7065,8 +6930,7 @@
         ]
     },
     {
-        "term": "langkap",
-        "roman_numeral": "II",
+        "term": "langkap II",
         "definitions": [
             {
                 "sense": "1",
@@ -7085,16 +6949,16 @@
     },
     {
         "term": "langkara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl    lengkara."
+                "definition": "lengkara."
             }
         ]
     },
     {
-        "term": "langkas",
-        "roman_numeral": "I",
+        "term": "langkas I",
         "definitions": [
             {
                 "sense": "1",
@@ -7103,8 +6967,7 @@
         ]
     },
     {
-        "term": "langkas",
-        "roman_numeral": "II",
+        "term": "langkas II",
         "definitions": [
             {
                 "sense": "1",
@@ -7124,18 +6987,17 @@
         ]
     },
     {
-        "term": "langkat",
-        "roman_numeral": "I",
+        "term": "langkat I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tiga hari lagi dr sekarang, tulat."
+                "definition": "tiga hari lagi dr sekarang, tulat."
             }
         ]
     },
     {
-        "term": "langkat",
-        "roman_numeral": "II",
+        "term": "langkat II",
         "definitions": [
             {
                 "sense": "1",
@@ -7192,7 +7054,7 @@
         ]
     },
     {
-        "term": "langkup",
+        "term": "langkup; terlangkup",
         "definitions": [
             {
                 "sense": "1",
@@ -7247,8 +7109,7 @@
         ]
     },
     {
-        "term": "langsai",
-        "roman_numeral": "II",
+        "term": "langsai II",
         "definitions": [
             {
                 "sense": "1",
@@ -7257,8 +7118,7 @@
         ]
     },
     {
-        "term": "langsai",
-        "roman_numeral": "III",
+        "term": "langsai III; melangsai",
         "definitions": [
             {
                 "sense": "1",
@@ -7288,8 +7148,7 @@
         ]
     },
     {
-        "term": "langsar",
-        "roman_numeral": "I",
+        "term": "langsar I",
         "definitions": [
             {
                 "sense": "1",
@@ -7298,8 +7157,7 @@
         ]
     },
     {
-        "term": "langsar",
-        "roman_numeral": "II",
+        "term": "langsar II; melangsar",
         "definitions": [
             {
                 "sense": "1",
@@ -7308,8 +7166,7 @@
         ]
     },
     {
-        "term": "langsar",
-        "roman_numeral": "III",
+        "term": "langsar III",
         "origin": "Mn",
         "definitions": [
             {
@@ -7352,8 +7209,7 @@
         ]
     },
     {
-        "term": "langsing",
-        "roman_numeral": "I",
+        "term": "langsing I",
         "definitions": [
             {
                 "sense": "1",
@@ -7382,8 +7238,7 @@
         ]
     },
     {
-        "term": "langsing",
-        "roman_numeral": "II",
+        "term": "langsing II",
         "definitions": [
             {
                 "sense": "1",
@@ -7412,8 +7267,7 @@
         ]
     },
     {
-        "term": "langsir",
-        "roman_numeral": "I",
+        "term": "langsir I",
         "definitions": [
             {
                 "sense": "1",
@@ -7456,8 +7310,7 @@
         ]
     },
     {
-        "term": "langsir",
-        "roman_numeral": "III",
+        "term": "langsir III",
         "origin": "IB",
         "definitions": [
             {
@@ -7467,8 +7320,7 @@
         ]
     },
     {
-        "term": "langsir",
-        "roman_numeral": "IV",
+        "term": "langsir IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -7478,8 +7330,7 @@
         ]
     },
     {
-        "term": "langsir",
-        "roman_numeral": "V",
+        "term": "langsir V",
         "definitions": [
             {
                 "sense": "1",
@@ -7616,7 +7467,7 @@
         ]
     },
     {
-        "term": "languk",
+        "term": "languk; melanguk",
         "definitions": [
             {
                 "sense": "1",
@@ -7653,8 +7504,7 @@
         ]
     },
     {
-        "term": "langut",
-        "roman_numeral": "II",
+        "term": "langut II; melangut",
         "definitions": [
             {
                 "sense": "1",
@@ -7712,8 +7562,7 @@
         ]
     },
     {
-        "term": "lanjang",
-        "roman_numeral": "I",
+        "term": "lanjang I",
         "definitions": [
             {
                 "sense": "1",
@@ -7722,8 +7571,7 @@
         ]
     },
     {
-        "term": "lanjang",
-        "roman_numeral": "II",
+        "term": "lanjang II",
         "definitions": [
             {
                 "sense": "1",
@@ -7732,8 +7580,7 @@
         ]
     },
     {
-        "term": "lanjar",
-        "roman_numeral": "I",
+        "term": "lanjar I",
         "definitions": [
             {
                 "sense": "1",
@@ -7766,8 +7613,7 @@
         ]
     },
     {
-        "term": "lanjar",
-        "roman_numeral": "II",
+        "term": "lanjar II; lanjaran",
         "origin": "Jw",
         "definitions": [
             {
@@ -7777,8 +7623,7 @@
         ]
     },
     {
-        "term": "lanjar",
-        "roman_numeral": "III",
+        "term": "lanjar III",
         "definitions": [
             {
                 "sense": "1",
@@ -8026,8 +7871,7 @@
         ]
     },
     {
-        "term": "lanjut",
-        "roman_numeral": "II",
+        "term": "lanjut II",
         "definitions": [
             {
                 "sense": "1",
@@ -8177,8 +8021,7 @@
         ]
     },
     {
-        "term": "lantam",
-        "roman_numeral": "I",
+        "term": "lantam I",
         "definitions": [
             {
                 "sense": "1",
@@ -8202,8 +8045,7 @@
         ]
     },
     {
-        "term": "lantam",
-        "roman_numeral": "II",
+        "term": "lantam II",
         "definitions": [
             {
                 "sense": "1",
@@ -8433,8 +8275,7 @@
         ]
     },
     {
-        "term": "lantik",
-        "roman_numeral": "I",
+        "term": "lantik I; melantik",
         "definitions": [
             {
                 "sense": "1",
@@ -8463,8 +8304,7 @@
         ]
     },
     {
-        "term": "lantik",
-        "roman_numeral": "II",
+        "term": "lantik II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8483,8 +8323,7 @@
         ]
     },
     {
-        "term": "lanting",
-        "roman_numeral": "I",
+        "term": "lanting I",
         "origin": "Mn",
         "definitions": [
             {
@@ -8518,8 +8357,7 @@
         ]
     },
     {
-        "term": "lanting",
-        "roman_numeral": "II",
+        "term": "lanting II",
         "definitions": [
             {
                 "sense": "1",
@@ -8539,8 +8377,7 @@
         ]
     },
     {
-        "term": "lanting",
-        "roman_numeral": "III",
+        "term": "lanting III",
         "origin": "Jw",
         "definitions": [
             {
@@ -8550,8 +8387,7 @@
         ]
     },
     {
-        "term": "lanting",
-        "roman_numeral": "IV",
+        "term": "lanting IV",
         "definitions": [
             {
                 "sense": "1",
@@ -8560,8 +8396,7 @@
         ]
     },
     {
-        "term": "lanting",
-        "roman_numeral": "V",
+        "term": "lanting V",
         "origin": "Br",
         "definitions": [
             {
@@ -8614,8 +8449,7 @@
         ]
     },
     {
-        "term": "lantung",
-        "roman_numeral": "I",
+        "term": "lantung I",
         "definitions": [
             {
                 "sense": "1",
@@ -8644,8 +8478,7 @@
         ]
     },
     {
-        "term": "lantung",
-        "roman_numeral": "II",
+        "term": "lantung II",
         "definitions": [
             {
                 "sense": "1",
@@ -8665,8 +8498,7 @@
         ]
     },
     {
-        "term": "lantung",
-        "roman_numeral": "III",
+        "term": "lantung III",
         "origin": "Mn",
         "definitions": [
             {
@@ -8696,7 +8528,7 @@
         ]
     },
     {
-        "term": "lantur",
+        "term": "lantur; melantur",
         "definitions": [
             {
                 "sense": "1",
@@ -8890,8 +8722,7 @@
         ]
     },
     {
-        "term": "lapah",
-        "roman_numeral": "II",
+        "term": "lapah II",
         "definitions": [
             {
                 "sense": "1",
@@ -8900,8 +8731,7 @@
         ]
     },
     {
-        "term": "lapak",
-        "roman_numeral": "I",
+        "term": "lapak I",
         "origin": "Mn",
         "definitions": [
             {
@@ -8911,8 +8741,7 @@
         ]
     },
     {
-        "term": "lapak",
-        "roman_numeral": "II",
+        "term": "lapak II",
         "definitions": [
             {
                 "sense": "1",
@@ -9070,8 +8899,7 @@
         ]
     },
     {
-        "term": "lapang",
-        "roman_numeral": "II",
+        "term": "lapang II",
         "definitions": [
             {
                 "sense": "1",
@@ -9244,8 +9072,7 @@
         ]
     },
     {
-        "term": "lapik",
-        "roman_numeral": "II",
+        "term": "lapik II;",
         "definitions": [
             {
                 "sense": "1",
@@ -9376,7 +9203,7 @@
         ]
     },
     {
-        "term": "lapis",
+        "term": "lapis lazuli",
         "definitions": [
             {
                 "sense": "1",
@@ -9483,8 +9310,7 @@
         ]
     },
     {
-        "term": "lapuk",
-        "roman_numeral": "II",
+        "term": "lapuk II",
         "origin": "Mn",
         "definitions": [
             {
@@ -9529,7 +9355,7 @@
         ]
     },
     {
-        "term": "lapur",
+        "term": "lapur; berlapur",
         "definitions": [
             {
                 "sense": "1",
@@ -9591,12 +9417,12 @@
         ]
     },
     {
-        "term": "larah",
-        "roman_numeral": "I",
+        "term": "larah I; berlarah-larahan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bertukar ganti (lepas seorang, seorang),  berturut-turut:  mereka minum beramai-ramai, bersulang-sulangan  dan ~;"
+                "definition": "bertukar ganti (lepas seorang, seorang),  berturut-turut:  mereka minum beramai-ramai, bersulang-sulangan  dan ~;"
             }
         ],
         "sub_terms": [
@@ -9612,8 +9438,7 @@
         ]
     },
     {
-        "term": "larah",
-        "roman_numeral": "II",
+        "term": "larah II; berlarah-larah",
         "definitions": [
             {
                 "sense": "1",
@@ -9632,8 +9457,7 @@
         ]
     },
     {
-        "term": "larak",
-        "roman_numeral": "I",
+        "term": "larak I",
         "definitions": [
             {
                 "sense": "1",
@@ -9693,8 +9517,7 @@
         ]
     },
     {
-        "term": "larang",
-        "roman_numeral": "I",
+        "term": "larang I; melarang",
         "definitions": [
             {
                 "sense": "1",
@@ -9745,8 +9568,7 @@
         ]
     },
     {
-        "term": "larang",
-        "roman_numeral": "II",
+        "term": "larang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -9756,8 +9578,7 @@
         ]
     },
     {
-        "term": "larap",
-        "roman_numeral": "I",
+        "term": "larap I",
         "definitions": [
             {
                 "sense": "1",
@@ -9766,8 +9587,7 @@
         ]
     },
     {
-        "term": "larap",
-        "roman_numeral": "II",
+        "term": "larap II; melarapkan",
         "definitions": [
             {
                 "sense": "1",
@@ -9776,8 +9596,7 @@
         ]
     },
     {
-        "term": "larap",
-        "roman_numeral": "III",
+        "term": "larap III",
         "origin": "Kd",
         "definitions": [
             {
@@ -9922,8 +9741,7 @@
         ]
     },
     {
-        "term": "laras",
-        "roman_numeral": "IV",
+        "term": "laras IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -9932,8 +9750,7 @@
         ]
     },
     {
-        "term": "laras",
-        "roman_numeral": "V",
+        "term": "laras V",
         "origin": "Mn",
         "definitions": [
             {
@@ -9954,7 +9771,7 @@
         ]
     },
     {
-        "term": "laras",
+        "term": "laras suhu",
         "definitions": [
             {
                 "sense": "1",
@@ -10000,8 +9817,7 @@
         ]
     },
     {
-        "term": "larat",
-        "roman_numeral": "II",
+        "term": "larat II",
         "definitions": [
             {
                 "sense": "1",
@@ -10021,8 +9837,7 @@
         ]
     },
     {
-        "term": "larat",
-        "roman_numeral": "III",
+        "term": "larat III;",
         "definitions": [
             {
                 "sense": "1",
@@ -10031,7 +9846,7 @@
         ]
     },
     {
-        "term": "larau",
+        "term": "larau; melarau",
         "definitions": [
             {
                 "sense": "1",
@@ -10254,7 +10069,7 @@
         ]
     },
     {
-        "term": "larih",
+        "term": "larih; berlarih-larihan",
         "definitions": [
             {
                 "sense": "1",
@@ -10325,8 +10140,7 @@
         ]
     },
     {
-        "term": "larik",
-        "roman_numeral": "II",
+        "term": "larik II",
         "origin": "Jw",
         "definitions": [
             {
@@ -10356,7 +10170,7 @@
         ]
     },
     {
-        "term": "lari-lari",
+        "term": "lari-lari;",
         "definitions": [
             {
                 "sense": "1",
@@ -10623,8 +10437,7 @@
         ]
     },
     {
-        "term": "larut",
-        "roman_numeral": "III",
+        "term": "larut III",
         "definitions": [
             {
                 "sense": "1",
@@ -10652,8 +10465,7 @@
         ]
     },
     {
-        "term": "las",
-        "roman_numeral": "I",
+        "term": "las I;",
         "definitions": [
             {
                 "sense": "1",
@@ -10662,8 +10474,7 @@
         ]
     },
     {
-        "term": "las",
-        "roman_numeral": "II",
+        "term": "las II",
         "origin": "IB",
         "definitions": [
             {
@@ -10706,8 +10517,7 @@
         ]
     },
     {
-        "term": "lasah",
-        "roman_numeral": "I",
+        "term": "lasah I; melasahkan",
         "definitions": [
             {
                 "sense": "1",
@@ -10716,8 +10526,7 @@
         ]
     },
     {
-        "term": "lasah",
-        "roman_numeral": "II",
+        "term": "lasah II; melasah",
         "definitions": [
             {
                 "sense": "1",
@@ -10726,8 +10535,7 @@
         ]
     },
     {
-        "term": "lasah",
-        "roman_numeral": "III",
+        "term": "lasah III",
         "origin": "Mn",
         "definitions": [
             {
@@ -10737,8 +10545,7 @@
         ]
     },
     {
-        "term": "lasak",
-        "roman_numeral": "I",
+        "term": "lasak I",
         "definitions": [
             {
                 "sense": "1",
@@ -10758,8 +10565,7 @@
         ]
     },
     {
-        "term": "lasak",
-        "roman_numeral": "II",
+        "term": "lasak II",
         "definitions": [
             {
                 "sense": "1",
@@ -10788,8 +10594,7 @@
         ]
     },
     {
-        "term": "lasak",
-        "roman_numeral": "III",
+        "term": "lasak III",
         "origin": "Kl",
         "definitions": [
             {
@@ -10799,8 +10604,7 @@
         ]
     },
     {
-        "term": "lasam",
-        "roman_numeral": "I",
+        "term": "lasam I",
         "definitions": [
             {
                 "sense": "1",
@@ -10809,8 +10613,7 @@
         ]
     },
     {
-        "term": "lasam",
-        "roman_numeral": "II",
+        "term": "lasam II",
         "definitions": [
             {
                 "sense": "1",
@@ -10819,7 +10622,7 @@
         ]
     },
     {
-        "term": "lasana",
+        "term": "lasana;",
         "definitions": [
             {
                 "sense": "1",
@@ -10887,7 +10690,7 @@
         ]
     },
     {
-        "term": "lasik",
+        "term": "lasik, lasit",
         "origin": "Mn",
         "definitions": [
             {
@@ -10964,7 +10767,8 @@
         ]
     },
     {
-        "term": "lasykar sl",
+        "term": "lasykar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -10988,8 +10792,7 @@
         ]
     },
     {
-        "term": "lat",
-        "roman_numeral": "I",
+        "term": "lat I",
         "definitions": [
             {
                 "sense": "1",
@@ -11009,8 +10812,7 @@
         ]
     },
     {
-        "term": "lat",
-        "roman_numeral": "II",
+        "term": "lat II",
         "definitions": [
             {
                 "sense": "1",
@@ -11030,8 +10832,7 @@
         ]
     },
     {
-        "term": "lat",
-        "roman_numeral": "III",
+        "term": "lat III",
         "definitions": [
             {
                 "sense": "1",
@@ -11040,8 +10841,7 @@
         ]
     },
     {
-        "term": "lat",
-        "roman_numeral": "IV",
+        "term": "lat IV",
         "definitions": [
             {
                 "sense": "1",
@@ -11050,8 +10850,7 @@
         ]
     },
     {
-        "term": "lata",
-        "roman_numeral": "I",
+        "term": "lata I; melata",
         "definitions": [
             {
                 "sense": "1",
@@ -11060,8 +10859,7 @@
         ]
     },
     {
-        "term": "lata",
-        "roman_numeral": "II",
+        "term": "lata II",
         "definitions": [
             {
                 "sense": "1",
@@ -11070,8 +10868,7 @@
         ]
     },
     {
-        "term": "lata",
-        "roman_numeral": "III",
+        "term": "lata III",
         "definitions": [
             {
                 "sense": "1",
@@ -11131,8 +10928,7 @@
         ]
     },
     {
-        "term": "latah",
-        "roman_numeral": "II",
+        "term": "latah II",
         "definitions": [
             {
                 "sense": "1",
@@ -11141,8 +10937,7 @@
         ]
     },
     {
-        "term": "latah",
-        "roman_numeral": "III",
+        "term": "latah III",
         "definitions": [
             {
                 "sense": "1",
@@ -11334,7 +11129,7 @@
         ]
     },
     {
-        "term": "latif",
+        "term": "latif, latifah",
         "origin": "Ar",
         "definitions": [
             {
@@ -11344,7 +11139,7 @@
         ]
     },
     {
-        "term": "latih",
+        "term": "latih;",
         "definitions": [
             {
                 "sense": "1",
@@ -11426,7 +11221,7 @@
         ]
     },
     {
-        "term": "lating",
+        "term": "lating; melating",
         "definitions": [
             {
                 "sense": "1",
@@ -11435,7 +11230,7 @@
         ]
     },
     {
-        "term": "latis",
+        "term": "latis; melatis",
         "definitions": [
             {
                 "sense": "1",
@@ -11484,8 +11279,7 @@
         ]
     },
     {
-        "term": "latu",
-        "roman_numeral": "I",
+        "term": "latu I",
         "definitions": [
             {
                 "sense": "1",
@@ -11517,7 +11311,7 @@
         ]
     },
     {
-        "term": "latuk",
+        "term": "latuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -11546,8 +11340,7 @@
         ]
     },
     {
-        "term": "lau",
-        "roman_numeral": "I",
+        "term": "lau I",
         "origin": "Ar",
         "definitions": [
             {
@@ -11557,8 +11350,7 @@
         ]
     },
     {
-        "term": "lau",
-        "roman_numeral": "II",
+        "term": "lau II",
         "origin": "Kd",
         "definitions": [
             {
@@ -11568,8 +11360,7 @@
         ]
     },
     {
-        "term": "lau",
-        "roman_numeral": "III",
+        "term": "lau III;",
         "definitions": [
             {
                 "sense": "1",
@@ -11578,8 +11369,7 @@
         ]
     },
     {
-        "term": "lau",
-        "roman_numeral": "IV",
+        "term": "lau IV",
         "origin": "Kd",
         "definitions": [
             {
@@ -11589,8 +11379,7 @@
         ]
     },
     {
-        "term": "lauh",
-        "roman_numeral": "I",
+        "term": "lauh I",
         "definitions": [
             {
                 "sense": "1",
@@ -11599,8 +11388,7 @@
         ]
     },
     {
-        "term": "lauh",
-        "roman_numeral": "II",
+        "term": "lauh II",
         "origin": "Ar",
         "definitions": [
             {
@@ -11864,8 +11652,7 @@
         ]
     },
     {
-        "term": "laut",
-        "roman_numeral": "II",
+        "term": "laut II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11892,8 +11679,7 @@
         ]
     },
     {
-        "term": "lawa",
-        "roman_numeral": "I",
+        "term": "lawa I",
         "definitions": [
             {
                 "sense": "1",
@@ -11922,8 +11708,7 @@
         ]
     },
     {
-        "term": "lawa",
-        "roman_numeral": "II",
+        "term": "lawa II",
         "definitions": [
             {
                 "sense": "1",
@@ -11952,8 +11737,7 @@
         ]
     },
     {
-        "term": "lawa",
-        "roman_numeral": "III",
+        "term": "lawa III",
         "definitions": [
             {
                 "sense": "1",
@@ -11991,8 +11775,7 @@
         ]
     },
     {
-        "term": "lawak",
-        "roman_numeral": "I",
+        "term": "lawak I",
         "definitions": [
             {
                 "sense": "1",
@@ -12038,8 +11821,7 @@
         ]
     },
     {
-        "term": "lawak",
-        "roman_numeral": "II",
+        "term": "lawak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -12049,8 +11831,7 @@
         ]
     },
     {
-        "term": "lawak",
-        "roman_numeral": "III",
+        "term": "lawak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12212,8 +11993,7 @@
         ]
     },
     {
-        "term": "lawang",
-        "roman_numeral": "I",
+        "term": "lawang I",
         "origin": "Jw",
         "definitions": [
             {
@@ -12236,8 +12016,7 @@
         ]
     },
     {
-        "term": "lawang",
-        "roman_numeral": "III",
+        "term": "lawang III",
         "definitions": [
             {
                 "sense": "1",
@@ -12246,8 +12025,7 @@
         ]
     },
     {
-        "term": "lawar",
-        "roman_numeral": "I",
+        "term": "lawar I",
         "definitions": [
             {
                 "sense": "1",
@@ -12256,8 +12034,7 @@
         ]
     },
     {
-        "term": "lawar",
-        "roman_numeral": "II",
+        "term": "lawar II",
         "definitions": [
             {
                 "sense": "1",
@@ -12266,8 +12043,7 @@
         ]
     },
     {
-        "term": "lawar",
-        "roman_numeral": "III",
+        "term": "lawar III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12276,8 +12052,7 @@
         ]
     },
     {
-        "term": "lawas",
-        "roman_numeral": "I",
+        "term": "lawas I",
         "definitions": [
             {
                 "sense": "1",
@@ -12297,8 +12072,7 @@
         ]
     },
     {
-        "term": "lawas",
-        "roman_numeral": "II",
+        "term": "lawas II",
         "definitions": [
             {
                 "sense": "1",
@@ -12307,8 +12081,7 @@
         ]
     },
     {
-        "term": "lawas",
-        "roman_numeral": "III",
+        "term": "lawas III; melawas",
         "definitions": [
             {
                 "sense": "1",
@@ -12317,8 +12090,7 @@
         ]
     },
     {
-        "term": "lawas",
-        "roman_numeral": "IV",
+        "term": "lawas IV",
         "origin": "Jw",
         "definitions": [
             {
@@ -12416,8 +12188,7 @@
         ]
     },
     {
-        "term": "layah",
-        "roman_numeral": "I",
+        "term": "layah I; melayah",
         "definitions": [
             {
                 "sense": "1",
@@ -12437,8 +12208,7 @@
         ]
     },
     {
-        "term": "layah",
-        "roman_numeral": "II",
+        "term": "layah II",
         "definitions": [
             {
                 "sense": "1",
@@ -12458,8 +12228,7 @@
         ]
     },
     {
-        "term": "layah",
-        "roman_numeral": "III",
+        "term": "layah III; melayah",
         "definitions": [
             {
                 "sense": "1",
@@ -12468,8 +12237,7 @@
         ]
     },
     {
-        "term": "layah",
-        "roman_numeral": "IV",
+        "term": "layah IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -12534,8 +12302,7 @@
         ]
     },
     {
-        "term": "layak",
-        "roman_numeral": "II",
+        "term": "layak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12555,8 +12322,7 @@
         ]
     },
     {
-        "term": "layak",
-        "roman_numeral": "III",
+        "term": "layak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12565,8 +12331,7 @@
         ]
     },
     {
-        "term": "layak",
-        "roman_numeral": "IV",
+        "term": "layak IV",
         "origin": "Kd",
         "definitions": [
             {
@@ -12576,7 +12341,7 @@
         ]
     },
     {
-        "term": "layam",
+        "term": "layam;",
         "definitions": [
             {
                 "sense": "1",
@@ -12585,7 +12350,7 @@
         ]
     },
     {
-        "term": "layan",
+        "term": "layan;",
         "definitions": [
             {
                 "sense": "1",
@@ -12665,8 +12430,7 @@
         ]
     },
     {
-        "term": "layang",
-        "roman_numeral": "I",
+        "term": "layang I",
         "definitions": [
             {
                 "sense": "1",
@@ -12760,8 +12524,7 @@
         ]
     },
     {
-        "term": "layang",
-        "roman_numeral": "II",
+        "term": "layang II",
         "definitions": [
             {
                 "sense": "1",
@@ -12783,8 +12546,7 @@
         ]
     },
     {
-        "term": "layang",
-        "roman_numeral": "IV",
+        "term": "layang IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -12793,8 +12555,7 @@
         ]
     },
     {
-        "term": "layang-layang",
-        "roman_numeral": "I",
+        "term": "layang-layang I",
         "definitions": [
             {
                 "sense": "1",
@@ -12803,8 +12564,7 @@
         ]
     },
     {
-        "term": "layang-layang",
-        "roman_numeral": "II",
+        "term": "layang-layang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12813,8 +12573,7 @@
         ]
     },
     {
-        "term": "layap",
-        "roman_numeral": "I",
+        "term": "layap I",
         "definitions": [
             {
                 "sense": "1",
@@ -12865,8 +12624,7 @@
         ]
     },
     {
-        "term": "layap",
-        "roman_numeral": "II",
+        "term": "layap II; melayap-layap, melayap",
         "origin": "Jk",
         "definitions": [
             {
@@ -12983,8 +12741,7 @@
         ]
     },
     {
-        "term": "layas",
-        "roman_numeral": "I",
+        "term": "layas I; melayaskan",
         "definitions": [
             {
                 "sense": "1",
@@ -12993,8 +12750,7 @@
         ]
     },
     {
-        "term": "layas",
-        "roman_numeral": "II",
+        "term": "layas II",
         "origin": "Mn",
         "definitions": [
             {
@@ -13097,7 +12853,7 @@
         ]
     },
     {
-        "term": "layu",
+        "term": "layu lecuh; melayulecuhkan",
         "definitions": [
             {
                 "sense": "1",
@@ -13116,8 +12872,7 @@
         ]
     },
     {
-        "term": "layur",
-        "roman_numeral": "I",
+        "term": "layur I",
         "origin": "Mn",
         "definitions": [
             {
@@ -13151,8 +12906,7 @@
         ]
     },
     {
-        "term": "layur",
-        "roman_numeral": "II",
+        "term": "layur II",
         "origin": "Kd",
         "definitions": [
             {
@@ -13162,8 +12916,7 @@
         ]
     },
     {
-        "term": "layur",
-        "roman_numeral": "III",
+        "term": "layur III",
         "definitions": [
             {
                 "sense": "1",
@@ -13172,8 +12925,7 @@
         ]
     },
     {
-        "term": "layut",
-        "roman_numeral": "I",
+        "term": "layut I; melayut",
         "definitions": [
             {
                 "sense": "1",
@@ -13182,8 +12934,7 @@
         ]
     },
     {
-        "term": "layut",
-        "roman_numeral": "II",
+        "term": "layut II; melayut, melayut-layut",
         "definitions": [
             {
                 "sense": "1",
@@ -13238,8 +12989,7 @@
         ]
     },
     {
-        "term": "lazat",
-        "roman_numeral": "II",
+        "term": "lazat II",
         "origin": "Mn",
         "definitions": [
             {
@@ -13331,8 +13081,7 @@
         ]
     },
     {
-        "term": "lebai",
-        "roman_numeral": "II",
+        "term": "lebai II",
         "definitions": [
             {
                 "sense": "1",
@@ -13341,8 +13090,7 @@
         ]
     },
     {
-        "term": "lebai",
-        "roman_numeral": "III",
+        "term": "lebai III",
         "definitions": [
             {
                 "sense": "1",
@@ -13351,8 +13099,7 @@
         ]
     },
     {
-        "term": "lebak",
-        "roman_numeral": "I",
+        "term": "lebak I",
         "definitions": [
             {
                 "sense": "1",
@@ -13361,8 +13108,7 @@
         ]
     },
     {
-        "term": "lebak",
-        "roman_numeral": "II",
+        "term": "lebak II",
         "origin": "Jw",
         "definitions": [
             {
@@ -13372,8 +13118,7 @@
         ]
     },
     {
-        "term": "lebam",
-        "roman_numeral": "I",
+        "term": "lebam I",
         "definitions": [
             {
                 "sense": "1",
@@ -13402,8 +13147,7 @@
         ]
     },
     {
-        "term": "lebam",
-        "roman_numeral": "II",
+        "term": "lebam II",
         "definitions": [
             {
                 "sense": "1",
@@ -13421,8 +13165,7 @@
         ]
     },
     {
-        "term": "leban",
-        "roman_numeral": "I",
+        "term": "leban I",
         "definitions": [
             {
                 "sense": "1",
@@ -13431,8 +13174,7 @@
         ]
     },
     {
-        "term": "leban",
-        "roman_numeral": "II",
+        "term": "leban II",
         "definitions": [
             {
                 "sense": "1",
@@ -13531,7 +13273,7 @@
         ]
     },
     {
-        "term": "lebas",
+        "term": "lebas; melebas",
         "definitions": [
             {
                 "sense": "1",
@@ -13785,7 +13527,7 @@
         ]
     },
     {
-        "term": "lebir",
+        "term": "lebir; melebir",
         "definitions": [
             {
                 "sense": "1",
@@ -13794,7 +13536,8 @@
         ]
     },
     {
-        "term": "lebu I sl",
+        "term": "lebu I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -13807,8 +13550,7 @@
         ]
     },
     {
-        "term": "lebu",
-        "roman_numeral": "II",
+        "term": "lebu II; pelebuan",
         "definitions": [
             {
                 "sense": "1",
@@ -13817,8 +13559,7 @@
         ]
     },
     {
-        "term": "lebu",
-        "roman_numeral": "III",
+        "term": "lebu III",
         "origin": "Tr",
         "definitions": [
             {
@@ -13828,8 +13569,7 @@
         ]
     },
     {
-        "term": "lebuh",
-        "roman_numeral": "I",
+        "term": "lebuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -13849,8 +13589,7 @@
         ]
     },
     {
-        "term": "lebuh",
-        "roman_numeral": "II",
+        "term": "lebuh II",
         "origin": "Pr",
         "definitions": [
             {
@@ -13860,8 +13599,7 @@
         ]
     },
     {
-        "term": "lebuk",
-        "roman_numeral": "I",
+        "term": "lebuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -13870,8 +13608,7 @@
         ]
     },
     {
-        "term": "lebuk",
-        "roman_numeral": "II",
+        "term": "lebuk II",
         "origin": "Mn",
         "definitions": [
             {
@@ -14015,8 +13752,7 @@
         ]
     },
     {
-        "term": "lebur",
-        "roman_numeral": "II",
+        "term": "lebur II; keleburan",
         "definitions": [
             {
                 "sense": "1",
@@ -14025,8 +13761,7 @@
         ]
     },
     {
-        "term": "lebur",
-        "roman_numeral": "III",
+        "term": "lebur III",
         "definitions": [
             {
                 "sense": "1",
@@ -14035,8 +13770,7 @@
         ]
     },
     {
-        "term": "leca",
-        "roman_numeral": "I",
+        "term": "leca I",
         "definitions": [
             {
                 "sense": "1",
@@ -14045,8 +13779,7 @@
         ]
     },
     {
-        "term": "leca",
-        "roman_numeral": "II",
+        "term": "leca II",
         "definitions": [
             {
                 "sense": "1",
@@ -14055,8 +13788,7 @@
         ]
     },
     {
-        "term": "lecah",
-        "roman_numeral": "I",
+        "term": "lecah I",
         "definitions": [
             {
                 "sense": "1",
@@ -14098,8 +13830,7 @@
         ]
     },
     {
-        "term": "lecah",
-        "roman_numeral": "II",
+        "term": "lecah II",
         "origin": "Tr",
         "definitions": [
             {
@@ -14109,8 +13840,7 @@
         ]
     },
     {
-        "term": "lecak",
-        "roman_numeral": "I",
+        "term": "lecak I;",
         "definitions": [
             {
                 "sense": "1",
@@ -14119,8 +13849,7 @@
         ]
     },
     {
-        "term": "lecak",
-        "roman_numeral": "II",
+        "term": "lecak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -14439,7 +14168,7 @@
         ]
     },
     {
-        "term": "lecuk",
+        "term": "lecuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -14457,8 +14186,7 @@
         ]
     },
     {
-        "term": "lecup",
-        "roman_numeral": "I",
+        "term": "lecup I; melecup",
         "definitions": [
             {
                 "sense": "1",
@@ -14467,18 +14195,17 @@
         ]
     },
     {
-        "term": "lecup",
-        "roman_numeral": "II",
+        "term": "lecup II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl rapat ke, mencecah:  maka apabila Pancagah itu berjalan,  tumitnya tiada ~ ke bumi."
+                "definition": "rapat ke, mencecah:  maka apabila Pancagah itu berjalan,  tumitnya tiada ~ ke bumi."
             }
         ]
     },
     {
-        "term": "lecup",
-        "roman_numeral": "III",
+        "term": "lecup III; melecup",
         "definitions": [
             {
                 "sense": "1",
@@ -14498,8 +14225,7 @@
         ]
     },
     {
-        "term": "lecur",
-        "roman_numeral": "I",
+        "term": "lecur I; melecur",
         "definitions": [
             {
                 "sense": "1",
@@ -14528,8 +14254,7 @@
         ]
     },
     {
-        "term": "lecur",
-        "roman_numeral": "II",
+        "term": "lecur II",
         "definitions": [
             {
                 "sense": "1",
@@ -14538,7 +14263,7 @@
         ]
     },
     {
-        "term": "lecus",
+        "term": "lecus; berlecus, melecus",
         "definitions": [
             {
                 "sense": "1",
@@ -14782,7 +14507,7 @@
         ]
     },
     {
-        "term": "leduk",
+        "term": "leduk; meleduk",
         "definitions": [
             {
                 "sense": "1",
@@ -14883,8 +14608,7 @@
         ]
     },
     {
-        "term": "legak",
-        "roman_numeral": "I",
+        "term": "legak I",
         "origin": "Jk",
         "definitions": [
             {
@@ -14894,8 +14618,7 @@
         ]
     },
     {
-        "term": "legak",
-        "roman_numeral": "II",
+        "term": "legak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -14932,8 +14655,7 @@
         ]
     },
     {
-        "term": "legam",
-        "roman_numeral": "I",
+        "term": "legam I;",
         "definitions": [
             {
                 "sense": "1",
@@ -14962,8 +14684,7 @@
         ]
     },
     {
-        "term": "legam",
-        "roman_numeral": "II",
+        "term": "legam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14972,8 +14693,7 @@
         ]
     },
     {
-        "term": "legap",
-        "roman_numeral": "I",
+        "term": "legap I",
         "definitions": [
             {
                 "sense": "1",
@@ -14982,8 +14702,7 @@
         ]
     },
     {
-        "term": "legap",
-        "roman_numeral": "II",
+        "term": "legap II",
         "definitions": [
             {
                 "sense": "1",
@@ -15215,7 +14934,7 @@
         ]
     },
     {
-        "term": "legu",
+        "term": "legu; melegu",
         "definitions": [
             {
                 "sense": "1",
@@ -15224,7 +14943,7 @@
         ]
     },
     {
-        "term": "leguh",
+        "term": "leguh;",
         "definitions": [
             {
                 "sense": "1",
@@ -15270,8 +14989,7 @@
         ]
     },
     {
-        "term": "legung",
-        "roman_numeral": "I",
+        "term": "legung I",
         "definitions": [
             {
                 "sense": "1",
@@ -15280,8 +14998,7 @@
         ]
     },
     {
-        "term": "legung",
-        "roman_numeral": "II",
+        "term": "legung II",
         "definitions": [
             {
                 "sense": "1",
@@ -15290,8 +15007,7 @@
         ]
     },
     {
-        "term": "legup",
-        "roman_numeral": "I",
+        "term": "legup I;",
         "definitions": [
             {
                 "sense": "1",
@@ -15300,8 +15016,7 @@
         ]
     },
     {
-        "term": "legup",
-        "roman_numeral": "II",
+        "term": "legup II",
         "definitions": [
             {
                 "sense": "1",
@@ -15387,7 +15102,7 @@
         ]
     },
     {
-        "term": "leja",
+        "term": "leja; meleja",
         "definitions": [
             {
                 "sense": "1",
@@ -15473,7 +15188,7 @@
         ]
     },
     {
-        "term": "lejit",
+        "term": "lejit; melejit",
         "definitions": [
             {
                 "sense": "1",
@@ -15529,8 +15244,7 @@
         ]
     },
     {
-        "term": "lekah",
-        "roman_numeral": "I",
+        "term": "lekah I",
         "definitions": [
             {
                 "sense": "1",
@@ -15550,8 +15264,7 @@
         ]
     },
     {
-        "term": "lekah",
-        "roman_numeral": "II",
+        "term": "lekah II",
         "definitions": [
             {
                 "sense": "1",
@@ -15560,7 +15273,7 @@
         ]
     },
     {
-        "term": "lekak",
+        "term": "lekak;",
         "definitions": [
             {
                 "sense": "1",
@@ -15641,8 +15354,7 @@
         ]
     },
     {
-        "term": "lekap",
-        "roman_numeral": "I",
+        "term": "lekap I",
         "definitions": [
             {
                 "sense": "1",
@@ -15701,8 +15413,7 @@
         ]
     },
     {
-        "term": "lekap",
-        "roman_numeral": "II",
+        "term": "lekap II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15711,8 +15422,7 @@
         ]
     },
     {
-        "term": "lekap",
-        "roman_numeral": "III",
+        "term": "lekap III",
         "definitions": [
             {
                 "sense": "1",
@@ -15992,7 +15702,7 @@
         ]
     },
     {
-        "term": "lekit",
+        "term": "lekit; melekit",
         "definitions": [
             {
                 "sense": "1",
@@ -16127,7 +15837,7 @@
         ]
     },
     {
-        "term": "leku",
+        "term": "leku; meleku",
         "definitions": [
             {
                 "sense": "1",
@@ -16147,7 +15857,7 @@
         ]
     },
     {
-        "term": "lekuh",
+        "term": "lekuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -16224,8 +15934,7 @@
         ]
     },
     {
-        "term": "lekum",
-        "roman_numeral": "I",
+        "term": "lekum I",
         "definitions": [
             {
                 "sense": "1",
@@ -16234,8 +15943,7 @@
         ]
     },
     {
-        "term": "lekum",
-        "roman_numeral": "II",
+        "term": "lekum II;",
         "definitions": [
             {
                 "sense": "1",
@@ -16253,7 +15961,7 @@
         ]
     },
     {
-        "term": "lekup",
+        "term": "lekup;",
         "definitions": [
             {
                 "sense": "1",
@@ -16379,8 +16087,7 @@
         ]
     },
     {
-        "term": "lelah",
-        "roman_numeral": "II",
+        "term": "lelah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -16425,7 +16132,7 @@
         ]
     },
     {
-        "term": "lelais",
+        "term": "lelais;",
         "definitions": [
             {
                 "sense": "1",
@@ -16472,7 +16179,7 @@
         ]
     },
     {
-        "term": "lelampang",
+        "term": "lelampang;",
         "definitions": [
             {
                 "sense": "1",
@@ -16640,8 +16347,7 @@
         ]
     },
     {
-        "term": "lelar",
-        "roman_numeral": "I",
+        "term": "lelar I; memperlelar, memperlelarkan",
         "definitions": [
             {
                 "sense": "1",
@@ -16650,8 +16356,7 @@
         ]
     },
     {
-        "term": "lelar",
-        "roman_numeral": "II",
+        "term": "lelar II; melelar",
         "definitions": [
             {
                 "sense": "1",
@@ -16725,7 +16430,7 @@
         ]
     },
     {
-        "term": "lelat",
+        "term": "lelat;",
         "definitions": [
             {
                 "sense": "1",
@@ -16734,8 +16439,7 @@
         ]
     },
     {
-        "term": "lelatu",
-        "roman_numeral": "I",
+        "term": "lelatu I",
         "origin": "Jk",
         "definitions": [
             {
@@ -16745,8 +16449,7 @@
         ]
     },
     {
-        "term": "lelatu",
-        "roman_numeral": "II",
+        "term": "lelatu II",
         "definitions": [
             {
                 "sense": "1",
@@ -16755,7 +16458,7 @@
         ]
     },
     {
-        "term": "lelauh",
+        "term": "lelauh;",
         "definitions": [
             {
                 "sense": "1",
@@ -16783,8 +16486,7 @@
         ]
     },
     {
-        "term": "lelayang",
-        "roman_numeral": "I",
+        "term": "lelayang I",
         "definitions": [
             {
                 "sense": "1",
@@ -16793,8 +16495,7 @@
         ]
     },
     {
-        "term": "lelayang",
-        "roman_numeral": "II",
+        "term": "lelayang II",
         "definitions": [
             {
                 "sense": "1",
@@ -16803,8 +16504,7 @@
         ]
     },
     {
-        "term": "lelayang",
-        "roman_numeral": "III",
+        "term": "lelayang III",
         "definitions": [
             {
                 "sense": "1",
@@ -17030,7 +16730,7 @@
         ]
     },
     {
-        "term": "lelompat",
+        "term": "lelompat;",
         "definitions": [
             {
                 "sense": "1",
@@ -17195,7 +16895,7 @@
         ]
     },
     {
-        "term": "lelumbah",
+        "term": "lelumbah;",
         "definitions": [
             {
                 "sense": "1",
@@ -17328,8 +17028,7 @@
         ]
     },
     {
-        "term": "lemah",
-        "roman_numeral": "II",
+        "term": "lemah II",
         "origin": "Kd",
         "definitions": [
             {
@@ -17339,8 +17038,7 @@
         ]
     },
     {
-        "term": "lemah",
-        "roman_numeral": "III",
+        "term": "lemah III",
         "definitions": [
             {
                 "sense": "1",
@@ -17349,7 +17047,7 @@
         ]
     },
     {
-        "term": "lemah",
+        "term": "lemah lembut",
         "definitions": [
             {
                 "sense": "1",
@@ -17358,7 +17056,7 @@
         ]
     },
     {
-        "term": "lemah",
+        "term": "lemah lesu",
         "definitions": [
             {
                 "sense": "1",
@@ -17384,8 +17082,7 @@
         ]
     },
     {
-        "term": "lemak",
-        "roman_numeral": "II",
+        "term": "lemak II",
         "definitions": [
             {
                 "sense": "1",
@@ -17394,8 +17091,7 @@
         ]
     },
     {
-        "term": "lemak",
-        "roman_numeral": "III",
+        "term": "lemak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -17465,8 +17161,7 @@
         ]
     },
     {
-        "term": "lemas",
-        "roman_numeral": "I",
+        "term": "lemas I",
         "definitions": [
             {
                 "sense": "1",
@@ -17674,8 +17369,7 @@
         ]
     },
     {
-        "term": "lembam",
-        "roman_numeral": "II",
+        "term": "lembam II",
         "definitions": [
             {
                 "sense": "1",
@@ -17712,8 +17406,7 @@
         ]
     },
     {
-        "term": "lembang",
-        "roman_numeral": "II",
+        "term": "lembang II; melembang",
         "definitions": [
             {
                 "sense": "1",
@@ -17722,8 +17415,7 @@
         ]
     },
     {
-        "term": "lembang",
-        "roman_numeral": "III",
+        "term": "lembang III",
         "origin": "Kl",
         "definitions": [
             {
@@ -17872,10 +17564,11 @@
     },
     {
         "term": "lembat",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lebat."
+                "definition": "lebat."
             }
         ]
     },
@@ -18004,8 +17697,7 @@
         ]
     },
     {
-        "term": "lembu",
-        "roman_numeral": "I",
+        "term": "lembu I",
         "definitions": [
             {
                 "sense": "1",
@@ -18025,8 +17717,7 @@
         ]
     },
     {
-        "term": "lembu",
-        "roman_numeral": "II",
+        "term": "lembu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -18035,8 +17726,7 @@
         ]
     },
     {
-        "term": "lembu",
-        "roman_numeral": "III",
+        "term": "lembu III",
         "definitions": [
             {
                 "sense": "1",
@@ -18046,10 +17736,11 @@
     },
     {
         "term": "lembuara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj lembing yg berambu-rambu."
+                "definition": "sj lembing yg berambu-rambu."
             }
         ]
     },
@@ -18063,7 +17754,7 @@
         ]
     },
     {
-        "term": "lembung",
+        "term": "lembung; melembung",
         "definitions": [
             {
                 "sense": "1",
@@ -18259,7 +17950,7 @@
         ]
     },
     {
-        "term": "lempai",
+        "term": "lempai; melempai, terlempai, berlempaian",
         "definitions": [
             {
                 "sense": "1",
@@ -18277,8 +17968,7 @@
         ]
     },
     {
-        "term": "lempang",
-        "roman_numeral": "I",
+        "term": "lempang I",
         "origin": "Jk",
         "definitions": [
             {
@@ -18303,8 +17993,7 @@
         ]
     },
     {
-        "term": "lempang",
-        "roman_numeral": "II",
+        "term": "lempang II",
         "definitions": [
             {
                 "sense": "1",
@@ -18346,7 +18035,7 @@
         ]
     },
     {
-        "term": "lempap",
+        "term": "lempap; melempap",
         "definitions": [
             {
                 "sense": "1",
@@ -18486,7 +18175,7 @@
         ]
     },
     {
-        "term": "lempedu",
+        "term": "lempedu;",
         "definitions": [
             {
                 "sense": "1",
@@ -18590,10 +18279,11 @@
     },
     {
         "term": "lempiri",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl nafiri, serunai."
+                "definition": "nafiri, serunai."
             }
         ]
     },
@@ -18620,10 +18310,11 @@
     },
     {
         "term": "lempoyan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl penggulung (kumparan) tali kail, kili-kili;  empoyan I."
+                "definition": "penggulung (kumparan) tali kail, kili-kili;  empoyan I."
             }
         ]
     },
@@ -18655,8 +18346,7 @@
         ]
     },
     {
-        "term": "lempuk",
-        "roman_numeral": "I",
+        "term": "lempuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -18665,8 +18355,7 @@
         ]
     },
     {
-        "term": "lempuk",
-        "roman_numeral": "II",
+        "term": "lempuk II; berlempuk",
         "definitions": [
             {
                 "sense": "1",
@@ -18675,7 +18364,7 @@
         ]
     },
     {
-        "term": "lempum",
+        "term": "lempum;",
         "definitions": [
             {
                 "sense": "1",
@@ -18693,8 +18382,7 @@
         ]
     },
     {
-        "term": "lempung",
-        "roman_numeral": "I",
+        "term": "lempung I",
         "definitions": [
             {
                 "sense": "1",
@@ -18703,8 +18391,7 @@
         ]
     },
     {
-        "term": "lempung",
-        "roman_numeral": "II",
+        "term": "lempung II",
         "origin": "Jk",
         "definitions": [
             {
@@ -18714,7 +18401,7 @@
         ]
     },
     {
-        "term": "lempur",
+        "term": "lempur; kelempuran",
         "definitions": [
             {
                 "sense": "1",
@@ -18723,7 +18410,7 @@
         ]
     },
     {
-        "term": "lemputih",
+        "term": "lemputih;",
         "definitions": [
             {
                 "sense": "1",
@@ -18732,7 +18419,7 @@
         ]
     },
     {
-        "term": "lemuas",
+        "term": "lemuas; berlemuas",
         "definitions": [
             {
                 "sense": "1",
@@ -18916,8 +18603,7 @@
         ]
     },
     {
-        "term": "lenci",
-        "roman_numeral": "I",
+        "term": "lenci I",
         "definitions": [
             {
                 "sense": "1",
@@ -18926,8 +18612,7 @@
         ]
     },
     {
-        "term": "lenci",
-        "roman_numeral": "II",
+        "term": "lenci II",
         "definitions": [
             {
                 "sense": "1",
@@ -18936,7 +18621,7 @@
         ]
     },
     {
-        "term": "lencit",
+        "term": "lencit; melencit",
         "definitions": [
             {
                 "sense": "1",
@@ -18978,7 +18663,7 @@
         ]
     },
     {
-        "term": "lencun",
+        "term": "lencun, lencung",
         "definitions": [
             {
                 "sense": "1",
@@ -19005,7 +18690,7 @@
         ]
     },
     {
-        "term": "lendap",
+        "term": "lendap; melendap",
         "definitions": [
             {
                 "sense": "1",
@@ -19025,7 +18710,7 @@
         ]
     },
     {
-        "term": "lendat",
+        "term": "lendat; melendat",
         "definitions": [
             {
                 "sense": "1",
@@ -19071,7 +18756,7 @@
         ]
     },
     {
-        "term": "lenduh",
+        "term": "lenduh; melenduh",
         "definitions": [
             {
                 "sense": "1",
@@ -19080,7 +18765,7 @@
         ]
     },
     {
-        "term": "lendung",
+        "term": "lendung; melendung",
         "definitions": [
             {
                 "sense": "1",
@@ -19423,7 +19108,7 @@
         ]
     },
     {
-        "term": "lenggak",
+        "term": "lenggak; melenggak",
         "definitions": [
             {
                 "sense": "1",
@@ -19453,10 +19138,11 @@
     },
     {
         "term": "lenggana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tidak sudi, enggan."
+                "definition": "tidak sudi, enggan."
             }
         ]
     },
@@ -19559,8 +19245,7 @@
         ]
     },
     {
-        "term": "lenggek",
-        "roman_numeral": "I",
+        "term": "lenggek I",
         "definitions": [
             {
                 "sense": "1",
@@ -19598,8 +19283,7 @@
         ]
     },
     {
-        "term": "lenggek",
-        "roman_numeral": "II",
+        "term": "lenggek II",
         "definitions": [
             {
                 "sense": "1",
@@ -19705,8 +19389,7 @@
         ]
     },
     {
-        "term": "lengit",
-        "roman_numeral": "I",
+        "term": "lengit I",
         "definitions": [
             {
                 "sense": "1",
@@ -19715,8 +19398,7 @@
         ]
     },
     {
-        "term": "lengit",
-        "roman_numeral": "II",
+        "term": "lengit II",
         "origin": "Jk",
         "definitions": [
             {
@@ -19726,8 +19408,7 @@
         ]
     },
     {
-        "term": "lengit",
-        "roman_numeral": "III",
+        "term": "lengit III",
         "definitions": [
             {
                 "sense": "1",
@@ -19918,28 +19599,27 @@
         ]
     },
     {
-        "term": "lengkara",
-        "roman_numeral": "I",
+        "term": "lengkara I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sesuatu yg tidak munasabah, mustahil."
+                "definition": "sesuatu yg tidak munasabah, mustahil."
             }
         ]
     },
     {
-        "term": "lengkara",
-        "roman_numeral": "II",
+        "term": "lengkara II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gendang besar, tabuh, nekara."
+                "definition": "gendang besar, tabuh, nekara."
             }
         ]
     },
     {
-        "term": "lengkas",
-        "roman_numeral": "I",
+        "term": "lengkas I",
         "definitions": [
             {
                 "sense": "1",
@@ -19948,8 +19628,7 @@
         ]
     },
     {
-        "term": "lengkas",
-        "roman_numeral": "II",
+        "term": "lengkas II",
         "definitions": [
             {
                 "sense": "1",
@@ -19976,8 +19655,7 @@
         ]
     },
     {
-        "term": "lengket",
-        "roman_numeral": "I",
+        "term": "lengket I",
         "definitions": [
             {
                 "sense": "1",
@@ -20160,8 +19838,7 @@
         ]
     },
     {
-        "term": "lengkung",
-        "roman_numeral": "I",
+        "term": "lengkung I",
         "definitions": [
             {
                 "sense": "1",
@@ -20212,8 +19889,7 @@
         ]
     },
     {
-        "term": "lengkung",
-        "roman_numeral": "II",
+        "term": "lengkung II",
         "definitions": [
             {
                 "sense": "1",
@@ -20316,8 +19992,7 @@
         ]
     },
     {
-        "term": "lenguh",
-        "roman_numeral": "I",
+        "term": "lenguh I",
         "definitions": [
             {
                 "sense": "1",
@@ -20337,8 +20012,7 @@
         ]
     },
     {
-        "term": "lenguh",
-        "roman_numeral": "II",
+        "term": "lenguh II",
         "definitions": [
             {
                 "sense": "1",
@@ -20385,8 +20059,7 @@
         ]
     },
     {
-        "term": "lengung",
-        "roman_numeral": "I",
+        "term": "lengung I; melengung",
         "definitions": [
             {
                 "sense": "1",
@@ -20436,8 +20109,7 @@
         ]
     },
     {
-        "term": "lenja",
-        "roman_numeral": "I",
+        "term": "lenja I; melenja",
         "definitions": [
             {
                 "sense": "1",
@@ -20446,8 +20118,7 @@
         ]
     },
     {
-        "term": "lenja",
-        "roman_numeral": "II",
+        "term": "lenja II; melenja",
         "definitions": [
             {
                 "sense": "1",
@@ -20522,8 +20193,7 @@
         ]
     },
     {
-        "term": "lenong",
-        "roman_numeral": "I",
+        "term": "lenong I",
         "definitions": [
             {
                 "sense": "1",
@@ -20532,8 +20202,7 @@
         ]
     },
     {
-        "term": "lenong",
-        "roman_numeral": "II",
+        "term": "lenong II",
         "definitions": [
             {
                 "sense": "1",
@@ -20560,7 +20229,7 @@
         ]
     },
     {
-        "term": "lensing",
+        "term": "lensing; melensing",
         "definitions": [
             {
                 "sense": "1",
@@ -20578,7 +20247,7 @@
         ]
     },
     {
-        "term": "lentam",
+        "term": "lentam;",
         "definitions": [
             {
                 "sense": "1",
@@ -20706,8 +20375,7 @@
         ]
     },
     {
-        "term": "lenting",
-        "roman_numeral": "II",
+        "term": "lenting II",
         "definitions": [
             {
                 "sense": "1",
@@ -20745,7 +20413,7 @@
         ]
     },
     {
-        "term": "lentok",
+        "term": "lentok;",
         "definitions": [
             {
                 "sense": "1",
@@ -20794,7 +20462,7 @@
         ]
     },
     {
-        "term": "lentul",
+        "term": "lentul; melentul",
         "definitions": [
             {
                 "sense": "1",
@@ -20812,8 +20480,7 @@
         ]
     },
     {
-        "term": "lentung",
-        "roman_numeral": "I",
+        "term": "lentung I",
         "definitions": [
             {
                 "sense": "1",
@@ -20842,8 +20509,7 @@
         ]
     },
     {
-        "term": "lentung",
-        "roman_numeral": "II",
+        "term": "lentung II",
         "origin": "Mn",
         "definitions": [
             {
@@ -21129,8 +20795,7 @@
         ]
     },
     {
-        "term": "lepak",
-        "roman_numeral": "I",
+        "term": "lepak I; melepak",
         "definitions": [
             {
                 "sense": "1",
@@ -21139,8 +20804,7 @@
         ]
     },
     {
-        "term": "lepak",
-        "roman_numeral": "II",
+        "term": "lepak II",
         "definitions": [
             {
                 "sense": "1",
@@ -21200,8 +20864,7 @@
         ]
     },
     {
-        "term": "lepap",
-        "roman_numeral": "I",
+        "term": "lepap I; terlepap",
         "definitions": [
             {
                 "sense": "1",
@@ -21210,8 +20873,7 @@
         ]
     },
     {
-        "term": "lepap",
-        "roman_numeral": "II",
+        "term": "lepap II",
         "definitions": [
             {
                 "sense": "1",
@@ -21528,8 +21190,7 @@
         ]
     },
     {
-        "term": "lepau",
-        "roman_numeral": "II",
+        "term": "lepau II",
         "origin": "Pr",
         "definitions": [
             {
@@ -21840,8 +21501,7 @@
         ]
     },
     {
-        "term": "lepur",
-        "roman_numeral": "I",
+        "term": "lepur I;",
         "definitions": [
             {
                 "sense": "1",
@@ -21850,8 +21510,7 @@
         ]
     },
     {
-        "term": "lepur",
-        "roman_numeral": "II",
+        "term": "lepur II; melepur",
         "definitions": [
             {
                 "sense": "1",
@@ -21860,7 +21519,7 @@
         ]
     },
     {
-        "term": "lepus",
+        "term": "lepus; berlepus",
         "definitions": [
             {
                 "sense": "1",
@@ -21869,8 +21528,7 @@
         ]
     },
     {
-        "term": "lerah",
-        "roman_numeral": "I",
+        "term": "lerah I; terlerah",
         "definitions": [
             {
                 "sense": "1",
@@ -21879,8 +21537,7 @@
         ]
     },
     {
-        "term": "lerah",
-        "roman_numeral": "II",
+        "term": "lerah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -21932,8 +21589,7 @@
         ]
     },
     {
-        "term": "lerak",
-        "roman_numeral": "I",
+        "term": "lerak I",
         "definitions": [
             {
                 "sense": "1",
@@ -21953,8 +21609,7 @@
         ]
     },
     {
-        "term": "lerak",
-        "roman_numeral": "II",
+        "term": "lerak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22295,8 +21950,7 @@
         ]
     },
     {
-        "term": "lesa",
-        "roman_numeral": "I",
+        "term": "lesa I",
         "definitions": [
             {
                 "sense": "1",
@@ -22305,8 +21959,7 @@
         ]
     },
     {
-        "term": "lesa",
-        "roman_numeral": "II",
+        "term": "lesa II",
         "definitions": [
             {
                 "sense": "1",
@@ -22315,8 +21968,7 @@
         ]
     },
     {
-        "term": "lesah",
-        "roman_numeral": "I",
+        "term": "lesah I",
         "definitions": [
             {
                 "sense": "1",
@@ -22325,8 +21977,7 @@
         ]
     },
     {
-        "term": "lesah",
-        "roman_numeral": "II",
+        "term": "lesah II",
         "definitions": [
             {
                 "sense": "1",
@@ -22335,8 +21986,7 @@
         ]
     },
     {
-        "term": "lesak",
-        "roman_numeral": "I",
+        "term": "lesak I",
         "definitions": [
             {
                 "sense": "1",
@@ -22345,8 +21995,7 @@
         ]
     },
     {
-        "term": "lesak",
-        "roman_numeral": "II",
+        "term": "lesak II",
         "definitions": [
             {
                 "sense": "1",
@@ -22590,7 +22239,7 @@
         ]
     },
     {
-        "term": "lesi",
+        "term": "lesi, lesih",
         "definitions": [
             {
                 "sense": "1",
@@ -22633,8 +22282,7 @@
         ]
     },
     {
-        "term": "lesir",
-        "roman_numeral": "I",
+        "term": "lesir I",
         "definitions": [
             {
                 "sense": "1",
@@ -22643,8 +22291,7 @@
         ]
     },
     {
-        "term": "lesir",
-        "roman_numeral": "II",
+        "term": "lesir II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22653,8 +22300,7 @@
         ]
     },
     {
-        "term": "lesir",
-        "roman_numeral": "III",
+        "term": "lesir III",
         "definitions": [
             {
                 "sense": "1",
@@ -22663,8 +22309,7 @@
         ]
     },
     {
-        "term": "lesit",
-        "roman_numeral": "I",
+        "term": "lesit I; melesit",
         "definitions": [
             {
                 "sense": "1",
@@ -22673,8 +22318,7 @@
         ]
     },
     {
-        "term": "lesit",
-        "roman_numeral": "II",
+        "term": "lesit II; melesit;",
         "definitions": [
             {
                 "sense": "1",
@@ -22683,8 +22327,7 @@
         ]
     },
     {
-        "term": "lesit",
-        "roman_numeral": "III",
+        "term": "lesit III; melesit",
         "definitions": [
             {
                 "sense": "1",
@@ -22693,8 +22336,7 @@
         ]
     },
     {
-        "term": "lesit",
-        "roman_numeral": "IV",
+        "term": "lesit IV; melesit",
         "definitions": [
             {
                 "sense": "1",
@@ -22816,7 +22458,7 @@
         ]
     },
     {
-        "term": "lesuk",
+        "term": "lesuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -22852,8 +22494,7 @@
         ]
     },
     {
-        "term": "leta",
-        "roman_numeral": "I",
+        "term": "leta I",
         "definitions": [
             {
                 "sense": "1",
@@ -22873,8 +22514,7 @@
         ]
     },
     {
-        "term": "leta",
-        "roman_numeral": "II",
+        "term": "leta II",
         "definitions": [
             {
                 "sense": "1",
@@ -22883,7 +22523,7 @@
         ]
     },
     {
-        "term": "letah",
+        "term": "letah;",
         "definitions": [
             {
                 "sense": "1",
@@ -23153,8 +22793,7 @@
         ]
     },
     {
-        "term": "letik",
-        "roman_numeral": "I",
+        "term": "letik I; meletik",
         "definitions": [
             {
                 "sense": "1",
@@ -23163,8 +22802,7 @@
         ]
     },
     {
-        "term": "letik",
-        "roman_numeral": "II",
+        "term": "letik II",
         "definitions": [
             {
                 "sense": "1",
@@ -23184,8 +22822,7 @@
         ]
     },
     {
-        "term": "leting",
-        "roman_numeral": "I",
+        "term": "leting I",
         "definitions": [
             {
                 "sense": "1",
@@ -23194,8 +22831,7 @@
         ]
     },
     {
-        "term": "leting",
-        "roman_numeral": "II",
+        "term": "leting II; meleting",
         "definitions": [
             {
                 "sense": "1",
@@ -23250,8 +22886,7 @@
         ]
     },
     {
-        "term": "letung",
-        "roman_numeral": "I",
+        "term": "letung I",
         "definitions": [
             {
                 "sense": "1",
@@ -23260,8 +22895,7 @@
         ]
     },
     {
-        "term": "letung",
-        "roman_numeral": "II",
+        "term": "letung II",
         "origin": "Kl",
         "definitions": [
             {
@@ -23271,8 +22905,7 @@
         ]
     },
     {
-        "term": "letup",
-        "roman_numeral": "I",
+        "term": "letup I",
         "definitions": [
             {
                 "sense": "1",
@@ -23345,8 +22978,7 @@
         ]
     },
     {
-        "term": "letup",
-        "roman_numeral": "II",
+        "term": "letup II",
         "definitions": [
             {
                 "sense": "1",
@@ -23370,7 +23002,7 @@
         ]
     },
     {
-        "term": "letur",
+        "term": "letur; meletur",
         "definitions": [
             {
                 "sense": "1",
@@ -23675,8 +23307,7 @@
         ]
     },
     {
-        "term": "liang",
-        "roman_numeral": "I",
+        "term": "liang I",
         "definitions": [
             {
                 "sense": "1",
@@ -23685,8 +23316,7 @@
         ]
     },
     {
-        "term": "liang",
-        "roman_numeral": "II",
+        "term": "liang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23835,8 +23465,7 @@
         ]
     },
     {
-        "term": "liat",
-        "roman_numeral": "II",
+        "term": "liat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23845,8 +23474,7 @@
         ]
     },
     {
-        "term": "liat",
-        "roman_numeral": "III",
+        "term": "liat III",
         "definitions": [
             {
                 "sense": "1",
@@ -23907,7 +23535,7 @@
         ]
     },
     {
-        "term": "libat",
+        "term": "libat; melibat",
         "definitions": [
             {
                 "sense": "1",
@@ -24273,8 +23901,7 @@
         ]
     },
     {
-        "term": "licin",
-        "roman_numeral": "II",
+        "term": "licin II;",
         "definitions": [
             {
                 "sense": "1",
@@ -24344,8 +23971,7 @@
         ]
     },
     {
-        "term": "lidah",
-        "roman_numeral": "II",
+        "term": "lidah II",
         "definitions": [
             {
                 "sense": "1",
@@ -24354,8 +23980,7 @@
         ]
     },
     {
-        "term": "lidah",
-        "roman_numeral": "III",
+        "term": "lidah III;",
         "definitions": [
             {
                 "sense": "1",
@@ -24415,8 +24040,7 @@
         ]
     },
     {
-        "term": "lidi",
-        "roman_numeral": "II",
+        "term": "lidi II",
         "definitions": [
             {
                 "sense": "1",
@@ -24523,7 +24147,7 @@
         ]
     },
     {
-        "term": "ligih",
+        "term": "ligih; meligih",
         "definitions": [
             {
                 "sense": "1",
@@ -24794,8 +24418,7 @@
         ]
     },
     {
-        "term": "likat",
-        "roman_numeral": "I",
+        "term": "likat I",
         "definitions": [
             {
                 "sense": "1",
@@ -24815,8 +24438,7 @@
         ]
     },
     {
-        "term": "likat",
-        "roman_numeral": "II",
+        "term": "likat II",
         "definitions": [
             {
                 "sense": "1",
@@ -24825,8 +24447,7 @@
         ]
     },
     {
-        "term": "likat",
-        "roman_numeral": "III",
+        "term": "likat III",
         "origin": "Jk",
         "definitions": [
             {
@@ -24906,8 +24527,7 @@
         ]
     },
     {
-        "term": "liku",
-        "roman_numeral": "II",
+        "term": "liku II;",
         "definitions": [
             {
                 "sense": "1",
@@ -24935,10 +24555,11 @@
     },
     {
         "term": "likur",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bilangan antara 20 dan 30, dua puluhan;  tujuh   ~  dua puluh tujuh;"
+                "definition": "bilangan antara 20 dan 30, dua puluhan;  tujuh   ~  dua puluh tujuh;"
             }
         ],
         "sub_terms": [
@@ -24995,8 +24616,7 @@
         ]
     },
     {
-        "term": "lil",
-        "roman_numeral": "I",
+        "term": "lil I",
         "origin": "Kl",
         "definitions": [
             {
@@ -25006,8 +24626,7 @@
         ]
     },
     {
-        "term": "lil",
-        "roman_numeral": "II",
+        "term": "lil II",
         "definitions": [
             {
                 "sense": "1",
@@ -25016,8 +24635,7 @@
         ]
     },
     {
-        "term": "lilah",
-        "roman_numeral": "I",
+        "term": "lilah I; melilah",
         "definitions": [
             {
                 "sense": "1",
@@ -25026,8 +24644,7 @@
         ]
     },
     {
-        "term": "lilah",
-        "roman_numeral": "II",
+        "term": "lilah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -25056,8 +24673,7 @@
         ]
     },
     {
-        "term": "lilau",
-        "roman_numeral": "I",
+        "term": "lilau I; melilau",
         "definitions": [
             {
                 "sense": "1",
@@ -25066,8 +24682,7 @@
         ]
     },
     {
-        "term": "lilau",
-        "roman_numeral": "II",
+        "term": "lilau II",
         "origin": "Kd",
         "definitions": [
             {
@@ -25095,8 +24710,7 @@
         ]
     },
     {
-        "term": "lilin",
-        "roman_numeral": "II",
+        "term": "lilin II;",
         "definitions": [
             {
                 "sense": "1",
@@ -25105,7 +24719,7 @@
         ]
     },
     {
-        "term": "lilipit",
+        "term": "lilipit, liliput",
         "origin": "IB",
         "definitions": [
             {
@@ -25115,7 +24729,7 @@
         ]
     },
     {
-        "term": "lilis",
+        "term": "lilis; melilis",
         "definitions": [
             {
                 "sense": "1",
@@ -25219,7 +24833,7 @@
         ]
     },
     {
-        "term": "lillah",
+        "term": "lillah, lillahi",
         "origin": "Ar",
         "definitions": [
             {
@@ -25332,8 +24946,7 @@
         ]
     },
     {
-        "term": "limas",
-        "roman_numeral": "II",
+        "term": "limas II",
         "definitions": [
             {
                 "sense": "1",
@@ -25342,8 +24955,7 @@
         ]
     },
     {
-        "term": "limas",
-        "roman_numeral": "III",
+        "term": "limas III",
         "origin": "Pr",
         "definitions": [
             {
@@ -25408,8 +25020,7 @@
         ]
     },
     {
-        "term": "limbah",
-        "roman_numeral": "II",
+        "term": "limbah II",
         "definitions": [
             {
                 "sense": "1",
@@ -25418,8 +25029,7 @@
         ]
     },
     {
-        "term": "limbah",
-        "roman_numeral": "III",
+        "term": "limbah III",
         "origin": "Tr",
         "definitions": [
             {
@@ -25500,12 +25110,12 @@
         ]
     },
     {
-        "term": "limbang",
-        "roman_numeral": "II",
+        "term": "limbang II; melimbang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl berjalan ke mana-mana, merantau;"
+                "definition": "berjalan ke mana-mana, merantau;"
             }
         ],
         "sub_terms": [
@@ -25521,8 +25131,7 @@
         ]
     },
     {
-        "term": "limbang",
-        "roman_numeral": "III",
+        "term": "limbang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -25591,8 +25200,7 @@
         ]
     },
     {
-        "term": "limbung",
-        "roman_numeral": "II",
+        "term": "limbung II",
         "origin": "Jk",
         "definitions": [
             {
@@ -25602,8 +25210,7 @@
         ]
     },
     {
-        "term": "limbur",
-        "roman_numeral": "I",
+        "term": "limbur I;",
         "definitions": [
             {
                 "sense": "1",
@@ -25612,8 +25219,7 @@
         ]
     },
     {
-        "term": "limbur",
-        "roman_numeral": "II",
+        "term": "limbur II",
         "origin": "Mn",
         "definitions": [
             {
@@ -25948,8 +25554,7 @@
         ]
     },
     {
-        "term": "limun",
-        "roman_numeral": "I",
+        "term": "limun I; limunan",
         "definitions": [
             {
                 "sense": "1",
@@ -25958,8 +25563,7 @@
         ]
     },
     {
-        "term": "limun",
-        "roman_numeral": "II",
+        "term": "limun II",
         "origin": "Id",
         "definitions": [
             {
@@ -25969,7 +25573,7 @@
         ]
     },
     {
-        "term": "limut",
+        "term": "limut; melimut-limut",
         "definitions": [
             {
                 "sense": "1",
@@ -25978,8 +25582,7 @@
         ]
     },
     {
-        "term": "lin",
-        "roman_numeral": "I",
+        "term": "lin I",
         "origin": "IB",
         "definitions": [
             {
@@ -25989,8 +25592,7 @@
         ]
     },
     {
-        "term": "lin",
-        "roman_numeral": "II",
+        "term": "lin II",
         "origin": "IB",
         "definitions": [
             {
@@ -26000,8 +25602,7 @@
         ]
     },
     {
-        "term": "linang",
-        "roman_numeral": "I",
+        "term": "linang I; berlinang, berlinang-linang, melinang",
         "definitions": [
             {
                 "sense": "1",
@@ -26021,8 +25622,7 @@
         ]
     },
     {
-        "term": "linang",
-        "roman_numeral": "II",
+        "term": "linang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -26200,7 +25800,7 @@
         ]
     },
     {
-        "term": "lindas",
+        "term": "lindas; melindas",
         "definitions": [
             {
                 "sense": "1",
@@ -26434,8 +26034,7 @@
         ]
     },
     {
-        "term": "lindung",
-        "roman_numeral": "II",
+        "term": "lindung II",
         "origin": "Jk",
         "definitions": [
             {
@@ -26476,8 +26075,7 @@
         ]
     },
     {
-        "term": "ling",
-        "roman_numeral": "I",
+        "term": "ling I",
         "definitions": [
             {
                 "sense": "1",
@@ -26486,8 +26084,7 @@
         ]
     },
     {
-        "term": "ling",
-        "roman_numeral": "II",
+        "term": "ling II;",
         "definitions": [
             {
                 "sense": "1",
@@ -26509,8 +26106,7 @@
         ]
     },
     {
-        "term": "lingas",
-        "roman_numeral": "I",
+        "term": "lingas I",
         "definitions": [
             {
                 "sense": "1",
@@ -26519,8 +26115,7 @@
         ]
     },
     {
-        "term": "lingas",
-        "roman_numeral": "II",
+        "term": "lingas II; melingas",
         "definitions": [
             {
                 "sense": "1",
@@ -26540,8 +26135,7 @@
         ]
     },
     {
-        "term": "lingga",
-        "roman_numeral": "I",
+        "term": "lingga I",
         "definitions": [
             {
                 "sense": "1",
@@ -26550,8 +26144,7 @@
         ]
     },
     {
-        "term": "lingga",
-        "roman_numeral": "II",
+        "term": "lingga II;",
         "definitions": [
             {
                 "sense": "1",
@@ -26598,8 +26191,7 @@
         ]
     },
     {
-        "term": "linggi",
-        "roman_numeral": "I",
+        "term": "linggi I",
         "definitions": [
             {
                 "sense": "1",
@@ -26608,8 +26200,7 @@
         ]
     },
     {
-        "term": "Linggi",
-        "roman_numeral": "II",
+        "term": "Linggi II",
         "definitions": [
             {
                 "sense": "1",
@@ -26618,8 +26209,7 @@
         ]
     },
     {
-        "term": "linggis",
-        "roman_numeral": "I",
+        "term": "linggis I",
         "origin": "Jw",
         "definitions": [
             {
@@ -26640,8 +26230,7 @@
         ]
     },
     {
-        "term": "linggis",
-        "roman_numeral": "II",
+        "term": "linggis II; linggisan;",
         "definitions": [
             {
                 "sense": "1",
@@ -26856,8 +26445,7 @@
         ]
     },
     {
-        "term": "lingkup",
-        "roman_numeral": "I",
+        "term": "lingkup I",
         "definitions": [
             {
                 "sense": "1",
@@ -26894,8 +26482,7 @@
         ]
     },
     {
-        "term": "lingkup",
-        "roman_numeral": "II",
+        "term": "lingkup II",
         "origin": "Mn",
         "definitions": [
             {
@@ -27046,7 +26633,7 @@
         ]
     },
     {
-        "term": "lini",
+        "term": "lini;",
         "definitions": [
             {
                 "sense": "1",
@@ -27093,7 +26680,7 @@
         ]
     },
     {
-        "term": "lino",
+        "term": "lino;",
         "definitions": [
             {
                 "sense": "1",
@@ -27147,7 +26734,7 @@
         ]
     },
     {
-        "term": "lintah",
+        "term": "lintah darat",
         "definitions": [
             {
                 "sense": "1",
@@ -27468,8 +27055,7 @@
         ]
     },
     {
-        "term": "linu",
-        "roman_numeral": "I",
+        "term": "linu I",
         "definitions": [
             {
                 "sense": "1",
@@ -27478,8 +27064,7 @@
         ]
     },
     {
-        "term": "linu",
-        "roman_numeral": "II",
+        "term": "linu II",
         "origin": "Jk",
         "definitions": [
             {
@@ -27519,7 +27104,7 @@
         ]
     },
     {
-        "term": "linyang",
+        "term": "linyang; melinyang",
         "definitions": [
             {
                 "sense": "1",
@@ -27548,7 +27133,7 @@
         ]
     },
     {
-        "term": "linyar",
+        "term": "linyar; melinyar",
         "definitions": [
             {
                 "sense": "1",
@@ -27746,7 +27331,7 @@
         ]
     },
     {
-        "term": "lipat",
+        "term": "lipat ganda",
         "definitions": [
             {
                 "sense": "1",
@@ -27993,8 +27578,7 @@
         ]
     },
     {
-        "term": "lirik",
-        "roman_numeral": "I",
+        "term": "lirik I",
         "definitions": [
             {
                 "sense": "1",
@@ -28003,8 +27587,7 @@
         ]
     },
     {
-        "term": "lirik",
-        "roman_numeral": "II",
+        "term": "lirik II",
         "definitions": [
             {
                 "sense": "1",
@@ -28046,8 +27629,7 @@
         ]
     },
     {
-        "term": "liris",
-        "roman_numeral": "I",
+        "term": "liris I;",
         "definitions": [
             {
                 "sense": "1",
@@ -28069,8 +27651,7 @@
         ]
     },
     {
-        "term": "lisah",
-        "roman_numeral": "I",
+        "term": "lisah I",
         "definitions": [
             {
                 "sense": "1",
@@ -28079,8 +27660,7 @@
         ]
     },
     {
-        "term": "lisah",
-        "roman_numeral": "II",
+        "term": "lisah II",
         "definitions": [
             {
                 "sense": "1",
@@ -28122,7 +27702,7 @@
         ]
     },
     {
-        "term": "lisani",
+        "term": "lisani;",
         "definitions": [
             {
                 "sense": "1",
@@ -28179,7 +27759,7 @@
         ]
     },
     {
-        "term": "lis-lis",
+        "term": "lis-lis;",
         "definitions": [
             {
                 "sense": "1",
@@ -28198,7 +27778,7 @@
         ]
     },
     {
-        "term": "listerik",
+        "term": "listerik, listrik",
         "origin": "IB",
         "definitions": [
             {
@@ -28278,7 +27858,7 @@
         ]
     },
     {
-        "term": "lita",
+        "term": "lita;",
         "definitions": [
             {
                 "sense": "1",
@@ -28341,7 +27921,7 @@
         ]
     },
     {
-        "term": "litenan",
+        "term": "litenan ",
         "definitions": [
             {
                 "sense": "1",
@@ -28449,7 +28029,7 @@
         ]
     },
     {
-        "term": "lit-lit",
+        "term": "lit-lit;",
         "definitions": [
             {
                 "sense": "1",
@@ -28819,7 +28399,7 @@
         ]
     },
     {
-        "term": "loa",
+        "term": "loa, loak",
         "origin": "Jk",
         "definitions": [
             {
@@ -28871,8 +28451,7 @@
         ]
     },
     {
-        "term": "loban",
-        "roman_numeral": "I",
+        "term": "loban I",
         "definitions": [
             {
                 "sense": "1",
@@ -28881,8 +28460,7 @@
         ]
     },
     {
-        "term": "loban",
-        "roman_numeral": "II",
+        "term": "loban II",
         "definitions": [
             {
                 "sense": "1",
@@ -28901,8 +28479,7 @@
         ]
     },
     {
-        "term": "lobi",
-        "roman_numeral": "I",
+        "term": "lobi I",
         "definitions": [
             {
                 "sense": "1",
@@ -28911,8 +28488,7 @@
         ]
     },
     {
-        "term": "lobi",
-        "roman_numeral": "II",
+        "term": "lobi II",
         "definitions": [
             {
                 "sense": "1",
@@ -28992,8 +28568,7 @@
         ]
     },
     {
-        "term": "locak",
-        "roman_numeral": "II",
+        "term": "locak II; melocak",
         "definitions": [
             {
                 "sense": "1",
@@ -29089,8 +28664,7 @@
         ]
     },
     {
-        "term": "locot",
-        "roman_numeral": "I",
+        "term": "locot I",
         "definitions": [
             {
                 "sense": "1",
@@ -29099,8 +28673,7 @@
         ]
     },
     {
-        "term": "locot",
-        "roman_numeral": "II",
+        "term": "locot II",
         "definitions": [
             {
                 "sense": "1",
@@ -29167,8 +28740,7 @@
         ]
     },
     {
-        "term": "lodoh",
-        "roman_numeral": "I",
+        "term": "lodoh I",
         "definitions": [
             {
                 "sense": "1",
@@ -29177,8 +28749,7 @@
         ]
     },
     {
-        "term": "lodoh",
-        "roman_numeral": "II",
+        "term": "lodoh II",
         "origin": "Tr",
         "definitions": [
             {
@@ -29216,7 +28787,7 @@
         ]
     },
     {
-        "term": "loga",
+        "term": "loga;",
         "definitions": [
             {
                 "sense": "1",
@@ -29313,8 +28884,7 @@
         ]
     },
     {
-        "term": "loghat",
-        "roman_numeral": "II",
+        "term": "loghat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -29413,7 +28983,7 @@
         ]
     },
     {
-        "term": "logu",
+        "term": "logu;",
         "definitions": [
             {
                 "sense": "1",
@@ -29436,8 +29006,7 @@
         ]
     },
     {
-        "term": "loh",
-        "roman_numeral": "II",
+        "term": "loh II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29446,8 +29015,7 @@
         ]
     },
     {
-        "term": "loh",
-        "roman_numeral": "III",
+        "term": "loh III",
         "origin": "Jw",
         "definitions": [
             {
@@ -29457,8 +29025,7 @@
         ]
     },
     {
-        "term": "loh",
-        "roman_numeral": "IV",
+        "term": "loh IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -29467,8 +29034,7 @@
         ]
     },
     {
-        "term": "loh",
-        "roman_numeral": "V",
+        "term": "loh V",
         "origin": "Kl",
         "definitions": [
             {
@@ -29506,8 +29072,7 @@
         ]
     },
     {
-        "term": "lohok",
-        "roman_numeral": "I",
+        "term": "lohok I",
         "definitions": [
             {
                 "sense": "1",
@@ -29516,8 +29081,7 @@
         ]
     },
     {
-        "term": "lohok",
-        "roman_numeral": "II",
+        "term": "lohok II",
         "definitions": [
             {
                 "sense": "1",
@@ -29571,8 +29135,7 @@
         ]
     },
     {
-        "term": "loji",
-        "roman_numeral": "II",
+        "term": "loji II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29599,8 +29162,7 @@
         ]
     },
     {
-        "term": "lok",
-        "roman_numeral": "I",
+        "term": "lok I",
         "origin": "IB",
         "definitions": [
             {
@@ -29610,8 +29172,7 @@
         ]
     },
     {
-        "term": "lok",
-        "roman_numeral": "II",
+        "term": "lok II",
         "definitions": [
             {
                 "sense": "1",
@@ -29640,8 +29201,7 @@
         ]
     },
     {
-        "term": "lok",
-        "roman_numeral": "III",
+        "term": "lok III",
         "origin": "Kl",
         "definitions": [
             {
@@ -29662,18 +29222,17 @@
         ]
     },
     {
-        "term": "loka",
-        "roman_numeral": "I",
+        "term": "loka I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl ark dunia;  syurga~;  loga; syurga."
+                "definition": "ark dunia;  syurga~;  loga; syurga."
             }
         ]
     },
     {
-        "term": "loka",
-        "roman_numeral": "II",
+        "term": "loka II",
         "definitions": [
             {
                 "sense": "1",
@@ -29705,8 +29264,7 @@
         ]
     },
     {
-        "term": "lokan",
-        "roman_numeral": "I",
+        "term": "lokan I",
         "definitions": [
             {
                 "sense": "1",
@@ -29715,8 +29273,7 @@
         ]
     },
     {
-        "term": "lokan",
-        "roman_numeral": "II",
+        "term": "lokan II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29878,8 +29435,7 @@
         ]
     },
     {
-        "term": "lokoh",
-        "roman_numeral": "I",
+        "term": "lokoh I",
         "definitions": [
             {
                 "sense": "1",
@@ -29888,8 +29444,7 @@
         ]
     },
     {
-        "term": "lokoh",
-        "roman_numeral": "II",
+        "term": "lokoh II",
         "definitions": [
             {
                 "sense": "1",
@@ -29898,8 +29453,7 @@
         ]
     },
     {
-        "term": "lokoh",
-        "roman_numeral": "III",
+        "term": "lokoh III",
         "origin": "Kl",
         "definitions": [
             {
@@ -29918,8 +29472,7 @@
         ]
     },
     {
-        "term": "lokos",
-        "roman_numeral": "I",
+        "term": "lokos I",
         "definitions": [
             {
                 "sense": "1",
@@ -29992,7 +29545,7 @@
         ]
     },
     {
-        "term": "lolah",
+        "term": "lolah;",
         "definitions": [
             {
                 "sense": "1",
@@ -30057,8 +29610,7 @@
         ]
     },
     {
-        "term": "loloh",
-        "roman_numeral": "I",
+        "term": "loloh I; meloloh",
         "definitions": [
             {
                 "sense": "1",
@@ -30067,8 +29619,7 @@
         ]
     },
     {
-        "term": "loloh",
-        "roman_numeral": "II",
+        "term": "loloh II",
         "origin": "Mn",
         "definitions": [
             {
@@ -30078,8 +29629,7 @@
         ]
     },
     {
-        "term": "lolok",
-        "roman_numeral": "I",
+        "term": "lolok I; melolok",
         "definitions": [
             {
                 "sense": "1",
@@ -30099,8 +29649,7 @@
         ]
     },
     {
-        "term": "lolok",
-        "roman_numeral": "II",
+        "term": "lolok II",
         "definitions": [
             {
                 "sense": "1",
@@ -30120,8 +29669,7 @@
         ]
     },
     {
-        "term": "lolok",
-        "roman_numeral": "III",
+        "term": "lolok III;",
         "definitions": [
             {
                 "sense": "1",
@@ -30130,8 +29678,7 @@
         ]
     },
     {
-        "term": "lolok",
-        "roman_numeral": "IV",
+        "term": "lolok IV",
         "origin": "Tr",
         "definitions": [
             {
@@ -30141,7 +29688,7 @@
         ]
     },
     {
-        "term": "lolong",
+        "term": "lolong, lolongan I",
         "definitions": [
             {
                 "sense": "1",
@@ -30401,8 +29948,7 @@
         ]
     },
     {
-        "term": "lompat",
-        "roman_numeral": "I",
+        "term": "lompat I",
         "definitions": [
             {
                 "sense": "1",
@@ -30514,8 +30060,7 @@
         ]
     },
     {
-        "term": "lompat",
-        "roman_numeral": "II",
+        "term": "lompat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30566,8 +30111,7 @@
         ]
     },
     {
-        "term": "lompong",
-        "roman_numeral": "II",
+        "term": "lompong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30576,7 +30120,7 @@
         ]
     },
     {
-        "term": "lonan",
+        "term": "lonan, lonang",
         "definitions": [
             {
                 "sense": "1",
@@ -30585,8 +30129,7 @@
         ]
     },
     {
-        "term": "loncat",
-        "roman_numeral": "I",
+        "term": "loncat I",
         "definitions": [
             {
                 "sense": "1",
@@ -30707,8 +30250,7 @@
         ]
     },
     {
-        "term": "loncat",
-        "roman_numeral": "II",
+        "term": "loncat II",
         "origin": "Mn",
         "definitions": [
             {
@@ -30727,8 +30269,7 @@
         ]
     },
     {
-        "term": "lonco",
-        "roman_numeral": "I",
+        "term": "lonco I",
         "origin": "Jk",
         "definitions": [
             {
@@ -30738,8 +30279,7 @@
         ]
     },
     {
-        "term": "lonco",
-        "roman_numeral": "II",
+        "term": "lonco II",
         "definitions": [
             {
                 "sense": "1",
@@ -30748,8 +30288,7 @@
         ]
     },
     {
-        "term": "loncos",
-        "roman_numeral": "I",
+        "term": "loncos I",
         "definitions": [
             {
                 "sense": "1",
@@ -30758,8 +30297,7 @@
         ]
     },
     {
-        "term": "loncos",
-        "roman_numeral": "II",
+        "term": "loncos II",
         "definitions": [
             {
                 "sense": "1",
@@ -30777,8 +30315,7 @@
         ]
     },
     {
-        "term": "londar",
-        "roman_numeral": "I",
+        "term": "londar I",
         "definitions": [
             {
                 "sense": "1",
@@ -30787,8 +30324,7 @@
         ]
     },
     {
-        "term": "londar",
-        "roman_numeral": "II",
+        "term": "londar II",
         "definitions": [
             {
                 "sense": "1",
@@ -30869,8 +30405,7 @@
         ]
     },
     {
-        "term": "long",
-        "roman_numeral": "I",
+        "term": "long I",
         "definitions": [
             {
                 "sense": "1",
@@ -30879,8 +30414,7 @@
         ]
     },
     {
-        "term": "long",
-        "roman_numeral": "II",
+        "term": "long II",
         "definitions": [
             {
                 "sense": "1",
@@ -31113,8 +30647,7 @@
         ]
     },
     {
-        "term": "longkang",
-        "roman_numeral": "I",
+        "term": "longkang I",
         "definitions": [
             {
                 "sense": "1",
@@ -31123,8 +30656,7 @@
         ]
     },
     {
-        "term": "longkang",
-        "roman_numeral": "II",
+        "term": "longkang II",
         "definitions": [
             {
                 "sense": "1",
@@ -31151,7 +30683,7 @@
         ]
     },
     {
-        "term": "longlang",
+        "term": "longlang;",
         "definitions": [
             {
                 "sense": "1",
@@ -31319,8 +30851,7 @@
         ]
     },
     {
-        "term": "lonjong",
-        "roman_numeral": "II",
+        "term": "lonjong II",
         "origin": "Tr",
         "definitions": [
             {
@@ -31350,7 +30881,7 @@
         ]
     },
     {
-        "term": "lonta",
+        "term": "lonta; terlonta-lonta",
         "definitions": [
             {
                 "sense": "1",
@@ -31377,8 +30908,7 @@
         ]
     },
     {
-        "term": "lontar",
-        "roman_numeral": "I",
+        "term": "lontar I;",
         "definitions": [
             {
                 "sense": "1",
@@ -31542,8 +31072,7 @@
         ]
     },
     {
-        "term": "lopak",
-        "roman_numeral": "I",
+        "term": "lopak I",
         "definitions": [
             {
                 "sense": "1",
@@ -31563,8 +31092,7 @@
         ]
     },
     {
-        "term": "lopak",
-        "roman_numeral": "II",
+        "term": "lopak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -31574,8 +31102,7 @@
         ]
     },
     {
-        "term": "lopak",
-        "roman_numeral": "III",
+        "term": "lopak III",
         "definitions": [
             {
                 "sense": "1",
@@ -31584,8 +31111,7 @@
         ]
     },
     {
-        "term": "lopak",
-        "roman_numeral": "IV",
+        "term": "lopak IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -31631,8 +31157,7 @@
         ]
     },
     {
-        "term": "lopong",
-        "roman_numeral": "I",
+        "term": "lopong I",
         "definitions": [
             {
                 "sense": "1",
@@ -31641,8 +31166,7 @@
         ]
     },
     {
-        "term": "lopong",
-        "roman_numeral": "II",
+        "term": "lopong II",
         "definitions": [
             {
                 "sense": "1",
@@ -31680,8 +31204,7 @@
         ]
     },
     {
-        "term": "lor",
-        "roman_numeral": "I",
+        "term": "lor I",
         "origin": "Jw",
         "definitions": [
             {
@@ -31691,8 +31214,7 @@
         ]
     },
     {
-        "term": "lor",
-        "roman_numeral": "II",
+        "term": "lor II",
         "origin": "Kl",
         "definitions": [
             {
@@ -31777,8 +31299,7 @@
         ]
     },
     {
-        "term": "lori",
-        "roman_numeral": "I",
+        "term": "lori I",
         "definitions": [
             {
                 "sense": "1",
@@ -31787,8 +31308,7 @@
         ]
     },
     {
-        "term": "lori",
-        "roman_numeral": "II",
+        "term": "lori II",
         "definitions": [
             {
                 "sense": "1",
@@ -31806,8 +31326,7 @@
         ]
     },
     {
-        "term": "lorong",
-        "roman_numeral": "I",
+        "term": "lorong I",
         "definitions": [
             {
                 "sense": "1",
@@ -31840,8 +31359,7 @@
         ]
     },
     {
-        "term": "lorong",
-        "roman_numeral": "II",
+        "term": "lorong II",
         "origin": "Mn",
         "definitions": [
             {
@@ -31898,8 +31416,7 @@
         ]
     },
     {
-        "term": "los",
-        "roman_numeral": "II",
+        "term": "los II",
         "origin": "IB",
         "definitions": [
             {
@@ -31920,8 +31437,7 @@
         ]
     },
     {
-        "term": "los",
-        "roman_numeral": "III",
+        "term": "los III",
         "origin": "Ar",
         "definitions": [
             {
@@ -31997,8 +31513,7 @@
         ]
     },
     {
-        "term": "losong",
-        "roman_numeral": "I",
+        "term": "losong I;",
         "definitions": [
             {
                 "sense": "1",
@@ -32007,8 +31522,7 @@
         ]
     },
     {
-        "term": "losong",
-        "roman_numeral": "II",
+        "term": "losong II",
         "definitions": [
             {
                 "sense": "1",
@@ -32017,8 +31531,7 @@
         ]
     },
     {
-        "term": "lot",
-        "roman_numeral": "I",
+        "term": "lot I",
         "definitions": [
             {
                 "sense": "1",
@@ -32027,8 +31540,7 @@
         ]
     },
     {
-        "term": "lot",
-        "roman_numeral": "II",
+        "term": "lot II",
         "definitions": [
             {
                 "sense": "1",
@@ -32048,8 +31560,7 @@
         ]
     },
     {
-        "term": "lot",
-        "roman_numeral": "III",
+        "term": "lot III",
         "definitions": [
             {
                 "sense": "1",
@@ -32058,8 +31569,7 @@
         ]
     },
     {
-        "term": "lota",
-        "roman_numeral": "I",
+        "term": "lota I",
         "definitions": [
             {
                 "sense": "1",
@@ -32068,8 +31578,7 @@
         ]
     },
     {
-        "term": "lota",
-        "roman_numeral": "II",
+        "term": "lota II",
         "definitions": [
             {
                 "sense": "1",
@@ -32087,7 +31596,7 @@
         ]
     },
     {
-        "term": "lote",
+        "term": "lote;",
         "definitions": [
             {
                 "sense": "1",
@@ -32192,8 +31701,7 @@
         ]
     },
     {
-        "term": "lotong",
-        "roman_numeral": "II",
+        "term": "lotong II",
         "definitions": [
             {
                 "sense": "1",
@@ -32202,8 +31710,7 @@
         ]
     },
     {
-        "term": "lotong",
-        "roman_numeral": "III",
+        "term": "lotong III",
         "definitions": [
             {
                 "sense": "1",
@@ -32212,8 +31719,7 @@
         ]
     },
     {
-        "term": "lotong",
-        "roman_numeral": "IV",
+        "term": "lotong IV",
         "definitions": [
             {
                 "sense": "1",
@@ -32222,8 +31728,7 @@
         ]
     },
     {
-        "term": "lotong",
-        "roman_numeral": "V",
+        "term": "lotong V",
         "definitions": [
             {
                 "sense": "1",
@@ -32359,8 +31864,7 @@
         ]
     },
     {
-        "term": "loyar",
-        "roman_numeral": "I",
+        "term": "loyar I",
         "definitions": [
             {
                 "sense": "1",
@@ -32369,8 +31873,7 @@
         ]
     },
     {
-        "term": "loyar",
-        "roman_numeral": "II",
+        "term": "loyar II",
         "origin": "Jk",
         "definitions": [
             {
@@ -32394,7 +31897,7 @@
         ]
     },
     {
-        "term": "loyong",
+        "term": "loyong; meloyong",
         "definitions": [
             {
                 "sense": "1",
@@ -32403,8 +31906,7 @@
         ]
     },
     {
-        "term": "loyor",
-        "roman_numeral": "I",
+        "term": "loyor I",
         "definitions": [
             {
                 "sense": "1",
@@ -32413,8 +31915,7 @@
         ]
     },
     {
-        "term": "loyor",
-        "roman_numeral": "II",
+        "term": "loyor II",
         "origin": "Kl",
         "definitions": [
             {
@@ -32532,8 +32033,7 @@
         ]
     },
     {
-        "term": "lu",
-        "roman_numeral": "I",
+        "term": "lu I",
         "origin": "C",
         "definitions": [
             {
@@ -32543,8 +32043,7 @@
         ]
     },
     {
-        "term": "lu",
-        "roman_numeral": "II",
+        "term": "lu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -32640,8 +32139,7 @@
         ]
     },
     {
-        "term": "luak",
-        "roman_numeral": "I",
+        "term": "luak I",
         "definitions": [
             {
                 "sense": "1",
@@ -32670,8 +32168,7 @@
         ]
     },
     {
-        "term": "luak",
-        "roman_numeral": "II",
+        "term": "luak II",
         "definitions": [
             {
                 "sense": "1",
@@ -32680,8 +32177,7 @@
         ]
     },
     {
-        "term": "luak",
-        "roman_numeral": "III",
+        "term": "luak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -32691,8 +32187,7 @@
         ]
     },
     {
-        "term": "luak",
-        "roman_numeral": "IV",
+        "term": "luak IV",
         "origin": "Jw",
         "definitions": [
             {
@@ -32702,8 +32197,7 @@
         ]
     },
     {
-        "term": "luak",
-        "roman_numeral": "V",
+        "term": "luak V",
         "origin": "Mn",
         "definitions": [
             {
@@ -32713,8 +32207,7 @@
         ]
     },
     {
-        "term": "luak",
-        "roman_numeral": "VI",
+        "term": "luak VI",
         "origin": "Mn",
         "definitions": [
             {
@@ -32800,8 +32293,7 @@
         ]
     },
     {
-        "term": "luang",
-        "roman_numeral": "II",
+        "term": "luang II",
         "origin": "Jk",
         "definitions": [
             {
@@ -32811,8 +32303,7 @@
         ]
     },
     {
-        "term": "luang",
-        "roman_numeral": "III",
+        "term": "luang III",
         "definitions": [
             {
                 "sense": "1",
@@ -32957,7 +32448,7 @@
         ]
     },
     {
-        "term": "luar",
+        "term": "luar biasa",
         "definitions": [
             {
                 "sense": "1",
@@ -33242,8 +32733,7 @@
         ]
     },
     {
-        "term": "lubur",
-        "roman_numeral": "I",
+        "term": "lubur I",
         "definitions": [
             {
                 "sense": "1",
@@ -33252,8 +32742,7 @@
         ]
     },
     {
-        "term": "lubur",
-        "roman_numeral": "II",
+        "term": "lubur II",
         "definitions": [
             {
                 "sense": "1",
@@ -33349,8 +32838,7 @@
         ]
     },
     {
-        "term": "lucut",
-        "roman_numeral": "I",
+        "term": "lucut I; melucut",
         "definitions": [
             {
                 "sense": "1",
@@ -33423,8 +32911,7 @@
         ]
     },
     {
-        "term": "lucut",
-        "roman_numeral": "II",
+        "term": "lucut II; melucut",
         "definitions": [
             {
                 "sense": "1",
@@ -33433,8 +32920,7 @@
         ]
     },
     {
-        "term": "lucut",
-        "roman_numeral": "III",
+        "term": "lucut III",
         "origin": "Mn",
         "definitions": [
             {
@@ -33528,8 +33014,7 @@
         ]
     },
     {
-        "term": "ludang",
-        "roman_numeral": "I",
+        "term": "ludang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -33538,8 +33023,7 @@
         ]
     },
     {
-        "term": "ludang",
-        "roman_numeral": "II",
+        "term": "ludang II",
         "definitions": [
             {
                 "sense": "1",
@@ -33594,7 +33078,7 @@
         ]
     },
     {
-        "term": "lugai",
+        "term": "lugai; melugai",
         "origin": "Kd",
         "definitions": [
             {
@@ -33614,7 +33098,7 @@
         ]
     },
     {
-        "term": "lugas",
+        "term": "lugas; melugas",
         "definitions": [
             {
                 "sense": "1",
@@ -33623,8 +33107,7 @@
         ]
     },
     {
-        "term": "lugu",
-        "roman_numeral": "I",
+        "term": "lugu I",
         "definitions": [
             {
                 "sense": "1",
@@ -33633,8 +33116,7 @@
         ]
     },
     {
-        "term": "lugu",
-        "roman_numeral": "II",
+        "term": "lugu II",
         "origin": "Jw",
         "definitions": [
             {
@@ -33644,8 +33126,7 @@
         ]
     },
     {
-        "term": "lugu",
-        "roman_numeral": "III",
+        "term": "lugu III",
         "origin": "Pr",
         "definitions": [
             {
@@ -33704,8 +33185,7 @@
         ]
     },
     {
-        "term": "luih",
-        "roman_numeral": "I",
+        "term": "luih I",
         "origin": "Jw",
         "definitions": [
             {
@@ -33715,8 +33195,7 @@
         ]
     },
     {
-        "term": "luih",
-        "roman_numeral": "II",
+        "term": "luih II",
         "definitions": [
             {
                 "sense": "1",
@@ -33742,8 +33221,7 @@
         ]
     },
     {
-        "term": "luing",
-        "roman_numeral": "I",
+        "term": "luing I",
         "definitions": [
             {
                 "sense": "1",
@@ -33752,8 +33230,7 @@
         ]
     },
     {
-        "term": "luing",
-        "roman_numeral": "II",
+        "term": "luing II",
         "definitions": [
             {
                 "sense": "1",
@@ -33830,8 +33307,7 @@
         ]
     },
     {
-        "term": "lukah",
-        "roman_numeral": "I",
+        "term": "lukah I",
         "definitions": [
             {
                 "sense": "1",
@@ -33851,8 +33327,7 @@
         ]
     },
     {
-        "term": "lukah",
-        "roman_numeral": "II",
+        "term": "lukah II; melukah",
         "definitions": [
             {
                 "sense": "1",
@@ -33879,7 +33354,7 @@
         ]
     },
     {
-        "term": "lukis",
+        "term": "lukis;",
         "definitions": [
             {
                 "sense": "1",
@@ -33970,8 +33445,7 @@
         ]
     },
     {
-        "term": "luku",
-        "roman_numeral": "I",
+        "term": "luku I",
         "origin": "Jw",
         "definitions": [
             {
@@ -33992,8 +33466,7 @@
         ]
     },
     {
-        "term": "luku",
-        "roman_numeral": "II",
+        "term": "luku II; meluku",
         "definitions": [
             {
                 "sense": "1",
@@ -34024,8 +33497,7 @@
         ]
     },
     {
-        "term": "lukut",
-        "roman_numeral": "II",
+        "term": "lukut II",
         "definitions": [
             {
                 "sense": "1",
@@ -34043,7 +33515,7 @@
         ]
     },
     {
-        "term": "lulang",
+        "term": "lulang;",
         "definitions": [
             {
                 "sense": "1",
@@ -34052,7 +33524,7 @@
         ]
     },
     {
-        "term": "lulas",
+        "term": "lulas; melulas",
         "definitions": [
             {
                 "sense": "1",
@@ -34096,8 +33568,7 @@
         ]
     },
     {
-        "term": "luli",
-        "roman_numeral": "II",
+        "term": "luli II;",
         "definitions": [
             {
                 "sense": "1",
@@ -34119,8 +33590,7 @@
         ]
     },
     {
-        "term": "lulu",
-        "roman_numeral": "I",
+        "term": "lulu I",
         "definitions": [
             {
                 "sense": "1",
@@ -34129,8 +33599,7 @@
         ]
     },
     {
-        "term": "lulu",
-        "roman_numeral": "II",
+        "term": "lulu II",
         "origin": "Br",
         "definitions": [
             {
@@ -34182,7 +33651,7 @@
         ]
     },
     {
-        "term": "luluh",
+        "term": "luluh hawa",
         "origin": "(Geog)",
         "definitions": [
             {
@@ -34212,8 +33681,7 @@
         ]
     },
     {
-        "term": "luluk",
-        "roman_numeral": "I",
+        "term": "luluk I",
         "origin": "Mn",
         "definitions": [
             {
@@ -34243,8 +33711,7 @@
         ]
     },
     {
-        "term": "luluk",
-        "roman_numeral": "II",
+        "term": "luluk II",
         "definitions": [
             {
                 "sense": "1",
@@ -34264,7 +33731,7 @@
         ]
     },
     {
-        "term": "lulum",
+        "term": "lulum; melulum",
         "definitions": [
             {
                 "sense": "1",
@@ -34296,8 +33763,7 @@
         ]
     },
     {
-        "term": "lulur",
-        "roman_numeral": "II",
+        "term": "lulur II",
         "origin": "Jw",
         "definitions": [
             {
@@ -34318,8 +33784,7 @@
         ]
     },
     {
-        "term": "lulur",
-        "roman_numeral": "III",
+        "term": "lulur III; melulur",
         "definitions": [
             {
                 "sense": "1",
@@ -34524,7 +33989,7 @@
         ]
     },
     {
-        "term": "lumai",
+        "term": "lumai;",
         "definitions": [
             {
                 "sense": "1",
@@ -34533,7 +33998,7 @@
         ]
     },
     {
-        "term": "lumang",
+        "term": "lumang; berlumang",
         "definitions": [
             {
                 "sense": "1",
@@ -34587,7 +34052,7 @@
         ]
     },
     {
-        "term": "lumas",
+        "term": "lumas; melumas",
         "definitions": [
             {
                 "sense": "1",
@@ -34746,7 +34211,7 @@
         ]
     },
     {
-        "term": "lumbu",
+        "term": "lumbu;",
         "definitions": [
             {
                 "sense": "1",
@@ -34854,8 +34319,7 @@
         ]
     },
     {
-        "term": "lumpuk",
-        "roman_numeral": "I",
+        "term": "lumpuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -34864,8 +34328,7 @@
         ]
     },
     {
-        "term": "lumpuk",
-        "roman_numeral": "II",
+        "term": "lumpuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -34945,7 +34408,7 @@
         ]
     },
     {
-        "term": "lumur",
+        "term": "lumur; berlumur, berlumuran",
         "definitions": [
             {
                 "sense": "1",
@@ -35117,8 +34580,7 @@
         ]
     },
     {
-        "term": "lunas",
-        "roman_numeral": "II",
+        "term": "lunas II",
         "definitions": [
             {
                 "sense": "1",
@@ -35210,8 +34672,7 @@
         ]
     },
     {
-        "term": "luncung",
-        "roman_numeral": "I",
+        "term": "luncung I",
         "definitions": [
             {
                 "sense": "1",
@@ -35220,8 +34681,7 @@
         ]
     },
     {
-        "term": "luncung",
-        "roman_numeral": "II",
+        "term": "luncung II",
         "definitions": [
             {
                 "sense": "1",
@@ -35339,8 +34799,7 @@
         ]
     },
     {
-        "term": "lundang",
-        "roman_numeral": "I",
+        "term": "lundang I",
         "definitions": [
             {
                 "sense": "1",
@@ -35349,8 +34808,7 @@
         ]
     },
     {
-        "term": "lundang",
-        "roman_numeral": "II",
+        "term": "lundang II",
         "definitions": [
             {
                 "sense": "1",
@@ -35359,8 +34817,7 @@
         ]
     },
     {
-        "term": "lundang",
-        "roman_numeral": "III",
+        "term": "lundang III",
         "origin": "Mn",
         "definitions": [
             {
@@ -35379,8 +34836,7 @@
         ]
     },
     {
-        "term": "lundu",
-        "roman_numeral": "I",
+        "term": "lundu I;",
         "definitions": [
             {
                 "sense": "1",
@@ -35389,8 +34845,7 @@
         ]
     },
     {
-        "term": "lundu",
-        "roman_numeral": "II",
+        "term": "lundu II, lunduh;",
         "definitions": [
             {
                 "sense": "1",
@@ -35409,18 +34864,17 @@
         ]
     },
     {
-        "term": "lungguh",
-        "roman_numeral": "I",
+        "term": "lungguh I; melungguh",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl duduk."
+                "definition": "duduk."
             }
         ]
     },
     {
-        "term": "lungguh",
-        "roman_numeral": "II",
+        "term": "lungguh II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35447,7 +34901,7 @@
         ]
     },
     {
-        "term": "lungkup",
+        "term": "lungkup; terlungkup",
         "definitions": [
             {
                 "sense": "1",
@@ -35483,8 +34937,7 @@
         ]
     },
     {
-        "term": "lungsur",
-        "roman_numeral": "I",
+        "term": "lungsur I; melungsur",
         "definitions": [
             {
                 "sense": "1",
@@ -35493,8 +34946,7 @@
         ]
     },
     {
-        "term": "lungsur",
-        "roman_numeral": "II",
+        "term": "lungsur II; lungsuran",
         "origin": "Jw",
         "definitions": [
             {
@@ -35533,8 +34985,7 @@
         ]
     },
     {
-        "term": "luntang",
-        "roman_numeral": "I",
+        "term": "luntang I",
         "definitions": [
             {
                 "sense": "1",
@@ -35554,8 +35005,7 @@
         ]
     },
     {
-        "term": "luntang",
-        "roman_numeral": "II",
+        "term": "luntang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35678,7 +35128,7 @@
         ]
     },
     {
-        "term": "Lun",
+        "term": "Lun Bawang",
         "definitions": [
             {
                 "sense": "1",
@@ -35817,8 +35267,7 @@
         ]
     },
     {
-        "term": "lupa",
-        "roman_numeral": "II",
+        "term": "lupa II;",
         "definitions": [
             {
                 "sense": "1",
@@ -35836,7 +35285,7 @@
         ]
     },
     {
-        "term": "lupang",
+        "term": "lupang;",
         "definitions": [
             {
                 "sense": "1",
@@ -35854,7 +35303,7 @@
         ]
     },
     {
-        "term": "lupi",
+        "term": "lupi;",
         "definitions": [
             {
                 "sense": "1",
@@ -35872,7 +35321,7 @@
         ]
     },
     {
-        "term": "lupuk",
+        "term": "lupuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -35881,7 +35330,7 @@
         ]
     },
     {
-        "term": "lupung",
+        "term": "lupung;",
         "definitions": [
             {
                 "sense": "1",
@@ -36058,8 +35507,7 @@
         ]
     },
     {
-        "term": "luru",
-        "roman_numeral": "I",
+        "term": "luru I; meluru",
         "definitions": [
             {
                 "sense": "1",
@@ -36068,8 +35516,7 @@
         ]
     },
     {
-        "term": "luru",
-        "roman_numeral": "II",
+        "term": "luru II",
         "origin": "Pr",
         "definitions": [
             {
@@ -36088,8 +35535,7 @@
         ]
     },
     {
-        "term": "luruh",
-        "roman_numeral": "I",
+        "term": "luruh I",
         "definitions": [
             {
                 "sense": "1",
@@ -36149,12 +35595,12 @@
         ]
     },
     {
-        "term": "luruh",
-        "roman_numeral": "II",
+        "term": "luruh II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl daerah, jajahan."
+                "definition": "daerah, jajahan."
             }
         ]
     },
@@ -36299,8 +35745,7 @@
         ]
     },
     {
-        "term": "lurut",
-        "roman_numeral": "II",
+        "term": "lurut II",
         "definitions": [
             {
                 "sense": "1",
@@ -36357,8 +35802,7 @@
         ]
     },
     {
-        "term": "lut",
-        "roman_numeral": "I",
+        "term": "lut I",
         "definitions": [
             {
                 "sense": "1",
@@ -36367,8 +35811,7 @@
         ]
     },
     {
-        "term": "lut",
-        "roman_numeral": "II",
+        "term": "lut II",
         "definitions": [
             {
                 "sense": "1",
@@ -36377,8 +35820,7 @@
         ]
     },
     {
-        "term": "lut",
-        "roman_numeral": "III",
+        "term": "lut III",
         "definitions": [
             {
                 "sense": "1",
@@ -36396,7 +35838,7 @@
         ]
     },
     {
-        "term": "lut",
+        "term": "lut cahaya",
         "definitions": [
             {
                 "sense": "1",
@@ -36441,7 +35883,7 @@
         ]
     },
     {
-        "term": "lut",
+        "term": "lut sinar",
         "definitions": [
             {
                 "sense": "1",
@@ -36474,8 +35916,7 @@
         ]
     },
     {
-        "term": "lutut",
-        "roman_numeral": "I",
+        "term": "lutut I",
         "definitions": [
             {
                 "sense": "1",
@@ -36499,8 +35940,7 @@
         ]
     },
     {
-        "term": "lutut",
-        "roman_numeral": "II",
+        "term": "lutut II",
         "definitions": [
             {
                 "sense": "1",

@@ -139,7 +139,7 @@
         ]
     },
     {
-        "term": "habeas",
+        "term": "habeas corpus",
         "definitions": [
             {
                 "sense": "1",
@@ -800,7 +800,7 @@
         ]
     },
     {
-        "term": "hadap",
+        "term": "hadap muka; menghadapmukakan",
         "definitions": [
             {
                 "sense": "1",
@@ -839,7 +839,7 @@
         ]
     },
     {
-        "term": "hadi",
+        "term": "hadi; menghadi",
         "origin": "Kd",
         "definitions": [
             {
@@ -1022,7 +1022,7 @@
         ]
     },
     {
-        "term": "haf",
+        "term": "haf;",
         "definitions": [
             {
                 "sense": "1",
@@ -1719,8 +1719,7 @@
         ]
     },
     {
-        "term": "hakim",
-        "roman_numeral": "II",
+        "term": "hakim II",
         "origin": "Ar",
         "definitions": [
             {
@@ -1812,7 +1811,7 @@
         ]
     },
     {
-        "term": "hak",
+        "term": "hak milik",
         "definitions": [
             {
                 "sense": "1",
@@ -1832,7 +1831,7 @@
         ]
     },
     {
-        "term": "hak",
+        "term": "hak negara",
         "definitions": [
             {
                 "sense": "1",
@@ -1923,8 +1922,7 @@
         ]
     },
     {
-        "term": "hal",
-        "roman_numeral": "II",
+        "term": "hal II",
         "origin": "Id",
         "definitions": [
             {
@@ -1934,8 +1932,7 @@
         ]
     },
     {
-        "term": "hala",
-        "roman_numeral": "I",
+        "term": "hala I",
         "definitions": [
             {
                 "sense": "1",
@@ -1973,8 +1970,7 @@
         ]
     },
     {
-        "term": "hala",
-        "roman_numeral": "II",
+        "term": "hala II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1983,7 +1979,7 @@
         ]
     },
     {
-        "term": "halai",
+        "term": "halai;",
         "definitions": [
             {
                 "sense": "1",
@@ -2080,7 +2076,7 @@
         ]
     },
     {
-        "term": "halalbihalal",
+        "term": "halalbihalal, halal-bilhalal",
         "origin": "Ar",
         "definitions": [
             {
@@ -2112,7 +2108,7 @@
         ]
     },
     {
-        "term": "halang",
+        "term": "halang; menghalangi, menghalang-halangi, menghalang",
         "definitions": [
             {
                 "sense": "1",
@@ -2222,7 +2218,7 @@
         ]
     },
     {
-        "term": "halba",
+        "term": "halba, halbah",
         "definitions": [
             {
                 "sense": "1",
@@ -2360,7 +2356,7 @@
         ]
     },
     {
-        "term": "halkah",
+        "term": "halkah, halkat",
         "origin": "Ar",
         "definitions": [
             {
@@ -2383,8 +2379,7 @@
         ]
     },
     {
-        "term": "halo",
-        "roman_numeral": "I",
+        "term": "halo I",
         "definitions": [
             {
                 "sense": "1",
@@ -2393,8 +2388,7 @@
         ]
     },
     {
-        "term": "halo",
-        "roman_numeral": "II",
+        "term": "halo II",
         "definitions": [
             {
                 "sense": "1",
@@ -2860,8 +2854,7 @@
         ]
     },
     {
-        "term": "hamba",
-        "roman_numeral": "II",
+        "term": "hamba II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2870,7 +2863,7 @@
         ]
     },
     {
-        "term": "Hambali",
+        "term": "Hambali;",
         "definitions": [
             {
                 "sense": "1",
@@ -2921,8 +2914,7 @@
         ]
     },
     {
-        "term": "hambat",
-        "roman_numeral": "I",
+        "term": "hambat I; berhambat-hambat, berhambat-hambatan",
         "definitions": [
             {
                 "sense": "1",
@@ -2946,8 +2938,7 @@
         ]
     },
     {
-        "term": "hambat",
-        "roman_numeral": "II",
+        "term": "hambat II; menghambat",
         "definitions": [
             {
                 "sense": "1",
@@ -3094,8 +3085,7 @@
         ]
     },
     {
-        "term": "hambur",
-        "roman_numeral": "II",
+        "term": "hambur II; berhamburan",
         "definitions": [
             {
                 "sense": "1",
@@ -3142,7 +3132,7 @@
         ]
     },
     {
-        "term": "hambus",
+        "term": "hambus; berhambus, menghambus",
         "definitions": [
             {
                 "sense": "1",
@@ -3246,7 +3236,7 @@
         ]
     },
     {
-        "term": "hamlak",
+        "term": "hamlak, hamlar, hamlau",
         "definitions": [
             {
                 "sense": "1",
@@ -3317,7 +3307,7 @@
         ]
     },
     {
-        "term": "hampa",
+        "term": "hampa gas",
         "definitions": [
             {
                 "sense": "1",
@@ -3336,16 +3326,17 @@
         ]
     },
     {
-        "term": "hampang",
+        "term": "hampang; menghampang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl menyekat, menghalang:  inang berdiri ~ di  pintu;      empang I ."
+                "definition": "menyekat, menghalang:  inang berdiri ~ di  pintu;      empang I ."
             }
         ]
     },
     {
-        "term": "hampar",
+        "term": "hampar;",
         "definitions": [
             {
                 "sense": "1",
@@ -3560,8 +3551,7 @@
         ]
     },
     {
-        "term": "hamput",
-        "roman_numeral": "I",
+        "term": "hamput I; berhamput",
         "definitions": [
             {
                 "sense": "1",
@@ -3570,8 +3560,7 @@
         ]
     },
     {
-        "term": "hamput",
-        "roman_numeral": "II",
+        "term": "hamput II",
         "definitions": [
             {
                 "sense": "1",
@@ -3671,7 +3660,7 @@
         ]
     },
     {
-        "term": "Hanafi",
+        "term": "Hanafi;",
         "definitions": [
             {
                 "sense": "1",
@@ -3817,7 +3806,7 @@
         ]
     },
     {
-        "term": "hancur",
+        "term": "hancur lebur",
         "definitions": [
             {
                 "sense": "1",
@@ -3837,7 +3826,7 @@
         ]
     },
     {
-        "term": "hancur",
+        "term": "hancur luluh",
         "definitions": [
             {
                 "sense": "1",
@@ -3857,7 +3846,7 @@
         ]
     },
     {
-        "term": "hancur",
+        "term": "hancur musnah",
         "definitions": [
             {
                 "sense": "1",
@@ -3938,7 +3927,7 @@
         ]
     },
     {
-        "term": "handam",
+        "term": "handam;",
         "definitions": [
             {
                 "sense": "1",
@@ -3947,7 +3936,7 @@
         ]
     },
     {
-        "term": "handasah",
+        "term": "handasah;",
         "definitions": [
             {
                 "sense": "1",
@@ -3966,7 +3955,7 @@
         ]
     },
     {
-        "term": "handuh",
+        "term": "handuh; menghanduh",
         "origin": "Kd",
         "definitions": [
             {
@@ -3986,8 +3975,7 @@
         ]
     },
     {
-        "term": "Hang",
-        "roman_numeral": "I",
+        "term": "Hang I",
         "definitions": [
             {
                 "sense": "1",
@@ -3996,8 +3984,7 @@
         ]
     },
     {
-        "term": "hang",
-        "roman_numeral": "II",
+        "term": "hang II",
         "origin": "Kd",
         "definitions": [
             {
@@ -4007,8 +3994,7 @@
         ]
     },
     {
-        "term": "hang",
-        "roman_numeral": "III",
+        "term": "hang III",
         "origin": "Kd",
         "definitions": [
             {
@@ -4153,7 +4139,7 @@
         ]
     },
     {
-        "term": "hanggau",
+        "term": "hanggau; menghanggau",
         "definitions": [
             {
                 "sense": "1",
@@ -4213,8 +4199,7 @@
         ]
     },
     {
-        "term": "hangus",
-        "roman_numeral": "I",
+        "term": "hangus I",
         "definitions": [
             {
                 "sense": "1",
@@ -4247,8 +4232,7 @@
         ]
     },
     {
-        "term": "hangus",
-        "roman_numeral": "II",
+        "term": "hangus II",
         "definitions": [
             {
                 "sense": "1",
@@ -4257,8 +4241,7 @@
         ]
     },
     {
-        "term": "hangus",
-        "roman_numeral": "III",
+        "term": "hangus III;",
         "definitions": [
             {
                 "sense": "1",
@@ -4286,8 +4269,7 @@
         ]
     },
     {
-        "term": "hantar",
-        "roman_numeral": "I",
+        "term": "hantar I;",
         "definitions": [
             {
                 "sense": "1",
@@ -4447,8 +4429,7 @@
         ]
     },
     {
-        "term": "hantar",
-        "roman_numeral": "II",
+        "term": "hantar II; berhantaran",
         "definitions": [
             {
                 "sense": "1",
@@ -4481,7 +4462,7 @@
         ]
     },
     {
-        "term": "hantau",
+        "term": "hantau; menghantau",
         "origin": "Kd",
         "definitions": [
             {
@@ -4579,7 +4560,7 @@
         ]
     },
     {
-        "term": "hantuk",
+        "term": "hantuk; berhantuk",
         "definitions": [
             {
                 "sense": "1",
@@ -4634,7 +4615,7 @@
         ]
     },
     {
-        "term": "hanyar",
+        "term": "hanyar; berhanyar",
         "origin": "Tr",
         "definitions": [
             {
@@ -4677,7 +4658,7 @@
         ]
     },
     {
-        "term": "hanyur",
+        "term": "hanyur;",
         "definitions": [
             {
                 "sense": "1",
@@ -4936,8 +4917,7 @@
         ]
     },
     {
-        "term": "hara",
-        "roman_numeral": "I",
+        "term": "hara I",
         "definitions": [
             {
                 "sense": "1",
@@ -4946,8 +4926,7 @@
         ]
     },
     {
-        "term": "hara",
-        "roman_numeral": "II",
+        "term": "hara II",
         "definitions": [
             {
                 "sense": "1",
@@ -4980,11 +4959,12 @@
         ]
     },
     {
-        "term": "harak",
+        "term": "harak; terharak-harak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl terkelepai, berjabir-jabir, longgar:  maka baju  Laksamana pun ~ terkembang berterbangan."
+                "definition": "terkelepai, berjabir-jabir, longgar:  maka baju  Laksamana pun ~ terkembang berterbangan."
             }
         ]
     },
@@ -5203,8 +5183,7 @@
         ]
     },
     {
-        "term": "harau",
-        "roman_numeral": "I",
+        "term": "harau I",
         "definitions": [
             {
                 "sense": "1",
@@ -5213,8 +5192,7 @@
         ]
     },
     {
-        "term": "harau",
-        "roman_numeral": "II",
+        "term": "harau II; mengharau",
         "definitions": [
             {
                 "sense": "1",
@@ -5522,8 +5500,7 @@
         ]
     },
     {
-        "term": "haring",
-        "roman_numeral": "I",
+        "term": "haring I",
         "definitions": [
             {
                 "sense": "1",
@@ -5532,8 +5509,7 @@
         ]
     },
     {
-        "term": "haring",
-        "roman_numeral": "II",
+        "term": "haring II",
         "definitions": [
             {
                 "sense": "1",
@@ -5552,7 +5528,7 @@
         ]
     },
     {
-        "term": "harisah",
+        "term": "harisah;",
         "definitions": [
             {
                 "sense": "1",
@@ -5690,8 +5666,7 @@
         ]
     },
     {
-        "term": "hartal",
-        "roman_numeral": "I",
+        "term": "hartal I",
         "definitions": [
             {
                 "sense": "1",
@@ -5700,8 +5675,7 @@
         ]
     },
     {
-        "term": "hartal",
-        "roman_numeral": "II",
+        "term": "hartal II",
         "definitions": [
             {
                 "sense": "1",
@@ -5846,7 +5820,7 @@
         ]
     },
     {
-        "term": "harubi",
+        "term": "harubi;",
         "definitions": [
             {
                 "sense": "1",
@@ -5888,7 +5862,7 @@
         ]
     },
     {
-        "term": "haru-haru",
+        "term": "haru-haru;",
         "definitions": [
             {
                 "sense": "1",
@@ -5974,8 +5948,7 @@
         ]
     },
     {
-        "term": "harum",
-        "roman_numeral": "II",
+        "term": "harum II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6025,8 +5998,7 @@
         ]
     },
     {
-        "term": "harung",
-        "roman_numeral": "II",
+        "term": "harung II; mengharung",
         "definitions": [
             {
                 "sense": "1",
@@ -6035,8 +6007,7 @@
         ]
     },
     {
-        "term": "harung",
-        "roman_numeral": "III",
+        "term": "harung III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6103,7 +6074,7 @@
         ]
     },
     {
-        "term": "has",
+        "term": "has;",
         "definitions": [
             {
                 "sense": "1",
@@ -6539,8 +6510,7 @@
         ]
     },
     {
-        "term": "hati-hati",
-        "roman_numeral": "I",
+        "term": "hati-hati I",
         "definitions": [
             {
                 "sense": "1",
@@ -6587,8 +6557,7 @@
         ]
     },
     {
-        "term": "hau",
-        "roman_numeral": "I",
+        "term": "hau I",
         "definitions": [
             {
                 "sense": "1",
@@ -6597,8 +6566,7 @@
         ]
     },
     {
-        "term": "hau",
-        "roman_numeral": "II",
+        "term": "hau II",
         "origin": "Kd",
         "definitions": [
             {
@@ -6618,8 +6586,7 @@
         ]
     },
     {
-        "term": "haul",
-        "roman_numeral": "I",
+        "term": "haul I",
         "origin": "Ar",
         "definitions": [
             {
@@ -6629,8 +6596,7 @@
         ]
     },
     {
-        "term": "haul",
-        "roman_numeral": "II",
+        "term": "haul II, haula",
         "origin": "Ar",
         "definitions": [
             {
@@ -6640,7 +6606,7 @@
         ]
     },
     {
-        "term": "haur",
+        "term": "haur, hauri",
         "definitions": [
             {
                 "sense": "1",
@@ -6694,8 +6660,7 @@
         ]
     },
     {
-        "term": "haus",
-        "roman_numeral": "II",
+        "term": "haus II",
         "definitions": [
             {
                 "sense": "1",
@@ -6733,7 +6698,7 @@
         ]
     },
     {
-        "term": "hausalat",
+        "term": "hausalat, hausalah",
         "origin": "Ar",
         "definitions": [
             {
@@ -6793,8 +6758,7 @@
         ]
     },
     {
-        "term": "hawa",
-        "roman_numeral": "II",
+        "term": "hawa II",
         "definitions": [
             {
                 "sense": "1",
@@ -6803,8 +6767,7 @@
         ]
     },
     {
-        "term": "Hawa",
-        "roman_numeral": "III",
+        "term": "Hawa III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6913,7 +6876,7 @@
         ]
     },
     {
-        "term": "haya",
+        "term": "haya;",
         "definitions": [
             {
                 "sense": "1",
@@ -6933,15 +6896,16 @@
     },
     {
         "term": "hayam",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl ayam."
+                "definition": "ayam."
             }
         ]
     },
     {
-        "term": "hayang",
+        "term": "hayang;",
         "definitions": [
             {
                 "sense": "1",
@@ -6950,8 +6914,7 @@
         ]
     },
     {
-        "term": "hayat",
-        "roman_numeral": "I",
+        "term": "hayat I",
         "origin": "Ar",
         "definitions": [
             {
@@ -6990,8 +6953,7 @@
         ]
     },
     {
-        "term": "hayat",
-        "roman_numeral": "II",
+        "term": "hayat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7541,8 +7503,7 @@
         ]
     },
     {
-        "term": "helai",
-        "roman_numeral": "II",
+        "term": "helai II; sehelai;",
         "definitions": [
             {
                 "sense": "1",
@@ -7890,8 +7851,7 @@
         ]
     },
     {
-        "term": "hembalang",
-        "roman_numeral": "I",
+        "term": "hembalang I; berhembalang",
         "definitions": [
             {
                 "sense": "1",
@@ -8073,7 +8033,7 @@
         ]
     },
     {
-        "term": "hempap",
+        "term": "hempap;",
         "definitions": [
             {
                 "sense": "1",
@@ -8188,8 +8148,7 @@
         ]
     },
     {
-        "term": "hempedal",
-        "roman_numeral": "I",
+        "term": "hempedal I",
         "definitions": [
             {
                 "sense": "1",
@@ -8198,8 +8157,7 @@
         ]
     },
     {
-        "term": "hempedal",
-        "roman_numeral": "II",
+        "term": "hempedal II",
         "definitions": [
             {
                 "sense": "1",
@@ -8221,7 +8179,7 @@
         ]
     },
     {
-        "term": "hempuk",
+        "term": "hempuk; menghempuk",
         "definitions": [
             {
                 "sense": "1",
@@ -8313,7 +8271,7 @@
         ]
     },
     {
-        "term": "hendap",
+        "term": "hendap;",
         "definitions": [
             {
                 "sense": "1",
@@ -8351,7 +8309,7 @@
         ]
     },
     {
-        "term": "henggung",
+        "term": "henggung; menghenggung",
         "definitions": [
             {
                 "sense": "1",
@@ -8369,7 +8327,7 @@
         ]
     },
     {
-        "term": "hengit",
+        "term": "hengit; terhengit-hengit",
         "definitions": [
             {
                 "sense": "1",
@@ -8484,7 +8442,7 @@
         ]
     },
     {
-        "term": "hentam",
+        "term": "hentam;",
         "definitions": [
             {
                 "sense": "1",
@@ -8571,7 +8529,7 @@
         ]
     },
     {
-        "term": "henti",
+        "term": "henti;",
         "definitions": [
             {
                 "sense": "1",
@@ -8718,7 +8676,7 @@
         ]
     },
     {
-        "term": "henyak",
+        "term": "henyak; menghenyak",
         "definitions": [
             {
                 "sense": "1",
@@ -9301,7 +9259,7 @@
         ]
     },
     {
-        "term": "hias",
+        "term": "hias;",
         "definitions": [
             {
                 "sense": "1",
@@ -9561,7 +9519,7 @@
         ]
     },
     {
-        "term": "hibur",
+        "term": "hibur; menghibur",
         "definitions": [
             {
                 "sense": "1",
@@ -9693,7 +9651,7 @@
         ]
     },
     {
-        "term": "hidap",
+        "term": "hidap; menghidap, menghidapi",
         "definitions": [
             {
                 "sense": "1",
@@ -9726,7 +9684,7 @@
         ]
     },
     {
-        "term": "hidayat",
+        "term": "hidayat, hidayah",
         "origin": "Ar",
         "definitions": [
             {
@@ -10459,7 +10417,7 @@
         ]
     },
     {
-        "term": "hih",
+        "term": "hih, hii",
         "definitions": [
             {
                 "sense": "1",
@@ -10917,7 +10875,7 @@
         ]
     },
     {
-        "term": "hilir",
+        "term": "hilir mudik",
         "definitions": [
             {
                 "sense": "1",
@@ -10975,8 +10933,7 @@
         ]
     },
     {
-        "term": "himbau",
-        "roman_numeral": "I",
+        "term": "himbau I; menghimbau",
         "definitions": [
             {
                 "sense": "1",
@@ -11024,7 +10981,7 @@
         ]
     },
     {
-        "term": "himpang",
+        "term": "himpang; berhimpang",
         "definitions": [
             {
                 "sense": "1",
@@ -11270,7 +11227,7 @@
         ]
     },
     {
-        "term": "hinap",
+        "term": "hinap; menghinap-hinap",
         "definitions": [
             {
                 "sense": "1",
@@ -11384,7 +11341,7 @@
         ]
     },
     {
-        "term": "hindik",
+        "term": "hindik; menghindik",
         "definitions": [
             {
                 "sense": "1",
@@ -11393,8 +11350,7 @@
         ]
     },
     {
-        "term": "hindu",
-        "roman_numeral": "I",
+        "term": "hindu I",
         "origin": "Mn",
         "definitions": [
             {
@@ -11692,8 +11648,7 @@
         ]
     },
     {
-        "term": "hiperbola",
-        "roman_numeral": "II",
+        "term": "hiperbola II",
         "definitions": [
             {
                 "sense": "1",
@@ -11768,7 +11723,7 @@
         ]
     },
     {
-        "term": "hipi",
+        "term": "hipi;",
         "definitions": [
             {
                 "sense": "1",
@@ -12017,7 +11972,7 @@
         ]
     },
     {
-        "term": "hirau",
+        "term": "hirau, menghiraukan",
         "definitions": [
             {
                 "sense": "1",
@@ -12124,7 +12079,7 @@
         ]
     },
     {
-        "term": "hiruk",
+        "term": "hiruk;",
         "definitions": [
             {
                 "sense": "1",
@@ -12246,7 +12201,7 @@
         ]
     },
     {
-        "term": "hisap",
+        "term": "hisap; menghisap",
         "definitions": [
             {
                 "sense": "1",
@@ -12741,10 +12696,11 @@
     },
     {
         "term": "hodah",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tempat duduk di belakang gajah."
+                "definition": "tempat duduk di belakang gajah."
             }
         ]
     },
@@ -12814,7 +12770,7 @@
         ]
     },
     {
-        "term": "hoha",
+        "term": "hoha, hohah",
         "definitions": [
             {
                 "sense": "1",
@@ -13119,7 +13075,7 @@
         ]
     },
     {
-        "term": "Homo",
+        "term": "Homo sapiens",
         "definitions": [
             {
                 "sense": "1",
@@ -13190,8 +13146,7 @@
         ]
     },
     {
-        "term": "honar",
-        "roman_numeral": "I",
+        "term": "honar I",
         "definitions": [
             {
                 "sense": "1",
@@ -13220,12 +13175,12 @@
         ]
     },
     {
-        "term": "honar",
-        "roman_numeral": "II",
+        "term": "honar II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tipu daya (muslihat), angkara, hati atau akal busuk:  banyak  muslihatnya, banyak ~nya, banyak mainnya dan banyak tahunya;  siapakah yg empunya ~ mempersembahkan kpd baginda itu?"
+                "definition": "tipu daya (muslihat), angkara, hati atau akal busuk:  banyak  muslihatnya, banyak ~nya, banyak mainnya dan banyak tahunya;  siapakah yg empunya ~ mempersembahkan kpd baginda itu?"
             }
         ]
     },
@@ -13249,7 +13204,7 @@
         ]
     },
     {
-        "term": "honggar",
+        "term": "honggar; menghonggar",
         "definitions": [
             {
                 "sense": "1",
@@ -13308,7 +13263,7 @@
         ]
     },
     {
-        "term": "honoris",
+        "term": "honoris kausa;",
         "definitions": [
             {
                 "sense": "1",
@@ -13585,8 +13540,7 @@
         ]
     },
     {
-        "term": "hos",
-        "roman_numeral": "I",
+        "term": "hos I",
         "definitions": [
             {
                 "sense": "1",
@@ -13671,7 +13625,7 @@
         ]
     },
     {
-        "term": "hotak",
+        "term": "hotak;",
         "definitions": [
             {
                 "sense": "1",
@@ -13680,7 +13634,7 @@
         ]
     },
     {
-        "term": "hot",
+        "term": "hot dog",
         "definitions": [
             {
                 "sense": "1",
@@ -13748,7 +13702,8 @@
         ]
     },
     {
-        "term": "hubaya-hubaya sl",
+        "term": "hubaya-hubaya",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -13765,7 +13720,7 @@
         ]
     },
     {
-        "term": "hubub",
+        "term": "hubub, hububan",
         "origin": "Ar",
         "definitions": [
             {
@@ -13919,7 +13874,7 @@
         ]
     },
     {
-        "term": "hubung",
+        "term": "hubung kait",
         "definitions": [
             {
                 "sense": "1",
@@ -13956,7 +13911,7 @@
         ]
     },
     {
-        "term": "Hudai",
+        "term": "Hudai;",
         "definitions": [
             {
                 "sense": "1",
@@ -14017,8 +13972,7 @@
         ]
     },
     {
-        "term": "hujah",
-        "roman_numeral": "I",
+        "term": "hujah I",
         "origin": "Ar",
         "definitions": [
             {
@@ -14084,12 +14038,12 @@
         ]
     },
     {
-        "term": "hujah",
-        "roman_numeral": "II",
+        "term": "hujah II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl fitnah;"
+                "definition": "fitnah;"
             }
         ],
         "sub_terms": [
@@ -14208,7 +14162,7 @@
         ]
     },
     {
-        "term": "hujan",
+        "term": "hujan angin; menghujananginkan",
         "definitions": [
             {
                 "sense": "1",
@@ -14217,8 +14171,7 @@
         ]
     },
     {
-        "term": "hujan-hujan",
-        "roman_numeral": "I",
+        "term": "hujan-hujan I",
         "definitions": [
             {
                 "sense": "1",
@@ -14227,8 +14180,7 @@
         ]
     },
     {
-        "term": "hujan-hujan",
-        "roman_numeral": "II",
+        "term": "hujan-hujan II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14237,7 +14189,7 @@
         ]
     },
     {
-        "term": "hujan",
+        "term": "hujan panas",
         "definitions": [
             {
                 "sense": "1",
@@ -14266,8 +14218,7 @@
         ]
     },
     {
-        "term": "Hujjatul",
-        "roman_numeral": "I",
+        "term": "Hujjatul Islam",
         "origin": "Ar",
         "definitions": [
             {
@@ -14383,8 +14334,7 @@
         ]
     },
     {
-        "term": "hujung",
-        "roman_numeral": "II",
+        "term": "hujung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14393,7 +14343,7 @@
         ]
     },
     {
-        "term": "huka",
+        "term": "huka;",
         "definitions": [
             {
                 "sense": "1",
@@ -14422,10 +14372,11 @@
     },
     {
         "term": "hukka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bom tangan."
+                "definition": "bom tangan."
             }
         ]
     },
@@ -14750,8 +14701,7 @@
         ]
     },
     {
-        "term": "hulur",
-        "roman_numeral": "II",
+        "term": "hulur II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14760,12 +14710,12 @@
         ]
     },
     {
-        "term": "hulur",
-        "roman_numeral": "III",
+        "term": "hulur III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl orang yg menjadi hamba (kerana bersalah membuat  kejahatan spt membunuh atau mencuri dll dan tidak dapat  mengganti kerugian orang):  orang yg membunuh itu masuk ~ kpd  bapa orang yg dibunuh;"
+                "definition": "orang yg menjadi hamba (kerana bersalah membuat  kejahatan spt membunuh atau mencuri dll dan tidak dapat  mengganti kerugian orang):  orang yg membunuh itu masuk ~ kpd  bapa orang yg dibunuh;"
             }
         ],
         "sub_terms": [
@@ -14858,8 +14808,7 @@
         ]
     },
     {
-        "term": "humban",
-        "roman_numeral": "I",
+        "term": "humban I",
         "definitions": [
             {
                 "sense": "1",
@@ -14901,8 +14850,7 @@
         ]
     },
     {
-        "term": "humban",
-        "roman_numeral": "II",
+        "term": "humban II; menghumban",
         "definitions": [
             {
                 "sense": "1",
@@ -14911,7 +14859,7 @@
         ]
     },
     {
-        "term": "humbas",
+        "term": "humbas; menghumbas",
         "definitions": [
             {
                 "sense": "1",
@@ -15000,7 +14948,7 @@
         ]
     },
     {
-        "term": "hungap",
+        "term": "hungap; menghungap, terhungap, terhungap-hungap",
         "definitions": [
             {
                 "sense": "1",
@@ -15019,7 +14967,7 @@
         ]
     },
     {
-        "term": "huni",
+        "term": "huni; berhuni",
         "definitions": [
             {
                 "sense": "1",
@@ -15148,7 +15096,7 @@
         ]
     },
     {
-        "term": "hunus",
+        "term": "hunus; menghunus",
         "definitions": [
             {
                 "sense": "1",
@@ -15177,7 +15125,7 @@
         ]
     },
     {
-        "term": "hurai",
+        "term": "hurai; menghurai",
         "definitions": [
             {
                 "sense": "1",
@@ -15342,8 +15290,7 @@
         ]
     },
     {
-        "term": "hurung",
-        "roman_numeral": "I",
+        "term": "hurung I",
         "definitions": [
             {
                 "sense": "1",
@@ -15352,8 +15299,7 @@
         ]
     },
     {
-        "term": "hurung",
-        "roman_numeral": "II",
+        "term": "hurung II; berhurung",
         "definitions": [
             {
                 "sense": "1",
@@ -15373,7 +15319,7 @@
         ]
     },
     {
-        "term": "hus",
+        "term": "hus, husy",
         "definitions": [
             {
                 "sense": "1",
@@ -15528,7 +15474,7 @@
         ]
     },
     {
-        "term": "huyung",
+        "term": "huyung;",
         "definitions": [
             {
                 "sense": "1",

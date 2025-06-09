@@ -1,7 +1,6 @@
 [
     {
-        "term": "f",
-        "roman_numeral": "I",
+        "term": "f I",
         "definitions": [
             {
                 "sense": "1",
@@ -10,8 +9,7 @@
         ]
     },
     {
-        "term": "F",
-        "roman_numeral": "II",
+        "term": "F II",
         "definitions": [
             {
                 "sense": "1",
@@ -20,8 +18,7 @@
         ]
     },
     {
-        "term": "F",
-        "roman_numeral": "III",
+        "term": "F III",
         "definitions": [
             {
                 "sense": "1",
@@ -969,10 +966,11 @@
     },
     {
         "term": "Farsi",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl Persia, Iran Parsi II."
+                "definition": "Persia, Iran Parsi II."
             }
         ]
     },
@@ -1265,7 +1263,7 @@
         ]
     },
     {
-        "term": "fatimah",
+        "term": "fatimah;",
         "definitions": [
             {
                 "sense": "1",
@@ -1508,7 +1506,7 @@
         ]
     },
     {
-        "term": "feng",
+        "term": "feng syui",
         "definitions": [
             {
                 "sense": "1",
@@ -2235,7 +2233,7 @@
         ]
     },
     {
-        "term": "fil",
+        "term": "fil marsyal",
         "definitions": [
             {
                 "sense": "1",
@@ -2425,10 +2423,11 @@
     },
     {
         "term": "firdausi",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl spt taman firdaus (sangat indah)."
+                "definition": "spt taman firdaus (sangat indah)."
             }
         ]
     },
@@ -2652,8 +2651,7 @@
         ]
     },
     {
-        "term": "fitrah",
-        "roman_numeral": "I",
+        "term": "fitrah I =",
         "definitions": [
             {
                 "sense": "1",
@@ -3113,8 +3111,7 @@
         ]
     },
     {
-        "term": "fon",
-        "roman_numeral": "I",
+        "term": "fon I",
         "definitions": [
             {
                 "sense": "1",
@@ -3123,8 +3120,7 @@
         ]
     },
     {
-        "term": "fon",
-        "roman_numeral": "II",
+        "term": "fon II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3942,7 +3938,7 @@
         ]
     },
     {
-        "term": "foya",
+        "term": "foya; berfoya-foya, foya-foya",
         "definitions": [
             {
                 "sense": "1",
@@ -4480,10 +4476,11 @@
     },
     {
         "term": "fusta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl perahu (kapal);  pusta."
+                "definition": "perahu (kapal);  pusta."
             }
         ]
     },

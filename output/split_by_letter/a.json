@@ -1,7 +1,6 @@
 [
     {
-        "term": "a",
-        "roman_numeral": "I",
+        "term": "a I",
         "definitions": [
             {
                 "sense": "1",
@@ -41,9 +40,7 @@
         ]
     },
     {
-        "term": "aba",
-        "roman_numeral": "I",
-        "equals": "aba-aba",
+        "term": "aba I = aba-aba",
         "origin": "Id",
         "definitions": [
             {
@@ -53,8 +50,7 @@
         ]
     },
     {
-        "term": "aba",
-        "roman_numeral": "II",
+        "term": "aba II;",
         "definitions": [
             {
                 "sense": "1",
@@ -139,7 +135,7 @@
         ]
     },
     {
-        "term": "abadiah",
+        "term": "abadiah, abadiat",
         "origin": "Ar",
         "definitions": [
             {
@@ -149,8 +145,7 @@
         ]
     },
     {
-        "term": "abah",
-        "roman_numeral": "I",
+        "term": "abah I",
         "definitions": [
             {
                 "sense": "1",
@@ -179,8 +174,7 @@
         ]
     },
     {
-        "term": "abah",
-        "roman_numeral": "II",
+        "term": "abah II",
         "definitions": [
             {
                 "sense": "1",
@@ -345,8 +339,7 @@
         ]
     },
     {
-        "term": "abang",
-        "roman_numeral": "II",
+        "term": "abang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -573,10 +566,11 @@
     },
     {
         "term": "abintara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pesuruh raja;    bentara."
+                "definition": "pesuruh raja;    bentara."
             }
         ]
     },
@@ -705,10 +699,11 @@
     },
     {
         "term": "abrak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl   batu cermin, mika."
+                "definition": "batu cermin, mika."
             }
         ]
     },
@@ -737,7 +732,7 @@
         ]
     },
     {
-        "term": "abrit",
+        "term": "abrit; abrit-abritan",
         "origin": "Jk",
         "definitions": [
             {
@@ -950,8 +945,7 @@
         ]
     },
     {
-        "term": "abu",
-        "roman_numeral": "II",
+        "term": "abu II",
         "definitions": [
             {
                 "sense": "1",
@@ -960,8 +954,7 @@
         ]
     },
     {
-        "term": "abu",
-        "roman_numeral": "III",
+        "term": "abu III",
         "definitions": [
             {
                 "sense": "1",
@@ -970,7 +963,7 @@
         ]
     },
     {
-        "term": "abu-abu",
+        "term": "abu-abu;",
         "definitions": [
             {
                 "sense": "1",
@@ -979,8 +972,7 @@
         ]
     },
     {
-        "term": "abuh",
-        "roman_numeral": "I",
+        "term": "abuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -989,8 +981,7 @@
         ]
     },
     {
-        "term": "abuh",
-        "roman_numeral": "II",
+        "term": "abuh II",
         "origin": "Jw",
         "definitions": [
             {
@@ -1000,7 +991,7 @@
         ]
     },
     {
-        "term": "abuk",
+        "term": "abuk; mengabuk",
         "origin": "Jw",
         "definitions": [
             {
@@ -1028,7 +1019,7 @@
         ]
     },
     {
-        "term": "abung",
+        "term": "abung;",
         "definitions": [
             {
                 "sense": "1",
@@ -1037,7 +1028,7 @@
         ]
     },
     {
-        "term": "abur",
+        "term": "abur; mengabur",
         "definitions": [
             {
                 "sense": "1",
@@ -1116,7 +1107,7 @@
         ]
     },
     {
-        "term": "acah",
+        "term": "acah; beracah-acah",
         "definitions": [
             {
                 "sense": "1",
@@ -1154,8 +1145,7 @@
         ]
     },
     {
-        "term": "acak",
-        "roman_numeral": "I",
+        "term": "acak I",
         "origin": "Mn",
         "definitions": [
             {
@@ -1165,8 +1155,7 @@
         ]
     },
     {
-        "term": "acak",
-        "roman_numeral": "II",
+        "term": "acak II",
         "origin": "Jk",
         "definitions": [
             {
@@ -1187,8 +1176,7 @@
         ]
     },
     {
-        "term": "acan",
-        "roman_numeral": "I",
+        "term": "acan I;",
         "definitions": [
             {
                 "sense": "1",
@@ -1197,8 +1185,7 @@
         ]
     },
     {
-        "term": "acan",
-        "roman_numeral": "II",
+        "term": "acan II; mengacan",
         "definitions": [
             {
                 "sense": "1",
@@ -1207,8 +1194,7 @@
         ]
     },
     {
-        "term": "acan",
-        "roman_numeral": "III",
+        "term": "acan III",
         "origin": "Kd",
         "definitions": [
             {
@@ -1238,8 +1224,7 @@
         ]
     },
     {
-        "term": "acap",
-        "roman_numeral": "I",
+        "term": "acap I",
         "definitions": [
             {
                 "sense": "1",
@@ -1272,7 +1257,7 @@
         ]
     },
     {
-        "term": "acap",
+        "term": "acap kali",
         "definitions": [
             {
                 "sense": "1",
@@ -1281,8 +1266,7 @@
         ]
     },
     {
-        "term": "acar",
-        "roman_numeral": "I",
+        "term": "acar I",
         "definitions": [
             {
                 "sense": "1",
@@ -1302,8 +1286,7 @@
         ]
     },
     {
-        "term": "acar",
-        "roman_numeral": "II",
+        "term": "acar II",
         "definitions": [
             {
                 "sense": "1",
@@ -1396,8 +1379,7 @@
         ]
     },
     {
-        "term": "acara",
-        "roman_numeral": "II",
+        "term": "acara II",
         "origin": "Jw",
         "definitions": [
             {
@@ -1408,15 +1390,16 @@
     },
     {
         "term": "acaram",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl   cincin bertunang, cincin tanda."
+                "definition": "cincin bertunang, cincin tanda."
             }
         ]
     },
     {
-        "term": "acau",
+        "term": "acau;",
         "definitions": [
             {
                 "sense": "1",
@@ -1436,8 +1419,7 @@
         ]
     },
     {
-        "term": "aci",
-        "roman_numeral": "I",
+        "term": "aci I",
         "definitions": [
             {
                 "sense": "1",
@@ -1457,8 +1439,7 @@
         ]
     },
     {
-        "term": "aci",
-        "roman_numeral": "II",
+        "term": "aci II",
         "definitions": [
             {
                 "sense": "1",
@@ -1478,8 +1459,7 @@
         ]
     },
     {
-        "term": "aci",
-        "roman_numeral": "III",
+        "term": "aci III",
         "definitions": [
             {
                 "sense": "1",
@@ -1488,8 +1468,7 @@
         ]
     },
     {
-        "term": "aci",
-        "roman_numeral": "IV",
+        "term": "aci IV",
         "definitions": [
             {
                 "sense": "1",
@@ -1498,8 +1477,7 @@
         ]
     },
     {
-        "term": "aci",
-        "roman_numeral": "V",
+        "term": "aci V",
         "definitions": [
             {
                 "sense": "1",
@@ -1611,8 +1589,7 @@
         ]
     },
     {
-        "term": "acu",
-        "roman_numeral": "II",
+        "term": "acu II; mengacu",
         "definitions": [
             {
                 "sense": "1",
@@ -1640,8 +1617,7 @@
         ]
     },
     {
-        "term": "acu",
-        "roman_numeral": "III",
+        "term": "acu III; mengacu",
         "definitions": [
             {
                 "sense": "1",
@@ -1650,8 +1626,7 @@
         ]
     },
     {
-        "term": "acu",
-        "roman_numeral": "IV",
+        "term": "acu IV",
         "definitions": [
             {
                 "sense": "1",
@@ -1743,8 +1718,7 @@
         ]
     },
     {
-        "term": "acung",
-        "roman_numeral": "I",
+        "term": "acung I",
         "origin": "Id",
         "definitions": [
             {
@@ -1774,8 +1748,7 @@
         ]
     },
     {
-        "term": "acung",
-        "roman_numeral": "II",
+        "term": "acung II",
         "origin": "Mn",
         "definitions": [
             {
@@ -2114,7 +2087,7 @@
         ]
     },
     {
-        "term": "adai",
+        "term": "adai;",
         "definitions": [
             {
                 "sense": "1",
@@ -2160,8 +2133,7 @@
         ]
     },
     {
-        "term": "adang",
-        "roman_numeral": "I",
+        "term": "adang I; adang-adang",
         "definitions": [
             {
                 "sense": "1",
@@ -2236,8 +2208,7 @@
         ]
     },
     {
-        "term": "adang",
-        "roman_numeral": "II",
+        "term": "adang II",
         "origin": "Id",
         "definitions": [
             {
@@ -2258,7 +2229,7 @@
         ]
     },
     {
-        "term": "adap",
+        "term": "adap; adap-adapan;",
         "definitions": [
             {
                 "sense": "1",
@@ -2332,8 +2303,7 @@
         ]
     },
     {
-        "term": "adar",
-        "roman_numeral": "II",
+        "term": "adar II",
         "definitions": [
             {
                 "sense": "1",
@@ -2482,7 +2452,7 @@
         ]
     },
     {
-        "term": "ad",
+        "term": "ad hoc",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -2492,8 +2462,7 @@
         ]
     },
     {
-        "term": "adi",
-        "roman_numeral": "I",
+        "term": "adi I",
         "origin": "(Sanskrit)",
         "definitions": [
             {
@@ -2503,8 +2472,7 @@
         ]
     },
     {
-        "term": "adi",
-        "roman_numeral": "II",
+        "term": "adi II",
         "origin": "Ar",
         "definitions": [
             {
@@ -2514,8 +2482,7 @@
         ]
     },
     {
-        "term": "adi",
-        "roman_numeral": "III",
+        "term": "adi III",
         "origin": "Br",
         "definitions": [
             {
@@ -2639,7 +2606,8 @@
         ]
     },
     {
-        "term": "adikara sl",
+        "term": "adikara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -2787,10 +2755,11 @@
     },
     {
         "term": "ading",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl adik."
+                "definition": "adik."
             }
         ]
     },
@@ -2805,7 +2774,7 @@
         ]
     },
     {
-        "term": "ad",
+        "term": "ad interim",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -2859,7 +2828,8 @@
         ]
     },
     {
-        "term": "adiraja sl",
+        "term": "adiraja",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -2873,10 +2843,11 @@
     },
     {
         "term": "adiratna",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl permata yg mulia (ki bagi perempuan yg cantik)."
+                "definition": "permata yg mulia (ki bagi perempuan yg cantik)."
             }
         ]
     },
@@ -2901,10 +2872,11 @@
     },
     {
         "term": "adiwarna",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl amat bagus, amat indah."
+                "definition": "amat bagus, amat indah."
             }
         ]
     },
@@ -3064,7 +3036,7 @@
         ]
     },
     {
-        "term": "ad",
+        "term": "ad rem",
         "definitions": [
             {
                 "sense": "1",
@@ -3252,8 +3224,7 @@
         ]
     },
     {
-        "term": "adu",
-        "roman_numeral": "II",
+        "term": "adu II; beradu",
         "definitions": [
             {
                 "sense": "1",
@@ -3409,8 +3380,7 @@
         ]
     },
     {
-        "term": "adun",
-        "roman_numeral": "I",
+        "term": "adun I; mengadun",
         "definitions": [
             {
                 "sense": "1",
@@ -3457,12 +3427,12 @@
         ]
     },
     {
-        "term": "adun",
-        "roman_numeral": "II",
+        "term": "adun II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl elok (kerana berhias):  ~-temadun  Mn indah-indah, berjenis- jenis warnanya;"
+                "definition": "elok (kerana berhias):  ~-temadun  Mn indah-indah, berjenis- jenis warnanya;"
             }
         ],
         "sub_terms": [
@@ -3505,7 +3475,7 @@
         ]
     },
     {
-        "term": "ad",
+        "term": "ad valorem",
         "definitions": [
             {
                 "sense": "1",
@@ -3542,8 +3512,7 @@
         ]
     },
     {
-        "term": "advokat",
-        "roman_numeral": "I",
+        "term": "advokat I",
         "origin": "IB",
         "definitions": [
             {
@@ -3553,8 +3522,7 @@
         ]
     },
     {
-        "term": "advokat",
-        "roman_numeral": "II",
+        "term": "advokat II",
         "definitions": [
             {
                 "sense": "1",
@@ -4074,8 +4042,7 @@
         ]
     },
     {
-        "term": "aga",
-        "roman_numeral": "I",
+        "term": "aga I",
         "definitions": [
             {
                 "sense": "1",
@@ -4084,8 +4051,7 @@
         ]
     },
     {
-        "term": "aga",
-        "roman_numeral": "II",
+        "term": "aga II",
         "definitions": [
             {
                 "sense": "1",
@@ -4132,8 +4098,7 @@
         ]
     },
     {
-        "term": "agah",
-        "roman_numeral": "I",
+        "term": "agah I; beragah",
         "definitions": [
             {
                 "sense": "1",
@@ -4174,8 +4139,7 @@
         ]
     },
     {
-        "term": "agah",
-        "roman_numeral": "II",
+        "term": "agah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -4300,8 +4264,7 @@
         ]
     },
     {
-        "term": "agak",
-        "roman_numeral": "II",
+        "term": "agak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4310,8 +4273,7 @@
         ]
     },
     {
-        "term": "agal",
-        "roman_numeral": "I",
+        "term": "agal I",
         "definitions": [
             {
                 "sense": "1",
@@ -4320,8 +4282,7 @@
         ]
     },
     {
-        "term": "agal",
-        "roman_numeral": "II",
+        "term": "agal II",
         "origin": "Jw",
         "definitions": [
             {
@@ -4331,18 +4292,17 @@
         ]
     },
     {
-        "term": "agam",
-        "roman_numeral": "I",
+        "term": "agam I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl besar, tegap:  terlalu ~ tubuhnya."
+                "definition": "besar, tegap:  terlalu ~ tubuhnya."
             }
         ]
     },
     {
-        "term": "agam",
-        "roman_numeral": "II",
+        "term": "agam II",
         "definitions": [
             {
                 "sense": "1",
@@ -4427,7 +4387,7 @@
         ]
     },
     {
-        "term": "agan",
+        "term": "agan; beragan",
         "origin": "Mn",
         "definitions": [
             {
@@ -4448,8 +4408,7 @@
         ]
     },
     {
-        "term": "agar",
-        "roman_numeral": "I",
+        "term": "agar I",
         "definitions": [
             {
                 "sense": "1",
@@ -4458,8 +4417,7 @@
         ]
     },
     {
-        "term": "Agar",
-        "roman_numeral": "II",
+        "term": "Agar II",
         "definitions": [
             {
                 "sense": "1",
@@ -4494,8 +4452,7 @@
         ]
     },
     {
-        "term": "agas",
-        "roman_numeral": "I",
+        "term": "agas I",
         "definitions": [
             {
                 "sense": "1",
@@ -4504,8 +4461,7 @@
         ]
     },
     {
-        "term": "agas",
-        "roman_numeral": "II",
+        "term": "agas II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4514,8 +4470,7 @@
         ]
     },
     {
-        "term": "agas",
-        "roman_numeral": "III",
+        "term": "agas III",
         "definitions": [
             {
                 "sense": "1",
@@ -4741,7 +4696,7 @@
         ]
     },
     {
-        "term": "a",
+        "term": "a go go",
         "definitions": [
             {
                 "sense": "1",
@@ -4750,7 +4705,7 @@
         ]
     },
     {
-        "term": "Agong",
+        "term": "Agong;",
         "definitions": [
             {
                 "sense": "1",
@@ -4900,7 +4855,7 @@
         ]
     },
     {
-        "term": "agrokimia",
+        "term": "agrokimia;",
         "definitions": [
             {
                 "sense": "1",
@@ -4958,7 +4913,7 @@
         ]
     },
     {
-        "term": "agul",
+        "term": "agul; agul-agul",
         "origin": "Id",
         "definitions": [
             {
@@ -5068,8 +5023,7 @@
         ]
     },
     {
-        "term": "agung",
-        "roman_numeral": "II",
+        "term": "agung II; teragung, teragung-agung",
         "definitions": [
             {
                 "sense": "1",
@@ -5103,7 +5057,7 @@
         ]
     },
     {
-        "term": "agut",
+        "term": "agut; mengagut-agut",
         "origin": "Mn",
         "definitions": [
             {
@@ -5158,8 +5112,7 @@
         ]
     },
     {
-        "term": "ahad",
-        "roman_numeral": "II",
+        "term": "ahad II",
         "origin": "Ar",
         "definitions": [
             {
@@ -5290,8 +5243,7 @@
         ]
     },
     {
-        "term": "ahli",
-        "roman_numeral": "II",
+        "term": "ahli II, ahlil, ahlu, ahlul",
         "definitions": [
             {
                 "sense": "1",
@@ -5339,8 +5291,7 @@
         ]
     },
     {
-        "term": "ai",
-        "roman_numeral": "I",
+        "term": "ai I",
         "definitions": [
             {
                 "sense": "1",
@@ -5349,8 +5300,7 @@
         ]
     },
     {
-        "term": "ai",
-        "roman_numeral": "II",
+        "term": "ai II",
         "definitions": [
             {
                 "sense": "1",
@@ -5477,7 +5427,7 @@
         ]
     },
     {
-        "term": "ain-al-banat",
+        "term": "ain-al-banat, ainulbanat",
         "origin": "Ar",
         "definitions": [
             {
@@ -5609,8 +5559,7 @@
         ]
     },
     {
-        "term": "air",
-        "roman_numeral": "II",
+        "term": "air II;",
         "definitions": [
             {
                 "sense": "1",
@@ -5731,7 +5680,7 @@
         ]
     },
     {
-        "term": "ajahan",
+        "term": "ajahan;",
         "definitions": [
             {
                 "sense": "1",
@@ -5877,7 +5826,7 @@
         ]
     },
     {
-        "term": "ajar",
+        "term": "ajar;",
         "definitions": [
             {
                 "sense": "1",
@@ -6064,10 +6013,11 @@
     },
     {
         "term": "ajar-ajar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pertapa, pendeta."
+                "definition": "pertapa, pendeta."
             }
         ]
     },
@@ -6145,8 +6095,7 @@
         ]
     },
     {
-        "term": "aji",
-        "roman_numeral": "IV",
+        "term": "aji IV",
         "origin": "Tr",
         "definitions": [
             {
@@ -6287,8 +6236,7 @@
         ]
     },
     {
-        "term": "ajun",
-        "roman_numeral": "I",
+        "term": "ajun I",
         "definitions": [
             {
                 "sense": "1",
@@ -6297,8 +6245,7 @@
         ]
     },
     {
-        "term": "ajun",
-        "roman_numeral": "II",
+        "term": "ajun II",
         "origin": "Mn",
         "definitions": [
             {
@@ -6427,7 +6374,7 @@
         ]
     },
     {
-        "term": "akad",
+        "term": "akad nikah",
         "definitions": [
             {
                 "sense": "1",
@@ -6710,8 +6657,7 @@
         ]
     },
     {
-        "term": "akar",
-        "roman_numeral": "II",
+        "term": "akar II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6720,8 +6666,7 @@
         ]
     },
     {
-        "term": "Akar",
-        "roman_numeral": "III",
+        "term": "Akar III",
         "definitions": [
             {
                 "sense": "1",
@@ -6749,8 +6694,7 @@
         ]
     },
     {
-        "term": "akas",
-        "roman_numeral": "II",
+        "term": "akas II",
         "origin": "(Sanskrit)",
         "definitions": [
             {
@@ -7096,8 +7040,7 @@
         ]
     },
     {
-        "term": "aki",
-        "roman_numeral": "I",
+        "term": "aki I",
         "definitions": [
             {
                 "sense": "1",
@@ -7106,8 +7049,7 @@
         ]
     },
     {
-        "term": "aki",
-        "roman_numeral": "II",
+        "term": "aki II",
         "origin": "IB",
         "definitions": [
             {
@@ -7182,8 +7124,7 @@
         ]
     },
     {
-        "term": "akik",
-        "roman_numeral": "II",
+        "term": "akik II",
         "definitions": [
             {
                 "sense": "1",
@@ -8080,7 +8021,7 @@
         ]
     },
     {
-        "term": "akua",
+        "term": "akua regia",
         "origin": "(Kim)",
         "definitions": [
             {
@@ -8184,7 +8125,7 @@
         ]
     },
     {
-        "term": "aku",
+        "term": "aku janji",
         "definitions": [
             {
                 "sense": "1",
@@ -8420,8 +8361,7 @@
         ]
     },
     {
-        "term": "ala",
-        "roman_numeral": "II",
+        "term": "ala II",
         "origin": "Ar",
         "definitions": [
             {
@@ -8431,8 +8371,7 @@
         ]
     },
     {
-        "term": "ala",
-        "roman_numeral": "III",
+        "term": "ala III",
         "origin": "Ar",
         "definitions": [
             {
@@ -8453,8 +8392,7 @@
         ]
     },
     {
-        "term": "ala",
-        "roman_numeral": "IV",
+        "term": "ala IV",
         "definitions": [
             {
                 "sense": "1",
@@ -8481,7 +8419,7 @@
         ]
     },
     {
-        "term": "ala",
+        "term": "ala carte",
         "definitions": [
             {
                 "sense": "1",
@@ -8731,8 +8669,7 @@
         ]
     },
     {
-        "term": "alai",
-        "roman_numeral": "II",
+        "term": "alai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -8741,8 +8678,7 @@
         ]
     },
     {
-        "term": "alai",
-        "roman_numeral": "III",
+        "term": "alai III;",
         "definitions": [
             {
                 "sense": "1",
@@ -8751,8 +8687,7 @@
         ]
     },
     {
-        "term": "alai",
-        "roman_numeral": "IV",
+        "term": "alai IV; mengalai",
         "origin": "Br",
         "definitions": [
             {
@@ -9242,8 +9177,7 @@
         ]
     },
     {
-        "term": "alap",
-        "roman_numeral": "I",
+        "term": "alap I",
         "origin": "Sl",
         "definitions": [
             {
@@ -9253,8 +9187,7 @@
         ]
     },
     {
-        "term": "alap",
-        "roman_numeral": "II",
+        "term": "alap II; mengalap",
         "origin": "Kd",
         "definitions": [
             {
@@ -9417,8 +9350,7 @@
         ]
     },
     {
-        "term": "alas",
-        "roman_numeral": "III",
+        "term": "alas III; pengalasan",
         "origin": "Jw",
         "definitions": [
             {
@@ -9534,7 +9466,7 @@
         ]
     },
     {
-        "term": "alau",
+        "term": "alau;",
         "definitions": [
             {
                 "sense": "1",
@@ -9882,8 +9814,7 @@
         ]
     },
     {
-        "term": "alfa",
-        "roman_numeral": "II",
+        "term": "alfa II",
         "definitions": [
             {
                 "sense": "1",
@@ -10200,8 +10131,7 @@
         ]
     },
     {
-        "term": "ali",
-        "roman_numeral": "I",
+        "term": "ali I",
         "origin": "Ar",
         "definitions": [
             {
@@ -10222,8 +10152,7 @@
         ]
     },
     {
-        "term": "ali",
-        "roman_numeral": "II",
+        "term": "ali II",
         "definitions": [
             {
                 "sense": "1",
@@ -10265,7 +10194,7 @@
         ]
     },
     {
-        "term": "ali",
+        "term": "ali baba",
         "definitions": [
             {
                 "sense": "1",
@@ -10307,8 +10236,7 @@
         ]
     },
     {
-        "term": "alif",
-        "roman_numeral": "II",
+        "term": "alif II",
         "origin": "Ar",
         "definitions": [
             {
@@ -10418,7 +10346,7 @@
         ]
     },
     {
-        "term": "alih",
+        "term": "alih bahasa",
         "definitions": [
             {
                 "sense": "1",
@@ -10447,7 +10375,7 @@
         ]
     },
     {
-        "term": "alik",
+        "term": "alik;",
         "definitions": [
             {
                 "sense": "1",
@@ -10492,8 +10420,7 @@
         ]
     },
     {
-        "term": "alim",
-        "roman_numeral": "II",
+        "term": "alim II",
         "definitions": [
             {
                 "sense": "1",
@@ -10539,7 +10466,7 @@
         ]
     },
     {
-        "term": "alin",
+        "term": "alin; mengalin",
         "definitions": [
             {
                 "sense": "1",
@@ -10597,8 +10524,7 @@
         ]
     },
     {
-        "term": "aling",
-        "roman_numeral": "II",
+        "term": "aling II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10607,8 +10533,7 @@
         ]
     },
     {
-        "term": "alip",
-        "roman_numeral": "I",
+        "term": "alip I;",
         "definitions": [
             {
                 "sense": "1",
@@ -10617,8 +10542,7 @@
         ]
     },
     {
-        "term": "alip",
-        "roman_numeral": "II",
+        "term": "alip II; alip-alipan",
         "definitions": [
             {
                 "sense": "1",
@@ -10756,8 +10680,7 @@
         ]
     },
     {
-        "term": "alir",
-        "roman_numeral": "III",
+        "term": "alir III",
         "origin": "Mn",
         "definitions": [
             {
@@ -10776,8 +10699,7 @@
         ]
     },
     {
-        "term": "alit",
-        "roman_numeral": "I",
+        "term": "alit I",
         "definitions": [
             {
                 "sense": "1",
@@ -10815,8 +10737,7 @@
         ]
     },
     {
-        "term": "alit",
-        "roman_numeral": "III",
+        "term": "alit III",
         "origin": "Jw",
         "definitions": [
             {
@@ -11316,7 +11237,7 @@
         ]
     },
     {
-        "term": "alma",
+        "term": "alma mater",
         "definitions": [
             {
                 "sense": "1",
@@ -11386,7 +11307,7 @@
         ]
     },
     {
-        "term": "al-Masih",
+        "term": "al-Masih;",
         "definitions": [
             {
                 "sense": "1",
@@ -11727,7 +11648,7 @@
         ]
     },
     {
-        "term": "alon",
+        "term": "alon; alon-alon",
         "origin": "Jw",
         "definitions": [
             {
@@ -11757,8 +11678,7 @@
         ]
     },
     {
-        "term": "along",
-        "roman_numeral": "II",
+        "term": "along II",
         "definitions": [
             {
                 "sense": "1",
@@ -12236,8 +12156,7 @@
         ]
     },
     {
-        "term": "alu",
-        "roman_numeral": "I",
+        "term": "alu I",
         "definitions": [
             {
                 "sense": "1",
@@ -12272,8 +12191,7 @@
         ]
     },
     {
-        "term": "alum",
-        "roman_numeral": "I",
+        "term": "alum I",
         "origin": "Jw",
         "definitions": [
             {
@@ -12294,8 +12212,7 @@
         ]
     },
     {
-        "term": "alum",
-        "roman_numeral": "II",
+        "term": "alum II",
         "origin": "(Kim)",
         "definitions": [
             {
@@ -13058,8 +12975,7 @@
         ]
     },
     {
-        "term": "amar",
-        "roman_numeral": "II",
+        "term": "amar II",
         "definitions": [
             {
                 "sense": "1",
@@ -13208,8 +13124,7 @@
         ]
     },
     {
-        "term": "ambai",
-        "roman_numeral": "I",
+        "term": "ambai I",
         "definitions": [
             {
                 "sense": "1",
@@ -13229,8 +13144,7 @@
         ]
     },
     {
-        "term": "ambai",
-        "roman_numeral": "II",
+        "term": "ambai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -13250,8 +13164,7 @@
         ]
     },
     {
-        "term": "ambai-ambai",
-        "roman_numeral": "I",
+        "term": "ambai-ambai I",
         "definitions": [
             {
                 "sense": "1",
@@ -13260,8 +13173,7 @@
         ]
     },
     {
-        "term": "ambai-ambai",
-        "roman_numeral": "II",
+        "term": "ambai-ambai II",
         "definitions": [
             {
                 "sense": "1",
@@ -13291,8 +13203,7 @@
         ]
     },
     {
-        "term": "ambal",
-        "roman_numeral": "I",
+        "term": "ambal I",
         "definitions": [
             {
                 "sense": "1",
@@ -13301,8 +13212,7 @@
         ]
     },
     {
-        "term": "ambal",
-        "roman_numeral": "II",
+        "term": "ambal II; berambal-ambalan",
         "definitions": [
             {
                 "sense": "1",
@@ -13322,8 +13232,7 @@
         ]
     },
     {
-        "term": "ambal",
-        "roman_numeral": "III",
+        "term": "ambal III; mengambal",
         "definitions": [
             {
                 "sense": "1",
@@ -13332,8 +13241,7 @@
         ]
     },
     {
-        "term": "ambal",
-        "roman_numeral": "IV",
+        "term": "ambal IV; mengambal",
         "origin": "Mn",
         "definitions": [
             {
@@ -13424,7 +13332,7 @@
         ]
     },
     {
-        "term": "ambat",
+        "term": "ambat; pengambat",
         "origin": "Br",
         "definitions": [
             {
@@ -13434,8 +13342,7 @@
         ]
     },
     {
-        "term": "ambau",
-        "roman_numeral": "I",
+        "term": "ambau I",
         "definitions": [
             {
                 "sense": "1",
@@ -13516,7 +13423,7 @@
         ]
     },
     {
-        "term": "ambelu",
+        "term": "ambelu;",
         "definitions": [
             {
                 "sense": "1",
@@ -13623,7 +13530,7 @@
         ]
     },
     {
-        "term": "ambil",
+        "term": "ambil;",
         "definitions": [
             {
                 "sense": "1",
@@ -13736,7 +13643,7 @@
         ]
     },
     {
-        "term": "ambil",
+        "term": "ambil alih; mengambil alih",
         "definitions": [
             {
                 "sense": "1",
@@ -13849,7 +13756,7 @@
         ]
     },
     {
-        "term": "ambring",
+        "term": "ambring; ambring-ambringan",
         "origin": "Jk",
         "definitions": [
             {
@@ -13878,7 +13785,7 @@
         ]
     },
     {
-        "term": "ambul",
+        "term": "ambul; mengambul",
         "definitions": [
             {
                 "sense": "1",
@@ -13972,8 +13879,7 @@
         ]
     },
     {
-        "term": "ambur",
-        "roman_numeral": "I",
+        "term": "ambur I; mengambur",
         "origin": "Mn",
         "definitions": [
             {
@@ -13983,8 +13889,7 @@
         ]
     },
     {
-        "term": "ambur",
-        "roman_numeral": "II",
+        "term": "ambur II",
         "origin": "Br",
         "definitions": [
             {
@@ -14333,8 +14238,7 @@
         ]
     },
     {
-        "term": "amit",
-        "roman_numeral": "II",
+        "term": "amit II",
         "definitions": [
             {
                 "sense": "1",
@@ -14589,7 +14493,7 @@
         ]
     },
     {
-        "term": "ampama",
+        "term": "ampama, ampamar",
         "definitions": [
             {
                 "sense": "1",
@@ -14598,8 +14502,7 @@
         ]
     },
     {
-        "term": "ampang",
-        "roman_numeral": "I",
+        "term": "ampang I",
         "definitions": [
             {
                 "sense": "1",
@@ -14608,8 +14511,7 @@
         ]
     },
     {
-        "term": "ampang",
-        "roman_numeral": "II",
+        "term": "ampang II",
         "definitions": [
             {
                 "sense": "1",
@@ -14683,7 +14585,7 @@
         ]
     },
     {
-        "term": "ampit",
+        "term": "ampit;",
         "definitions": [
             {
                 "sense": "1",
@@ -14774,8 +14676,7 @@
         ]
     },
     {
-        "term": "ampu",
-        "roman_numeral": "II",
+        "term": "ampu II",
         "origin": "Mn",
         "definitions": [
             {
@@ -14785,8 +14686,7 @@
         ]
     },
     {
-        "term": "ampuh",
-        "roman_numeral": "I",
+        "term": "ampuh I",
         "origin": "Jw",
         "definitions": [
             {
@@ -14841,8 +14741,7 @@
         ]
     },
     {
-        "term": "ampuh",
-        "roman_numeral": "III",
+        "term": "ampuh III; pengampuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -14851,8 +14750,7 @@
         ]
     },
     {
-        "term": "ampuk",
-        "roman_numeral": "I",
+        "term": "ampuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -14861,8 +14759,7 @@
         ]
     },
     {
-        "term": "ampuk",
-        "roman_numeral": "II",
+        "term": "ampuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14871,8 +14768,7 @@
         ]
     },
     {
-        "term": "ampul",
-        "roman_numeral": "I",
+        "term": "ampul I; mengampul",
         "definitions": [
             {
                 "sense": "1",
@@ -14881,8 +14777,7 @@
         ]
     },
     {
-        "term": "ampul",
-        "roman_numeral": "II",
+        "term": "ampul II",
         "definitions": [
             {
                 "sense": "1",
@@ -14969,7 +14864,7 @@
         ]
     },
     {
-        "term": "amput",
+        "term": "amput; mengamput",
         "definitions": [
             {
                 "sense": "1",
@@ -15003,8 +14898,7 @@
         ]
     },
     {
-        "term": "amra",
-        "roman_numeral": "I",
+        "term": "amra I",
         "definitions": [
             {
                 "sense": "1",
@@ -15447,8 +15341,7 @@
         ]
     },
     {
-        "term": "anak",
-        "roman_numeral": "II",
+        "term": "anak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15457,8 +15350,7 @@
         ]
     },
     {
-        "term": "anak",
-        "roman_numeral": "III",
+        "term": "anak III;",
         "definitions": [
             {
                 "sense": "1",
@@ -15477,10 +15369,11 @@
     },
     {
         "term": "anakhoda",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl     nakhoda."
+                "definition": "   nakhoda."
             }
         ]
     },
@@ -15494,7 +15387,7 @@
         ]
     },
     {
-        "term": "anak",
+        "term": "anak pinak",
         "definitions": [
             {
                 "sense": "1",
@@ -15527,7 +15420,7 @@
         ]
     },
     {
-        "term": "anak",
+        "term": "anak tiri",
         "definitions": [
             {
                 "sense": "1",
@@ -15703,10 +15596,11 @@
     },
     {
         "term": "anang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl anakku."
+                "definition": "anakku."
             }
         ]
     },
@@ -15978,8 +15872,7 @@
         ]
     },
     {
-        "term": "ancu",
-        "roman_numeral": "II",
+        "term": "ancu II",
         "definitions": [
             {
                 "sense": "1",
@@ -15988,7 +15881,7 @@
         ]
     },
     {
-        "term": "ancuk",
+        "term": "ancuk; berancuk",
         "definitions": [
             {
                 "sense": "1",
@@ -16110,8 +16003,7 @@
         ]
     },
     {
-        "term": "andai",
-        "roman_numeral": "II",
+        "term": "andai II",
         "definitions": [
             {
                 "sense": "1",
@@ -16120,7 +16012,7 @@
         ]
     },
     {
-        "term": "andai",
+        "term": "andai kata",
         "definitions": [
             {
                 "sense": "1",
@@ -16129,8 +16021,7 @@
         ]
     },
     {
-        "term": "andak",
-        "roman_numeral": "I",
+        "term": "andak I",
         "definitions": [
             {
                 "sense": "1",
@@ -16139,8 +16030,7 @@
         ]
     },
     {
-        "term": "andak",
-        "roman_numeral": "II",
+        "term": "andak II",
         "definitions": [
             {
                 "sense": "1",
@@ -16247,8 +16137,7 @@
         ]
     },
     {
-        "term": "andam",
-        "roman_numeral": "I",
+        "term": "andam I;",
         "definitions": [
             {
                 "sense": "1",
@@ -16308,8 +16197,7 @@
         ]
     },
     {
-        "term": "andam",
-        "roman_numeral": "II",
+        "term": "andam II",
         "origin": "Mn",
         "definitions": [
             {
@@ -16348,8 +16236,7 @@
         ]
     },
     {
-        "term": "andan",
-        "roman_numeral": "II",
+        "term": "andan II",
         "origin": "Mn",
         "definitions": [
             {
@@ -16368,8 +16255,7 @@
         ]
     },
     {
-        "term": "andang-andang",
-        "roman_numeral": "I",
+        "term": "andang-andang I",
         "definitions": [
             {
                 "sense": "1",
@@ -16378,8 +16264,7 @@
         ]
     },
     {
-        "term": "andang-andang",
-        "roman_numeral": "II",
+        "term": "andang-andang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -16417,8 +16302,7 @@
         ]
     },
     {
-        "term": "andas",
-        "roman_numeral": "I",
+        "term": "andas I",
         "definitions": [
             {
                 "sense": "1",
@@ -16438,8 +16322,7 @@
         ]
     },
     {
-        "term": "andas",
-        "roman_numeral": "II",
+        "term": "andas II",
         "origin": "(Bio)",
         "definitions": [
             {
@@ -16514,18 +16397,17 @@
         ]
     },
     {
-        "term": "andi",
-        "roman_numeral": "I",
+        "term": "andi I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tuan, tuanku:  daulat tuanku ~ batara, mana titah patik junjung."
+                "definition": "tuan, tuanku:  daulat tuanku ~ batara, mana titah patik junjung."
             }
         ]
     },
     {
-        "term": "andi",
-        "roman_numeral": "II",
+        "term": "andi II",
         "definitions": [
             {
                 "sense": "1",
@@ -16689,10 +16571,11 @@
     },
     {
         "term": "andun",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pergi ke;  ~ perang  pergi berperang."
+                "definition": "pergi ke;  ~ perang  pergi berperang."
             }
         ]
     },
@@ -16706,8 +16589,7 @@
         ]
     },
     {
-        "term": "andung",
-        "roman_numeral": "II",
+        "term": "andung II",
         "definitions": [
             {
                 "sense": "1",
@@ -16716,8 +16598,7 @@
         ]
     },
     {
-        "term": "andung",
-        "roman_numeral": "III",
+        "term": "andung III;",
         "definitions": [
             {
                 "sense": "1",
@@ -16806,7 +16687,7 @@
         ]
     },
     {
-        "term": "aneka",
+        "term": "aneka ragam",
         "definitions": [
             {
                 "sense": "1",
@@ -17056,8 +16937,7 @@
         ]
     },
     {
-        "term": "angah",
-        "roman_numeral": "I",
+        "term": "angah I",
         "definitions": [
             {
                 "sense": "1",
@@ -17203,7 +17083,7 @@
         ]
     },
     {
-        "term": "angga",
+        "term": "angga; berangga",
         "definitions": [
             {
                 "sense": "1",
@@ -17223,10 +17103,11 @@
     },
     {
         "term": "anggai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl ark isyarat, semboyan."
+                "definition": "ark isyarat, semboyan."
             }
         ]
     },
@@ -17269,8 +17150,7 @@
         ]
     },
     {
-        "term": "anggal",
-        "roman_numeral": "II",
+        "term": "anggal II",
         "definitions": [
             {
                 "sense": "1",
@@ -17279,8 +17159,7 @@
         ]
     },
     {
-        "term": "anggan",
-        "roman_numeral": "I",
+        "term": "anggan I",
         "definitions": [
             {
                 "sense": "1",
@@ -17289,8 +17168,7 @@
         ]
     },
     {
-        "term": "anggan",
-        "roman_numeral": "II",
+        "term": "anggan II",
         "origin": "Mn",
         "definitions": [
             {
@@ -17300,8 +17178,7 @@
         ]
     },
     {
-        "term": "anggap",
-        "roman_numeral": "I",
+        "term": "anggap I; menganggap",
         "definitions": [
             {
                 "sense": "1",
@@ -17377,8 +17254,7 @@
         ]
     },
     {
-        "term": "anggar",
-        "roman_numeral": "I",
+        "term": "anggar I; anggar-anggar",
         "definitions": [
             {
                 "sense": "1",
@@ -17433,8 +17309,7 @@
         ]
     },
     {
-        "term": "anggar",
-        "roman_numeral": "II",
+        "term": "anggar II",
         "origin": "Id",
         "definitions": [
             {
@@ -17455,8 +17330,7 @@
         ]
     },
     {
-        "term": "anggar",
-        "roman_numeral": "III",
+        "term": "anggar III",
         "definitions": [
             {
                 "sense": "1",
@@ -17465,8 +17339,7 @@
         ]
     },
     {
-        "term": "anggar",
-        "roman_numeral": "IV",
+        "term": "anggar IV",
         "origin": "IB",
         "definitions": [
             {
@@ -17476,8 +17349,7 @@
         ]
     },
     {
-        "term": "anggar",
-        "roman_numeral": "V",
+        "term": "anggar V",
         "definitions": [
             {
                 "sense": "1",
@@ -17486,8 +17358,7 @@
         ]
     },
     {
-        "term": "anggar",
-        "roman_numeral": "VI",
+        "term": "anggar VI; teranggar-anggar",
         "definitions": [
             {
                 "sense": "1",
@@ -17773,8 +17644,7 @@
         ]
     },
     {
-        "term": "anggun",
-        "roman_numeral": "II",
+        "term": "anggun II",
         "definitions": [
             {
                 "sense": "1",
@@ -17792,8 +17662,7 @@
         ]
     },
     {
-        "term": "anggung",
-        "roman_numeral": "II",
+        "term": "anggung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17802,7 +17671,7 @@
         ]
     },
     {
-        "term": "anggup",
+        "term": "anggup;",
         "definitions": [
             {
                 "sense": "1",
@@ -17824,8 +17693,7 @@
         ]
     },
     {
-        "term": "anggur",
-        "roman_numeral": "II",
+        "term": "anggur II; menganggur",
         "definitions": [
             {
                 "sense": "1",
@@ -17854,8 +17722,7 @@
         ]
     },
     {
-        "term": "anggur",
-        "roman_numeral": "III",
+        "term": "anggur III",
         "definitions": [
             {
                 "sense": "1",
@@ -17892,17 +17759,17 @@
         ]
     },
     {
-        "term": "anggur",
-        "roman_numeral": "IV",
+        "term": "anggur IV; anggurlah",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lebih baik (drpd), biarlah:  jika begitu rupanya  Galuh Daha ini, ~ tiada beristeri seumur hidupku."
+                "definition": "lebih baik (drpd), biarlah:  jika begitu rupanya  Galuh Daha ini, ~ tiada beristeri seumur hidupku."
             }
         ]
     },
     {
-        "term": "anggut",
+        "term": "anggut; menganggut, beranggut",
         "definitions": [
             {
                 "sense": "1",
@@ -18172,12 +18039,12 @@
         ]
     },
     {
-        "term": "angka",
-        "roman_numeral": "II",
+        "term": "angka II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sangka, anggap, fikir;"
+                "definition": "sangka, anggap, fikir;"
             }
         ],
         "sub_terms": [
@@ -18555,7 +18422,7 @@
         ]
     },
     {
-        "term": "angkit",
+        "term": "angkit; angkit-angkit;",
         "definitions": [
             {
                 "sense": "1",
@@ -18584,7 +18451,7 @@
         ]
     },
     {
-        "term": "angkor",
+        "term": "angkor;",
         "definitions": [
             {
                 "sense": "1",
@@ -18602,8 +18469,7 @@
         ]
     },
     {
-        "term": "angkuh",
-        "roman_numeral": "I",
+        "term": "angkuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -18632,8 +18498,7 @@
         ]
     },
     {
-        "term": "angkuh",
-        "roman_numeral": "II",
+        "term": "angkuh II",
         "origin": "Mn",
         "definitions": [
             {
@@ -18670,8 +18535,7 @@
         ]
     },
     {
-        "term": "angkung",
-        "roman_numeral": "II",
+        "term": "angkung II",
         "definitions": [
             {
                 "sense": "1",
@@ -18718,8 +18582,7 @@
         ]
     },
     {
-        "term": "angkup",
-        "roman_numeral": "II",
+        "term": "angkup II",
         "definitions": [
             {
                 "sense": "1",
@@ -18728,7 +18591,7 @@
         ]
     },
     {
-        "term": "angkus",
+        "term": "angkus, angkusa",
         "definitions": [
             {
                 "sense": "1",
@@ -18737,8 +18600,7 @@
         ]
     },
     {
-        "term": "angkut",
-        "roman_numeral": "I",
+        "term": "angkut I; berangkut",
         "definitions": [
             {
                 "sense": "1",
@@ -18789,8 +18651,7 @@
         ]
     },
     {
-        "term": "angkut",
-        "roman_numeral": "II",
+        "term": "angkut II;",
         "definitions": [
             {
                 "sense": "1",
@@ -18828,8 +18689,7 @@
         ]
     },
     {
-        "term": "anglong",
-        "roman_numeral": "I",
+        "term": "anglong I",
         "origin": "Jw",
         "definitions": [
             {
@@ -18839,8 +18699,7 @@
         ]
     },
     {
-        "term": "anglong",
-        "roman_numeral": "II",
+        "term": "anglong II",
         "definitions": [
             {
                 "sense": "1",
@@ -18909,8 +18768,7 @@
         ]
     },
     {
-        "term": "angsa",
-        "roman_numeral": "I",
+        "term": "angsa I",
         "definitions": [
             {
                 "sense": "1",
@@ -18919,8 +18777,7 @@
         ]
     },
     {
-        "term": "angsa",
-        "roman_numeral": "II",
+        "term": "angsa II",
         "definitions": [
             {
                 "sense": "1",
@@ -19016,7 +18873,7 @@
         ]
     },
     {
-        "term": "angut",
+        "term": "angut; mengangut",
         "definitions": [
             {
                 "sense": "1",
@@ -19035,7 +18892,7 @@
         ]
     },
     {
-        "term": "ani",
+        "term": "ani; mengani",
         "definitions": [
             {
                 "sense": "1",
@@ -19318,8 +19175,7 @@
         ]
     },
     {
-        "term": "anjang",
-        "roman_numeral": "I",
+        "term": "anjang I",
         "definitions": [
             {
                 "sense": "1",
@@ -19328,8 +19184,7 @@
         ]
     },
     {
-        "term": "anjang",
-        "roman_numeral": "II",
+        "term": "anjang II",
         "definitions": [
             {
                 "sense": "1",
@@ -19338,8 +19193,7 @@
         ]
     },
     {
-        "term": "anjang-anjang",
-        "roman_numeral": "I",
+        "term": "anjang-anjang I",
         "definitions": [
             {
                 "sense": "1",
@@ -19348,8 +19202,7 @@
         ]
     },
     {
-        "term": "anjang-anjang",
-        "roman_numeral": "II",
+        "term": "anjang-anjang II",
         "definitions": [
             {
                 "sense": "1",
@@ -19358,8 +19211,7 @@
         ]
     },
     {
-        "term": "anjang-anjang",
-        "roman_numeral": "III",
+        "term": "anjang-anjang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -19379,10 +19231,11 @@
     },
     {
         "term": "anjiman",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kapal kompeni Inggeris yg belayar ke Asia Timur."
+                "definition": "kapal kompeni Inggeris yg belayar ke Asia Timur."
             }
         ]
     },
@@ -19400,8 +19253,7 @@
         ]
     },
     {
-        "term": "anjing-anjing",
-        "roman_numeral": "I",
+        "term": "anjing-anjing I",
         "definitions": [
             {
                 "sense": "1",
@@ -19410,8 +19262,7 @@
         ]
     },
     {
-        "term": "anjing-anjing",
-        "roman_numeral": "II",
+        "term": "anjing-anjing II",
         "definitions": [
             {
                 "sense": "1",
@@ -19420,8 +19271,7 @@
         ]
     },
     {
-        "term": "anjing-anjing",
-        "roman_numeral": "III",
+        "term": "anjing-anjing III",
         "definitions": [
             {
                 "sense": "1",
@@ -19430,8 +19280,7 @@
         ]
     },
     {
-        "term": "anjing-anjing",
-        "roman_numeral": "IV",
+        "term": "anjing-anjing IV",
         "definitions": [
             {
                 "sense": "1",
@@ -19535,8 +19384,7 @@
         ]
     },
     {
-        "term": "anjur",
-        "roman_numeral": "I",
+        "term": "anjur I",
         "definitions": [
             {
                 "sense": "1",
@@ -19643,8 +19491,7 @@
         ]
     },
     {
-        "term": "anjur",
-        "roman_numeral": "II",
+        "term": "anjur II",
         "definitions": [
             {
                 "sense": "1",
@@ -19716,10 +19563,11 @@
     },
     {
         "term": "anom",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl muda dan kacak:  engkau aku ambil jadi warga dalam kerana  sayang aku membunuh engkau ini kerana rupamu kedua bagus  dan ~ tanpa tanding."
+                "definition": "muda dan kacak:  engkau aku ambil jadi warga dalam kerana  sayang aku membunuh engkau ini kerana rupamu kedua bagus  dan ~ tanpa tanding."
             }
         ]
     },
@@ -19942,18 +19790,17 @@
         ]
     },
     {
-        "term": "anta",
-        "roman_numeral": "I",
+        "term": "anta I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sifat, keadaan;    ~-beranta  a) beraneka sifat (keadaan); b)   awang-awang;  ~kesuma  a) berbunga-bunga (baju dll); b) baju terbang."
+                "definition": "sifat, keadaan;    ~-beranta  a) beraneka sifat (keadaan); b)   awang-awang;  ~kesuma  a) berbunga-bunga (baju dll); b) baju terbang."
             }
         ]
     },
     {
-        "term": "anta",
-        "roman_numeral": "II",
+        "term": "anta II",
         "origin": "Ar",
         "definitions": [
             {
@@ -19999,8 +19846,7 @@
         ]
     },
     {
-        "term": "antah",
-        "roman_numeral": "I",
+        "term": "antah I",
         "definitions": [
             {
                 "sense": "1",
@@ -20009,8 +19855,7 @@
         ]
     },
     {
-        "term": "antah",
-        "roman_numeral": "II",
+        "term": "antah II",
         "definitions": [
             {
                 "sense": "1",
@@ -20041,8 +19886,7 @@
         ]
     },
     {
-        "term": "antap",
-        "roman_numeral": "I",
+        "term": "antap I",
         "definitions": [
             {
                 "sense": "1",
@@ -20062,8 +19906,7 @@
         ]
     },
     {
-        "term": "antap",
-        "roman_numeral": "II",
+        "term": "antap II",
         "origin": "Mn",
         "definitions": [
             {
@@ -20281,7 +20124,7 @@
         ]
     },
     {
-        "term": "antara",
+        "term": "antara muka",
         "definitions": [
             {
                 "sense": "1",
@@ -20330,7 +20173,7 @@
         ]
     },
     {
-        "term": "antari",
+        "term": "antari;",
         "definitions": [
             {
                 "sense": "1",
@@ -20388,12 +20231,12 @@
         ]
     },
     {
-        "term": "antat",
-        "roman_numeral": "I",
+        "term": "antat I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hantar;"
+                "definition": "hantar;"
             }
         ],
         "sub_terms": [
@@ -20409,8 +20252,7 @@
         ]
     },
     {
-        "term": "antat",
-        "roman_numeral": "II",
+        "term": "antat II",
         "definitions": [
             {
                 "sense": "1",
@@ -20508,8 +20350,7 @@
         ]
     },
     {
-        "term": "anter",
-        "roman_numeral": "I",
+        "term": "anter I",
         "origin": "(Bio)",
         "definitions": [
             {
@@ -20519,8 +20360,7 @@
         ]
     },
     {
-        "term": "anter",
-        "roman_numeral": "II",
+        "term": "anter II",
         "origin": "Id",
         "definitions": [
             {
@@ -20565,8 +20405,7 @@
         ]
     },
     {
-        "term": "anti",
-        "roman_numeral": "I",
+        "term": "anti I",
         "definitions": [
             {
                 "sense": "1",
@@ -20575,8 +20414,7 @@
         ]
     },
     {
-        "term": "anti",
-        "roman_numeral": "II",
+        "term": "anti II",
         "origin": "Ar",
         "definitions": [
             {
@@ -20706,7 +20544,7 @@
         ]
     },
     {
-        "term": "antih",
+        "term": "antih; mengantih",
         "definitions": [
             {
                 "sense": "1",
@@ -20860,7 +20698,7 @@
         ]
     },
     {
-        "term": "antimoniamis",
+        "term": "antimoniamis, antimon",
         "origin": "Id",
         "definitions": [
             {
@@ -20888,7 +20726,7 @@
         ]
     },
     {
-        "term": "anting",
+        "term": "anting;",
         "definitions": [
             {
                 "sense": "1",
@@ -20921,7 +20759,7 @@
         ]
     },
     {
-        "term": "anting-anting",
+        "term": "anting-anting;",
         "definitions": [
             {
                 "sense": "1",
@@ -21248,7 +21086,7 @@
         ]
     },
     {
-        "term": "antul",
+        "term": "antul;",
         "definitions": [
             {
                 "sense": "1",
@@ -21258,10 +21096,11 @@
     },
     {
         "term": "antun",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl anggun, kacak;  orang ~  pesolek;"
+                "definition": "anggun, kacak;  orang ~  pesolek;"
             }
         ],
         "sub_terms": [
@@ -21307,7 +21146,7 @@
         ]
     },
     {
-        "term": "antus",
+        "term": "antus; antusan",
         "definitions": [
             {
                 "sense": "1",
@@ -21451,7 +21290,7 @@
         ]
     },
     {
-        "term": "anut",
+        "term": "anut; menganut, menganuti",
         "definitions": [
             {
                 "sense": "1",
@@ -21554,7 +21393,8 @@
         ]
     },
     {
-        "term": "anyang I sl",
+        "term": "anyang I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -21578,8 +21418,7 @@
         ]
     },
     {
-        "term": "anyang",
-        "roman_numeral": "II",
+        "term": "anyang II",
         "definitions": [
             {
                 "sense": "1",
@@ -21785,10 +21624,11 @@
     },
     {
         "term": "apakala",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl apabila, bilamana, ketika."
+                "definition": "apabila, bilamana, ketika."
             }
         ]
     },
@@ -21863,8 +21703,7 @@
         ]
     },
     {
-        "term": "apas",
-        "roman_numeral": "II",
+        "term": "apas II",
         "origin": "Jk",
         "definitions": [
             {
@@ -22110,8 +21949,7 @@
         ]
     },
     {
-        "term": "api-api",
-        "roman_numeral": "I",
+        "term": "api-api I",
         "definitions": [
             {
                 "sense": "1",
@@ -22120,8 +21958,7 @@
         ]
     },
     {
-        "term": "api-api",
-        "roman_numeral": "II",
+        "term": "api-api II",
         "definitions": [
             {
                 "sense": "1",
@@ -22158,10 +21995,11 @@
     },
     {
         "term": "apilan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl papan tebal yg digunakan spt perisai pd meriam (dlm kapal)."
+                "definition": "papan tebal yg digunakan spt perisai pd meriam (dlm kapal)."
             }
         ]
     },
@@ -22306,8 +22144,7 @@
         ]
     },
     {
-        "term": "apit-apit",
-        "roman_numeral": "I",
+        "term": "apit-apit I",
         "definitions": [
             {
                 "sense": "1",
@@ -22316,8 +22153,7 @@
         ]
     },
     {
-        "term": "apit-apit",
-        "roman_numeral": "II",
+        "term": "apit-apit II",
         "definitions": [
             {
                 "sense": "1",
@@ -22405,8 +22241,7 @@
         ]
     },
     {
-        "term": "aplus",
-        "roman_numeral": "II",
+        "term": "aplus II",
         "origin": "IB",
         "definitions": [
             {
@@ -22603,7 +22438,7 @@
         ]
     },
     {
-        "term": "aprit",
+        "term": "aprit; aprit-apritan",
         "origin": "Jk",
         "definitions": [
             {
@@ -22613,8 +22448,7 @@
         ]
     },
     {
-        "term": "apron",
-        "roman_numeral": "I",
+        "term": "apron I",
         "definitions": [
             {
                 "sense": "1",
@@ -22623,8 +22457,7 @@
         ]
     },
     {
-        "term": "apron",
-        "roman_numeral": "II",
+        "term": "apron II",
         "definitions": [
             {
                 "sense": "1",
@@ -23050,8 +22883,7 @@
         ]
     },
     {
-        "term": "arai",
-        "roman_numeral": "II",
+        "term": "arai II",
         "origin": "Mn",
         "definitions": [
             {
@@ -23061,8 +22893,7 @@
         ]
     },
     {
-        "term": "arak",
-        "roman_numeral": "I",
+        "term": "arak I",
         "definitions": [
             {
                 "sense": "1",
@@ -23192,8 +23023,7 @@
         ]
     },
     {
-        "term": "aram",
-        "roman_numeral": "I",
+        "term": "aram I; mengaram",
         "definitions": [
             {
                 "sense": "1",
@@ -23202,8 +23032,7 @@
         ]
     },
     {
-        "term": "aram",
-        "roman_numeral": "II",
+        "term": "aram II; aram-aram, pengaram",
         "definitions": [
             {
                 "sense": "1",
@@ -23212,8 +23041,7 @@
         ]
     },
     {
-        "term": "aram",
-        "roman_numeral": "III",
+        "term": "aram III;",
         "definitions": [
             {
                 "sense": "1",
@@ -23268,8 +23096,7 @@
         ]
     },
     {
-        "term": "arang",
-        "roman_numeral": "II",
+        "term": "arang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -23279,8 +23106,7 @@
         ]
     },
     {
-        "term": "arang",
-        "roman_numeral": "III",
+        "term": "arang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -23326,18 +23152,17 @@
         ]
     },
     {
-        "term": "aras",
-        "roman_numeral": "II",
+        "term": "aras II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl raja dlm bahaya (seruan utk permainan catur)."
+                "definition": "raja dlm bahaya (seruan utk permainan catur)."
             }
         ]
     },
     {
-        "term": "aras",
-        "roman_numeral": "III",
+        "term": "aras III;",
         "definitions": [
             {
                 "sense": "1",
@@ -23356,8 +23181,7 @@
         ]
     },
     {
-        "term": "arau",
-        "roman_numeral": "I",
+        "term": "arau I",
         "definitions": [
             {
                 "sense": "1",
@@ -23366,8 +23190,7 @@
         ]
     },
     {
-        "term": "arau",
-        "roman_numeral": "II",
+        "term": "arau II; mengarau",
         "definitions": [
             {
                 "sense": "1",
@@ -23376,8 +23199,7 @@
         ]
     },
     {
-        "term": "arau",
-        "roman_numeral": "III",
+        "term": "arau III",
         "definitions": [
             {
                 "sense": "1",
@@ -23386,11 +23208,12 @@
         ]
     },
     {
-        "term": "araz",
+        "term": "araz; araznya",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl aral:  kalau-kalau bertemu dgn ~, jadi tiada sampai spt  kehendak Duli Yang Dipertuan itu."
+                "definition": "aral:  kalau-kalau bertemu dgn ~, jadi tiada sampai spt  kehendak Duli Yang Dipertuan itu."
             }
         ]
     },
@@ -23553,18 +23376,17 @@
         ]
     },
     {
-        "term": "ardi",
-        "roman_numeral": "I",
+        "term": "ardi I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gunung."
+                "definition": "gunung."
             }
         ]
     },
     {
-        "term": "ardi",
-        "roman_numeral": "II",
+        "term": "ardi II",
         "origin": "Ar",
         "definitions": [
             {
@@ -23702,8 +23524,7 @@
         ]
     },
     {
-        "term": "ari",
-        "roman_numeral": "I",
+        "term": "ari I;",
         "definitions": [
             {
                 "sense": "1",
@@ -23712,8 +23533,7 @@
         ]
     },
     {
-        "term": "ari",
-        "roman_numeral": "II",
+        "term": "ari II;",
         "definitions": [
             {
                 "sense": "1",
@@ -23722,8 +23542,7 @@
         ]
     },
     {
-        "term": "ari",
-        "roman_numeral": "III",
+        "term": "ari III",
         "origin": "Jw",
         "definitions": [
             {
@@ -23834,18 +23653,17 @@
         ]
     },
     {
-        "term": "arik",
-        "roman_numeral": "I",
+        "term": "arik I; mengarik",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl meraih, merengkuh:  ~ pengayuh."
+                "definition": "meraih, merengkuh:  ~ pengayuh."
             }
         ]
     },
     {
-        "term": "arik",
-        "roman_numeral": "II",
+        "term": "arik II",
         "origin": "Ar",
         "definitions": [
             {
@@ -23855,8 +23673,7 @@
         ]
     },
     {
-        "term": "arik",
-        "roman_numeral": "III",
+        "term": "arik III; mengarik",
         "definitions": [
             {
                 "sense": "1",
@@ -23865,8 +23682,7 @@
         ]
     },
     {
-        "term": "aring",
-        "roman_numeral": "I",
+        "term": "aring I",
         "definitions": [
             {
                 "sense": "1",
@@ -23875,8 +23691,7 @@
         ]
     },
     {
-        "term": "aring",
-        "roman_numeral": "II",
+        "term": "aring II",
         "definitions": [
             {
                 "sense": "1",
@@ -23913,8 +23728,7 @@
         ]
     },
     {
-        "term": "aris",
-        "roman_numeral": "I",
+        "term": "aris I",
         "definitions": [
             {
                 "sense": "1",
@@ -23934,8 +23748,7 @@
         ]
     },
     {
-        "term": "aris",
-        "roman_numeral": "II",
+        "term": "aris II",
         "definitions": [
             {
                 "sense": "1",
@@ -23944,8 +23757,7 @@
         ]
     },
     {
-        "term": "aris",
-        "roman_numeral": "III",
+        "term": "aris III",
         "origin": "Kl",
         "definitions": [
             {
@@ -23986,8 +23798,7 @@
         ]
     },
     {
-        "term": "arit",
-        "roman_numeral": "I",
+        "term": "arit I",
         "origin": "Jw",
         "definitions": [
             {
@@ -24008,8 +23819,7 @@
         ]
     },
     {
-        "term": "arit",
-        "roman_numeral": "II",
+        "term": "arit II",
         "definitions": [
             {
                 "sense": "1",
@@ -24037,7 +23847,8 @@
         ]
     },
     {
-        "term": "arjuna sl",
+        "term": "arjuna",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -24050,7 +23861,7 @@
         ]
     },
     {
-        "term": "arka",
+        "term": "arka;",
         "definitions": [
             {
                 "sense": "1",
@@ -24128,10 +23939,11 @@
     },
     {
         "term": "arkian",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sesudah itu, maka:  ~, tersebutlah pula putera baginda Tuanku  Malim Deman besarlah sudah."
+                "definition": "sesudah itu, maka:  ~, tersebutlah pula putera baginda Tuanku  Malim Deman besarlah sudah."
             }
         ]
     },
@@ -24551,7 +24363,7 @@
         ]
     },
     {
-        "term": "aru-aru",
+        "term": "aru-aru;",
         "definitions": [
             {
                 "sense": "1",
@@ -24611,8 +24423,7 @@
         ]
     },
     {
-        "term": "aruk",
-        "roman_numeral": "I",
+        "term": "aruk I; mengaruk",
         "definitions": [
             {
                 "sense": "1",
@@ -24645,8 +24456,7 @@
         ]
     },
     {
-        "term": "arun",
-        "roman_numeral": "I",
+        "term": "arun I; mengarun",
         "definitions": [
             {
                 "sense": "1",
@@ -24655,8 +24465,7 @@
         ]
     },
     {
-        "term": "arun",
-        "roman_numeral": "II",
+        "term": "arun II",
         "origin": "Mn",
         "definitions": [
             {
@@ -24666,8 +24475,7 @@
         ]
     },
     {
-        "term": "arung",
-        "roman_numeral": "I",
+        "term": "arung I",
         "definitions": [
             {
                 "sense": "1",
@@ -24676,8 +24484,7 @@
         ]
     },
     {
-        "term": "arung",
-        "roman_numeral": "II",
+        "term": "arung II",
         "definitions": [
             {
                 "sense": "1",
@@ -24751,8 +24558,7 @@
         ]
     },
     {
-        "term": "as",
-        "roman_numeral": "I",
+        "term": "as I",
         "origin": "IB",
         "definitions": [
             {
@@ -24773,8 +24579,7 @@
         ]
     },
     {
-        "term": "as",
-        "roman_numeral": "II",
+        "term": "as II",
         "origin": "IB",
         "definitions": [
             {
@@ -24811,8 +24616,7 @@
         ]
     },
     {
-        "term": "asa",
-        "roman_numeral": "I",
+        "term": "asa I",
         "definitions": [
             {
                 "sense": "1",
@@ -24841,8 +24645,7 @@
         ]
     },
     {
-        "term": "asa",
-        "roman_numeral": "II",
+        "term": "asa II",
         "definitions": [
             {
                 "sense": "1",
@@ -24910,8 +24713,7 @@
         ]
     },
     {
-        "term": "asah",
-        "roman_numeral": "I",
+        "term": "asah I",
         "definitions": [
             {
                 "sense": "1",
@@ -24987,8 +24789,7 @@
         ]
     },
     {
-        "term": "asah",
-        "roman_numeral": "II",
+        "term": "asah II",
         "definitions": [
             {
                 "sense": "1",
@@ -24997,8 +24798,7 @@
         ]
     },
     {
-        "term": "asah",
-        "roman_numeral": "III",
+        "term": "asah III",
         "origin": "Ar",
         "definitions": [
             {
@@ -25259,8 +25059,7 @@
         ]
     },
     {
-        "term": "asam",
-        "roman_numeral": "II",
+        "term": "asam II",
         "definitions": [
             {
                 "sense": "1",
@@ -25438,7 +25237,7 @@
         ]
     },
     {
-        "term": "ASAS",
+        "term": "ASAS;",
         "definitions": [
             {
                 "sense": "1",
@@ -25726,8 +25525,7 @@
         ]
     },
     {
-        "term": "asi",
-        "roman_numeral": "I",
+        "term": "asi I",
         "origin": "Ar",
         "definitions": [
             {
@@ -25737,8 +25535,7 @@
         ]
     },
     {
-        "term": "asi",
-        "roman_numeral": "II",
+        "term": "asi II",
         "definitions": [
             {
                 "sense": "1",
@@ -25747,12 +25544,12 @@
         ]
     },
     {
-        "term": "asi",
-        "roman_numeral": "III",
+        "term": "asi III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl perhatian;  mengambil ~  mengendahkan, mempedulikan;"
+                "definition": "perhatian;  mengambil ~  mengendahkan, mempedulikan;"
             }
         ],
         "sub_terms": [
@@ -25768,8 +25565,7 @@
         ]
     },
     {
-        "term": "asi",
-        "roman_numeral": "IV",
+        "term": "asi IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -25954,7 +25750,7 @@
         ]
     },
     {
-        "term": "Asmaul",
+        "term": "Asmaul Husna",
         "origin": "Ar",
         "definitions": [
             {
@@ -25964,8 +25760,7 @@
         ]
     },
     {
-        "term": "asin",
-        "roman_numeral": "I",
+        "term": "asin I",
         "definitions": [
             {
                 "sense": "1",
@@ -26012,8 +25807,7 @@
         ]
     },
     {
-        "term": "asin",
-        "roman_numeral": "II",
+        "term": "asin II",
         "origin": "Mn",
         "definitions": [
             {
@@ -26286,7 +26080,7 @@
         ]
     },
     {
-        "term": "asmaradana",
+        "term": "asmaradana; berasmaradana",
         "definitions": [
             {
                 "sense": "1",
@@ -26296,10 +26090,11 @@
     },
     {
         "term": "asmaradanta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl putih (bkn gading, gigi):  giginya ~ dan bibirnya merah  tua, terlalu manis spt laut madu."
+                "definition": "putih (bkn gading, gigi):  giginya ~ dan bibirnya merah  tua, terlalu manis spt laut madu."
             }
         ]
     },
@@ -26585,7 +26380,8 @@
         ]
     },
     {
-        "term": "astakona sl",
+        "term": "astakona",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -26972,7 +26768,7 @@
         ]
     },
     {
-        "term": "Asyura",
+        "term": "Asyura;",
         "definitions": [
             {
                 "sense": "1",
@@ -27070,7 +26866,7 @@
         ]
     },
     {
-        "term": "atar",
+        "term": "atar;",
         "definitions": [
             {
                 "sense": "1",
@@ -27344,11 +27140,12 @@
         ]
     },
     {
-        "term": "atip",
+        "term": "atip; mengatip",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl menyusun, mengatur."
+                "definition": "menyusun, mengatur."
             }
         ]
     },
@@ -27362,8 +27159,7 @@
         ]
     },
     {
-        "term": "atlas",
-        "roman_numeral": "II",
+        "term": "atlas II",
         "origin": "Ar",
         "definitions": [
             {
@@ -27373,8 +27169,7 @@
         ]
     },
     {
-        "term": "atlas",
-        "roman_numeral": "III",
+        "term": "atlas III",
         "definitions": [
             {
                 "sense": "1",
@@ -27513,8 +27308,7 @@
         ]
     },
     {
-        "term": "atrium",
-        "roman_numeral": "I",
+        "term": "atrium I",
         "definitions": [
             {
                 "sense": "1",
@@ -27523,8 +27317,7 @@
         ]
     },
     {
-        "term": "atrium",
-        "roman_numeral": "II",
+        "term": "atrium II",
         "origin": "(Bio)",
         "definitions": [
             {
@@ -27561,7 +27354,7 @@
         ]
     },
     {
-        "term": "atung",
+        "term": "atung; teratung-atung",
         "definitions": [
             {
                 "sense": "1",
@@ -27570,8 +27363,7 @@
         ]
     },
     {
-        "term": "atur",
-        "roman_numeral": "I",
+        "term": "atur I; atur-atur;",
         "definitions": [
             {
                 "sense": "1",
@@ -27713,8 +27505,7 @@
         ]
     },
     {
-        "term": "atur",
-        "roman_numeral": "II",
+        "term": "atur II",
         "origin": "Mn",
         "definitions": [
             {
@@ -27724,8 +27515,7 @@
         ]
     },
     {
-        "term": "atur",
-        "roman_numeral": "III",
+        "term": "atur III;",
         "origin": "Jw",
         "definitions": [
             {
@@ -27787,7 +27577,7 @@
         ]
     },
     {
-        "term": "atur",
+        "term": "atur huruf",
         "definitions": [
             {
                 "sense": "1",
@@ -28011,8 +27801,7 @@
         ]
     },
     {
-        "term": "aum",
-        "roman_numeral": "I",
+        "term": "aum I",
         "definitions": [
             {
                 "sense": "1",
@@ -28041,8 +27830,7 @@
         ]
     },
     {
-        "term": "aum",
-        "roman_numeral": "II",
+        "term": "aum II",
         "origin": "Kd",
         "definitions": [
             {
@@ -28662,8 +28450,7 @@
         ]
     },
     {
-        "term": "awa",
-        "roman_numeral": "I",
+        "term": "awa I;",
         "definitions": [
             {
                 "sense": "1",
@@ -28672,8 +28459,7 @@
         ]
     },
     {
-        "term": "awa",
-        "roman_numeral": "II",
+        "term": "awa II",
         "origin": "Tr",
         "definitions": [
             {
@@ -28723,8 +28509,7 @@
         ]
     },
     {
-        "term": "awai",
-        "roman_numeral": "I",
+        "term": "awai I",
         "origin": "Id",
         "definitions": [
             {
@@ -28734,8 +28519,7 @@
         ]
     },
     {
-        "term": "awai",
-        "roman_numeral": "II",
+        "term": "awai II",
         "origin": "Mn",
         "definitions": [
             {
@@ -28745,8 +28529,7 @@
         ]
     },
     {
-        "term": "awai",
-        "roman_numeral": "III",
+        "term": "awai III",
         "origin": "Mn",
         "definitions": [
             {
@@ -28943,8 +28726,7 @@
         ]
     },
     {
-        "term": "awang",
-        "roman_numeral": "I",
+        "term": "awang I",
         "definitions": [
             {
                 "sense": "1",
@@ -28964,8 +28746,7 @@
         ]
     },
     {
-        "term": "awang",
-        "roman_numeral": "II",
+        "term": "awang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29102,8 +28883,7 @@
         ]
     },
     {
-        "term": "awat",
-        "roman_numeral": "I",
+        "term": "awat I",
         "origin": "Kd",
         "definitions": [
             {
@@ -29113,8 +28893,7 @@
         ]
     },
     {
-        "term": "awat",
-        "roman_numeral": "II",
+        "term": "awat II",
         "definitions": [
             {
                 "sense": "1",
@@ -29123,8 +28902,7 @@
         ]
     },
     {
-        "term": "awat",
-        "roman_numeral": "III",
+        "term": "awat III",
         "definitions": [
             {
                 "sense": "1",
@@ -29199,7 +28977,7 @@
         ]
     },
     {
-        "term": "awet",
+        "term": "awet muda",
         "definitions": [
             {
                 "sense": "1",
@@ -29246,8 +29024,7 @@
         ]
     },
     {
-        "term": "awur",
-        "roman_numeral": "I",
+        "term": "awur I; mengawur",
         "definitions": [
             {
                 "sense": "1",
@@ -29276,8 +29053,7 @@
         ]
     },
     {
-        "term": "awur",
-        "roman_numeral": "II",
+        "term": "awur II; mengawur",
         "definitions": [
             {
                 "sense": "1",
@@ -29297,8 +29073,7 @@
         ]
     },
     {
-        "term": "aya",
-        "roman_numeral": "I",
+        "term": "aya I",
         "definitions": [
             {
                 "sense": "1",
@@ -29307,8 +29082,7 @@
         ]
     },
     {
-        "term": "aya",
-        "roman_numeral": "II",
+        "term": "aya II",
         "definitions": [
             {
                 "sense": "1",
@@ -29317,8 +29091,7 @@
         ]
     },
     {
-        "term": "ayah",
-        "roman_numeral": "I",
+        "term": "ayah I",
         "definitions": [
             {
                 "sense": "1",
@@ -29356,8 +29129,7 @@
         ]
     },
     {
-        "term": "ayah",
-        "roman_numeral": "II",
+        "term": "ayah II",
         "definitions": [
             {
                 "sense": "1",
@@ -29506,8 +29278,7 @@
         ]
     },
     {
-        "term": "ayam",
-        "roman_numeral": "II",
+        "term": "ayam II",
         "definitions": [
             {
                 "sense": "1",
@@ -29525,8 +29296,7 @@
         ]
     },
     {
-        "term": "ayan",
-        "roman_numeral": "I",
+        "term": "ayan I",
         "definitions": [
             {
                 "sense": "1",
@@ -29535,8 +29305,7 @@
         ]
     },
     {
-        "term": "ayan",
-        "roman_numeral": "II",
+        "term": "ayan II",
         "definitions": [
             {
                 "sense": "1",
@@ -29555,10 +29324,11 @@
     },
     {
         "term": "ayap",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl makan atau minum (digunakan berkaitan dgn orang biasa), lwn  santap (digunakan bagi raja);"
+                "definition": "makan atau minum (digunakan berkaitan dgn orang biasa), lwn  santap (digunakan bagi raja);"
             }
         ],
         "sub_terms": [
@@ -29610,7 +29380,7 @@
         ]
     },
     {
-        "term": "ayeng",
+        "term": "ayeng; ayeng-ayengan",
         "origin": "Jk",
         "definitions": [
             {
@@ -29653,8 +29423,7 @@
         ]
     },
     {
-        "term": "ayu",
-        "roman_numeral": "II",
+        "term": "ayu II",
         "origin": "Jw",
         "definitions": [
             {
@@ -29695,7 +29464,7 @@
         ]
     },
     {
-        "term": "ayum",
+        "term": "ayum; mengayum",
         "definitions": [
             {
                 "sense": "1",
@@ -29901,8 +29670,7 @@
         ]
     },
     {
-        "term": "azam",
-        "roman_numeral": "I",
+        "term": "azam I",
         "definitions": [
             {
                 "sense": "1",
@@ -29940,8 +29708,7 @@
         ]
     },
     {
-        "term": "azam",
-        "roman_numeral": "II",
+        "term": "azam II",
         "definitions": [
             {
                 "sense": "1",
@@ -30037,8 +29804,7 @@
         ]
     },
     {
-        "term": "ampar",
-        "roman_numeral": "II",
+        "term": "ampar II;",
         "definitions": [
             {
                 "sense": "1",

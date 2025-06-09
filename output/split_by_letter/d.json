@@ -37,8 +37,7 @@
         ]
     },
     {
-        "term": "daba",
-        "roman_numeral": "I",
+        "term": "daba I;",
         "definitions": [
             {
                 "sense": "1",
@@ -47,8 +46,7 @@
         ]
     },
     {
-        "term": "daba",
-        "roman_numeral": "II",
+        "term": "daba II",
         "definitions": [
             {
                 "sense": "1",
@@ -76,8 +74,7 @@
         ]
     },
     {
-        "term": "dabal",
-        "roman_numeral": "I",
+        "term": "dabal I",
         "definitions": [
             {
                 "sense": "1",
@@ -86,8 +83,7 @@
         ]
     },
     {
-        "term": "dabal",
-        "roman_numeral": "II",
+        "term": "dabal II",
         "origin": "Id",
         "definitions": [
             {
@@ -97,8 +93,7 @@
         ]
     },
     {
-        "term": "dabal",
-        "roman_numeral": "III",
+        "term": "dabal III;",
         "definitions": [
             {
                 "sense": "1",
@@ -117,15 +112,16 @@
     },
     {
         "term": "dabbatulardi",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl binatang melata yg ada di bumi:  ketahui olehmu itulah ~  yg dikeluarkan Allah pd akhir zaman."
+                "definition": "binatang melata yg ada di bumi:  ketahui olehmu itulah ~  yg dikeluarkan Allah pd akhir zaman."
             }
         ]
     },
     {
-        "term": "dabik",
+        "term": "dabik;",
         "definitions": [
             {
                 "sense": "1",
@@ -174,15 +170,16 @@
     },
     {
         "term": "dabir",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl jurutulis, penulis."
+                "definition": "jurutulis, penulis."
             }
         ]
     },
     {
-        "term": "dabung",
+        "term": "dabung; berdabung",
         "definitions": [
             {
                 "sense": "1",
@@ -348,8 +345,7 @@
         ]
     },
     {
-        "term": "dada",
-        "roman_numeral": "II",
+        "term": "dada II;",
         "definitions": [
             {
                 "sense": "1",
@@ -382,8 +378,7 @@
         ]
     },
     {
-        "term": "dadak",
-        "roman_numeral": "I",
+        "term": "dadak I; mendadak",
         "definitions": [
             {
                 "sense": "1",
@@ -392,8 +387,7 @@
         ]
     },
     {
-        "term": "dadak",
-        "roman_numeral": "II",
+        "term": "dadak II",
         "definitions": [
             {
                 "sense": "1",
@@ -488,8 +482,7 @@
         ]
     },
     {
-        "term": "dadu",
-        "roman_numeral": "II",
+        "term": "dadu II",
         "definitions": [
             {
                 "sense": "1",
@@ -498,7 +491,7 @@
         ]
     },
     {
-        "term": "daduh",
+        "term": "daduh; mendaduh, mendaduhkan",
         "definitions": [
             {
                 "sense": "1",
@@ -507,7 +500,7 @@
         ]
     },
     {
-        "term": "daduk",
+        "term": "daduk; mendaduk",
         "definitions": [
             {
                 "sense": "1",
@@ -527,7 +520,7 @@
         ]
     },
     {
-        "term": "dadung",
+        "term": "dadung; berdadung",
         "definitions": [
             {
                 "sense": "1",
@@ -689,8 +682,7 @@
         ]
     },
     {
-        "term": "daga",
-        "roman_numeral": "I",
+        "term": "daga I;",
         "definitions": [
             {
                 "sense": "1",
@@ -710,8 +702,7 @@
         ]
     },
     {
-        "term": "daga",
-        "roman_numeral": "II",
+        "term": "daga II",
         "definitions": [
             {
                 "sense": "1",
@@ -792,8 +783,7 @@
         ]
     },
     {
-        "term": "dagang",
-        "roman_numeral": "II",
+        "term": "dagang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -844,7 +834,7 @@
         ]
     },
     {
-        "term": "dagi",
+        "term": "dagi;",
         "definitions": [
             {
                 "sense": "1",
@@ -944,7 +934,7 @@
         ]
     },
     {
-        "term": "dagun",
+        "term": "dagun;",
         "definitions": [
             {
                 "sense": "1",
@@ -953,8 +943,7 @@
         ]
     },
     {
-        "term": "dah",
-        "roman_numeral": "I",
+        "term": "dah I",
         "definitions": [
             {
                 "sense": "1",
@@ -963,8 +952,7 @@
         ]
     },
     {
-        "term": "dah",
-        "roman_numeral": "II",
+        "term": "dah II",
         "definitions": [
             {
                 "sense": "1",
@@ -1028,8 +1016,7 @@
         ]
     },
     {
-        "term": "dahaga",
-        "roman_numeral": "II",
+        "term": "dahaga II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1038,8 +1025,7 @@
         ]
     },
     {
-        "term": "dahagi",
-        "roman_numeral": "I",
+        "term": "dahagi I",
         "definitions": [
             {
                 "sense": "1",
@@ -1068,8 +1054,7 @@
         ]
     },
     {
-        "term": "dahagi",
-        "roman_numeral": "II",
+        "term": "dahagi II",
         "origin": "Kd",
         "definitions": [
             {
@@ -1128,8 +1113,7 @@
         ]
     },
     {
-        "term": "dahan",
-        "roman_numeral": "I",
+        "term": "dahan I",
         "definitions": [
             {
                 "sense": "1",
@@ -1149,8 +1133,7 @@
         ]
     },
     {
-        "term": "dahan",
-        "roman_numeral": "II",
+        "term": "dahan II",
         "definitions": [
             {
                 "sense": "1",
@@ -1193,7 +1176,7 @@
         ]
     },
     {
-        "term": "dahara",
+        "term": "dahara;",
         "definitions": [
             {
                 "sense": "1",
@@ -1236,10 +1219,11 @@
     },
     {
         "term": "dahina",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl (siang) hari."
+                "definition": "(siang) hari."
             }
         ]
     },
@@ -1253,7 +1237,7 @@
         ]
     },
     {
-        "term": "dahri",
+        "term": "dahri, dahriah",
         "origin": "Ar",
         "definitions": [
             {
@@ -1519,7 +1503,7 @@
         ]
     },
     {
-        "term": "daih",
+        "term": "daih; mendaih",
         "origin": "Kd",
         "definitions": [
             {
@@ -1581,8 +1565,7 @@
         ]
     },
     {
-        "term": "daing",
-        "roman_numeral": "I",
+        "term": "daing I",
         "definitions": [
             {
                 "sense": "1",
@@ -1591,8 +1574,7 @@
         ]
     },
     {
-        "term": "daing",
-        "roman_numeral": "II",
+        "term": "daing II",
         "definitions": [
             {
                 "sense": "1",
@@ -1652,7 +1634,7 @@
         ]
     },
     {
-        "term": "daka",
+        "term": "daka, dakah",
         "origin": "Ar",
         "definitions": [
             {
@@ -1662,7 +1644,7 @@
         ]
     },
     {
-        "term": "dakap",
+        "term": "dakap;",
         "definitions": [
             {
                 "sense": "1",
@@ -1742,7 +1724,7 @@
         ]
     },
     {
-        "term": "dakelin",
+        "term": "dakelin;",
         "definitions": [
             {
                 "sense": "1",
@@ -1765,8 +1747,7 @@
         ]
     },
     {
-        "term": "daki",
-        "roman_numeral": "I",
+        "term": "daki I",
         "definitions": [
             {
                 "sense": "1",
@@ -1872,10 +1853,11 @@
     },
     {
         "term": "daksina",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl selatan;  dr ~ datang ke paksina  dr selatan hingga ke utara."
+                "definition": "selatan;  dr ~ datang ke paksina  dr selatan hingga ke utara."
             }
         ]
     },
@@ -2117,8 +2099,7 @@
         ]
     },
     {
-        "term": "dal",
-        "roman_numeral": "II",
+        "term": "dal II",
         "definitions": [
             {
                 "sense": "1",
@@ -2127,8 +2108,7 @@
         ]
     },
     {
-        "term": "dal",
-        "roman_numeral": "III",
+        "term": "dal III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2159,8 +2139,7 @@
         ]
     },
     {
-        "term": "dalalah",
-        "roman_numeral": "I",
+        "term": "dalalah I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2170,8 +2149,7 @@
         ]
     },
     {
-        "term": "dalalah",
-        "roman_numeral": "II",
+        "term": "dalalah II",
         "origin": "Ar",
         "definitions": [
             {
@@ -2382,12 +2360,12 @@
         ]
     },
     {
-        "term": "dalam",
-        "roman_numeral": "III",
+        "term": "dalam III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl istana, kawasan istana raja:  bahasa ~  bahasa yg digunakan  di kalangan raja atau golongan istana (spt beradu, santap, dll);  budak ~  pesuruh raja;"
+                "definition": "istana, kawasan istana raja:  bahasa ~  bahasa yg digunakan  di kalangan raja atau golongan istana (spt beradu, santap, dll);  budak ~  pesuruh raja;"
             }
         ],
         "sub_terms": [
@@ -2476,7 +2454,7 @@
         ]
     },
     {
-        "term": "daldaru",
+        "term": "daldaru;",
         "definitions": [
             {
                 "sense": "1",
@@ -2550,8 +2528,7 @@
         ]
     },
     {
-        "term": "dalik",
-        "roman_numeral": "I",
+        "term": "dalik I",
         "definitions": [
             {
                 "sense": "1",
@@ -2560,8 +2537,7 @@
         ]
     },
     {
-        "term": "dalik",
-        "roman_numeral": "II",
+        "term": "dalik II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2621,7 +2597,7 @@
         ]
     },
     {
-        "term": "daling",
+        "term": "daling;",
         "definitions": [
             {
                 "sense": "1",
@@ -2630,8 +2606,7 @@
         ]
     },
     {
-        "term": "dalu",
-        "roman_numeral": "I",
+        "term": "dalu I",
         "origin": "Jk",
         "definitions": [
             {
@@ -2641,8 +2616,7 @@
         ]
     },
     {
-        "term": "dalu",
-        "roman_numeral": "II",
+        "term": "dalu II",
         "definitions": [
             {
                 "sense": "1",
@@ -2706,8 +2680,7 @@
         ]
     },
     {
-        "term": "dam",
-        "roman_numeral": "II",
+        "term": "dam II",
         "definitions": [
             {
                 "sense": "1",
@@ -2716,8 +2689,7 @@
         ]
     },
     {
-        "term": "dam",
-        "roman_numeral": "III",
+        "term": "dam III",
         "definitions": [
             {
                 "sense": "1",
@@ -2726,8 +2698,7 @@
         ]
     },
     {
-        "term": "dam",
-        "roman_numeral": "IV",
+        "term": "dam IV",
         "definitions": [
             {
                 "sense": "1",
@@ -2957,8 +2928,7 @@
         ]
     },
     {
-        "term": "damar",
-        "roman_numeral": "II",
+        "term": "damar II",
         "origin": "Mn",
         "definitions": [
             {
@@ -2998,8 +2968,7 @@
         ]
     },
     {
-        "term": "damba",
-        "roman_numeral": "I",
+        "term": "damba I",
         "definitions": [
             {
                 "sense": "1",
@@ -3028,8 +2997,7 @@
         ]
     },
     {
-        "term": "damba",
-        "roman_numeral": "II",
+        "term": "damba II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3038,8 +3006,7 @@
         ]
     },
     {
-        "term": "damba",
-        "roman_numeral": "III",
+        "term": "damba III",
         "origin": "Mn",
         "definitions": [
             {
@@ -3114,8 +3081,7 @@
         ]
     },
     {
-        "term": "dami",
-        "roman_numeral": "I",
+        "term": "dami I",
         "definitions": [
             {
                 "sense": "1",
@@ -3124,8 +3090,7 @@
         ]
     },
     {
-        "term": "dami",
-        "roman_numeral": "II",
+        "term": "dami II",
         "origin": "Jw",
         "definitions": [
             {
@@ -3175,7 +3140,7 @@
         ]
     },
     {
-        "term": "dampar",
+        "term": "dampar; mendampar",
         "definitions": [
             {
                 "sense": "1",
@@ -3204,7 +3169,7 @@
         ]
     },
     {
-        "term": "dampil",
+        "term": "dampil; berdampil",
         "definitions": [
             {
                 "sense": "1",
@@ -3322,8 +3287,7 @@
         ]
     },
     {
-        "term": "damping",
-        "roman_numeral": "II",
+        "term": "damping II",
         "origin": "Mn",
         "definitions": [
             {
@@ -3333,8 +3297,7 @@
         ]
     },
     {
-        "term": "damping",
-        "roman_numeral": "III",
+        "term": "damping III",
         "definitions": [
             {
                 "sense": "1",
@@ -3352,7 +3315,7 @@
         ]
     },
     {
-        "term": "damprat",
+        "term": "damprat; mendamprat",
         "origin": "Jk",
         "definitions": [
             {
@@ -3395,8 +3358,7 @@
         ]
     },
     {
-        "term": "dan",
-        "roman_numeral": "II",
+        "term": "dan II",
         "definitions": [
             {
                 "sense": "1",
@@ -3444,7 +3406,7 @@
         ]
     },
     {
-        "term": "danai",
+        "term": "danai;",
         "definitions": [
             {
                 "sense": "1",
@@ -3463,8 +3425,7 @@
         ]
     },
     {
-        "term": "danau",
-        "roman_numeral": "I",
+        "term": "danau I",
         "definitions": [
             {
                 "sense": "1",
@@ -3473,8 +3434,7 @@
         ]
     },
     {
-        "term": "danau",
-        "roman_numeral": "II",
+        "term": "danau II; mendanau",
         "definitions": [
             {
                 "sense": "1",
@@ -3484,16 +3444,16 @@
     },
     {
         "term": "danawa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gergasi, raksasa."
+                "definition": "gergasi, raksasa."
             }
         ]
     },
     {
-        "term": "dandan",
-        "roman_numeral": "I",
+        "term": "dandan I",
         "definitions": [
             {
                 "sense": "1",
@@ -3556,8 +3516,7 @@
         ]
     },
     {
-        "term": "dandan",
-        "roman_numeral": "II",
+        "term": "dandan II",
         "definitions": [
             {
                 "sense": "1",
@@ -3603,8 +3562,7 @@
         ]
     },
     {
-        "term": "dandang",
-        "roman_numeral": "II",
+        "term": "dandang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3613,8 +3571,7 @@
         ]
     },
     {
-        "term": "dandang",
-        "roman_numeral": "III",
+        "term": "dandang III",
         "definitions": [
             {
                 "sense": "1",
@@ -3645,8 +3602,7 @@
         ]
     },
     {
-        "term": "dandi",
-        "roman_numeral": "II",
+        "term": "dandi II",
         "definitions": [
             {
                 "sense": "1",
@@ -3655,18 +3611,17 @@
         ]
     },
     {
-        "term": "dang",
-        "roman_numeral": "I",
+        "term": "dang I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gelaran kpd wanita yg tinggi kedudukannya (dlm istana dll);  D~ Merduwati  (nama) ibu Hang Tuah."
+                "definition": "gelaran kpd wanita yg tinggi kedudukannya (dlm istana dll);  D~ Merduwati  (nama) ibu Hang Tuah."
             }
         ]
     },
     {
-        "term": "dang",
-        "roman_numeral": "II",
+        "term": "dang II",
         "definitions": [
             {
                 "sense": "1",
@@ -3749,8 +3704,7 @@
         ]
     },
     {
-        "term": "dangka",
-        "roman_numeral": "I",
+        "term": "dangka I; berdangka",
         "definitions": [
             {
                 "sense": "1",
@@ -3759,12 +3713,12 @@
         ]
     },
     {
-        "term": "dangka",
-        "roman_numeral": "II",
+        "term": "dangka II; terdangka-dangka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl mendekati (pantai, darat, dll),  merapati."
+                "definition": "mendekati (pantai, darat, dll),  merapati."
             }
         ]
     },
@@ -3848,7 +3802,7 @@
         ]
     },
     {
-        "term": "dangla",
+        "term": "dangla;",
         "definitions": [
             {
                 "sense": "1",
@@ -3857,7 +3811,7 @@
         ]
     },
     {
-        "term": "danguk",
+        "term": "danguk; berdanguk, mendanguk, terdanguk",
         "definitions": [
             {
                 "sense": "1",
@@ -3928,16 +3882,16 @@
     },
     {
         "term": "danta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gading, gigi, putih spt gading;  ~ yg terupam  gading yg  dikilatkan."
+                "definition": "gading, gigi, putih spt gading;  ~ yg terupam  gading yg  dikilatkan."
             }
         ]
     },
     {
-        "term": "danu",
-        "roman_numeral": "I",
+        "term": "danu I",
         "definitions": [
             {
                 "sense": "1",
@@ -3946,8 +3900,7 @@
         ]
     },
     {
-        "term": "danu",
-        "roman_numeral": "II",
+        "term": "danu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3965,8 +3918,7 @@
         ]
     },
     {
-        "term": "danur",
-        "roman_numeral": "I",
+        "term": "danur I",
         "definitions": [
             {
                 "sense": "1",
@@ -3975,8 +3927,7 @@
         ]
     },
     {
-        "term": "danur",
-        "roman_numeral": "II",
+        "term": "danur II; berdanur",
         "definitions": [
             {
                 "sense": "1",
@@ -3995,10 +3946,11 @@
     },
     {
         "term": "dapa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hamba yg dikirimkan sbg hadiah kpd bakal mentua."
+                "definition": "hamba yg dikirimkan sbg hadiah kpd bakal mentua."
             }
         ]
     },
@@ -4261,8 +4213,7 @@
         ]
     },
     {
-        "term": "dar",
-        "roman_numeral": "I",
+        "term": "dar I",
         "origin": "Ar",
         "definitions": [
             {
@@ -4272,8 +4223,7 @@
         ]
     },
     {
-        "term": "dar",
-        "roman_numeral": "II",
+        "term": "dar II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4319,8 +4269,7 @@
         ]
     },
     {
-        "term": "dara",
-        "roman_numeral": "II",
+        "term": "dara II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4481,8 +4430,7 @@
         ]
     },
     {
-        "term": "darah",
-        "roman_numeral": "II",
+        "term": "darah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4652,8 +4600,7 @@
         ]
     },
     {
-        "term": "darat",
-        "roman_numeral": "II",
+        "term": "darat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -4931,7 +4878,7 @@
         ]
     },
     {
-        "term": "Darul",
+        "term": "Darul Aman",
         "definitions": [
             {
                 "sense": "1",
@@ -4959,7 +4906,7 @@
         ]
     },
     {
-        "term": "Darul",
+        "term": "Darul Ehsan",
         "definitions": [
             {
                 "sense": "1",
@@ -4978,7 +4925,7 @@
         ]
     },
     {
-        "term": "darulharab",
+        "term": "darulharab, darulharbi",
         "origin": "Ar",
         "definitions": [
             {
@@ -4988,8 +4935,7 @@
         ]
     },
     {
-        "term": "Darul",
-        "roman_numeral": "I",
+        "term": "Darul Iman",
         "definitions": [
             {
                 "sense": "1",
@@ -5018,7 +4964,7 @@
         ]
     },
     {
-        "term": "Darul",
+        "term": "Darul Khusus",
         "definitions": [
             {
                 "sense": "1",
@@ -5027,7 +4973,7 @@
         ]
     },
     {
-        "term": "Darul",
+        "term": "Darul Makmur",
         "definitions": [
             {
                 "sense": "1",
@@ -5036,7 +4982,7 @@
         ]
     },
     {
-        "term": "Darul",
+        "term": "Darul Naim",
         "definitions": [
             {
                 "sense": "1",
@@ -5045,7 +4991,7 @@
         ]
     },
     {
-        "term": "Darul",
+        "term": "Darul Ridzuan",
         "definitions": [
             {
                 "sense": "1",
@@ -5140,8 +5086,7 @@
         ]
     },
     {
-        "term": "das",
-        "roman_numeral": "II",
+        "term": "das II",
         "origin": "Kd",
         "definitions": [
             {
@@ -5319,7 +5264,7 @@
         ]
     },
     {
-        "term": "dastur",
+        "term": "dastur;",
         "definitions": [
             {
                 "sense": "1",
@@ -5704,8 +5649,7 @@
         ]
     },
     {
-        "term": "Datu",
-        "roman_numeral": "II",
+        "term": "Datu II",
         "definitions": [
             {
                 "sense": "1",
@@ -5932,8 +5876,7 @@
         ]
     },
     {
-        "term": "daun",
-        "roman_numeral": "II",
+        "term": "daun II",
         "definitions": [
             {
                 "sense": "1",
@@ -5942,8 +5885,7 @@
         ]
     },
     {
-        "term": "daun",
-        "roman_numeral": "III",
+        "term": "daun III;",
         "definitions": [
             {
                 "sense": "1",
@@ -6189,8 +6131,7 @@
         ]
     },
     {
-        "term": "daya",
-        "roman_numeral": "II",
+        "term": "daya II;",
         "definitions": [
             {
                 "sense": "1",
@@ -6208,7 +6149,7 @@
         ]
     },
     {
-        "term": "daya",
+        "term": "daya maju",
         "definitions": [
             {
                 "sense": "1",
@@ -6283,7 +6224,7 @@
         ]
     },
     {
-        "term": "daya",
+        "term": "daya saing",
         "definitions": [
             {
                 "sense": "1",
@@ -6534,7 +6475,7 @@
         ]
     },
     {
-        "term": "debah",
+        "term": "debah; mendebah",
         "definitions": [
             {
                 "sense": "1",
@@ -6552,8 +6493,7 @@
         ]
     },
     {
-        "term": "debam",
-        "roman_numeral": "I",
+        "term": "debam I",
         "definitions": [
             {
                 "sense": "1",
@@ -6562,8 +6502,7 @@
         ]
     },
     {
-        "term": "debam",
-        "roman_numeral": "II",
+        "term": "debam II",
         "definitions": [
             {
                 "sense": "1",
@@ -6748,8 +6687,7 @@
         ]
     },
     {
-        "term": "debik",
-        "roman_numeral": "I",
+        "term": "debik I",
         "definitions": [
             {
                 "sense": "1",
@@ -6769,8 +6707,7 @@
         ]
     },
     {
-        "term": "debik",
-        "roman_numeral": "II",
+        "term": "debik II",
         "definitions": [
             {
                 "sense": "1",
@@ -6945,8 +6882,7 @@
         ]
     },
     {
-        "term": "debung",
-        "roman_numeral": "I",
+        "term": "debung I",
         "definitions": [
             {
                 "sense": "1",
@@ -6955,8 +6891,7 @@
         ]
     },
     {
-        "term": "debung",
-        "roman_numeral": "II",
+        "term": "debung II",
         "definitions": [
             {
                 "sense": "1",
@@ -7208,7 +7143,7 @@
         ]
     },
     {
-        "term": "decuh",
+        "term": "decuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -7365,7 +7300,7 @@
         ]
     },
     {
-        "term": "dedai",
+        "term": "dedai;",
         "definitions": [
             {
                 "sense": "1",
@@ -7374,8 +7309,7 @@
         ]
     },
     {
-        "term": "dedak",
-        "roman_numeral": "I",
+        "term": "dedak I",
         "definitions": [
             {
                 "sense": "1",
@@ -7384,8 +7318,7 @@
         ]
     },
     {
-        "term": "dedak",
-        "roman_numeral": "II",
+        "term": "dedak II; berdedak, mendedak",
         "definitions": [
             {
                 "sense": "1",
@@ -7394,8 +7327,7 @@
         ]
     },
     {
-        "term": "dedak",
-        "roman_numeral": "III",
+        "term": "dedak III; berdedak",
         "definitions": [
             {
                 "sense": "1",
@@ -7435,8 +7367,7 @@
         ]
     },
     {
-        "term": "dedar",
-        "roman_numeral": "I",
+        "term": "dedar I",
         "definitions": [
             {
                 "sense": "1",
@@ -7445,8 +7376,7 @@
         ]
     },
     {
-        "term": "dedar",
-        "roman_numeral": "II",
+        "term": "dedar II; mendedar",
         "origin": "Kd",
         "definitions": [
             {
@@ -7474,8 +7404,7 @@
         ]
     },
     {
-        "term": "dedas",
-        "roman_numeral": "I",
+        "term": "dedas I",
         "definitions": [
             {
                 "sense": "1",
@@ -7495,8 +7424,7 @@
         ]
     },
     {
-        "term": "dedas",
-        "roman_numeral": "II",
+        "term": "dedas II",
         "origin": "Kl",
         "definitions": [
             {
@@ -7506,7 +7434,7 @@
         ]
     },
     {
-        "term": "dedau",
+        "term": "dedau; mendedau",
         "definitions": [
             {
                 "sense": "1",
@@ -7767,7 +7695,7 @@
         ]
     },
     {
-        "term": "de",
+        "term": "de facto",
         "definitions": [
             {
                 "sense": "1",
@@ -7918,8 +7846,7 @@
         ]
     },
     {
-        "term": "degap",
-        "roman_numeral": "I",
+        "term": "degap I",
         "definitions": [
             {
                 "sense": "1",
@@ -7948,8 +7875,7 @@
         ]
     },
     {
-        "term": "degap",
-        "roman_numeral": "II",
+        "term": "degap II;",
         "definitions": [
             {
                 "sense": "1",
@@ -7958,8 +7884,7 @@
         ]
     },
     {
-        "term": "degap",
-        "roman_numeral": "III",
+        "term": "degap III",
         "origin": "Tr",
         "definitions": [
             {
@@ -8059,8 +7984,7 @@
         ]
     },
     {
-        "term": "degum",
-        "roman_numeral": "I",
+        "term": "degum I",
         "definitions": [
             {
                 "sense": "1",
@@ -8080,8 +8004,7 @@
         ]
     },
     {
-        "term": "degum",
-        "roman_numeral": "II",
+        "term": "degum II",
         "origin": "Pr",
         "definitions": [
             {
@@ -8146,7 +8069,7 @@
         ]
     },
     {
-        "term": "dehak",
+        "term": "dehak; be",
         "origin": "Kd",
         "definitions": [
             {
@@ -8185,7 +8108,7 @@
         ]
     },
     {
-        "term": "de",
+        "term": "de jure",
         "definitions": [
             {
                 "sense": "1",
@@ -8299,7 +8222,7 @@
         ]
     },
     {
-        "term": "dekah",
+        "term": "dekah, dekahan",
         "definitions": [
             {
                 "sense": "1",
@@ -8419,8 +8342,7 @@
         ]
     },
     {
-        "term": "dekap",
-        "roman_numeral": "I",
+        "term": "dekap I",
         "definitions": [
             {
                 "sense": "1",
@@ -8429,8 +8351,7 @@
         ]
     },
     {
-        "term": "dekap",
-        "roman_numeral": "II",
+        "term": "dekap II",
         "origin": "Mn",
         "definitions": [
             {
@@ -8697,7 +8618,7 @@
         ]
     },
     {
-        "term": "dekih",
+        "term": "dekih; mendekih, mendekih-dekih, terdekih, terdekih-dekih",
         "definitions": [
             {
                 "sense": "1",
@@ -8748,7 +8669,7 @@
         ]
     },
     {
-        "term": "dekit",
+        "term": "dekit; berdekit, berdekit-dekit",
         "definitions": [
             {
                 "sense": "1",
@@ -8917,7 +8838,7 @@
         ]
     },
     {
-        "term": "deku",
+        "term": "deku; berdeku",
         "origin": "Jk",
         "definitions": [
             {
@@ -8927,8 +8848,7 @@
         ]
     },
     {
-        "term": "dekuh",
-        "roman_numeral": "I",
+        "term": "dekuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -8948,8 +8868,7 @@
         ]
     },
     {
-        "term": "dekuh",
-        "roman_numeral": "II",
+        "term": "dekuh II",
         "origin": "Kl",
         "definitions": [
             {
@@ -8959,7 +8878,7 @@
         ]
     },
     {
-        "term": "dekuk",
+        "term": "dekuk; berdekuk-dekak",
         "definitions": [
             {
                 "sense": "1",
@@ -8986,7 +8905,7 @@
         ]
     },
     {
-        "term": "dekus",
+        "term": "dekus; berdekus, mendekus",
         "definitions": [
             {
                 "sense": "1",
@@ -9079,7 +8998,7 @@
         ]
     },
     {
-        "term": "delat",
+        "term": "delat; berdelat-delat",
         "definitions": [
             {
                 "sense": "1",
@@ -9161,8 +9080,7 @@
         ]
     },
     {
-        "term": "delik",
-        "roman_numeral": "I",
+        "term": "delik I",
         "definitions": [
             {
                 "sense": "1",
@@ -9171,8 +9089,7 @@
         ]
     },
     {
-        "term": "delik",
-        "roman_numeral": "II",
+        "term": "delik II",
         "origin": "Jw",
         "definitions": [
             {
@@ -9346,8 +9263,7 @@
         ]
     },
     {
-        "term": "demah",
-        "roman_numeral": "I",
+        "term": "demah I",
         "definitions": [
             {
                 "sense": "1",
@@ -9367,8 +9283,7 @@
         ]
     },
     {
-        "term": "demah",
-        "roman_numeral": "II",
+        "term": "demah II",
         "origin": "Kd",
         "definitions": [
             {
@@ -9472,7 +9387,7 @@
         ]
     },
     {
-        "term": "demberang",
+        "term": "demberang, demberangan",
         "definitions": [
             {
                 "sense": "1",
@@ -9908,8 +9823,7 @@
         ]
     },
     {
-        "term": "dempak",
-        "roman_numeral": "II",
+        "term": "dempak II; berdempak",
         "definitions": [
             {
                 "sense": "1",
@@ -9918,8 +9832,7 @@
         ]
     },
     {
-        "term": "dempang",
-        "roman_numeral": "I",
+        "term": "dempang I",
         "definitions": [
             {
                 "sense": "1",
@@ -9943,8 +9856,7 @@
         ]
     },
     {
-        "term": "dempang",
-        "roman_numeral": "II",
+        "term": "dempang II",
         "definitions": [
             {
                 "sense": "1",
@@ -10038,7 +9950,7 @@
         ]
     },
     {
-        "term": "dempuk",
+        "term": "dempuk; berdempuk",
         "definitions": [
             {
                 "sense": "1",
@@ -10106,7 +10018,7 @@
         ]
     },
     {
-        "term": "demut",
+        "term": "demut; terdemut-demut",
         "definitions": [
             {
                 "sense": "1",
@@ -10366,8 +10278,7 @@
         ]
     },
     {
-        "term": "dendang",
-        "roman_numeral": "I",
+        "term": "dendang I",
         "definitions": [
             {
                 "sense": "1",
@@ -10389,8 +10300,7 @@
         ]
     },
     {
-        "term": "dendang",
-        "roman_numeral": "III",
+        "term": "dendang III",
         "definitions": [
             {
                 "sense": "1",
@@ -10481,8 +10391,7 @@
         ]
     },
     {
-        "term": "denderam",
-        "roman_numeral": "I",
+        "term": "denderam I",
         "definitions": [
             {
                 "sense": "1",
@@ -10491,8 +10400,7 @@
         ]
     },
     {
-        "term": "denderam",
-        "roman_numeral": "II",
+        "term": "denderam II",
         "definitions": [
             {
                 "sense": "1",
@@ -10619,7 +10527,7 @@
         ]
     },
     {
-        "term": "dengar",
+        "term": "dengar;",
         "definitions": [
             {
                 "sense": "1",
@@ -10815,8 +10723,7 @@
         ]
     },
     {
-        "term": "dengik",
-        "roman_numeral": "I",
+        "term": "dengik I",
         "definitions": [
             {
                 "sense": "1",
@@ -10825,8 +10732,7 @@
         ]
     },
     {
-        "term": "dengik",
-        "roman_numeral": "II",
+        "term": "dengik II",
         "origin": "Jw",
         "definitions": [
             {
@@ -10836,7 +10742,7 @@
         ]
     },
     {
-        "term": "denging",
+        "term": "denging, dengingan",
         "definitions": [
             {
                 "sense": "1",
@@ -11055,8 +10961,7 @@
         ]
     },
     {
-        "term": "dengkul",
-        "roman_numeral": "I",
+        "term": "dengkul I",
         "definitions": [
             {
                 "sense": "1",
@@ -11065,8 +10970,7 @@
         ]
     },
     {
-        "term": "dengkul",
-        "roman_numeral": "II",
+        "term": "dengkul II",
         "origin": "Jw",
         "definitions": [
             {
@@ -11087,8 +10991,7 @@
         ]
     },
     {
-        "term": "dengkul",
-        "roman_numeral": "III",
+        "term": "dengkul III",
         "origin": "Jw",
         "definitions": [
             {
@@ -11211,7 +11114,7 @@
         ]
     },
     {
-        "term": "denguk",
+        "term": "denguk; terdenguk",
         "definitions": [
             {
                 "sense": "1",
@@ -11294,8 +11197,7 @@
         ]
     },
     {
-        "term": "dengut",
-        "roman_numeral": "I",
+        "term": "dengut I",
         "definitions": [
             {
                 "sense": "1",
@@ -11315,8 +11217,7 @@
         ]
     },
     {
-        "term": "dengut",
-        "roman_numeral": "II",
+        "term": "dengut II",
         "origin": "Kl",
         "definitions": [
             {
@@ -11423,7 +11324,7 @@
         ]
     },
     {
-        "term": "dentang",
+        "term": "dentang; dentangan",
         "definitions": [
             {
                 "sense": "1",
@@ -11461,7 +11362,7 @@
         ]
     },
     {
-        "term": "denting",
+        "term": "denting; dentingan",
         "definitions": [
             {
                 "sense": "1",
@@ -11575,7 +11476,7 @@
         ]
     },
     {
-        "term": "denyar",
+        "term": "denyar; berdenyar",
         "definitions": [
             {
                 "sense": "1",
@@ -11714,8 +11615,7 @@
         ]
     },
     {
-        "term": "depak",
-        "roman_numeral": "II",
+        "term": "depak II",
         "definitions": [
             {
                 "sense": "1",
@@ -12088,8 +11988,7 @@
         ]
     },
     {
-        "term": "depu",
-        "roman_numeral": "II",
+        "term": "depu II",
         "definitions": [
             {
                 "sense": "1",
@@ -12232,8 +12131,7 @@
         ]
     },
     {
-        "term": "derai",
-        "roman_numeral": "I",
+        "term": "derai I",
         "definitions": [
             {
                 "sense": "1",
@@ -12383,8 +12281,7 @@
         ]
     },
     {
-        "term": "deram",
-        "roman_numeral": "I",
+        "term": "deram I",
         "definitions": [
             {
                 "sense": "1",
@@ -12404,8 +12301,7 @@
         ]
     },
     {
-        "term": "deram",
-        "roman_numeral": "II",
+        "term": "deram II",
         "definitions": [
             {
                 "sense": "1",
@@ -12432,8 +12328,7 @@
         ]
     },
     {
-        "term": "derang",
-        "roman_numeral": "I",
+        "term": "derang I",
         "definitions": [
             {
                 "sense": "1",
@@ -12453,8 +12348,7 @@
         ]
     },
     {
-        "term": "derang",
-        "roman_numeral": "II",
+        "term": "derang II; berderang",
         "definitions": [
             {
                 "sense": "1",
@@ -12500,8 +12394,7 @@
         ]
     },
     {
-        "term": "derap",
-        "roman_numeral": "II",
+        "term": "derap II",
         "definitions": [
             {
                 "sense": "1",
@@ -12639,8 +12532,7 @@
         ]
     },
     {
-        "term": "deras",
-        "roman_numeral": "III",
+        "term": "deras III",
         "definitions": [
             {
                 "sense": "1",
@@ -12649,8 +12541,7 @@
         ]
     },
     {
-        "term": "deras",
-        "roman_numeral": "IV",
+        "term": "deras IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -12669,8 +12560,7 @@
         ]
     },
     {
-        "term": "derau",
-        "roman_numeral": "I",
+        "term": "derau I",
         "definitions": [
             {
                 "sense": "1",
@@ -12711,8 +12601,7 @@
         ]
     },
     {
-        "term": "derau",
-        "roman_numeral": "II",
+        "term": "derau II; berderau",
         "definitions": [
             {
                 "sense": "1",
@@ -13015,8 +12904,7 @@
         ]
     },
     {
-        "term": "deril",
-        "roman_numeral": "I",
+        "term": "deril I",
         "origin": "Id",
         "definitions": [
             {
@@ -13026,8 +12914,7 @@
         ]
     },
     {
-        "term": "deril",
-        "roman_numeral": "II",
+        "term": "deril II",
         "origin": "Id",
         "definitions": [
             {
@@ -13094,8 +12981,7 @@
         ]
     },
     {
-        "term": "dering",
-        "roman_numeral": "II",
+        "term": "dering II",
         "definitions": [
             {
                 "sense": "1",
@@ -13104,7 +12990,7 @@
         ]
     },
     {
-        "term": "deringo",
+        "term": "deringo, deringu",
         "definitions": [
             {
                 "sense": "1",
@@ -13163,8 +13049,7 @@
         ]
     },
     {
-        "term": "derita",
-        "roman_numeral": "I",
+        "term": "derita I",
         "definitions": [
             {
                 "sense": "1",
@@ -13241,8 +13126,7 @@
         ]
     },
     {
-        "term": "derita",
-        "roman_numeral": "II",
+        "term": "derita II;",
         "definitions": [
             {
                 "sense": "1",
@@ -13288,10 +13172,11 @@
     },
     {
         "term": "derji",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tukang jahit."
+                "definition": "tukang jahit."
             }
         ]
     },
@@ -13505,8 +13390,7 @@
         ]
     },
     {
-        "term": "derum",
-        "roman_numeral": "I",
+        "term": "derum I; menderum",
         "definitions": [
             {
                 "sense": "1",
@@ -13526,8 +13410,7 @@
         ]
     },
     {
-        "term": "derum",
-        "roman_numeral": "II",
+        "term": "derum II",
         "definitions": [
             {
                 "sense": "1",
@@ -13565,8 +13448,7 @@
         ]
     },
     {
-        "term": "derum",
-        "roman_numeral": "III",
+        "term": "derum III;",
         "definitions": [
             {
                 "sense": "1",
@@ -13595,8 +13477,7 @@
         ]
     },
     {
-        "term": "derung",
-        "roman_numeral": "I",
+        "term": "derung I;",
         "definitions": [
             {
                 "sense": "1",
@@ -13605,8 +13486,7 @@
         ]
     },
     {
-        "term": "derung",
-        "roman_numeral": "II",
+        "term": "derung II",
         "definitions": [
             {
                 "sense": "1",
@@ -13737,8 +13617,7 @@
         ]
     },
     {
-        "term": "desak",
-        "roman_numeral": "I",
+        "term": "desak I; berdesak",
         "definitions": [
             {
                 "sense": "1",
@@ -13873,8 +13752,7 @@
         ]
     },
     {
-        "term": "desak",
-        "roman_numeral": "II",
+        "term": "desak II",
         "definitions": [
             {
                 "sense": "1",
@@ -14379,7 +14257,7 @@
         ]
     },
     {
-        "term": "desus",
+        "term": "desus;",
         "definitions": [
             {
                 "sense": "1",
@@ -15032,8 +14910,7 @@
         ]
     },
     {
-        "term": "di",
-        "roman_numeral": "II",
+        "term": "di II",
         "definitions": [
             {
                 "sense": "1",
@@ -15042,8 +14919,7 @@
         ]
     },
     {
-        "term": "di",
-        "roman_numeral": "III",
+        "term": "di III",
         "definitions": [
             {
                 "sense": "1",
@@ -15386,8 +15262,7 @@
         ]
     },
     {
-        "term": "diam",
-        "roman_numeral": "II",
+        "term": "diam II",
         "definitions": [
             {
                 "sense": "1",
@@ -15425,8 +15300,7 @@
         ]
     },
     {
-        "term": "dian",
-        "roman_numeral": "I",
+        "term": "dian I",
         "definitions": [
             {
                 "sense": "1",
@@ -15446,8 +15320,7 @@
         ]
     },
     {
-        "term": "dian",
-        "roman_numeral": "II",
+        "term": "dian II;",
         "definitions": [
             {
                 "sense": "1",
@@ -15456,7 +15329,7 @@
         ]
     },
     {
-        "term": "diang",
+        "term": "diang; berdiang",
         "definitions": [
             {
                 "sense": "1",
@@ -15563,8 +15436,7 @@
         ]
     },
     {
-        "term": "diat",
-        "roman_numeral": "I",
+        "term": "diat I",
         "origin": "Ar",
         "definitions": [
             {
@@ -15585,12 +15457,12 @@
         ]
     },
     {
-        "term": "diat",
-        "roman_numeral": "II",
+        "term": "diat II; pendiat",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kubu (perangkap) gajah."
+                "definition": "kubu (perangkap) gajah."
             }
         ]
     },
@@ -15664,10 +15536,11 @@
     },
     {
         "term": "dibaja",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl =  kain ~  sj kain sutera yg halus."
+                "definition": "=  kain ~  sj kain sutera yg halus."
             }
         ]
     },
@@ -16067,10 +15940,11 @@
     },
     {
         "term": "dikara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl indah, mulia;     adikara."
+                "definition": "indah, mulia;     adikara."
             }
         ]
     },
@@ -16117,7 +15991,7 @@
         ]
     },
     {
-        "term": "dikit",
+        "term": "dikit; sedikit",
         "definitions": [
             {
                 "sense": "1",
@@ -16357,7 +16231,7 @@
         ]
     },
     {
-        "term": "dil",
+        "term": "dil;",
         "definitions": [
             {
                 "sense": "1",
@@ -16366,7 +16240,7 @@
         ]
     },
     {
-        "term": "dila",
+        "term": "dila, dilah",
         "definitions": [
             {
                 "sense": "1",
@@ -16393,8 +16267,7 @@
         ]
     },
     {
-        "term": "dim",
-        "roman_numeral": "I",
+        "term": "dim I",
         "definitions": [
             {
                 "sense": "1",
@@ -16403,8 +16276,7 @@
         ]
     },
     {
-        "term": "dim",
-        "roman_numeral": "II",
+        "term": "dim II;",
         "definitions": [
             {
                 "sense": "1",
@@ -16464,7 +16336,7 @@
         ]
     },
     {
-        "term": "dim",
+        "term": "dim sum",
         "definitions": [
             {
                 "sense": "1",
@@ -16483,8 +16355,7 @@
         ]
     },
     {
-        "term": "dina",
-        "roman_numeral": "I",
+        "term": "dina I;",
         "definitions": [
             {
                 "sense": "1",
@@ -16493,8 +16364,7 @@
         ]
     },
     {
-        "term": "dina",
-        "roman_numeral": "II",
+        "term": "dina II;",
         "definitions": [
             {
                 "sense": "1",
@@ -16503,8 +16373,7 @@
         ]
     },
     {
-        "term": "dinamik",
-        "roman_numeral": "I",
+        "term": "dinamik I",
         "definitions": [
             {
                 "sense": "1",
@@ -16533,8 +16402,7 @@
         ]
     },
     {
-        "term": "dinamik",
-        "roman_numeral": "II",
+        "term": "dinamik II",
         "definitions": [
             {
                 "sense": "1",
@@ -16601,7 +16469,8 @@
         ]
     },
     {
-        "term": "dinar sl",
+        "term": "dinar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -16749,7 +16618,7 @@
         ]
     },
     {
-        "term": "ding",
+        "term": "ding;",
         "definitions": [
             {
                 "sense": "1",
@@ -16859,7 +16728,7 @@
         ]
     },
     {
-        "term": "dingin",
+        "term": "dingin beku",
         "definitions": [
             {
                 "sense": "1",
@@ -16930,7 +16799,7 @@
         ]
     },
     {
-        "term": "dini",
+        "term": "dini;",
         "definitions": [
             {
                 "sense": "1",
@@ -17107,7 +16976,7 @@
         ]
     },
     {
-        "term": "dirah",
+        "term": "dirah;",
         "definitions": [
             {
                 "sense": "1",
@@ -17175,10 +17044,11 @@
     },
     {
         "term": "dirgahayu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl (mudah-mudahan) lanjut usia, panjang umur."
+                "definition": "(mudah-mudahan) lanjut usia, panjang umur."
             }
         ]
     },
@@ -17354,7 +17224,7 @@
         ]
     },
     {
-        "term": "diris",
+        "term": "diris; mendiris",
         "definitions": [
             {
                 "sense": "1",
@@ -17374,7 +17244,7 @@
         ]
     },
     {
-        "term": "dirus",
+        "term": "dirus; mendirus",
         "definitions": [
             {
                 "sense": "1",
@@ -17407,8 +17277,7 @@
         ]
     },
     {
-        "term": "dis",
-        "roman_numeral": "I",
+        "term": "dis I",
         "origin": "IB",
         "definitions": [
             {
@@ -17418,8 +17287,7 @@
         ]
     },
     {
-        "term": "Dis",
-        "roman_numeral": "II",
+        "term": "Dis II",
         "definitions": [
             {
                 "sense": "1",
@@ -18004,8 +17872,7 @@
         ]
     },
     {
-        "term": "dius",
-        "roman_numeral": "II",
+        "term": "dius II",
         "definitions": [
             {
                 "sense": "1",
@@ -18254,8 +18121,7 @@
         ]
     },
     {
-        "term": "dobol",
-        "roman_numeral": "I",
+        "term": "dobol I",
         "definitions": [
             {
                 "sense": "1",
@@ -18264,8 +18130,7 @@
         ]
     },
     {
-        "term": "dobol",
-        "roman_numeral": "II",
+        "term": "dobol II",
         "origin": "Jk",
         "definitions": [
             {
@@ -18387,8 +18252,7 @@
         ]
     },
     {
-        "term": "dodol",
-        "roman_numeral": "II",
+        "term": "dodol II;",
         "definitions": [
             {
                 "sense": "1",
@@ -18397,8 +18261,7 @@
         ]
     },
     {
-        "term": "dodong",
-        "roman_numeral": "I",
+        "term": "dodong I",
         "definitions": [
             {
                 "sense": "1",
@@ -18407,8 +18270,7 @@
         ]
     },
     {
-        "term": "dodong",
-        "roman_numeral": "II",
+        "term": "dodong II",
         "origin": "Mn",
         "definitions": [
             {
@@ -18418,7 +18280,7 @@
         ]
     },
     {
-        "term": "dodor",
+        "term": "dodor; kedodoran",
         "origin": "Jk",
         "definitions": [
             {
@@ -18571,8 +18433,7 @@
         ]
     },
     {
-        "term": "dogol",
-        "roman_numeral": "II",
+        "term": "dogol II",
         "definitions": [
             {
                 "sense": "1",
@@ -18609,8 +18470,7 @@
         ]
     },
     {
-        "term": "dok",
-        "roman_numeral": "I",
+        "term": "dok I",
         "definitions": [
             {
                 "sense": "1",
@@ -18619,8 +18479,7 @@
         ]
     },
     {
-        "term": "dok",
-        "roman_numeral": "II",
+        "term": "dok II; didok",
         "definitions": [
             {
                 "sense": "1",
@@ -18885,8 +18744,7 @@
         ]
     },
     {
-        "term": "dol",
-        "roman_numeral": "I",
+        "term": "dol I",
         "definitions": [
             {
                 "sense": "1",
@@ -18895,8 +18753,7 @@
         ]
     },
     {
-        "term": "dol",
-        "roman_numeral": "II",
+        "term": "dol II",
         "definitions": [
             {
                 "sense": "1",
@@ -18905,8 +18762,7 @@
         ]
     },
     {
-        "term": "dol",
-        "roman_numeral": "III",
+        "term": "dol III",
         "definitions": [
             {
                 "sense": "1",
@@ -18990,8 +18846,7 @@
         ]
     },
     {
-        "term": "dolok",
-        "roman_numeral": "I",
+        "term": "dolok I",
         "definitions": [
             {
                 "sense": "1",
@@ -19000,8 +18855,7 @@
         ]
     },
     {
-        "term": "dolok",
-        "roman_numeral": "II",
+        "term": "dolok II",
         "origin": "Id",
         "definitions": [
             {
@@ -19021,7 +18875,7 @@
         ]
     },
     {
-        "term": "domah",
+        "term": "domah; pendomah;",
         "definitions": [
             {
                 "sense": "1",
@@ -19090,7 +18944,7 @@
         ]
     },
     {
-        "term": "dominasi",
+        "term": "dominasi; mendominasi",
         "definitions": [
             {
                 "sense": "1",
@@ -19183,7 +19037,7 @@
         ]
     },
     {
-        "term": "dompak",
+        "term": "dompak; berdompak",
         "definitions": [
             {
                 "sense": "1",
@@ -19261,7 +19115,7 @@
         ]
     },
     {
-        "term": "doncang",
+        "term": "doncang; mendoncang",
         "origin": "Mn",
         "definitions": [
             {
@@ -19291,7 +19145,7 @@
         ]
     },
     {
-        "term": "dondang",
+        "term": "dondang sayang",
         "definitions": [
             {
                 "sense": "1",
@@ -19355,8 +19209,7 @@
         ]
     },
     {
-        "term": "dong",
-        "roman_numeral": "I",
+        "term": "dong I",
         "origin": "Jk",
         "definitions": [
             {
@@ -19366,8 +19219,7 @@
         ]
     },
     {
-        "term": "dong",
-        "roman_numeral": "II",
+        "term": "dong II",
         "definitions": [
             {
                 "sense": "1",
@@ -19523,7 +19375,7 @@
         ]
     },
     {
-        "term": "dongkok",
+        "term": "dongkok; pendongkok",
         "definitions": [
             {
                 "sense": "1",
@@ -19545,8 +19397,7 @@
         ]
     },
     {
-        "term": "dongkol",
-        "roman_numeral": "II",
+        "term": "dongkol II",
         "origin": "Jk",
         "definitions": [
             {
@@ -19617,8 +19468,7 @@
         ]
     },
     {
-        "term": "donor",
-        "roman_numeral": "I",
+        "term": "donor I",
         "origin": "IB",
         "definitions": [
             {
@@ -19628,8 +19478,7 @@
         ]
     },
     {
-        "term": "donor",
-        "roman_numeral": "II",
+        "term": "donor II",
         "origin": "Tr",
         "definitions": [
             {
@@ -19659,8 +19508,7 @@
         ]
     },
     {
-        "term": "dor",
-        "roman_numeral": "I",
+        "term": "dor I",
         "definitions": [
             {
                 "sense": "1",
@@ -19669,8 +19517,7 @@
         ]
     },
     {
-        "term": "dor",
-        "roman_numeral": "II",
+        "term": "dor II",
         "definitions": [
             {
                 "sense": "1",
@@ -19875,8 +19722,7 @@
         ]
     },
     {
-        "term": "dos",
-        "roman_numeral": "II",
+        "term": "dos II",
         "definitions": [
             {
                 "sense": "1",
@@ -19962,8 +19808,7 @@
         ]
     },
     {
-        "term": "dosir",
-        "roman_numeral": "I",
+        "term": "dosir I",
         "origin": "IB",
         "definitions": [
             {
@@ -19973,8 +19818,7 @@
         ]
     },
     {
-        "term": "dosir",
-        "roman_numeral": "II",
+        "term": "dosir II",
         "origin": "IB",
         "definitions": [
             {
@@ -20098,7 +19942,7 @@
         ]
     },
     {
-        "term": "doyong",
+        "term": "doyong; mendoyong",
         "definitions": [
             {
                 "sense": "1",
@@ -20156,8 +20000,7 @@
         ]
     },
     {
-        "term": "dr",
-        "roman_numeral": "I",
+        "term": "dr I",
         "definitions": [
             {
                 "sense": "1",
@@ -20236,8 +20079,7 @@
         ]
     },
     {
-        "term": "dram",
-        "roman_numeral": "I",
+        "term": "dram I",
         "definitions": [
             {
                 "sense": "1",
@@ -20246,8 +20088,7 @@
         ]
     },
     {
-        "term": "dram",
-        "roman_numeral": "II",
+        "term": "dram II",
         "definitions": [
             {
                 "sense": "1",
@@ -20721,7 +20562,7 @@
         ]
     },
     {
-        "term": "duai",
+        "term": "duai;",
         "definitions": [
             {
                 "sense": "1",
@@ -20749,10 +20590,11 @@
     },
     {
         "term": "dualapan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl delapan, lapan."
+                "definition": "delapan, lapan."
             }
         ]
     },
@@ -20810,7 +20652,7 @@
         ]
     },
     {
-        "term": "dubilah",
+        "term": "dubilah;",
         "definitions": [
             {
                 "sense": "1",
@@ -20866,7 +20708,7 @@
         ]
     },
     {
-        "term": "dudu",
+        "term": "dudu; mendudu, mendudu-dudu",
         "definitions": [
             {
                 "sense": "1",
@@ -21234,8 +21076,7 @@
         ]
     },
     {
-        "term": "duga",
-        "roman_numeral": "II",
+        "term": "duga II",
         "origin": "Mn",
         "definitions": [
             {
@@ -21256,7 +21097,7 @@
         ]
     },
     {
-        "term": "duga",
+        "term": "duga akal",
         "definitions": [
             {
                 "sense": "1",
@@ -21276,8 +21117,7 @@
         ]
     },
     {
-        "term": "dugal",
-        "roman_numeral": "I",
+        "term": "dugal I",
         "definitions": [
             {
                 "sense": "1",
@@ -21297,8 +21137,7 @@
         ]
     },
     {
-        "term": "dugal",
-        "roman_numeral": "II",
+        "term": "dugal II",
         "origin": "Jw",
         "definitions": [
             {
@@ -21308,8 +21147,7 @@
         ]
     },
     {
-        "term": "dugal",
-        "roman_numeral": "III",
+        "term": "dugal III",
         "definitions": [
             {
                 "sense": "1",
@@ -21338,7 +21176,7 @@
         ]
     },
     {
-        "term": "dugas",
+        "term": "dugas; mendugas",
         "definitions": [
             {
                 "sense": "1",
@@ -21411,8 +21249,7 @@
         ]
     },
     {
-        "term": "duit-duit",
-        "roman_numeral": "I",
+        "term": "duit-duit I;",
         "definitions": [
             {
                 "sense": "1",
@@ -21421,8 +21258,7 @@
         ]
     },
     {
-        "term": "duit-duit",
-        "roman_numeral": "II",
+        "term": "duit-duit II",
         "definitions": [
             {
                 "sense": "1",
@@ -21562,10 +21398,11 @@
     },
     {
         "term": "dukat",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl wang emas atau perak."
+                "definition": "wang emas atau perak."
             }
         ]
     },
@@ -21580,8 +21417,7 @@
         ]
     },
     {
-        "term": "duku",
-        "roman_numeral": "I",
+        "term": "duku I",
         "definitions": [
             {
                 "sense": "1",
@@ -21590,8 +21426,7 @@
         ]
     },
     {
-        "term": "duku",
-        "roman_numeral": "II",
+        "term": "duku II",
         "definitions": [
             {
                 "sense": "1",
@@ -21662,8 +21497,7 @@
         ]
     },
     {
-        "term": "dukung",
-        "roman_numeral": "I",
+        "term": "dukung I;",
         "definitions": [
             {
                 "sense": "1",
@@ -21771,8 +21605,7 @@
         ]
     },
     {
-        "term": "dukung",
-        "roman_numeral": "II",
+        "term": "dukung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -21855,8 +21688,7 @@
         ]
     },
     {
-        "term": "dulang",
-        "roman_numeral": "II",
+        "term": "dulang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -21866,8 +21698,7 @@
         ]
     },
     {
-        "term": "dulang",
-        "roman_numeral": "III",
+        "term": "dulang III",
         "origin": "Jw",
         "definitions": [
             {
@@ -21877,8 +21708,7 @@
         ]
     },
     {
-        "term": "dulang",
-        "roman_numeral": "IV",
+        "term": "dulang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -21903,10 +21733,11 @@
     },
     {
         "term": "dulapan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl lapan."
+                "definition": "lapan."
             }
         ]
     },
@@ -21961,7 +21792,7 @@
         ]
     },
     {
-        "term": "dulu",
+        "term": "dulu betina;",
         "definitions": [
             {
                 "sense": "1",
@@ -21970,7 +21801,7 @@
         ]
     },
     {
-        "term": "dulu",
+        "term": "dulu jantan;",
         "definitions": [
             {
                 "sense": "1",
@@ -22261,7 +22092,7 @@
         ]
     },
     {
-        "term": "dupak",
+        "term": "dupak; mendupak",
         "definitions": [
             {
                 "sense": "1",
@@ -22341,22 +22172,22 @@
         ]
     },
     {
-        "term": "dura",
-        "roman_numeral": "I",
+        "term": "dura I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl risau, susah hati, gelisah:  dilipurkannya hatinya yg ~ dgn  membaca buku cerita."
+                "definition": "risau, susah hati, gelisah:  dilipurkannya hatinya yg ~ dgn  membaca buku cerita."
             }
         ]
     },
     {
-        "term": "dura",
-        "roman_numeral": "II",
+        "term": "dura II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl jauh:  nampaknya hampir tetapi ~."
+                "definition": "jauh:  nampaknya hampir tetapi ~."
             }
         ]
     },
@@ -22370,7 +22201,7 @@
         ]
     },
     {
-        "term": "dura",
+        "term": "dura mater",
         "origin": "(Bio)",
         "definitions": [
             {
@@ -22467,8 +22298,7 @@
         ]
     },
     {
-        "term": "duri",
-        "roman_numeral": "II",
+        "term": "duri II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22530,10 +22360,11 @@
     },
     {
         "term": "durja",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl (air) muka, wajah:  wahai aria ningsun ~ yg berseri; bermuram  ~  bermasam muka, bermuram (kerana susah hati, sedih, dsb)."
+                "definition": "(air) muka, wajah:  wahai aria ningsun ~ yg berseri; bermuram  ~  bermasam muka, bermuram (kerana susah hati, sedih, dsb)."
             }
         ]
     },
@@ -22748,8 +22579,7 @@
         ]
     },
     {
-        "term": "Dusun",
-        "roman_numeral": "II",
+        "term": "Dusun II",
         "definitions": [
             {
                 "sense": "1",
@@ -22813,7 +22643,7 @@
         ]
     },
     {
-        "term": "duyun",
+        "term": "duyun; berduyun-duyun",
         "definitions": [
             {
                 "sense": "1",
@@ -22831,8 +22661,7 @@
         ]
     },
     {
-        "term": "duyung",
-        "roman_numeral": "II",
+        "term": "duyung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -22841,8 +22670,7 @@
         ]
     },
     {
-        "term": "duyung",
-        "roman_numeral": "III",
+        "term": "duyung III",
         "definitions": [
             {
                 "sense": "1",

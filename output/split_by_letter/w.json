@@ -31,8 +31,7 @@
         ]
     },
     {
-        "term": "wa",
-        "roman_numeral": "II",
+        "term": "wa II",
         "definitions": [
             {
                 "sense": "1",
@@ -295,8 +294,7 @@
         ]
     },
     {
-        "term": "wadi",
-        "roman_numeral": "I",
+        "term": "wadi I",
         "origin": "Ar",
         "definitions": [
             {
@@ -306,8 +304,7 @@
         ]
     },
     {
-        "term": "wadi",
-        "roman_numeral": "II",
+        "term": "wadi II",
         "definitions": [
             {
                 "sense": "1",
@@ -462,7 +459,7 @@
         ]
     },
     {
-        "term": "wahadat",
+        "term": "wahadat, wahadiah, wahadiat",
         "definitions": [
             {
                 "sense": "1",
@@ -629,8 +626,7 @@
         ]
     },
     {
-        "term": "wai",
-        "roman_numeral": "I",
+        "term": "wai I",
         "definitions": [
             {
                 "sense": "1",
@@ -639,8 +635,7 @@
         ]
     },
     {
-        "term": "wai",
-        "roman_numeral": "II",
+        "term": "wai II",
         "definitions": [
             {
                 "sense": "1",
@@ -667,7 +662,7 @@
         ]
     },
     {
-        "term": "waima",
+        "term": "waima, waimma",
         "origin": "Ar",
         "definitions": [
             {
@@ -687,10 +682,11 @@
     },
     {
         "term": "waisya",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kasta yg ketiga dlm agama Hindu (terdiri drpd golongan  pedagang, petani, dan tukang)."
+                "definition": "kasta yg ketiga dlm agama Hindu (terdiri drpd golongan  pedagang, petani, dan tukang)."
             }
         ]
     },
@@ -938,8 +934,7 @@
         ]
     },
     {
-        "term": "wak",
-        "roman_numeral": "I",
+        "term": "wak I",
         "definitions": [
             {
                 "sense": "1",
@@ -948,8 +943,7 @@
         ]
     },
     {
-        "term": "wak",
-        "roman_numeral": "II",
+        "term": "wak II",
         "definitions": [
             {
                 "sense": "1",
@@ -958,12 +952,12 @@
         ]
     },
     {
-        "term": "wak",
-        "roman_numeral": "III",
+        "term": "wak III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl;  Seri W~ Raja  sl gelaran utk pembesar (kerajaan Melaka)."
+                "definition": ";  Seri W~ Raja  sl gelaran utk pembesar (kerajaan Melaka)."
             }
         ]
     },
@@ -1011,8 +1005,7 @@
         ]
     },
     {
-        "term": "wakaf",
-        "roman_numeral": "II",
+        "term": "wakaf II",
         "origin": "Ar",
         "definitions": [
             {
@@ -1250,8 +1243,7 @@
         ]
     },
     {
-        "term": "walang",
-        "roman_numeral": "I",
+        "term": "walang I",
         "definitions": [
             {
                 "sense": "1",
@@ -1271,8 +1263,7 @@
         ]
     },
     {
-        "term": "walang",
-        "roman_numeral": "II",
+        "term": "walang II",
         "origin": "Jw",
         "definitions": [
             {
@@ -1434,18 +1425,17 @@
         ]
     },
     {
-        "term": "wali",
-        "roman_numeral": "II",
+        "term": "wali II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj kain kuning yg disampaikan di bahu pegawai istana yg  membawa alat kerajaan."
+                "definition": "sj kain kuning yg disampaikan di bahu pegawai istana yg  membawa alat kerajaan."
             }
         ]
     },
     {
-        "term": "wali",
-        "roman_numeral": "III",
+        "term": "wali III",
         "definitions": [
             {
                 "sense": "1",
@@ -1463,7 +1453,7 @@
         ]
     },
     {
-        "term": "wali",
+        "term": "wali hakim",
         "definitions": [
             {
                 "sense": "1",
@@ -1503,10 +1493,11 @@
     },
     {
         "term": "walimana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj burung yg besar utk kenaikan (kenderaan);  wilmana."
+                "definition": "sj burung yg besar utk kenaikan (kenderaan);  wilmana."
             }
         ]
     },
@@ -1630,7 +1621,7 @@
         ]
     },
     {
-        "term": "wam",
+        "term": "wam;",
         "definitions": [
             {
                 "sense": "1",
@@ -1757,8 +1748,7 @@
         ]
     },
     {
-        "term": "wang",
-        "roman_numeral": "II",
+        "term": "wang II",
         "origin": "Kd",
         "definitions": [
             {
@@ -1768,18 +1758,17 @@
         ]
     },
     {
-        "term": "wang",
-        "roman_numeral": "III",
+        "term": "wang III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl;  ~ hati  sedih (pilu) hati."
+                "definition": ";  ~ hati  sedih (pilu) hati."
             }
         ]
     },
     {
-        "term": "wang",
-        "roman_numeral": "IV",
+        "term": "wang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -1866,8 +1855,7 @@
         ]
     },
     {
-        "term": "wangi",
-        "roman_numeral": "II",
+        "term": "wangi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2027,7 +2015,7 @@
         ]
     },
     {
-        "term": "wara",
+        "term": "wara; wara-wara",
         "definitions": [
             {
                 "sense": "1",
@@ -2036,8 +2024,7 @@
         ]
     },
     {
-        "term": "warak",
-        "roman_numeral": "I",
+        "term": "warak I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2058,8 +2045,7 @@
         ]
     },
     {
-        "term": "warak",
-        "roman_numeral": "II",
+        "term": "warak II",
         "definitions": [
             {
                 "sense": "1",
@@ -2088,10 +2074,11 @@
     },
     {
         "term": "warangan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl racun tikus dll:  ~ kuning; ~ merah; ~ putih."
+                "definition": "racun tikus dll:  ~ kuning; ~ merah; ~ putih."
             }
         ]
     },
@@ -2171,8 +2158,7 @@
         ]
     },
     {
-        "term": "warawiri",
-        "roman_numeral": "I",
+        "term": "warawiri I",
         "origin": "Jw",
         "definitions": [
             {
@@ -2290,8 +2276,7 @@
         ]
     },
     {
-        "term": "warid",
-        "roman_numeral": "I",
+        "term": "warid I",
         "origin": "Ar",
         "definitions": [
             {
@@ -2301,8 +2286,7 @@
         ]
     },
     {
-        "term": "warid",
-        "roman_numeral": "II",
+        "term": "warid II",
         "definitions": [
             {
                 "sense": "1",
@@ -2429,8 +2413,7 @@
         ]
     },
     {
-        "term": "waris",
-        "roman_numeral": "II",
+        "term": "waris II",
         "origin": "Jk",
         "definitions": [
             {
@@ -2535,7 +2518,7 @@
         ]
     },
     {
-        "term": "warna",
+        "term": "warna bunyi",
         "definitions": [
             {
                 "sense": "1",
@@ -2544,7 +2527,7 @@
         ]
     },
     {
-        "term": "warna",
+        "term": "warna nada",
         "origin": "Id",
         "definitions": [
             {
@@ -2604,7 +2587,7 @@
         ]
     },
     {
-        "term": "warna",
+        "term": "warna warta",
         "definitions": [
             {
                 "sense": "1",
@@ -2815,8 +2798,7 @@
         ]
     },
     {
-        "term": "wasiat",
-        "roman_numeral": "I",
+        "term": "wasiat I",
         "definitions": [
             {
                 "sense": "1",
@@ -2867,8 +2849,7 @@
         ]
     },
     {
-        "term": "wasiat",
-        "roman_numeral": "III",
+        "term": "wasiat III",
         "origin": "Id",
         "definitions": [
             {
@@ -2878,7 +2859,7 @@
         ]
     },
     {
-        "term": "wasilah",
+        "term": "wasilah, wasilat",
         "origin": "Ar",
         "definitions": [
             {
@@ -3023,8 +3004,7 @@
         ]
     },
     {
-        "term": "waswas",
-        "roman_numeral": "II",
+        "term": "waswas II",
         "origin": "Ar",
         "definitions": [
             {
@@ -3279,8 +3259,7 @@
         ]
     },
     {
-        "term": "wau",
-        "roman_numeral": "I",
+        "term": "wau I",
         "definitions": [
             {
                 "sense": "1",
@@ -3302,8 +3281,7 @@
         ]
     },
     {
-        "term": "wau",
-        "roman_numeral": "III",
+        "term": "wau III",
         "definitions": [
             {
                 "sense": "1",
@@ -3312,7 +3290,7 @@
         ]
     },
     {
-        "term": "wawa",
+        "term": "wawa, wawak",
         "definitions": [
             {
                 "sense": "1",
@@ -3379,7 +3357,7 @@
         ]
     },
     {
-        "term": "wawas",
+        "term": "wawas; mewawaskan",
         "definitions": [
             {
                 "sense": "1",
@@ -3463,10 +3441,11 @@
     },
     {
         "term": "wayu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl angin, bayu."
+                "definition": "angin, bayu."
             }
         ]
     },
@@ -3482,10 +3461,11 @@
     },
     {
         "term": "wazir",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl menteri, perdana menteri."
+                "definition": "menteri, perdana menteri."
             }
         ]
     },
@@ -3967,15 +3947,16 @@
     },
     {
         "term": "wiku",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pendeta yg bertapa."
+                "definition": "pendeta yg bertapa."
             }
         ]
     },
     {
-        "term": "wila",
+        "term": "wila;",
         "definitions": [
             {
                 "sense": "1",
@@ -4116,10 +4097,11 @@
     },
     {
         "term": "wira",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pahlawan, lelaki;"
+                "definition": "pahlawan, lelaki;"
             }
         ],
         "sub_terms": [
@@ -4164,10 +4146,11 @@
     },
     {
         "term": "wirawan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gagah berani, gagah perkasa:  kenapakah kamu menanyakan  yg serupa itu, wahai anak muda yg ~?"
+                "definition": "gagah berani, gagah perkasa:  kenapakah kamu menanyakan  yg serupa itu, wahai anak muda yg ~?"
             }
         ]
     },
@@ -4206,7 +4189,7 @@
         ]
     },
     {
-        "term": "wirit",
+        "term": "wirit; wiritan",
         "definitions": [
             {
                 "sense": "1",
@@ -4334,10 +4317,11 @@
     },
     {
         "term": "wizurai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl naib raja, gabenor jeneral;  waizuri."
+                "definition": "naib raja, gabenor jeneral;  waizuri."
             }
         ]
     },
@@ -4459,8 +4443,7 @@
         ]
     },
     {
-        "term": "wuduk",
-        "roman_numeral": "II",
+        "term": "wuduk II",
         "origin": "Jw",
         "definitions": [
             {
@@ -4567,7 +4550,7 @@
         ]
     },
     {
-        "term": "wul",
+        "term": "wul;",
         "definitions": [
             {
                 "sense": "1",

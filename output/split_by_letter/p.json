@@ -27,8 +27,7 @@
         ]
     },
     {
-        "term": "pa",
-        "roman_numeral": "I",
+        "term": "pa I",
         "definitions": [
             {
                 "sense": "1",
@@ -37,8 +36,7 @@
         ]
     },
     {
-        "term": "pa",
-        "roman_numeral": "II",
+        "term": "pa II",
         "origin": "Kd",
         "definitions": [
             {
@@ -154,8 +152,7 @@
         ]
     },
     {
-        "term": "pacak",
-        "roman_numeral": "II",
+        "term": "pacak II",
         "definitions": [
             {
                 "sense": "1",
@@ -164,8 +161,7 @@
         ]
     },
     {
-        "term": "pacak",
-        "roman_numeral": "III",
+        "term": "pacak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -186,8 +182,7 @@
         ]
     },
     {
-        "term": "pacak",
-        "roman_numeral": "IV",
+        "term": "pacak IV",
         "origin": "Jw",
         "definitions": [
             {
@@ -221,8 +216,7 @@
         ]
     },
     {
-        "term": "pacal",
-        "roman_numeral": "II",
+        "term": "pacal II",
         "definitions": [
             {
                 "sense": "1",
@@ -231,7 +225,7 @@
         ]
     },
     {
-        "term": "pacang",
+        "term": "pacang; memacang",
         "definitions": [
             {
                 "sense": "1",
@@ -251,8 +245,7 @@
         ]
     },
     {
-        "term": "pacar",
-        "roman_numeral": "I",
+        "term": "pacar I",
         "definitions": [
             {
                 "sense": "1",
@@ -272,8 +265,7 @@
         ]
     },
     {
-        "term": "pacar",
-        "roman_numeral": "II",
+        "term": "pacar II;",
         "definitions": [
             {
                 "sense": "1",
@@ -282,8 +274,7 @@
         ]
     },
     {
-        "term": "pacar",
-        "roman_numeral": "III",
+        "term": "pacar III",
         "origin": "Jk",
         "definitions": [
             {
@@ -313,8 +304,7 @@
         ]
     },
     {
-        "term": "pacat",
-        "roman_numeral": "I",
+        "term": "pacat I",
         "definitions": [
             {
                 "sense": "1",
@@ -323,8 +313,7 @@
         ]
     },
     {
-        "term": "pacat",
-        "roman_numeral": "II",
+        "term": "pacat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -333,8 +322,7 @@
         ]
     },
     {
-        "term": "pacat",
-        "roman_numeral": "III",
+        "term": "pacat III;",
         "definitions": [
             {
                 "sense": "1",
@@ -403,7 +391,7 @@
         ]
     },
     {
-        "term": "pacih",
+        "term": "pacih, pacis",
         "definitions": [
             {
                 "sense": "1",
@@ -523,8 +511,7 @@
         ]
     },
     {
-        "term": "pacuk",
-        "roman_numeral": "I",
+        "term": "pacuk I; memacuk",
         "definitions": [
             {
                 "sense": "1",
@@ -533,8 +520,7 @@
         ]
     },
     {
-        "term": "pacuk",
-        "roman_numeral": "II",
+        "term": "pacuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -543,8 +529,7 @@
         ]
     },
     {
-        "term": "pacul",
-        "roman_numeral": "I",
+        "term": "pacul I",
         "definitions": [
             {
                 "sense": "1",
@@ -564,8 +549,7 @@
         ]
     },
     {
-        "term": "pacul",
-        "roman_numeral": "II",
+        "term": "pacul II; memacul",
         "definitions": [
             {
                 "sense": "1",
@@ -720,8 +704,7 @@
         ]
     },
     {
-        "term": "pada",
-        "roman_numeral": "III",
+        "term": "pada III",
         "definitions": [
             {
                 "sense": "1",
@@ -730,7 +713,8 @@
         ]
     },
     {
-        "term": "pada IV sl",
+        "term": "pada IV",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -743,8 +727,7 @@
         ]
     },
     {
-        "term": "padah",
-        "roman_numeral": "I",
+        "term": "padah I",
         "definitions": [
             {
                 "sense": "1",
@@ -753,8 +736,7 @@
         ]
     },
     {
-        "term": "padah",
-        "roman_numeral": "II",
+        "term": "padah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -764,8 +746,7 @@
         ]
     },
     {
-        "term": "padah",
-        "roman_numeral": "III",
+        "term": "padah III; memadah",
         "definitions": [
             {
                 "sense": "1",
@@ -794,10 +775,11 @@
     },
     {
         "term": "padaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl    pedaka I ."
+                "definition": "  pedaka I ."
             }
         ]
     },
@@ -885,8 +867,7 @@
         ]
     },
     {
-        "term": "padam",
-        "roman_numeral": "II",
+        "term": "padam II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1015,8 +996,7 @@
         ]
     },
     {
-        "term": "padan",
-        "roman_numeral": "II",
+        "term": "padan II",
         "definitions": [
             {
                 "sense": "1",
@@ -1025,8 +1005,7 @@
         ]
     },
     {
-        "term": "padan",
-        "roman_numeral": "III",
+        "term": "padan III",
         "origin": "Mn",
         "definitions": [
             {
@@ -1047,8 +1026,7 @@
         ]
     },
     {
-        "term": "padan",
-        "roman_numeral": "IV",
+        "term": "padan IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -1257,8 +1235,7 @@
         ]
     },
     {
-        "term": "padi",
-        "roman_numeral": "II",
+        "term": "padi II",
         "definitions": [
             {
                 "sense": "1",
@@ -1577,8 +1554,7 @@
         ]
     },
     {
-        "term": "padung",
-        "roman_numeral": "I",
+        "term": "padung I",
         "definitions": [
             {
                 "sense": "1",
@@ -1587,8 +1563,7 @@
         ]
     },
     {
-        "term": "padung",
-        "roman_numeral": "II",
+        "term": "padung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1597,8 +1572,7 @@
         ]
     },
     {
-        "term": "padung",
-        "roman_numeral": "III",
+        "term": "padung III",
         "definitions": [
             {
                 "sense": "1",
@@ -1635,8 +1609,7 @@
         ]
     },
     {
-        "term": "paf",
-        "roman_numeral": "I",
+        "term": "paf I",
         "definitions": [
             {
                 "sense": "1",
@@ -1645,8 +1618,7 @@
         ]
     },
     {
-        "term": "paf",
-        "roman_numeral": "II",
+        "term": "paf II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1655,7 +1627,7 @@
         ]
     },
     {
-        "term": "pagai",
+        "term": "pagai;",
         "definitions": [
             {
                 "sense": "1",
@@ -1664,8 +1636,7 @@
         ]
     },
     {
-        "term": "pagan",
-        "roman_numeral": "I",
+        "term": "pagan I",
         "definitions": [
             {
                 "sense": "1",
@@ -1674,8 +1645,7 @@
         ]
     },
     {
-        "term": "pagan",
-        "roman_numeral": "II",
+        "term": "pagan II",
         "definitions": [
             {
                 "sense": "1",
@@ -1778,8 +1748,7 @@
         ]
     },
     {
-        "term": "pagar",
-        "roman_numeral": "II",
+        "term": "pagar II;",
         "definitions": [
             {
                 "sense": "1",
@@ -1895,8 +1864,7 @@
         ]
     },
     {
-        "term": "pagut",
-        "roman_numeral": "I",
+        "term": "pagut I; memagut",
         "definitions": [
             {
                 "sense": "1",
@@ -1916,8 +1884,7 @@
         ]
     },
     {
-        "term": "pagut",
-        "roman_numeral": "II",
+        "term": "pagut II",
         "origin": "Mn",
         "definitions": [
             {
@@ -1973,8 +1940,7 @@
         ]
     },
     {
-        "term": "pah",
-        "roman_numeral": "II",
+        "term": "pah II",
         "origin": "IB",
         "definitions": [
             {
@@ -2001,8 +1967,7 @@
         ]
     },
     {
-        "term": "paha",
-        "roman_numeral": "II",
+        "term": "paha II",
         "origin": "Kl",
         "definitions": [
             {
@@ -2012,8 +1977,7 @@
         ]
     },
     {
-        "term": "paha",
-        "roman_numeral": "III",
+        "term": "paha III;",
         "definitions": [
             {
                 "sense": "1",
@@ -2042,8 +2006,7 @@
         ]
     },
     {
-        "term": "pahang",
-        "roman_numeral": "I",
+        "term": "pahang I",
         "definitions": [
             {
                 "sense": "1",
@@ -2052,8 +2015,7 @@
         ]
     },
     {
-        "term": "Pahang",
-        "roman_numeral": "II",
+        "term": "Pahang II",
         "definitions": [
             {
                 "sense": "1",
@@ -2071,8 +2033,7 @@
         ]
     },
     {
-        "term": "pahat",
-        "roman_numeral": "I",
+        "term": "pahat I",
         "definitions": [
             {
                 "sense": "1",
@@ -2149,8 +2110,7 @@
         ]
     },
     {
-        "term": "pahat",
-        "roman_numeral": "II",
+        "term": "pahat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2159,7 +2119,7 @@
         ]
     },
     {
-        "term": "pahi",
+        "term": "pahi;",
         "definitions": [
             {
                 "sense": "1",
@@ -2231,8 +2191,7 @@
         ]
     },
     {
-        "term": "pahit",
-        "roman_numeral": "II",
+        "term": "pahit II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2261,7 +2220,7 @@
         ]
     },
     {
-        "term": "pahuk",
+        "term": "pahuk; memahuk",
         "definitions": [
             {
                 "sense": "1",
@@ -2279,8 +2238,7 @@
         ]
     },
     {
-        "term": "pai",
-        "roman_numeral": "II",
+        "term": "pai II;",
         "definitions": [
             {
                 "sense": "1",
@@ -2390,8 +2348,7 @@
         ]
     },
     {
-        "term": "pair",
-        "roman_numeral": "II",
+        "term": "pair II",
         "origin": "Id",
         "definitions": [
             {
@@ -2648,8 +2605,7 @@
         ]
     },
     {
-        "term": "pak",
-        "roman_numeral": "I",
+        "term": "pak I",
         "definitions": [
             {
                 "sense": "1",
@@ -2682,8 +2638,7 @@
         ]
     },
     {
-        "term": "pak",
-        "roman_numeral": "III",
+        "term": "pak III",
         "origin": "IB",
         "definitions": [
             {
@@ -2730,8 +2685,7 @@
         ]
     },
     {
-        "term": "pak",
-        "roman_numeral": "V",
+        "term": "pak V",
         "definitions": [
             {
                 "sense": "1",
@@ -2740,7 +2694,7 @@
         ]
     },
     {
-        "term": "paka",
+        "term": "paka;",
         "definitions": [
             {
                 "sense": "1",
@@ -2749,8 +2703,7 @@
         ]
     },
     {
-        "term": "pakah",
-        "roman_numeral": "I",
+        "term": "pakah I",
         "origin": "Kl",
         "definitions": [
             {
@@ -2760,8 +2713,7 @@
         ]
     },
     {
-        "term": "pakah",
-        "roman_numeral": "II",
+        "term": "pakah II",
         "origin": "Br",
         "definitions": [
             {
@@ -2771,8 +2723,7 @@
         ]
     },
     {
-        "term": "pakah",
-        "roman_numeral": "III",
+        "term": "pakah III",
         "origin": "Kl",
         "definitions": [
             {
@@ -2977,8 +2928,7 @@
         ]
     },
     {
-        "term": "pakan",
-        "roman_numeral": "I",
+        "term": "pakan I",
         "definitions": [
             {
                 "sense": "1",
@@ -3020,8 +2970,7 @@
         ]
     },
     {
-        "term": "pakan",
-        "roman_numeral": "II",
+        "term": "pakan II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3030,8 +2979,7 @@
         ]
     },
     {
-        "term": "pakan",
-        "roman_numeral": "III",
+        "term": "pakan III",
         "origin": "Mn",
         "definitions": [
             {
@@ -3041,8 +2989,7 @@
         ]
     },
     {
-        "term": "pakan",
-        "roman_numeral": "IV",
+        "term": "pakan IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -3231,8 +3178,7 @@
         ]
     },
     {
-        "term": "pakau",
-        "roman_numeral": "I",
+        "term": "pakau I",
         "origin": "C",
         "definitions": [
             {
@@ -3255,8 +3201,7 @@
         ]
     },
     {
-        "term": "pakau",
-        "roman_numeral": "III",
+        "term": "pakau III",
         "definitions": [
             {
                 "sense": "1",
@@ -3265,8 +3210,7 @@
         ]
     },
     {
-        "term": "pakau",
-        "roman_numeral": "IV",
+        "term": "pakau IV",
         "origin": "Mn",
         "definitions": [
             {
@@ -3310,8 +3254,7 @@
         ]
     },
     {
-        "term": "pakem",
-        "roman_numeral": "I",
+        "term": "pakem I; memakem",
         "definitions": [
             {
                 "sense": "1",
@@ -3320,8 +3263,7 @@
         ]
     },
     {
-        "term": "pakem",
-        "roman_numeral": "II",
+        "term": "pakem II",
         "origin": "Jw",
         "definitions": [
             {
@@ -3390,7 +3332,7 @@
         ]
     },
     {
-        "term": "pak-pak",
+        "term": "pak-pak;",
         "definitions": [
             {
                 "sense": "1",
@@ -3490,18 +3432,17 @@
         ]
     },
     {
-        "term": "paksa",
-        "roman_numeral": "II",
+        "term": "paksa II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl masa (waktu, saat) yg baik, peluang (kesempatan) baik:  hari  ini memang beta mendapat ~; sekali ini ~ tekukurlah mendapat  padi rebah; angin ~  angin yg baik (utk belayar)."
+                "definition": "masa (waktu, saat) yg baik, peluang (kesempatan) baik:  hari  ini memang beta mendapat ~; sekali ini ~ tekukurlah mendapat  padi rebah; angin ~  angin yg baik (utk belayar)."
             }
         ]
     },
     {
-        "term": "paksa",
-        "roman_numeral": "III",
+        "term": "paksa III",
         "definitions": [
             {
                 "sense": "1",
@@ -3538,18 +3479,17 @@
         ]
     },
     {
-        "term": "paksi",
-        "roman_numeral": "II",
+        "term": "paksi II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj burung:  ~ dewata; ~ jentayu;  peksi ."
+                "definition": "sj burung:  ~ dewata; ~ jentayu;  peksi ."
             }
         ]
     },
     {
-        "term": "paksi",
-        "roman_numeral": "III",
+        "term": "paksi III",
         "definitions": [
             {
                 "sense": "1",
@@ -3559,10 +3499,11 @@
     },
     {
         "term": "paksina",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl utara:  arah ke ~; dr daksina ke ~."
+                "definition": "utara:  arah ke ~; dr daksina ke ~."
             }
         ]
     },
@@ -3638,8 +3579,7 @@
         ]
     },
     {
-        "term": "paku",
-        "roman_numeral": "II",
+        "term": "paku II",
         "definitions": [
             {
                 "sense": "1",
@@ -3648,8 +3588,7 @@
         ]
     },
     {
-        "term": "paku",
-        "roman_numeral": "III",
+        "term": "paku III",
         "definitions": [
             {
                 "sense": "1",
@@ -3658,7 +3597,7 @@
         ]
     },
     {
-        "term": "pakuh",
+        "term": "pakuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -3667,7 +3606,7 @@
         ]
     },
     {
-        "term": "pakuk",
+        "term": "pakuk; memakuk",
         "definitions": [
             {
                 "sense": "1",
@@ -3727,8 +3666,7 @@
         ]
     },
     {
-        "term": "pal",
-        "roman_numeral": "I",
+        "term": "pal I",
         "origin": "IB",
         "definitions": [
             {
@@ -3749,8 +3687,7 @@
         ]
     },
     {
-        "term": "pal",
-        "roman_numeral": "II",
+        "term": "pal II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3759,8 +3696,7 @@
         ]
     },
     {
-        "term": "pala",
-        "roman_numeral": "I",
+        "term": "pala I",
         "definitions": [
             {
                 "sense": "1",
@@ -3769,8 +3705,7 @@
         ]
     },
     {
-        "term": "pala",
-        "roman_numeral": "II",
+        "term": "pala II; sepala, sepala-pala, pala-pala",
         "definitions": [
             {
                 "sense": "1",
@@ -3779,8 +3714,7 @@
         ]
     },
     {
-        "term": "pala",
-        "roman_numeral": "III",
+        "term": "pala III",
         "definitions": [
             {
                 "sense": "1",
@@ -3877,8 +3811,7 @@
         ]
     },
     {
-        "term": "palak",
-        "roman_numeral": "II",
+        "term": "palak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -3888,8 +3821,7 @@
         ]
     },
     {
-        "term": "palam",
-        "roman_numeral": "I",
+        "term": "palam I",
         "definitions": [
             {
                 "sense": "1",
@@ -3918,8 +3850,7 @@
         ]
     },
     {
-        "term": "palam",
-        "roman_numeral": "II",
+        "term": "palam II",
         "definitions": [
             {
                 "sense": "1",
@@ -3978,7 +3909,7 @@
         ]
     },
     {
-        "term": "palar",
+        "term": "palar;",
         "definitions": [
             {
                 "sense": "1",
@@ -4002,8 +3933,7 @@
         ]
     },
     {
-        "term": "palas",
-        "roman_numeral": "I",
+        "term": "palas I",
         "definitions": [
             {
                 "sense": "1",
@@ -4012,8 +3942,7 @@
         ]
     },
     {
-        "term": "palas",
-        "roman_numeral": "II",
+        "term": "palas II;",
         "definitions": [
             {
                 "sense": "1",
@@ -4043,8 +3972,7 @@
         ]
     },
     {
-        "term": "palat",
-        "roman_numeral": "I",
+        "term": "palat I;",
         "definitions": [
             {
                 "sense": "1",
@@ -4053,8 +3981,7 @@
         ]
     },
     {
-        "term": "palat",
-        "roman_numeral": "II",
+        "term": "palat II",
         "definitions": [
             {
                 "sense": "1",
@@ -4063,8 +3990,7 @@
         ]
     },
     {
-        "term": "palat",
-        "roman_numeral": "III",
+        "term": "palat III",
         "origin": "Kd",
         "definitions": [
             {
@@ -4286,8 +4212,7 @@
         ]
     },
     {
-        "term": "paling",
-        "roman_numeral": "III",
+        "term": "paling III",
         "origin": "Mn",
         "definitions": [
             {
@@ -4306,8 +4231,7 @@
         ]
     },
     {
-        "term": "palis",
-        "roman_numeral": "I",
+        "term": "palis I; berpalis",
         "definitions": [
             {
                 "sense": "1",
@@ -4327,8 +4251,7 @@
         ]
     },
     {
-        "term": "palis",
-        "roman_numeral": "II",
+        "term": "palis II; memalis",
         "definitions": [
             {
                 "sense": "1",
@@ -4337,8 +4260,7 @@
         ]
     },
     {
-        "term": "palis",
-        "roman_numeral": "III",
+        "term": "palis III",
         "origin": "Jk",
         "definitions": [
             {
@@ -4348,8 +4270,7 @@
         ]
     },
     {
-        "term": "palis",
-        "roman_numeral": "IV",
+        "term": "palis IV",
         "origin": "IB",
         "definitions": [
             {
@@ -4359,9 +4280,7 @@
         ]
     },
     {
-        "term": "palit",
-        "roman_numeral": "I",
-        "equals": "pemalit",
+        "term": "palit I = pemalit",
         "definitions": [
             {
                 "sense": "1",
@@ -4421,8 +4340,7 @@
         ]
     },
     {
-        "term": "palit",
-        "roman_numeral": "II",
+        "term": "palit II",
         "origin": "IB",
         "definitions": [
             {
@@ -4489,7 +4407,7 @@
         ]
     },
     {
-        "term": "palpat",
+        "term": "palpat; mempalpat",
         "origin": "(Ubat)",
         "definitions": [
             {
@@ -4576,10 +4494,11 @@
     },
     {
         "term": "paltu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pembantu (penolong, wakil) utk sementara:  ~ syahbandar; ~ dol  tiang layar sementara;  ikat ~  ikat yg sementara sahaja."
+                "definition": "pembantu (penolong, wakil) utk sementara:  ~ syahbandar; ~ dol  tiang layar sementara;  ikat ~  ikat yg sementara sahaja."
             }
         ]
     },
@@ -4993,8 +4912,7 @@
         ]
     },
     {
-        "term": "pampan",
-        "roman_numeral": "I",
+        "term": "pampan I",
         "definitions": [
             {
                 "sense": "1",
@@ -5003,8 +4921,7 @@
         ]
     },
     {
-        "term": "pampan",
-        "roman_numeral": "II",
+        "term": "pampan II",
         "origin": "Br",
         "definitions": [
             {
@@ -5014,8 +4931,7 @@
         ]
     },
     {
-        "term": "pampang",
-        "roman_numeral": "I",
+        "term": "pampang I; memampangkan",
         "definitions": [
             {
                 "sense": "1",
@@ -5035,8 +4951,7 @@
         ]
     },
     {
-        "term": "pampang",
-        "roman_numeral": "II",
+        "term": "pampang II",
         "origin": "Br",
         "definitions": [
             {
@@ -5057,8 +4972,7 @@
         ]
     },
     {
-        "term": "pampas",
-        "roman_numeral": "I",
+        "term": "pampas I",
         "definitions": [
             {
                 "sense": "1",
@@ -5100,8 +5014,7 @@
         ]
     },
     {
-        "term": "pampas",
-        "roman_numeral": "II",
+        "term": "pampas II",
         "definitions": [
             {
                 "sense": "1",
@@ -5152,8 +5065,7 @@
         ]
     },
     {
-        "term": "pan",
-        "roman_numeral": "I",
+        "term": "pan I",
         "origin": "IB",
         "definitions": [
             {
@@ -5174,8 +5086,7 @@
         ]
     },
     {
-        "term": "pan",
-        "roman_numeral": "II",
+        "term": "pan II",
         "origin": "Pr",
         "definitions": [
             {
@@ -5546,8 +5457,7 @@
         ]
     },
     {
-        "term": "panca",
-        "roman_numeral": "II",
+        "term": "panca II",
         "definitions": [
             {
                 "sense": "1",
@@ -5615,19 +5525,21 @@
     },
     {
         "term": "pancaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tempat membakar mayat."
+                "definition": "tempat membakar mayat."
             }
         ]
     },
     {
         "term": "pancakara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bergaduh, berperang."
+                "definition": "bergaduh, berperang."
             }
         ]
     },
@@ -5690,8 +5602,7 @@
         ]
     },
     {
-        "term": "pancang",
-        "roman_numeral": "I",
+        "term": "pancang I",
         "definitions": [
             {
                 "sense": "1",
@@ -5767,8 +5678,7 @@
         ]
     },
     {
-        "term": "pancang",
-        "roman_numeral": "II",
+        "term": "pancang II",
         "definitions": [
             {
                 "sense": "1",
@@ -5944,10 +5854,11 @@
     },
     {
         "term": "pancaraja",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl;  ~   diraja  sl alat (tempat) mengusung jenazah raja."
+                "definition": ";  ~   diraja  sl alat (tempat) mengusung jenazah raja."
             }
         ]
     },
@@ -5966,10 +5877,11 @@
     },
     {
         "term": "pancarona",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bermacam-macam warna, pancawarna."
+                "definition": "bermacam-macam warna, pancawarna."
             }
         ]
     },
@@ -5984,10 +5896,11 @@
     },
     {
         "term": "pancasona",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj jampi yg boleh menyebabkan orang mati hidup kembali."
+                "definition": "sj jampi yg boleh menyebabkan orang mati hidup kembali."
             }
         ]
     },
@@ -6124,8 +6037,7 @@
         ]
     },
     {
-        "term": "pancit",
-        "roman_numeral": "I",
+        "term": "pancit I; memancit",
         "definitions": [
             {
                 "sense": "1",
@@ -6172,8 +6084,7 @@
         ]
     },
     {
-        "term": "pancit",
-        "roman_numeral": "II",
+        "term": "pancit II",
         "definitions": [
             {
                 "sense": "1",
@@ -6202,8 +6113,7 @@
         ]
     },
     {
-        "term": "pancung",
-        "roman_numeral": "I",
+        "term": "pancung I",
         "definitions": [
             {
                 "sense": "1",
@@ -6313,7 +6223,7 @@
         ]
     },
     {
-        "term": "pancut",
+        "term": "pancut; memancut",
         "definitions": [
             {
                 "sense": "1",
@@ -6472,8 +6382,7 @@
         ]
     },
     {
-        "term": "pandak",
-        "roman_numeral": "I",
+        "term": "pandak I",
         "definitions": [
             {
                 "sense": "1",
@@ -6502,8 +6411,7 @@
         ]
     },
     {
-        "term": "pandak",
-        "roman_numeral": "II",
+        "term": "pandak II",
         "origin": "Pr",
         "definitions": [
             {
@@ -6513,8 +6421,7 @@
         ]
     },
     {
-        "term": "pandam",
-        "roman_numeral": "I",
+        "term": "pandam I",
         "definitions": [
             {
                 "sense": "1",
@@ -6534,8 +6441,7 @@
         ]
     },
     {
-        "term": "pandam",
-        "roman_numeral": "II",
+        "term": "pandam II",
         "origin": "Mn",
         "definitions": [
             {
@@ -6545,8 +6451,7 @@
         ]
     },
     {
-        "term": "pandan",
-        "roman_numeral": "I",
+        "term": "pandan I",
         "definitions": [
             {
                 "sense": "1",
@@ -6555,8 +6460,7 @@
         ]
     },
     {
-        "term": "pandan",
-        "roman_numeral": "II",
+        "term": "pandan II",
         "definitions": [
             {
                 "sense": "1",
@@ -6565,8 +6469,7 @@
         ]
     },
     {
-        "term": "pandan",
-        "roman_numeral": "III",
+        "term": "pandan III",
         "definitions": [
             {
                 "sense": "1",
@@ -6953,8 +6856,7 @@
         ]
     },
     {
-        "term": "pandu",
-        "roman_numeral": "II",
+        "term": "pandu II; memandu",
         "definitions": [
             {
                 "sense": "1",
@@ -6963,7 +6865,7 @@
         ]
     },
     {
-        "term": "pandu",
+        "term": "pandu uji",
         "definitions": [
             {
                 "sense": "1",
@@ -7047,7 +6949,7 @@
         ]
     },
     {
-        "term": "pangah",
+        "term": "pangah; terpangah",
         "definitions": [
             {
                 "sense": "1",
@@ -7070,8 +6972,7 @@
         ]
     },
     {
-        "term": "pangan",
-        "roman_numeral": "I",
+        "term": "pangan I",
         "definitions": [
             {
                 "sense": "1",
@@ -7080,8 +6981,7 @@
         ]
     },
     {
-        "term": "pangan",
-        "roman_numeral": "II",
+        "term": "pangan II",
         "origin": "Jw",
         "definitions": [
             {
@@ -7130,8 +7030,7 @@
         ]
     },
     {
-        "term": "panggal",
-        "roman_numeral": "I",
+        "term": "panggal I",
         "definitions": [
             {
                 "sense": "1",
@@ -7151,8 +7050,7 @@
         ]
     },
     {
-        "term": "panggal",
-        "roman_numeral": "II",
+        "term": "panggal II",
         "origin": "Br",
         "definitions": [
             {
@@ -7217,8 +7115,7 @@
         ]
     },
     {
-        "term": "panggar",
-        "roman_numeral": "I",
+        "term": "panggar I",
         "definitions": [
             {
                 "sense": "1",
@@ -7374,7 +7271,7 @@
         ]
     },
     {
-        "term": "pangguk",
+        "term": "pangguk; memangguk",
         "definitions": [
             {
                 "sense": "1",
@@ -7383,8 +7280,7 @@
         ]
     },
     {
-        "term": "panggul",
-        "roman_numeral": "I",
+        "term": "panggul I",
         "origin": "Jk",
         "definitions": [
             {
@@ -7394,8 +7290,7 @@
         ]
     },
     {
-        "term": "panggul",
-        "roman_numeral": "II",
+        "term": "panggul II",
         "origin": "Jw",
         "definitions": [
             {
@@ -7490,8 +7385,7 @@
         ]
     },
     {
-        "term": "pangkah",
-        "roman_numeral": "II",
+        "term": "pangkah II",
         "definitions": [
             {
                 "sense": "1",
@@ -7520,8 +7414,7 @@
         ]
     },
     {
-        "term": "pangkai",
-        "roman_numeral": "I",
+        "term": "pangkai I",
         "definitions": [
             {
                 "sense": "1",
@@ -7530,8 +7423,7 @@
         ]
     },
     {
-        "term": "pangkai",
-        "roman_numeral": "II",
+        "term": "pangkai II",
         "definitions": [
             {
                 "sense": "1",
@@ -7655,7 +7547,7 @@
         ]
     },
     {
-        "term": "pangkas",
+        "term": "pangkas;",
         "definitions": [
             {
                 "sense": "1",
@@ -7951,7 +7843,7 @@
         ]
     },
     {
-        "term": "pangkung",
+        "term": "pangkung; memangkung",
         "definitions": [
             {
                 "sense": "1",
@@ -7993,7 +7885,7 @@
         ]
     },
     {
-        "term": "panglin",
+        "term": "panglin;",
         "definitions": [
             {
                 "sense": "1",
@@ -8117,8 +8009,7 @@
         ]
     },
     {
-        "term": "pangsi",
-        "roman_numeral": "II",
+        "term": "pangsi II",
         "origin": "C",
         "definitions": [
             {
@@ -8137,7 +8028,7 @@
         ]
     },
     {
-        "term": "panguk",
+        "term": "panguk; terpanguk",
         "definitions": [
             {
                 "sense": "1",
@@ -8146,7 +8037,7 @@
         ]
     },
     {
-        "term": "pangulin",
+        "term": "pangulin;",
         "definitions": [
             {
                 "sense": "1",
@@ -8168,18 +8059,17 @@
         ]
     },
     {
-        "term": "pangus",
-        "roman_numeral": "I",
+        "term": "pangus I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl cekap, tangkas:  terlalu baik parasnya, sedap, manis, pantas,  ~, tiada siapa taranya pd zaman itu."
+                "definition": "cekap, tangkas:  terlalu baik parasnya, sedap, manis, pantas,  ~, tiada siapa taranya pd zaman itu."
             }
         ]
     },
     {
-        "term": "pangus",
-        "roman_numeral": "II",
+        "term": "pangus II; memangus",
         "definitions": [
             {
                 "sense": "1",
@@ -8188,7 +8078,7 @@
         ]
     },
     {
-        "term": "pani",
+        "term": "pani;",
         "definitions": [
             {
                 "sense": "1",
@@ -8283,7 +8173,7 @@
         ]
     },
     {
-        "term": "panja",
+        "term": "panja;",
         "definitions": [
             {
                 "sense": "1",
@@ -8468,8 +8358,7 @@
         ]
     },
     {
-        "term": "panjang",
-        "roman_numeral": "II",
+        "term": "panjang II",
         "origin": "Pr",
         "definitions": [
             {
@@ -8601,10 +8490,11 @@
     },
     {
         "term": "panjunan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tukang periuk belanga."
+                "definition": "tukang periuk belanga."
             }
         ]
     },
@@ -8626,8 +8516,7 @@
         ]
     },
     {
-        "term": "panjut",
-        "roman_numeral": "II",
+        "term": "panjut II",
         "definitions": [
             {
                 "sense": "1",
@@ -8665,8 +8554,7 @@
         ]
     },
     {
-        "term": "panjut",
-        "roman_numeral": "III",
+        "term": "panjut III;",
         "definitions": [
             {
                 "sense": "1",
@@ -8720,10 +8608,11 @@
     },
     {
         "term": "panta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl guli."
+                "definition": "guli."
             }
         ]
     },
@@ -8765,8 +8654,7 @@
         ]
     },
     {
-        "term": "pantak",
-        "roman_numeral": "I",
+        "term": "pantak I; memantak",
         "definitions": [
             {
                 "sense": "1",
@@ -8804,8 +8692,7 @@
         ]
     },
     {
-        "term": "pantak",
-        "roman_numeral": "II",
+        "term": "pantak II",
         "origin": "Br",
         "definitions": [
             {
@@ -8917,8 +8804,7 @@
         ]
     },
     {
-        "term": "pantaran",
-        "roman_numeral": "I",
+        "term": "pantaran I",
         "origin": "Br",
         "definitions": [
             {
@@ -8928,8 +8814,7 @@
         ]
     },
     {
-        "term": "pantaran",
-        "roman_numeral": "II",
+        "term": "pantaran II",
         "origin": "Jw",
         "definitions": [
             {
@@ -9066,8 +8951,7 @@
         ]
     },
     {
-        "term": "pantau",
-        "roman_numeral": "I",
+        "term": "pantau I",
         "origin": "Mn",
         "definitions": [
             {
@@ -9132,8 +9016,7 @@
         ]
     },
     {
-        "term": "pantau",
-        "roman_numeral": "III",
+        "term": "pantau III; memantau",
         "definitions": [
             {
                 "sense": "1",
@@ -9223,7 +9106,7 @@
         ]
     },
     {
-        "term": "panting",
+        "term": "panting;",
         "definitions": [
             {
                 "sense": "1",
@@ -9519,8 +9402,7 @@
         ]
     },
     {
-        "term": "papa",
-        "roman_numeral": "I",
+        "term": "papa I",
         "definitions": [
             {
                 "sense": "1",
@@ -9558,8 +9440,7 @@
         ]
     },
     {
-        "term": "papa",
-        "roman_numeral": "II",
+        "term": "papa II",
         "definitions": [
             {
                 "sense": "1",
@@ -9577,8 +9458,7 @@
         ]
     },
     {
-        "term": "papah",
-        "roman_numeral": "I",
+        "term": "papah I; berpapah",
         "definitions": [
             {
                 "sense": "1",
@@ -9607,8 +9487,7 @@
         ]
     },
     {
-        "term": "papah",
-        "roman_numeral": "II",
+        "term": "papah II",
         "origin": "Jw",
         "definitions": [
             {
@@ -9618,8 +9497,7 @@
         ]
     },
     {
-        "term": "papah",
-        "roman_numeral": "III",
+        "term": "papah III",
         "origin": "Kl",
         "definitions": [
             {
@@ -9629,8 +9507,7 @@
         ]
     },
     {
-        "term": "papah",
-        "roman_numeral": "IV",
+        "term": "papah IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -9663,8 +9540,7 @@
         ]
     },
     {
-        "term": "papak",
-        "roman_numeral": "II",
+        "term": "papak II; memapak",
         "definitions": [
             {
                 "sense": "1",
@@ -9673,8 +9549,7 @@
         ]
     },
     {
-        "term": "papak",
-        "roman_numeral": "III",
+        "term": "papak III; berpapakan",
         "definitions": [
             {
                 "sense": "1",
@@ -9703,18 +9578,17 @@
         ]
     },
     {
-        "term": "papak",
-        "roman_numeral": "IV",
+        "term": "papak IV",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pepak."
+                "definition": "pepak."
             }
         ]
     },
     {
-        "term": "papak",
-        "roman_numeral": "V",
+        "term": "papak V;",
         "definitions": [
             {
                 "sense": "1",
@@ -9723,7 +9597,8 @@
         ]
     },
     {
-        "term": "papakerma sl",
+        "term": "papakerma",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -9769,8 +9644,7 @@
         ]
     },
     {
-        "term": "papan",
-        "roman_numeral": "II",
+        "term": "papan II;",
         "definitions": [
             {
                 "sense": "1",
@@ -9858,8 +9732,7 @@
         ]
     },
     {
-        "term": "papar",
-        "roman_numeral": "III",
+        "term": "papar III",
         "definitions": [
             {
                 "sense": "1",
@@ -9905,8 +9778,7 @@
         ]
     },
     {
-        "term": "papas",
-        "roman_numeral": "II",
+        "term": "papas II; berpapasan",
         "definitions": [
             {
                 "sense": "1",
@@ -10000,8 +9872,7 @@
         ]
     },
     {
-        "term": "para",
-        "roman_numeral": "I",
+        "term": "para I",
         "definitions": [
             {
                 "sense": "1",
@@ -10027,8 +9898,7 @@
         ]
     },
     {
-        "term": "para",
-        "roman_numeral": "III",
+        "term": "para III",
         "definitions": [
             {
                 "sense": "1",
@@ -10037,8 +9907,7 @@
         ]
     },
     {
-        "term": "para",
-        "roman_numeral": "IV",
+        "term": "para IV",
         "definitions": [
             {
                 "sense": "1",
@@ -10142,7 +10011,7 @@
         ]
     },
     {
-        "term": "paradom",
+        "term": "paradom;",
         "definitions": [
             {
                 "sense": "1",
@@ -10249,8 +10118,7 @@
         ]
     },
     {
-        "term": "parak",
-        "roman_numeral": "I",
+        "term": "parak I",
         "definitions": [
             {
                 "sense": "1",
@@ -10279,8 +10147,7 @@
         ]
     },
     {
-        "term": "parak",
-        "roman_numeral": "II",
+        "term": "parak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10289,8 +10156,7 @@
         ]
     },
     {
-        "term": "parak",
-        "roman_numeral": "III",
+        "term": "parak III",
         "origin": "Mn",
         "definitions": [
             {
@@ -10300,8 +10166,7 @@
         ]
     },
     {
-        "term": "parak",
-        "roman_numeral": "IV",
+        "term": "parak IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -10422,8 +10287,7 @@
         ]
     },
     {
-        "term": "parang",
-        "roman_numeral": "I",
+        "term": "parang I",
         "definitions": [
             {
                 "sense": "1",
@@ -10469,8 +10333,7 @@
         ]
     },
     {
-        "term": "parang",
-        "roman_numeral": "II",
+        "term": "parang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -10479,8 +10342,7 @@
         ]
     },
     {
-        "term": "parang",
-        "roman_numeral": "III",
+        "term": "parang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -10536,8 +10398,7 @@
         ]
     },
     {
-        "term": "parap",
-        "roman_numeral": "I",
+        "term": "parap I; memarap",
         "definitions": [
             {
                 "sense": "1",
@@ -10546,8 +10407,7 @@
         ]
     },
     {
-        "term": "parap",
-        "roman_numeral": "II",
+        "term": "parap II",
         "definitions": [
             {
                 "sense": "1",
@@ -10567,7 +10427,7 @@
         ]
     },
     {
-        "term": "para-para",
+        "term": "para-para;",
         "definitions": [
             {
                 "sense": "1",
@@ -10604,8 +10464,7 @@
         ]
     },
     {
-        "term": "paras",
-        "roman_numeral": "I",
+        "term": "paras I",
         "definitions": [
             {
                 "sense": "1",
@@ -10669,8 +10528,7 @@
         ]
     },
     {
-        "term": "paras",
-        "roman_numeral": "III",
+        "term": "paras III",
         "definitions": [
             {
                 "sense": "1",
@@ -10876,8 +10734,7 @@
         ]
     },
     {
-        "term": "pari-pari",
-        "roman_numeral": "I",
+        "term": "pari-pari I",
         "definitions": [
             {
                 "sense": "1",
@@ -10886,8 +10743,7 @@
         ]
     },
     {
-        "term": "pari-pari",
-        "roman_numeral": "II",
+        "term": "pari-pari II",
         "definitions": [
             {
                 "sense": "1",
@@ -10906,7 +10762,7 @@
         ]
     },
     {
-        "term": "paris",
+        "term": "paris;",
         "definitions": [
             {
                 "sense": "1",
@@ -11187,7 +11043,7 @@
         ]
     },
     {
-        "term": "parpu",
+        "term": "parpu;",
         "definitions": [
             {
                 "sense": "1",
@@ -11196,8 +11052,7 @@
         ]
     },
     {
-        "term": "parsi",
-        "roman_numeral": "I",
+        "term": "parsi I;",
         "definitions": [
             {
                 "sense": "1",
@@ -11206,8 +11061,7 @@
         ]
     },
     {
-        "term": "Parsi",
-        "roman_numeral": "II",
+        "term": "Parsi II",
         "definitions": [
             {
                 "sense": "1",
@@ -11322,8 +11176,7 @@
         ]
     },
     {
-        "term": "paruh",
-        "roman_numeral": "I",
+        "term": "paruh I",
         "definitions": [
             {
                 "sense": "1",
@@ -11356,7 +11209,7 @@
         ]
     },
     {
-        "term": "parung",
+        "term": "parung;",
         "definitions": [
             {
                 "sense": "1",
@@ -11420,7 +11273,7 @@
         ]
     },
     {
-        "term": "parwah",
+        "term": "parwah;",
         "definitions": [
             {
                 "sense": "1",
@@ -11429,8 +11282,7 @@
         ]
     },
     {
-        "term": "pas",
-        "roman_numeral": "I",
+        "term": "pas I",
         "definitions": [
             {
                 "sense": "1",
@@ -11439,8 +11291,7 @@
         ]
     },
     {
-        "term": "pas",
-        "roman_numeral": "II",
+        "term": "pas II",
         "definitions": [
             {
                 "sense": "1",
@@ -11545,8 +11396,7 @@
         ]
     },
     {
-        "term": "pasak",
-        "roman_numeral": "II",
+        "term": "pasak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -11690,8 +11540,7 @@
         ]
     },
     {
-        "term": "pasang",
-        "roman_numeral": "III",
+        "term": "pasang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -11803,8 +11652,7 @@
         ]
     },
     {
-        "term": "pasar",
-        "roman_numeral": "I",
+        "term": "pasar I",
         "definitions": [
             {
                 "sense": "1",
@@ -11863,8 +11711,7 @@
         ]
     },
     {
-        "term": "pasar",
-        "roman_numeral": "II",
+        "term": "pasar II",
         "origin": "Mn",
         "definitions": [
             {
@@ -11901,7 +11748,7 @@
         ]
     },
     {
-        "term": "pasat",
+        "term": "pasat;",
         "definitions": [
             {
                 "sense": "1",
@@ -11987,7 +11834,7 @@
         ]
     },
     {
-        "term": "pasi",
+        "term": "pasi;",
         "definitions": [
             {
                 "sense": "1",
@@ -12131,8 +11978,7 @@
         ]
     },
     {
-        "term": "pasir",
-        "roman_numeral": "II",
+        "term": "pasir II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12141,8 +11987,7 @@
         ]
     },
     {
-        "term": "pasir",
-        "roman_numeral": "III",
+        "term": "pasir III;",
         "definitions": [
             {
                 "sense": "1",
@@ -12160,7 +12005,7 @@
         ]
     },
     {
-        "term": "pasir-pasir",
+        "term": "pasir-pasir;",
         "definitions": [
             {
                 "sense": "1",
@@ -12271,8 +12116,7 @@
         ]
     },
     {
-        "term": "pasta",
-        "roman_numeral": "I",
+        "term": "pasta I",
         "origin": "IB",
         "definitions": [
             {
@@ -12282,8 +12126,7 @@
         ]
     },
     {
-        "term": "pasta",
-        "roman_numeral": "II",
+        "term": "pasta II",
         "definitions": [
             {
                 "sense": "1",
@@ -12534,8 +12377,7 @@
         ]
     },
     {
-        "term": "pasung",
-        "roman_numeral": "I",
+        "term": "pasung I",
         "definitions": [
             {
                 "sense": "1",
@@ -12559,8 +12401,7 @@
         ]
     },
     {
-        "term": "pasung",
-        "roman_numeral": "II",
+        "term": "pasung II",
         "origin": "Kl",
         "definitions": [
             {
@@ -12589,7 +12430,7 @@
         ]
     },
     {
-        "term": "pata",
+        "term": "pata;",
         "definitions": [
             {
                 "sense": "1",
@@ -12737,8 +12578,7 @@
         ]
     },
     {
-        "term": "patah",
-        "roman_numeral": "II",
+        "term": "patah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12747,7 +12587,8 @@
         ]
     },
     {
-        "term": "patam sl",
+        "term": "patam",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
@@ -12830,10 +12671,11 @@
     },
     {
         "term": "patera",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl daun."
+                "definition": "daun."
             }
         ]
     },
@@ -12952,8 +12794,7 @@
         ]
     },
     {
-        "term": "pati",
-        "roman_numeral": "II",
+        "term": "pati II;",
         "definitions": [
             {
                 "sense": "1",
@@ -12962,8 +12803,7 @@
         ]
     },
     {
-        "term": "pati",
-        "roman_numeral": "III",
+        "term": "pati III",
         "origin": "Mn",
         "definitions": [
             {
@@ -12973,8 +12813,7 @@
         ]
     },
     {
-        "term": "pati",
-        "roman_numeral": "IV",
+        "term": "pati IV",
         "definitions": [
             {
                 "sense": "1",
@@ -12983,8 +12822,7 @@
         ]
     },
     {
-        "term": "patih",
-        "roman_numeral": "I",
+        "term": "patih I",
         "definitions": [
             {
                 "sense": "1",
@@ -13066,8 +12904,7 @@
         ]
     },
     {
-        "term": "patik",
-        "roman_numeral": "II",
+        "term": "patik II; mematik",
         "definitions": [
             {
                 "sense": "1",
@@ -13076,8 +12913,7 @@
         ]
     },
     {
-        "term": "patik",
-        "roman_numeral": "III",
+        "term": "patik III",
         "origin": "Jk",
         "definitions": [
             {
@@ -13087,8 +12923,7 @@
         ]
     },
     {
-        "term": "patik",
-        "roman_numeral": "IV",
+        "term": "patik IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -13097,8 +12932,7 @@
         ]
     },
     {
-        "term": "patil",
-        "roman_numeral": "I",
+        "term": "patil I",
         "definitions": [
             {
                 "sense": "1",
@@ -13118,8 +12952,7 @@
         ]
     },
     {
-        "term": "patil",
-        "roman_numeral": "II",
+        "term": "patil II",
         "definitions": [
             {
                 "sense": "1",
@@ -13139,8 +12972,7 @@
         ]
     },
     {
-        "term": "patil",
-        "roman_numeral": "III",
+        "term": "patil III",
         "definitions": [
             {
                 "sense": "1",
@@ -13411,8 +13243,7 @@
         ]
     },
     {
-        "term": "patuk",
-        "roman_numeral": "II",
+        "term": "patuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -13462,8 +13293,7 @@
         ]
     },
     {
-        "term": "patung",
-        "roman_numeral": "II",
+        "term": "patung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -13472,8 +13302,7 @@
         ]
     },
     {
-        "term": "patung",
-        "roman_numeral": "III",
+        "term": "patung III",
         "definitions": [
             {
                 "sense": "1",
@@ -13482,8 +13311,7 @@
         ]
     },
     {
-        "term": "patung",
-        "roman_numeral": "IV",
+        "term": "patung IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -13665,8 +13493,7 @@
         ]
     },
     {
-        "term": "patut",
-        "roman_numeral": "II",
+        "term": "patut II;",
         "definitions": [
             {
                 "sense": "1",
@@ -13675,8 +13502,7 @@
         ]
     },
     {
-        "term": "pau",
-        "roman_numeral": "I",
+        "term": "pau I",
         "origin": "C",
         "definitions": [
             {
@@ -13686,8 +13512,7 @@
         ]
     },
     {
-        "term": "pau",
-        "roman_numeral": "II",
+        "term": "pau II",
         "origin": "C",
         "definitions": [
             {
@@ -13697,8 +13522,7 @@
         ]
     },
     {
-        "term": "pauh",
-        "roman_numeral": "I",
+        "term": "pauh I",
         "definitions": [
             {
                 "sense": "1",
@@ -13707,8 +13531,7 @@
         ]
     },
     {
-        "term": "pauh",
-        "roman_numeral": "II",
+        "term": "pauh II",
         "definitions": [
             {
                 "sense": "1",
@@ -13728,8 +13551,7 @@
         ]
     },
     {
-        "term": "pauh",
-        "roman_numeral": "III",
+        "term": "pauh III;",
         "definitions": [
             {
                 "sense": "1",
@@ -13738,7 +13560,7 @@
         ]
     },
     {
-        "term": "pauh-pauh",
+        "term": "pauh-pauh;",
         "definitions": [
             {
                 "sense": "1",
@@ -13747,8 +13569,7 @@
         ]
     },
     {
-        "term": "pauk",
-        "roman_numeral": "I",
+        "term": "pauk I;",
         "definitions": [
             {
                 "sense": "1",
@@ -13757,8 +13578,7 @@
         ]
     },
     {
-        "term": "pauk",
-        "roman_numeral": "II",
+        "term": "pauk II; memauk",
         "definitions": [
             {
                 "sense": "1",
@@ -13808,8 +13628,7 @@
         ]
     },
     {
-        "term": "paun",
-        "roman_numeral": "II",
+        "term": "paun II",
         "definitions": [
             {
                 "sense": "1",
@@ -13818,8 +13637,7 @@
         ]
     },
     {
-        "term": "paun",
-        "roman_numeral": "III",
+        "term": "paun III",
         "definitions": [
             {
                 "sense": "1",
@@ -13847,8 +13665,7 @@
         ]
     },
     {
-        "term": "paus",
-        "roman_numeral": "I",
+        "term": "paus I;",
         "definitions": [
             {
                 "sense": "1",
@@ -13857,8 +13674,7 @@
         ]
     },
     {
-        "term": "paus",
-        "roman_numeral": "II",
+        "term": "paus II",
         "definitions": [
             {
                 "sense": "1",
@@ -13867,8 +13683,7 @@
         ]
     },
     {
-        "term": "paut",
-        "roman_numeral": "I",
+        "term": "paut I;",
         "definitions": [
             {
                 "sense": "1",
@@ -13998,8 +13813,7 @@
         ]
     },
     {
-        "term": "paut",
-        "roman_numeral": "II",
+        "term": "paut II; terpaut",
         "origin": "Jk",
         "definitions": [
             {
@@ -14009,12 +13823,12 @@
         ]
     },
     {
-        "term": "paut",
-        "roman_numeral": "III",
+        "term": "paut III",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hampir akan sampai (bkn umur), hampir akan mati:  umur kita  telah ~lah."
+                "definition": "hampir akan sampai (bkn umur), hampir akan mati:  umur kita  telah ~lah."
             }
         ]
     },
@@ -14045,8 +13859,7 @@
         ]
     },
     {
-        "term": "pawah",
-        "roman_numeral": "I",
+        "term": "pawah I;",
         "definitions": [
             {
                 "sense": "1",
@@ -14055,8 +13868,7 @@
         ]
     },
     {
-        "term": "pawah",
-        "roman_numeral": "II",
+        "term": "pawah II",
         "definitions": [
             {
                 "sense": "1",
@@ -14123,19 +13935,21 @@
     },
     {
         "term": "pawaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl api."
+                "definition": "api."
             }
         ]
     },
     {
         "term": "pawana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl angin, bayu."
+                "definition": "angin, bayu."
             }
         ]
     },
@@ -14268,8 +14082,7 @@
         ]
     },
     {
-        "term": "payang",
-        "roman_numeral": "I",
+        "term": "payang I",
         "definitions": [
             {
                 "sense": "1",
@@ -14278,8 +14091,7 @@
         ]
     },
     {
-        "term": "payang",
-        "roman_numeral": "II",
+        "term": "payang II",
         "origin": "Jk",
         "definitions": [
             {
@@ -14289,8 +14101,7 @@
         ]
     },
     {
-        "term": "payang",
-        "roman_numeral": "III",
+        "term": "payang III",
         "definitions": [
             {
                 "sense": "1",
@@ -14321,8 +14132,7 @@
         ]
     },
     {
-        "term": "payau",
-        "roman_numeral": "II",
+        "term": "payau II",
         "origin": "Br",
         "definitions": [
             {
@@ -14473,8 +14283,7 @@
         ]
     },
     {
-        "term": "payung",
-        "roman_numeral": "II",
+        "term": "payung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14827,8 +14636,7 @@
         ]
     },
     {
-        "term": "pecah",
-        "roman_numeral": "II",
+        "term": "pecah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -14837,8 +14645,7 @@
         ]
     },
     {
-        "term": "pecah",
-        "roman_numeral": "III",
+        "term": "pecah III;",
         "definitions": [
             {
                 "sense": "1",
@@ -14847,7 +14654,7 @@
         ]
     },
     {
-        "term": "pecah",
+        "term": "pecah belah",
         "definitions": [
             {
                 "sense": "1",
@@ -14880,7 +14687,7 @@
         ]
     },
     {
-        "term": "pecah",
+        "term": "pecah rekod",
         "definitions": [
             {
                 "sense": "1",
@@ -14965,8 +14772,7 @@
         ]
     },
     {
-        "term": "pecal",
-        "roman_numeral": "II",
+        "term": "pecal II; memecal",
         "definitions": [
             {
                 "sense": "1",
@@ -15202,8 +15008,7 @@
         ]
     },
     {
-        "term": "pedak",
-        "roman_numeral": "I",
+        "term": "pedak I",
         "origin": "Jk",
         "definitions": [
             {
@@ -15213,8 +15018,7 @@
         ]
     },
     {
-        "term": "pedak",
-        "roman_numeral": "II",
+        "term": "pedak II",
         "definitions": [
             {
                 "sense": "1",
@@ -15223,18 +15027,17 @@
         ]
     },
     {
-        "term": "pedaka",
-        "roman_numeral": "I",
+        "term": "pedaka I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj kalung aguk (dokoh)."
+                "definition": "sj kalung aguk (dokoh)."
             }
         ]
     },
     {
-        "term": "pedaka",
-        "roman_numeral": "II",
+        "term": "pedaka II",
         "origin": "Kd",
         "definitions": [
             {
@@ -15244,8 +15047,7 @@
         ]
     },
     {
-        "term": "pedaka",
-        "roman_numeral": "III",
+        "term": "pedaka III",
         "definitions": [
             {
                 "sense": "1",
@@ -15254,8 +15056,7 @@
         ]
     },
     {
-        "term": "pedal",
-        "roman_numeral": "I",
+        "term": "pedal I",
         "definitions": [
             {
                 "sense": "1",
@@ -15264,8 +15065,7 @@
         ]
     },
     {
-        "term": "pedal",
-        "roman_numeral": "III",
+        "term": "pedal III",
         "definitions": [
             {
                 "sense": "1",
@@ -15312,7 +15112,7 @@
         ]
     },
     {
-        "term": "pedangit",
+        "term": "pedangit;",
         "definitions": [
             {
                 "sense": "1",
@@ -15321,7 +15121,7 @@
         ]
     },
     {
-        "term": "pedap",
+        "term": "pedap;",
         "definitions": [
             {
                 "sense": "1",
@@ -15445,18 +15245,17 @@
         ]
     },
     {
-        "term": "pedendang",
-        "roman_numeral": "I",
+        "term": "pedendang I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj pita berbenang emas utk perhiasan pakaian:  kain ~;  seluar ~."
+                "definition": "sj pita berbenang emas utk perhiasan pakaian:  kain ~;  seluar ~."
             }
         ]
     },
     {
-        "term": "pedendang",
-        "roman_numeral": "II",
+        "term": "pedendang II",
         "definitions": [
             {
                 "sense": "1",
@@ -15465,8 +15264,7 @@
         ]
     },
     {
-        "term": "pedendang",
-        "roman_numeral": "III",
+        "term": "pedendang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -15714,8 +15512,7 @@
         ]
     },
     {
-        "term": "pedukang",
-        "roman_numeral": "I",
+        "term": "pedukang I",
         "definitions": [
             {
                 "sense": "1",
@@ -15724,8 +15521,7 @@
         ]
     },
     {
-        "term": "pedukang",
-        "roman_numeral": "II",
+        "term": "pedukang II",
         "origin": "Kd",
         "definitions": [
             {
@@ -15792,10 +15588,11 @@
     },
     {
         "term": "peduta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl wakil, utusan;      duta."
+                "definition": "wakil, utusan;      duta."
             }
         ]
     },
@@ -15819,7 +15616,7 @@
         ]
     },
     {
-        "term": "pegaga",
+        "term": "pegaga, pegagan",
         "definitions": [
             {
                 "sense": "1",
@@ -16019,10 +15816,11 @@
     },
     {
         "term": "pegari",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl dapat dilihat, muncul, menjelma."
+                "definition": "dapat dilihat, muncul, menjelma."
             }
         ]
     },
@@ -16178,7 +15976,7 @@
         ]
     },
     {
-        "term": "peguam",
+        "term": "peguam bela",
         "definitions": [
             {
                 "sense": "1",
@@ -16187,7 +15985,7 @@
         ]
     },
     {
-        "term": "peguam",
+        "term": "peguam cara",
         "definitions": [
             {
                 "sense": "1",
@@ -16323,7 +16121,7 @@
         ]
     },
     {
-        "term": "pejalwap",
+        "term": "pejalwap; memejalwap",
         "origin": "(Kim)",
         "definitions": [
             {
@@ -16538,10 +16336,11 @@
     },
     {
         "term": "pekaja",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj bunga teratai."
+                "definition": "sj bunga teratai."
             }
         ]
     },
@@ -16601,7 +16400,7 @@
         ]
     },
     {
-        "term": "pekaka",
+        "term": "pekaka, pekakak",
         "definitions": [
             {
                 "sense": "1",
@@ -16668,7 +16467,7 @@
         ]
     },
     {
-        "term": "pekap",
+        "term": "pekap; memekap",
         "definitions": [
             {
                 "sense": "1",
@@ -16774,8 +16573,7 @@
         ]
     },
     {
-        "term": "pekat",
-        "roman_numeral": "II",
+        "term": "pekat II",
         "definitions": [
             {
                 "sense": "1",
@@ -16784,7 +16582,7 @@
         ]
     },
     {
-        "term": "pekatu",
+        "term": "pekatu;",
         "definitions": [
             {
                 "sense": "1",
@@ -16802,7 +16600,7 @@
         ]
     },
     {
-        "term": "pekau",
+        "term": "pekau; memekau",
         "definitions": [
             {
                 "sense": "1",
@@ -16918,8 +16716,7 @@
         ]
     },
     {
-        "term": "pekin",
-        "roman_numeral": "I",
+        "term": "pekin I; terpekin",
         "definitions": [
             {
                 "sense": "1",
@@ -16928,8 +16725,7 @@
         ]
     },
     {
-        "term": "pekin",
-        "roman_numeral": "II",
+        "term": "pekin II",
         "origin": "Kd",
         "definitions": [
             {
@@ -16950,8 +16746,7 @@
         ]
     },
     {
-        "term": "peking",
-        "roman_numeral": "I",
+        "term": "peking I; memeking",
         "definitions": [
             {
                 "sense": "1",
@@ -16960,8 +16755,7 @@
         ]
     },
     {
-        "term": "peking",
-        "roman_numeral": "II",
+        "term": "peking II",
         "definitions": [
             {
                 "sense": "1",
@@ -16979,7 +16773,7 @@
         ]
     },
     {
-        "term": "pekis",
+        "term": "pekis; memekis",
         "definitions": [
             {
                 "sense": "1",
@@ -17065,10 +16859,11 @@
     },
     {
         "term": "peksi",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj burung;     paksi II."
+                "definition": "sj burung;     paksi II."
             }
         ]
     },
@@ -17092,8 +16887,7 @@
         ]
     },
     {
-        "term": "pekuk",
-        "roman_numeral": "I",
+        "term": "pekuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -17102,8 +16896,7 @@
         ]
     },
     {
-        "term": "pekuk",
-        "roman_numeral": "II",
+        "term": "pekuk II",
         "origin": "Mn",
         "definitions": [
             {
@@ -17180,7 +16973,7 @@
         ]
     },
     {
-        "term": "pekur",
+        "term": "pekur; memekur",
         "definitions": [
             {
                 "sense": "1",
@@ -17251,10 +17044,11 @@
     },
     {
         "term": "pelabur",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl makanan dll yg sudah ditentukan, catu, rangsum:  Sultan  Iskandar Shah menyuruh mengeluarkan beras kpd bendahari akan  ~ segala rakyat; ~ habis Palembang tak alah  prb modal telah  banyak habis tetapi faedah akhirnya tiada."
+                "definition": "makanan dll yg sudah ditentukan, catu, rangsum:  Sultan  Iskandar Shah menyuruh mengeluarkan beras kpd bendahari akan  ~ segala rakyat; ~ habis Palembang tak alah  prb modal telah  banyak habis tetapi faedah akhirnya tiada."
             }
         ]
     },
@@ -17268,8 +17062,7 @@
         ]
     },
     {
-        "term": "pelaga",
-        "roman_numeral": "I",
+        "term": "pelaga I",
         "definitions": [
             {
                 "sense": "1",
@@ -17278,8 +17071,7 @@
         ]
     },
     {
-        "term": "pelaga",
-        "roman_numeral": "II",
+        "term": "pelaga II",
         "definitions": [
             {
                 "sense": "1",
@@ -17310,8 +17102,7 @@
         ]
     },
     {
-        "term": "pelah",
-        "roman_numeral": "I",
+        "term": "pelah I",
         "definitions": [
             {
                 "sense": "1",
@@ -17320,8 +17111,7 @@
         ]
     },
     {
-        "term": "pelah",
-        "roman_numeral": "II",
+        "term": "pelah II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17330,7 +17120,7 @@
         ]
     },
     {
-        "term": "pelahang",
+        "term": "pelahang; terpelahang",
         "definitions": [
             {
                 "sense": "1",
@@ -17436,7 +17226,7 @@
         ]
     },
     {
-        "term": "pelambai",
+        "term": "pelambai;",
         "definitions": [
             {
                 "sense": "1",
@@ -17468,7 +17258,7 @@
         ]
     },
     {
-        "term": "pelampas",
+        "term": "pelampas;",
         "definitions": [
             {
                 "sense": "1",
@@ -17477,8 +17267,7 @@
         ]
     },
     {
-        "term": "pelampung",
-        "roman_numeral": "I",
+        "term": "pelampung I",
         "definitions": [
             {
                 "sense": "1",
@@ -17487,8 +17276,7 @@
         ]
     },
     {
-        "term": "pelampung",
-        "roman_numeral": "II",
+        "term": "pelampung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17497,8 +17285,7 @@
         ]
     },
     {
-        "term": "pelampung",
-        "roman_numeral": "III",
+        "term": "pelampung III",
         "definitions": [
             {
                 "sense": "1",
@@ -17507,8 +17294,7 @@
         ]
     },
     {
-        "term": "pelan",
-        "roman_numeral": "I",
+        "term": "pelan I",
         "definitions": [
             {
                 "sense": "1",
@@ -17576,8 +17362,7 @@
         ]
     },
     {
-        "term": "pelancar",
-        "roman_numeral": "I",
+        "term": "pelancar I",
         "definitions": [
             {
                 "sense": "1",
@@ -17586,8 +17371,7 @@
         ]
     },
     {
-        "term": "pelancar",
-        "roman_numeral": "II",
+        "term": "pelancar II",
         "definitions": [
             {
                 "sense": "1",
@@ -17596,7 +17380,7 @@
         ]
     },
     {
-        "term": "pelancit",
+        "term": "pelancit; terpelancit",
         "definitions": [
             {
                 "sense": "1",
@@ -17605,8 +17389,7 @@
         ]
     },
     {
-        "term": "pelanduk",
-        "roman_numeral": "I",
+        "term": "pelanduk I",
         "definitions": [
             {
                 "sense": "1",
@@ -17615,8 +17398,7 @@
         ]
     },
     {
-        "term": "pelanduk",
-        "roman_numeral": "II",
+        "term": "pelanduk II",
         "definitions": [
             {
                 "sense": "1",
@@ -17625,8 +17407,7 @@
         ]
     },
     {
-        "term": "pelang",
-        "roman_numeral": "I",
+        "term": "pelang I",
         "definitions": [
             {
                 "sense": "1",
@@ -17635,8 +17416,7 @@
         ]
     },
     {
-        "term": "pelang",
-        "roman_numeral": "II",
+        "term": "pelang II",
         "origin": "Id",
         "definitions": [
             {
@@ -17646,8 +17426,7 @@
         ]
     },
     {
-        "term": "pelang",
-        "roman_numeral": "III",
+        "term": "pelang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -17674,7 +17453,7 @@
         ]
     },
     {
-        "term": "pelangah",
+        "term": "pelangah; terpelangah",
         "definitions": [
             {
                 "sense": "1",
@@ -17718,8 +17497,7 @@
         ]
     },
     {
-        "term": "pelangi",
-        "roman_numeral": "II",
+        "term": "pelangi II;",
         "definitions": [
             {
                 "sense": "1",
@@ -17737,8 +17515,7 @@
         ]
     },
     {
-        "term": "pelangkin",
-        "roman_numeral": "I",
+        "term": "pelangkin I",
         "definitions": [
             {
                 "sense": "1",
@@ -17747,8 +17524,7 @@
         ]
     },
     {
-        "term": "pelangkin",
-        "roman_numeral": "II",
+        "term": "pelangkin II",
         "definitions": [
             {
                 "sense": "1",
@@ -17792,8 +17568,7 @@
         ]
     },
     {
-        "term": "pelantar",
-        "roman_numeral": "II",
+        "term": "pelantar II",
         "definitions": [
             {
                 "sense": "1",
@@ -17811,7 +17586,7 @@
         ]
     },
     {
-        "term": "pelanting",
+        "term": "pelanting;",
         "definitions": [
             {
                 "sense": "1",
@@ -17858,8 +17633,7 @@
         ]
     },
     {
-        "term": "pelas",
-        "roman_numeral": "I",
+        "term": "pelas I; memelas",
         "definitions": [
             {
                 "sense": "1",
@@ -17868,8 +17642,7 @@
         ]
     },
     {
-        "term": "pelas",
-        "roman_numeral": "II",
+        "term": "pelas II",
         "definitions": [
             {
                 "sense": "1",
@@ -17878,8 +17651,7 @@
         ]
     },
     {
-        "term": "pelas",
-        "roman_numeral": "III",
+        "term": "pelas III;",
         "definitions": [
             {
                 "sense": "1",
@@ -17888,8 +17660,7 @@
         ]
     },
     {
-        "term": "pelas",
-        "roman_numeral": "IV",
+        "term": "pelas IV; memelas ",
         "definitions": [
             {
                 "sense": "1",
@@ -17957,8 +17728,7 @@
         ]
     },
     {
-        "term": "pelatuk",
-        "roman_numeral": "I",
+        "term": "pelatuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -17967,8 +17737,7 @@
         ]
     },
     {
-        "term": "pelatuk",
-        "roman_numeral": "II",
+        "term": "pelatuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -17995,7 +17764,7 @@
         ]
     },
     {
-        "term": "pelawa",
+        "term": "pelawa; mempelawa",
         "definitions": [
             {
                 "sense": "1",
@@ -18082,10 +17851,11 @@
     },
     {
         "term": "pelebaya",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl orang yg menjalankan hukuman mati, algojo, pertanda."
+                "definition": "orang yg menjalankan hukuman mati, algojo, pertanda."
             }
         ]
     },
@@ -18126,8 +17896,7 @@
         ]
     },
     {
-        "term": "pelekat",
-        "roman_numeral": "I",
+        "term": "pelekat I",
         "definitions": [
             {
                 "sense": "1",
@@ -18136,8 +17905,7 @@
         ]
     },
     {
-        "term": "pelekat",
-        "roman_numeral": "II",
+        "term": "pelekat II",
         "definitions": [
             {
                 "sense": "1",
@@ -18184,8 +17952,7 @@
         ]
     },
     {
-        "term": "pelekuh",
-        "roman_numeral": "I",
+        "term": "pelekuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -18205,8 +17972,7 @@
         ]
     },
     {
-        "term": "pelekuh",
-        "roman_numeral": "II",
+        "term": "pelekuh II; memelekuh ",
         "definitions": [
             {
                 "sense": "1",
@@ -18235,7 +18001,7 @@
         ]
     },
     {
-        "term": "pelencit",
+        "term": "pelencit; terpelencit",
         "definitions": [
             {
                 "sense": "1",
@@ -18348,7 +18114,7 @@
         ]
     },
     {
-        "term": "pelesat",
+        "term": "pelesat; terpelesat",
         "definitions": [
             {
                 "sense": "1",
@@ -18413,8 +18179,7 @@
         ]
     },
     {
-        "term": "pelesit",
-        "roman_numeral": "II",
+        "term": "pelesit II",
         "definitions": [
             {
                 "sense": "1",
@@ -18495,8 +18260,7 @@
         ]
     },
     {
-        "term": "peleting",
-        "roman_numeral": "I",
+        "term": "peleting I",
         "definitions": [
             {
                 "sense": "1",
@@ -18505,8 +18269,7 @@
         ]
     },
     {
-        "term": "peleting",
-        "roman_numeral": "II",
+        "term": "peleting II",
         "origin": "Kd",
         "definitions": [
             {
@@ -18536,10 +18299,11 @@
     },
     {
         "term": "pelias",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl mantera yg menjadikan seseorang kebal (terelak drpd bahaya):  azimat ~ perang."
+                "definition": "mantera yg menjadikan seseorang kebal (terelak drpd bahaya):  azimat ~ perang."
             }
         ]
     },
@@ -18694,8 +18458,7 @@
         ]
     },
     {
-        "term": "pelik",
-        "roman_numeral": "II",
+        "term": "pelik II",
         "definitions": [
             {
                 "sense": "1",
@@ -18704,8 +18467,7 @@
         ]
     },
     {
-        "term": "pelik",
-        "roman_numeral": "III",
+        "term": "pelik III",
         "definitions": [
             {
                 "sense": "1",
@@ -18714,7 +18476,7 @@
         ]
     },
     {
-        "term": "pelima",
+        "term": "pelima, pelimau",
         "origin": "Kl",
         "definitions": [
             {
@@ -18775,8 +18537,7 @@
         ]
     },
     {
-        "term": "pelir",
-        "roman_numeral": "I",
+        "term": "pelir I",
         "definitions": [
             {
                 "sense": "1",
@@ -18785,8 +18546,7 @@
         ]
     },
     {
-        "term": "pelir",
-        "roman_numeral": "II",
+        "term": "pelir II;",
         "definitions": [
             {
                 "sense": "1",
@@ -18913,7 +18673,7 @@
         ]
     },
     {
-        "term": "pelohong",
+        "term": "pelohong; terpelohong",
         "definitions": [
             {
                 "sense": "1",
@@ -19305,8 +19065,7 @@
         ]
     },
     {
-        "term": "pelung",
-        "roman_numeral": "I",
+        "term": "pelung I",
         "definitions": [
             {
                 "sense": "1",
@@ -19315,8 +19074,7 @@
         ]
     },
     {
-        "term": "pelung",
-        "roman_numeral": "II",
+        "term": "pelung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -19376,7 +19134,7 @@
         ]
     },
     {
-        "term": "pelupuk",
+        "term": "pelupuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -19404,8 +19162,7 @@
         ]
     },
     {
-        "term": "peluruh",
-        "roman_numeral": "I",
+        "term": "peluruh I",
         "definitions": [
             {
                 "sense": "1",
@@ -19414,8 +19171,7 @@
         ]
     },
     {
-        "term": "peluruh",
-        "roman_numeral": "II",
+        "term": "peluruh II",
         "definitions": [
             {
                 "sense": "1",
@@ -19424,7 +19180,7 @@
         ]
     },
     {
-        "term": "peluwap",
+        "term": "peluwap; memeluwap",
         "origin": "(Kim)",
         "definitions": [
             {
@@ -19491,10 +19247,11 @@
     },
     {
         "term": "pemarip",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hamba raja yg menyanyikan anak raja supaya lekas tidur."
+                "definition": "hamba raja yg menyanyikan anak raja supaya lekas tidur."
             }
         ]
     },
@@ -19632,7 +19389,7 @@
         ]
     },
     {
-        "term": "pemidang",
+        "term": "pemidang, pemidangan",
         "definitions": [
             {
                 "sense": "1",
@@ -19677,7 +19434,7 @@
         ]
     },
     {
-        "term": "pempan",
+        "term": "pempan; terpempan",
         "definitions": [
             {
                 "sense": "1",
@@ -19695,7 +19452,7 @@
         ]
     },
     {
-        "term": "pempuk",
+        "term": "pempuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -19714,10 +19471,11 @@
     },
     {
         "term": "pemuras",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj senapang zaman dahulu yg mempunyai muncung yg besar."
+                "definition": "sj senapang zaman dahulu yg mempunyai muncung yg besar."
             }
         ]
     },
@@ -19740,7 +19498,7 @@
         ]
     },
     {
-        "term": "pena",
+        "term": "pena;",
         "definitions": [
             {
                 "sense": "1",
@@ -19776,7 +19534,7 @@
         ]
     },
     {
-        "term": "penaga",
+        "term": "penaga;",
         "definitions": [
             {
                 "sense": "1",
@@ -19786,19 +19544,21 @@
     },
     {
         "term": "penah",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pernah."
+                "definition": "pernah."
             }
         ]
     },
     {
         "term": "penahap",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl penjuru;  empat ~ alam  empat penjuru alam."
+                "definition": "penjuru;  empat ~ alam  empat penjuru alam."
             }
         ]
     },
@@ -19822,10 +19582,11 @@
     },
     {
         "term": "penaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sebagai, seolah-olah, seperti:  manusia yg tak punya  percampuran di dunia ini adalah ~ katak di bawah tempurung;  apa hal kita ini, kerana sekarang ~ Raja Rekanlah tuan kita,  bukannya Raja Abu Shahid."
+                "definition": "sebagai, seolah-olah, seperti:  manusia yg tak punya  percampuran di dunia ini adalah ~ katak di bawah tempurung;  apa hal kita ini, kerana sekarang ~ Raja Rekanlah tuan kita,  bukannya Raja Abu Shahid."
             }
         ]
     },
@@ -19985,7 +19746,7 @@
         ]
     },
     {
-        "term": "penat",
+        "term": "penat lelah",
         "definitions": [
             {
                 "sense": "1",
@@ -20081,10 +19842,11 @@
     },
     {
         "term": "pencalang",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj perahu yg besar utk mengangkut barang-barang  dagangan;  laksana ~ sarat, tiada ke timur tiada ke barat  prb orang  yg sudah berpakaian cantik dan berhias tetapi duduk di rumah  sahaja."
+                "definition": "sj perahu yg besar utk mengangkut barang-barang  dagangan;  laksana ~ sarat, tiada ke timur tiada ke barat  prb orang  yg sudah berpakaian cantik dan berhias tetapi duduk di rumah  sahaja."
             }
         ]
     },
@@ -20211,7 +19973,7 @@
         ]
     },
     {
-        "term": "pencil",
+        "term": "pencil; memencil",
         "definitions": [
             {
                 "sense": "1",
@@ -20319,15 +20081,16 @@
     },
     {
         "term": "pendahan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj lembing pendek (pisau) utk dilemparkan."
+                "definition": "sj lembing pendek (pisau) utk dilemparkan."
             }
         ]
     },
     {
-        "term": "pendakwa",
+        "term": "pendakwa raya",
         "definitions": [
             {
                 "sense": "1",
@@ -20382,7 +20145,7 @@
         ]
     },
     {
-        "term": "pendap",
+        "term": "pendap; memendap, berpendap",
         "definitions": [
             {
                 "sense": "1",
@@ -20411,8 +20174,7 @@
         ]
     },
     {
-        "term": "pendapa",
-        "roman_numeral": "I",
+        "term": "pendapa I",
         "definitions": [
             {
                 "sense": "1",
@@ -20421,8 +20183,7 @@
         ]
     },
     {
-        "term": "pendapa",
-        "roman_numeral": "II",
+        "term": "pendapa II",
         "origin": "Jw",
         "definitions": [
             {
@@ -20489,8 +20250,7 @@
         ]
     },
     {
-        "term": "pendarah",
-        "roman_numeral": "I",
+        "term": "pendarah I",
         "definitions": [
             {
                 "sense": "1",
@@ -20499,12 +20259,12 @@
         ]
     },
     {
-        "term": "pendarah",
-        "roman_numeral": "II",
+        "term": "pendarah II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl keris yg sakti."
+                "definition": "keris yg sakti."
             }
         ]
     },
@@ -20555,7 +20315,7 @@
         ]
     },
     {
-        "term": "pendawa",
+        "term": "pendawa;",
         "definitions": [
             {
                 "sense": "1",
@@ -20647,7 +20407,7 @@
         ]
     },
     {
-        "term": "pendendang",
+        "term": "pendendang;",
         "definitions": [
             {
                 "sense": "1",
@@ -20702,7 +20462,7 @@
         ]
     },
     {
-        "term": "pendipun",
+        "term": "pendipun;",
         "definitions": [
             {
                 "sense": "1",
@@ -20837,8 +20597,7 @@
         ]
     },
     {
-        "term": "pengantin",
-        "roman_numeral": "I",
+        "term": "pengantin I",
         "definitions": [
             {
                 "sense": "1",
@@ -20862,8 +20621,7 @@
         ]
     },
     {
-        "term": "pengantin",
-        "roman_numeral": "II",
+        "term": "pengantin II;",
         "definitions": [
             {
                 "sense": "1",
@@ -20927,7 +20685,7 @@
         ]
     },
     {
-        "term": "pengapuh",
+        "term": "pengapuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -21026,7 +20784,7 @@
         ]
     },
     {
-        "term": "pengatu",
+        "term": "pengatu;",
         "definitions": [
             {
                 "sense": "1",
@@ -21036,10 +20794,11 @@
     },
     {
         "term": "pengawinan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pembawa tombak istiadat (upacara);  tombak ~  tombak yg  dibawa dlm istiadat kerajaan."
+                "definition": "pembawa tombak istiadat (upacara);  tombak ~  tombak yg  dibawa dlm istiadat kerajaan."
             }
         ]
     },
@@ -21300,7 +21059,7 @@
         ]
     },
     {
-        "term": "penggehi",
+        "term": "penggehi, penggeli",
         "definitions": [
             {
                 "sense": "1",
@@ -21354,7 +21113,7 @@
         ]
     },
     {
-        "term": "pengilar",
+        "term": "pengilar, pengilau, pengilir",
         "definitions": [
             {
                 "sense": "1",
@@ -21377,7 +21136,7 @@
         ]
     },
     {
-        "term": "pengit",
+        "term": "pengit;",
         "definitions": [
             {
                 "sense": "1",
@@ -21422,7 +21181,7 @@
         ]
     },
     {
-        "term": "pengkis",
+        "term": "pengkis; memengkis",
         "definitions": [
             {
                 "sense": "1",
@@ -21634,16 +21393,16 @@
     },
     {
         "term": "penjajap",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj kapal perang Bugis:  kici itu pun ditutuhnya dibuat ~  perang; spt ~ berpaling hendak hilir  prb (perempuan) berjalan  keluar rumah dgn hebat dan menarik."
+                "definition": "sj kapal perang Bugis:  kici itu pun ditutuhnya dibuat ~  perang; spt ~ berpaling hendak hilir  prb (perempuan) berjalan  keluar rumah dgn hebat dan menarik."
             }
         ]
     },
     {
-        "term": "penjan",
-        "roman_numeral": "I",
+        "term": "penjan I",
         "definitions": [
             {
                 "sense": "1",
@@ -21652,8 +21411,7 @@
         ]
     },
     {
-        "term": "penjan",
-        "roman_numeral": "II",
+        "term": "penjan II; memenjan",
         "definitions": [
             {
                 "sense": "1",
@@ -21754,8 +21512,7 @@
         ]
     },
     {
-        "term": "penjuru",
-        "roman_numeral": "I",
+        "term": "penjuru I",
         "definitions": [
             {
                 "sense": "1",
@@ -21868,7 +21625,7 @@
         ]
     },
     {
-        "term": "pental",
+        "term": "pental; terpental",
         "definitions": [
             {
                 "sense": "1",
@@ -22057,8 +21814,7 @@
         ]
     },
     {
-        "term": "penting",
-        "roman_numeral": "II",
+        "term": "penting II; mementingkan",
         "definitions": [
             {
                 "sense": "1",
@@ -22067,8 +21823,7 @@
         ]
     },
     {
-        "term": "penting",
-        "roman_numeral": "III",
+        "term": "penting III; berpentingan",
         "definitions": [
             {
                 "sense": "1",
@@ -22077,8 +21832,7 @@
         ]
     },
     {
-        "term": "pentol",
-        "roman_numeral": "I",
+        "term": "pentol I",
         "origin": "Jk",
         "definitions": [
             {
@@ -22088,8 +21842,7 @@
         ]
     },
     {
-        "term": "pentol",
-        "roman_numeral": "II",
+        "term": "pentol II; pentolan",
         "definitions": [
             {
                 "sense": "1",
@@ -22229,7 +21982,7 @@
         ]
     },
     {
-        "term": "penurun",
+        "term": "penurun;",
         "definitions": [
             {
                 "sense": "1",
@@ -22371,7 +22124,7 @@
         ]
     },
     {
-        "term": "pepai",
+        "term": "pepai;",
         "definitions": [
             {
                 "sense": "1",
@@ -22380,8 +22133,7 @@
         ]
     },
     {
-        "term": "pepak",
-        "roman_numeral": "I",
+        "term": "pepak I",
         "definitions": [
             {
                 "sense": "1",
@@ -22401,8 +22153,7 @@
         ]
     },
     {
-        "term": "pepak",
-        "roman_numeral": "II",
+        "term": "pepak II; memepak",
         "definitions": [
             {
                 "sense": "1",
@@ -22411,7 +22162,7 @@
         ]
     },
     {
-        "term": "pepaku",
+        "term": "pepaku;",
         "definitions": [
             {
                 "sense": "1",
@@ -22556,8 +22307,7 @@
         ]
     },
     {
-        "term": "pepauh",
-        "roman_numeral": "I",
+        "term": "pepauh I",
         "definitions": [
             {
                 "sense": "1",
@@ -22566,8 +22316,7 @@
         ]
     },
     {
-        "term": "pepauh",
-        "roman_numeral": "II",
+        "term": "pepauh II",
         "definitions": [
             {
                 "sense": "1",
@@ -22697,8 +22446,7 @@
         ]
     },
     {
-        "term": "pepet",
-        "roman_numeral": "I",
+        "term": "pepet I",
         "definitions": [
             {
                 "sense": "1",
@@ -22741,8 +22489,7 @@
         ]
     },
     {
-        "term": "pepijat",
-        "roman_numeral": "I",
+        "term": "pepijat I",
         "definitions": [
             {
                 "sense": "1",
@@ -22792,7 +22539,7 @@
         ]
     },
     {
-        "term": "pepisang",
+        "term": "pepisang;",
         "definitions": [
             {
                 "sense": "1",
@@ -22910,8 +22657,7 @@
         ]
     },
     {
-        "term": "per",
-        "roman_numeral": "I",
+        "term": "per I",
         "definitions": [
             {
                 "sense": "1",
@@ -22931,8 +22677,7 @@
         ]
     },
     {
-        "term": "per",
-        "roman_numeral": "II",
+        "term": "per II",
         "definitions": [
             {
                 "sense": "1",
@@ -22980,10 +22725,11 @@
     },
     {
         "term": "perabu",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl panggilan kpd raja;  sang ~  baginda;"
+                "definition": "panggilan kpd raja;  sang ~  baginda;"
             }
         ],
         "sub_terms": [
@@ -23026,8 +22772,7 @@
         ]
     },
     {
-        "term": "perada",
-        "roman_numeral": "I",
+        "term": "perada I",
         "definitions": [
             {
                 "sense": "1",
@@ -23036,8 +22781,7 @@
         ]
     },
     {
-        "term": "perada",
-        "roman_numeral": "II",
+        "term": "perada II",
         "definitions": [
             {
                 "sense": "1",
@@ -23074,8 +22818,7 @@
         ]
     },
     {
-        "term": "perah",
-        "roman_numeral": "I",
+        "term": "perah I; memerah",
         "definitions": [
             {
                 "sense": "1",
@@ -23130,8 +22873,7 @@
         ]
     },
     {
-        "term": "perah",
-        "roman_numeral": "II",
+        "term": "perah II",
         "definitions": [
             {
                 "sense": "1",
@@ -23160,8 +22902,7 @@
         ]
     },
     {
-        "term": "perai",
-        "roman_numeral": "I",
+        "term": "perai I; berperai-perai",
         "definitions": [
             {
                 "sense": "1",
@@ -23195,8 +22936,7 @@
         ]
     },
     {
-        "term": "perai",
-        "roman_numeral": "III",
+        "term": "perai III;",
         "definitions": [
             {
                 "sense": "1",
@@ -23205,8 +22945,7 @@
         ]
     },
     {
-        "term": "perai",
-        "roman_numeral": "IV",
+        "term": "perai IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -23215,8 +22954,7 @@
         ]
     },
     {
-        "term": "perai",
-        "roman_numeral": "V",
+        "term": "perai V;",
         "definitions": [
             {
                 "sense": "1",
@@ -23262,8 +23000,7 @@
         ]
     },
     {
-        "term": "perak",
-        "roman_numeral": "I",
+        "term": "perak I",
         "origin": "Kl",
         "definitions": [
             {
@@ -23273,8 +23010,7 @@
         ]
     },
     {
-        "term": "perak",
-        "roman_numeral": "II",
+        "term": "perak II",
         "origin": "Kl",
         "definitions": [
             {
@@ -23284,8 +23020,7 @@
         ]
     },
     {
-        "term": "perak",
-        "roman_numeral": "III",
+        "term": "perak III",
         "origin": "Kd",
         "definitions": [
             {
@@ -23357,8 +23092,7 @@
         ]
     },
     {
-        "term": "peram",
-        "roman_numeral": "I",
+        "term": "peram I; berperam",
         "definitions": [
             {
                 "sense": "1",
@@ -23413,8 +23147,7 @@
         ]
     },
     {
-        "term": "peram",
-        "roman_numeral": "II",
+        "term": "peram II; memeram",
         "definitions": [
             {
                 "sense": "1",
@@ -23486,8 +23219,7 @@
         ]
     },
     {
-        "term": "perancah",
-        "roman_numeral": "I",
+        "term": "perancah I",
         "definitions": [
             {
                 "sense": "1",
@@ -23496,8 +23228,7 @@
         ]
     },
     {
-        "term": "perancah",
-        "roman_numeral": "II",
+        "term": "perancah II",
         "origin": "Mn",
         "definitions": [
             {
@@ -23507,7 +23238,7 @@
         ]
     },
     {
-        "term": "perancit",
+        "term": "perancit, perancut",
         "definitions": [
             {
                 "sense": "1",
@@ -23516,7 +23247,7 @@
         ]
     },
     {
-        "term": "peranda",
+        "term": "peranda;",
         "definitions": [
             {
                 "sense": "1",
@@ -23677,7 +23408,7 @@
         ]
     },
     {
-        "term": "perangat",
+        "term": "perangat; memperangat",
         "definitions": [
             {
                 "sense": "1",
@@ -23686,7 +23417,7 @@
         ]
     },
     {
-        "term": "peranggang",
+        "term": "peranggang;",
         "definitions": [
             {
                 "sense": "1",
@@ -23756,7 +23487,7 @@
         ]
     },
     {
-        "term": "perangkat",
+        "term": "perangkat; seperangkat",
         "definitions": [
             {
                 "sense": "1",
@@ -23783,7 +23514,7 @@
         ]
     },
     {
-        "term": "peranjat",
+        "term": "peranjat; memeranjatkan",
         "definitions": [
             {
                 "sense": "1",
@@ -23868,8 +23599,7 @@
         ]
     },
     {
-        "term": "perap",
-        "roman_numeral": "I",
+        "term": "perap I",
         "definitions": [
             {
                 "sense": "1",
@@ -23937,8 +23667,7 @@
         ]
     },
     {
-        "term": "perap",
-        "roman_numeral": "III",
+        "term": "perap III",
         "origin": "Kd",
         "definitions": [
             {
@@ -24031,8 +23760,7 @@
         ]
     },
     {
-        "term": "perasan",
-        "roman_numeral": "I",
+        "term": "perasan I",
         "definitions": [
             {
                 "sense": "1",
@@ -24074,7 +23802,7 @@
         ]
     },
     {
-        "term": "peras",
+        "term": "peras ugut",
         "definitions": [
             {
                 "sense": "1",
@@ -24125,8 +23853,7 @@
         ]
     },
     {
-        "term": "perat",
-        "roman_numeral": "II",
+        "term": "perat II",
         "origin": "Kl",
         "definitions": [
             {
@@ -24136,8 +23863,7 @@
         ]
     },
     {
-        "term": "perat",
-        "roman_numeral": "III",
+        "term": "perat III",
         "origin": "Kl",
         "definitions": [
             {
@@ -24147,8 +23873,7 @@
         ]
     },
     {
-        "term": "perat",
-        "roman_numeral": "IV",
+        "term": "perat IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -24158,7 +23883,7 @@
         ]
     },
     {
-        "term": "perata",
+        "term": "perata;",
         "definitions": [
             {
                 "sense": "1",
@@ -24211,10 +23936,11 @@
     },
     {
         "term": "perawis",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl berbagai-bagai bahan (ramuan) yg diperlukan utk sesuatu."
+                "definition": "berbagai-bagai bahan (ramuan) yg diperlukan utk sesuatu."
             }
         ]
     },
@@ -24260,7 +23986,7 @@
         ]
     },
     {
-        "term": "perbani",
+        "term": "perbani;",
         "definitions": [
             {
                 "sense": "1",
@@ -24270,10 +23996,11 @@
     },
     {
         "term": "perbatin",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl penghulu adat."
+                "definition": "penghulu adat."
             }
         ]
     },
@@ -24310,8 +24037,7 @@
         ]
     },
     {
-        "term": "perca",
-        "roman_numeral": "I",
+        "term": "perca I",
         "definitions": [
             {
                 "sense": "1",
@@ -24320,8 +24046,7 @@
         ]
     },
     {
-        "term": "perca",
-        "roman_numeral": "II",
+        "term": "perca II;",
         "definitions": [
             {
                 "sense": "1",
@@ -24330,8 +24055,7 @@
         ]
     },
     {
-        "term": "perca",
-        "roman_numeral": "III",
+        "term": "perca III;",
         "definitions": [
             {
                 "sense": "1",
@@ -24533,7 +24257,7 @@
         ]
     },
     {
-        "term": "percul",
+        "term": "percul; terpercul",
         "definitions": [
             {
                 "sense": "1",
@@ -24569,8 +24293,7 @@
         ]
     },
     {
-        "term": "perdah",
-        "roman_numeral": "I",
+        "term": "perdah I",
         "definitions": [
             {
                 "sense": "1",
@@ -24579,8 +24302,7 @@
         ]
     },
     {
-        "term": "perdah",
-        "roman_numeral": "II",
+        "term": "perdah II",
         "definitions": [
             {
                 "sense": "1",
@@ -24589,8 +24311,7 @@
         ]
     },
     {
-        "term": "perdah",
-        "roman_numeral": "III",
+        "term": "perdah III",
         "origin": "Kl",
         "definitions": [
             {
@@ -24627,8 +24348,7 @@
         ]
     },
     {
-        "term": "perdata",
-        "roman_numeral": "I",
+        "term": "perdata I",
         "definitions": [
             {
                 "sense": "1",
@@ -24703,8 +24423,7 @@
         ]
     },
     {
-        "term": "perdu",
-        "roman_numeral": "II",
+        "term": "perdu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -24722,7 +24441,7 @@
         ]
     },
     {
-        "term": "peredus",
+        "term": "peredus; terperedus",
         "definitions": [
             {
                 "sense": "1",
@@ -24853,7 +24572,7 @@
         ]
     },
     {
-        "term": "perengat",
+        "term": "perengat;",
         "definitions": [
             {
                 "sense": "1",
@@ -24862,7 +24581,7 @@
         ]
     },
     {
-        "term": "perengau",
+        "term": "perengau; terperengau",
         "definitions": [
             {
                 "sense": "1",
@@ -24936,7 +24655,7 @@
         ]
     },
     {
-        "term": "perenyuk",
+        "term": "perenyuk; terperenyuk",
         "definitions": [
             {
                 "sense": "1",
@@ -24954,8 +24673,7 @@
         ]
     },
     {
-        "term": "perepat",
-        "roman_numeral": "I",
+        "term": "perepat I",
         "definitions": [
             {
                 "sense": "1",
@@ -24964,8 +24682,7 @@
         ]
     },
     {
-        "term": "perepat",
-        "roman_numeral": "II",
+        "term": "perepat II",
         "definitions": [
             {
                 "sense": "1",
@@ -24992,7 +24709,7 @@
         ]
     },
     {
-        "term": "peresuk",
+        "term": "peresuk; memeresukkan",
         "definitions": [
             {
                 "sense": "1",
@@ -25082,11 +24799,12 @@
         ]
     },
     {
-        "term": "pergat",
+        "term": "pergat, pergata",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj kapal."
+                "definition": "sj kapal."
             }
         ]
     },
@@ -25171,7 +24889,7 @@
         ]
     },
     {
-        "term": "pergol",
+        "term": "pergol, pergul",
         "definitions": [
             {
                 "sense": "1",
@@ -25280,12 +24998,12 @@
         ]
     },
     {
-        "term": "peri",
-        "roman_numeral": "II",
+        "term": "peri II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kata;"
+                "definition": "kata;"
             }
         ],
         "sub_terms": [
@@ -25354,8 +25072,7 @@
         ]
     },
     {
-        "term": "peri",
-        "roman_numeral": "III",
+        "term": "peri III",
         "definitions": [
             {
                 "sense": "1",
@@ -25364,8 +25081,7 @@
         ]
     },
     {
-        "term": "peri",
-        "roman_numeral": "IV",
+        "term": "peri IV",
         "definitions": [
             {
                 "sense": "1",
@@ -25374,8 +25090,7 @@
         ]
     },
     {
-        "term": "peria",
-        "roman_numeral": "I",
+        "term": "peria I",
         "definitions": [
             {
                 "sense": "1",
@@ -25384,8 +25099,7 @@
         ]
     },
     {
-        "term": "peria",
-        "roman_numeral": "II",
+        "term": "peria II",
         "definitions": [
             {
                 "sense": "1",
@@ -25394,8 +25108,7 @@
         ]
     },
     {
-        "term": "perian",
-        "roman_numeral": "I",
+        "term": "perian I",
         "definitions": [
             {
                 "sense": "1",
@@ -25404,8 +25117,7 @@
         ]
     },
     {
-        "term": "perian",
-        "roman_numeral": "II",
+        "term": "perian II",
         "origin": "Tr",
         "definitions": [
             {
@@ -25415,8 +25127,7 @@
         ]
     },
     {
-        "term": "perian",
-        "roman_numeral": "III",
+        "term": "perian III",
         "definitions": [
             {
                 "sense": "1",
@@ -25434,7 +25145,7 @@
         ]
     },
     {
-        "term": "periap",
+        "term": "periap, periat",
         "definitions": [
             {
                 "sense": "1",
@@ -25833,7 +25544,7 @@
         ]
     },
     {
-        "term": "periksa",
+        "term": "periksa balas; memeriksa balas",
         "definitions": [
             {
                 "sense": "1",
@@ -25880,7 +25591,7 @@
         ]
     },
     {
-        "term": "perimpin",
+        "term": "perimpin, perimping;",
         "definitions": [
             {
                 "sense": "1",
@@ -25898,7 +25609,7 @@
         ]
     },
     {
-        "term": "perinci",
+        "term": "perinci;",
         "definitions": [
             {
                 "sense": "1",
@@ -25975,8 +25686,7 @@
         ]
     },
     {
-        "term": "perindu",
-        "roman_numeral": "I",
+        "term": "perindu I;",
         "definitions": [
             {
                 "sense": "1",
@@ -25985,8 +25695,7 @@
         ]
     },
     {
-        "term": "perindu",
-        "roman_numeral": "II",
+        "term": "perindu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -25995,8 +25704,7 @@
         ]
     },
     {
-        "term": "pering",
-        "roman_numeral": "I",
+        "term": "pering I",
         "definitions": [
             {
                 "sense": "1",
@@ -26005,8 +25713,7 @@
         ]
     },
     {
-        "term": "pering",
-        "roman_numeral": "II",
+        "term": "pering II",
         "origin": "Jw",
         "definitions": [
             {
@@ -26263,10 +25970,11 @@
     },
     {
         "term": "perirana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj alat bunyi-bunyian."
+                "definition": "sj alat bunyi-bunyian."
             }
         ]
     },
@@ -26415,8 +26123,7 @@
         ]
     },
     {
-        "term": "perit",
-        "roman_numeral": "II",
+        "term": "perit II",
         "origin": "Kl",
         "definitions": [
             {
@@ -26426,8 +26133,7 @@
         ]
     },
     {
-        "term": "perit",
-        "roman_numeral": "III",
+        "term": "perit III",
         "origin": "Kl",
         "definitions": [
             {
@@ -26437,8 +26143,7 @@
         ]
     },
     {
-        "term": "perit",
-        "roman_numeral": "IV",
+        "term": "perit IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -26466,8 +26171,7 @@
         ]
     },
     {
-        "term": "periuk",
-        "roman_numeral": "I",
+        "term": "periuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -26476,8 +26180,7 @@
         ]
     },
     {
-        "term": "periuk",
-        "roman_numeral": "II",
+        "term": "periuk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -26496,15 +26199,16 @@
     },
     {
         "term": "perji",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl kemaluan perempuan;     faraj."
+                "definition": "kemaluan perempuan;     faraj."
             }
         ]
     },
     {
-        "term": "per",
+        "term": "per kapita",
         "definitions": [
             {
                 "sense": "1",
@@ -26784,7 +26488,7 @@
         ]
     },
     {
-        "term": "perlah",
+        "term": "perlah;",
         "definitions": [
             {
                 "sense": "1",
@@ -26845,8 +26549,7 @@
         ]
     },
     {
-        "term": "perlak",
-        "roman_numeral": "II",
+        "term": "perlak II",
         "origin": "Mn",
         "definitions": [
             {
@@ -26856,7 +26559,7 @@
         ]
     },
     {
-        "term": "perlan",
+        "term": "perlan; memerlan",
         "definitions": [
             {
                 "sense": "1",
@@ -26954,16 +26657,16 @@
     },
     {
         "term": "perlina",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl hilang, tidak kelihatan."
+                "definition": "hilang, tidak kelihatan."
             }
         ]
     },
     {
-        "term": "perling",
-        "roman_numeral": "I",
+        "term": "perling I; terperling",
         "definitions": [
             {
                 "sense": "1",
@@ -27119,7 +26822,7 @@
         ]
     },
     {
-        "term": "perlung",
+        "term": "perlung;",
         "definitions": [
             {
                 "sense": "1",
@@ -27128,8 +26831,7 @@
         ]
     },
     {
-        "term": "perlup",
-        "roman_numeral": "I",
+        "term": "perlup I",
         "origin": "IB",
         "definitions": [
             {
@@ -27139,8 +26841,7 @@
         ]
     },
     {
-        "term": "perlup",
-        "roman_numeral": "II",
+        "term": "perlup II",
         "origin": "Id",
         "definitions": [
             {
@@ -27150,8 +26851,7 @@
         ]
     },
     {
-        "term": "perlus",
-        "roman_numeral": "I",
+        "term": "perlus I; terperlus",
         "definitions": [
             {
                 "sense": "1",
@@ -27160,8 +26860,7 @@
         ]
     },
     {
-        "term": "perlus",
-        "roman_numeral": "II",
+        "term": "perlus II",
         "origin": "Kl",
         "definitions": [
             {
@@ -27243,10 +26942,11 @@
     },
     {
         "term": "permana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl banyaknya, bilangan;"
+                "definition": "banyaknya, bilangan;"
             }
         ],
         "sub_terms": [
@@ -27281,7 +26981,7 @@
         ]
     },
     {
-        "term": "permanganik",
+        "term": "permanganik;",
         "definitions": [
             {
                 "sense": "1",
@@ -27291,10 +26991,11 @@
     },
     {
         "term": "permasan",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl (kaum) bangsawan atau ningrat."
+                "definition": "(kaum) bangsawan atau ningrat."
             }
         ]
     },
@@ -27412,8 +27113,7 @@
         ]
     },
     {
-        "term": "pernah",
-        "roman_numeral": "I",
+        "term": "pernah I",
         "definitions": [
             {
                 "sense": "1",
@@ -27422,8 +27122,7 @@
         ]
     },
     {
-        "term": "pernah",
-        "roman_numeral": "II",
+        "term": "pernah II",
         "origin": "Jk",
         "definitions": [
             {
@@ -27460,7 +27159,7 @@
         ]
     },
     {
-        "term": "pernik",
+        "term": "pernik;",
         "definitions": [
             {
                 "sense": "1",
@@ -27500,7 +27199,7 @@
         ]
     },
     {
-        "term": "perogok",
+        "term": "perogok; terperogok",
         "definitions": [
             {
                 "sense": "1",
@@ -27558,8 +27257,7 @@
         ]
     },
     {
-        "term": "peroi",
-        "roman_numeral": "II",
+        "term": "peroi II",
         "definitions": [
             {
                 "sense": "1",
@@ -27589,10 +27287,11 @@
     },
     {
         "term": "peroman",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl roman muka, rupa muka:  jikalau ~ sama baik."
+                "definition": "roman muka, rupa muka:  jikalau ~ sama baik."
             }
         ]
     },
@@ -27616,7 +27315,7 @@
         ]
     },
     {
-        "term": "perongo",
+        "term": "perongo; terperongo",
         "definitions": [
             {
                 "sense": "1",
@@ -27625,7 +27324,7 @@
         ]
     },
     {
-        "term": "peronyok",
+        "term": "peronyok; memperonyok",
         "definitions": [
             {
                 "sense": "1",
@@ -27803,7 +27502,7 @@
         ]
     },
     {
-        "term": "per",
+        "term": "per se",
         "definitions": [
             {
                 "sense": "1",
@@ -27951,16 +27650,16 @@
     },
     {
         "term": "persih",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bersih, putih bersih:  di luar jendela langit ~, matahari  menyinar keras; putih ~  putih bersih."
+                "definition": "bersih, putih bersih:  di luar jendela langit ~, matahari  menyinar keras; putih ~  putih bersih."
             }
         ]
     },
     {
-        "term": "persil",
-        "roman_numeral": "I",
+        "term": "persil I; terpersil",
         "definitions": [
             {
                 "sense": "1",
@@ -28034,7 +27733,7 @@
         ]
     },
     {
-        "term": "persona",
+        "term": "persona grata",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -28072,7 +27771,7 @@
         ]
     },
     {
-        "term": "persona",
+        "term": "persona non grata",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -28224,10 +27923,11 @@
     },
     {
         "term": "pertanda",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl algojo, pelebaya, tanda:  maka lalulah disuruhnya bunuh  sebentar itu juga kpd ~."
+                "definition": "algojo, pelebaya, tanda:  maka lalulah disuruhnya bunuh  sebentar itu juga kpd ~."
             }
         ]
     },
@@ -28245,7 +27945,7 @@
         ]
     },
     {
-        "term": "pertiwi",
+        "term": "pertiwi;",
         "definitions": [
             {
                 "sense": "1",
@@ -28315,7 +28015,7 @@
         ]
     },
     {
-        "term": "peruang",
+        "term": "peruang;",
         "definitions": [
             {
                 "sense": "1",
@@ -28324,7 +28024,7 @@
         ]
     },
     {
-        "term": "peruk",
+        "term": "peruk; memeruk",
         "definitions": [
             {
                 "sense": "1",
@@ -28372,7 +28072,7 @@
         ]
     },
     {
-        "term": "perumpung",
+        "term": "perumpung;",
         "definitions": [
             {
                 "sense": "1",
@@ -28467,8 +28167,7 @@
         ]
     },
     {
-        "term": "perupuk",
-        "roman_numeral": "I",
+        "term": "perupuk I, peruput",
         "definitions": [
             {
                 "sense": "1",
@@ -28477,8 +28176,7 @@
         ]
     },
     {
-        "term": "perupuk",
-        "roman_numeral": "II",
+        "term": "perupuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -28496,11 +28194,12 @@
         ]
     },
     {
-        "term": "perusa",
+        "term": "perusa; memerusa",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl memaksa, memperkosa, mengganggu, menguasai."
+                "definition": "memaksa, memperkosa, mengganggu, menguasai."
             }
         ]
     },
@@ -28603,8 +28302,7 @@
         ]
     },
     {
-        "term": "perut",
-        "roman_numeral": "II",
+        "term": "perut II",
         "definitions": [
             {
                 "sense": "1",
@@ -28613,8 +28311,7 @@
         ]
     },
     {
-        "term": "perut",
-        "roman_numeral": "III",
+        "term": "perut III;",
         "definitions": [
             {
                 "sense": "1",
@@ -28663,10 +28360,11 @@
     },
     {
         "term": "perwara",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gadis yg mengiringi raja (permaisuri):  maka Puteri Nila  Pancadi itu pun naiklah ke kapal dgn lima ratus orang ~nya."
+                "definition": "gadis yg mengiringi raja (permaisuri):  maka Puteri Nila  Pancadi itu pun naiklah ke kapal dgn lima ratus orang ~nya."
             }
         ]
     },
@@ -28680,7 +28378,7 @@
         ]
     },
     {
-        "term": "perwawai",
+        "term": "perwawai, perwai, perwai-wai",
         "definitions": [
             {
                 "sense": "1",
@@ -28752,7 +28450,7 @@
         ]
     },
     {
-        "term": "pesai",
+        "term": "pesai; berpesai-pesai",
         "definitions": [
             {
                 "sense": "1",
@@ -29015,8 +28713,7 @@
         ]
     },
     {
-        "term": "pesat",
-        "roman_numeral": "II",
+        "term": "pesat II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29168,8 +28865,7 @@
         ]
     },
     {
-        "term": "pesisir",
-        "roman_numeral": "I",
+        "term": "pesisir I",
         "definitions": [
             {
                 "sense": "1",
@@ -29535,8 +29231,7 @@
         ]
     },
     {
-        "term": "peta",
-        "roman_numeral": "II",
+        "term": "peta II",
         "definitions": [
             {
                 "sense": "1",
@@ -29545,8 +29240,7 @@
         ]
     },
     {
-        "term": "peta",
-        "roman_numeral": "III",
+        "term": "peta III",
         "origin": "Jk",
         "definitions": [
             {
@@ -29556,12 +29250,12 @@
         ]
     },
     {
-        "term": "peta",
-        "roman_numeral": "IV",
+        "term": "peta IV;",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl  ~-ratna;     peterana."
+                "definition": "~-ratna;     peterana."
             }
         ]
     },
@@ -29688,10 +29382,11 @@
     },
     {
         "term": "petaka",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bencana, kecelakaan, kesengsaraan, kesusahan:  bantuan utk  menghadapi masalah ~ alam spt kemarau."
+                "definition": "bencana, kecelakaan, kesengsaraan, kesusahan:  bantuan utk  menghadapi masalah ~ alam spt kemarau."
             }
         ]
     },
@@ -29719,8 +29414,7 @@
         ]
     },
     {
-        "term": "petala",
-        "roman_numeral": "II",
+        "term": "petala II;",
         "definitions": [
             {
                 "sense": "1",
@@ -29757,10 +29451,11 @@
     },
     {
         "term": "petamari",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj perahu yg laju dan bertiang satu atau dua."
+                "definition": "sj perahu yg laju dan bertiang satu atau dua."
             }
         ]
     },
@@ -29774,8 +29469,7 @@
         ]
     },
     {
-        "term": "petang",
-        "roman_numeral": "I",
+        "term": "petang I",
         "definitions": [
             {
                 "sense": "1",
@@ -29835,7 +29529,7 @@
         ]
     },
     {
-        "term": "petap",
+        "term": "petap; memetap",
         "definitions": [
             {
                 "sense": "1",
@@ -29845,15 +29539,16 @@
     },
     {
         "term": "petaram",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj keris kecil yg dipakai oleh perempuan."
+                "definition": "sj keris kecil yg dipakai oleh perempuan."
             }
         ]
     },
     {
-        "term": "petarang",
+        "term": "petarang;",
         "definitions": [
             {
                 "sense": "1",
@@ -29871,8 +29566,7 @@
         ]
     },
     {
-        "term": "petas",
-        "roman_numeral": "I",
+        "term": "petas I;",
         "definitions": [
             {
                 "sense": "1",
@@ -29881,8 +29575,7 @@
         ]
     },
     {
-        "term": "petas",
-        "roman_numeral": "II",
+        "term": "petas II; petasan",
         "definitions": [
             {
                 "sense": "1",
@@ -29901,7 +29594,7 @@
         ]
     },
     {
-        "term": "petaya",
+        "term": "petaya;",
         "definitions": [
             {
                 "sense": "1",
@@ -29996,8 +29689,7 @@
         ]
     },
     {
-        "term": "peti",
-        "roman_numeral": "I",
+        "term": "peti I",
         "definitions": [
             {
                 "sense": "1",
@@ -30017,8 +29709,7 @@
         ]
     },
     {
-        "term": "peti",
-        "roman_numeral": "II",
+        "term": "peti II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30027,7 +29718,7 @@
         ]
     },
     {
-        "term": "petia",
+        "term": "petia; memetia, memetiakan",
         "definitions": [
             {
                 "sense": "1",
@@ -30036,7 +29727,7 @@
         ]
     },
     {
-        "term": "petiban",
+        "term": "petiban;",
         "definitions": [
             {
                 "sense": "1",
@@ -30164,7 +29855,7 @@
         ]
     },
     {
-        "term": "peting",
+        "term": "peting; memeting",
         "definitions": [
             {
                 "sense": "1",
@@ -30301,8 +29992,7 @@
         ]
     },
     {
-        "term": "petola",
-        "roman_numeral": "I",
+        "term": "petola I",
         "definitions": [
             {
                 "sense": "1",
@@ -30311,8 +30001,7 @@
         ]
     },
     {
-        "term": "petola",
-        "roman_numeral": "II",
+        "term": "petola II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30487,7 +30176,7 @@
         ]
     },
     {
-        "term": "peturun",
+        "term": "peturun;",
         "definitions": [
             {
                 "sense": "1",
@@ -30505,8 +30194,7 @@
         ]
     },
     {
-        "term": "petut",
-        "roman_numeral": "I",
+        "term": "petut I",
         "definitions": [
             {
                 "sense": "1",
@@ -30515,8 +30203,7 @@
         ]
     },
     {
-        "term": "petut",
-        "roman_numeral": "II",
+        "term": "petut II",
         "origin": "Tr",
         "definitions": [
             {
@@ -30526,8 +30213,7 @@
         ]
     },
     {
-        "term": "petutu",
-        "roman_numeral": "I",
+        "term": "petutu I",
         "definitions": [
             {
                 "sense": "1",
@@ -30536,8 +30222,7 @@
         ]
     },
     {
-        "term": "petutu",
-        "roman_numeral": "II",
+        "term": "petutu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -30602,8 +30287,7 @@
         ]
     },
     {
-        "term": "pi",
-        "roman_numeral": "I",
+        "term": "pi I",
         "definitions": [
             {
                 "sense": "1",
@@ -30612,8 +30296,7 @@
         ]
     },
     {
-        "term": "pi",
-        "roman_numeral": "II",
+        "term": "pi II",
         "origin": "C",
         "definitions": [
             {
@@ -30623,8 +30306,7 @@
         ]
     },
     {
-        "term": "pi",
-        "roman_numeral": "III",
+        "term": "pi III",
         "origin": "C",
         "definitions": [
             {
@@ -30648,10 +30330,11 @@
     },
     {
         "term": "piadah",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl buah catur yg di depan, bidak."
+                "definition": "buah catur yg di depan, bidak."
             }
         ]
     },
@@ -30684,7 +30367,7 @@
         ]
     },
     {
-        "term": "piah",
+        "term": "piah;",
         "definitions": [
             {
                 "sense": "1",
@@ -30702,8 +30385,7 @@
         ]
     },
     {
-        "term": "piak",
-        "roman_numeral": "I",
+        "term": "piak I",
         "definitions": [
             {
                 "sense": "1",
@@ -30712,8 +30394,7 @@
         ]
     },
     {
-        "term": "piak",
-        "roman_numeral": "II",
+        "term": "piak II; berpiak",
         "definitions": [
             {
                 "sense": "1",
@@ -30722,8 +30403,7 @@
         ]
     },
     {
-        "term": "piak",
-        "roman_numeral": "III",
+        "term": "piak III",
         "origin": "Kl",
         "definitions": [
             {
@@ -30733,8 +30413,7 @@
         ]
     },
     {
-        "term": "pial",
-        "roman_numeral": "I",
+        "term": "pial I",
         "definitions": [
             {
                 "sense": "1",
@@ -30743,8 +30422,7 @@
         ]
     },
     {
-        "term": "pial",
-        "roman_numeral": "II",
+        "term": "pial II; berpial-pial",
         "definitions": [
             {
                 "sense": "1",
@@ -30811,8 +30489,7 @@
         ]
     },
     {
-        "term": "piama",
-        "roman_numeral": "I",
+        "term": "piama I",
         "origin": "IB",
         "definitions": [
             {
@@ -30822,8 +30499,7 @@
         ]
     },
     {
-        "term": "piama",
-        "roman_numeral": "II",
+        "term": "piama II",
         "definitions": [
             {
                 "sense": "1",
@@ -30832,8 +30508,7 @@
         ]
     },
     {
-        "term": "pian",
-        "roman_numeral": "I",
+        "term": "pian I",
         "definitions": [
             {
                 "sense": "1",
@@ -30842,8 +30517,7 @@
         ]
     },
     {
-        "term": "pian",
-        "roman_numeral": "II",
+        "term": "pian II",
         "origin": "Kl",
         "definitions": [
             {
@@ -30853,8 +30527,7 @@
         ]
     },
     {
-        "term": "piang",
-        "roman_numeral": "I",
+        "term": "piang I",
         "definitions": [
             {
                 "sense": "1",
@@ -30863,8 +30536,7 @@
         ]
     },
     {
-        "term": "piang",
-        "roman_numeral": "II",
+        "term": "piang II",
         "definitions": [
             {
                 "sense": "1",
@@ -30884,8 +30556,7 @@
         ]
     },
     {
-        "term": "piang",
-        "roman_numeral": "III",
+        "term": "piang III",
         "definitions": [
             {
                 "sense": "1",
@@ -30894,8 +30565,7 @@
         ]
     },
     {
-        "term": "piang",
-        "roman_numeral": "IV",
+        "term": "piang IV",
         "origin": "Pr",
         "definitions": [
             {
@@ -31036,8 +30706,7 @@
         ]
     },
     {
-        "term": "pias",
-        "roman_numeral": "II",
+        "term": "pias II",
         "definitions": [
             {
                 "sense": "1",
@@ -31046,8 +30715,7 @@
         ]
     },
     {
-        "term": "pias",
-        "roman_numeral": "III",
+        "term": "pias III",
         "definitions": [
             {
                 "sense": "1",
@@ -31066,8 +30734,7 @@
         ]
     },
     {
-        "term": "piat",
-        "roman_numeral": "I",
+        "term": "piat I",
         "definitions": [
             {
                 "sense": "1",
@@ -31089,8 +30756,7 @@
         ]
     },
     {
-        "term": "piat",
-        "roman_numeral": "III",
+        "term": "piat III;",
         "definitions": [
             {
                 "sense": "1",
@@ -31099,8 +30765,7 @@
         ]
     },
     {
-        "term": "piat",
-        "roman_numeral": "IV",
+        "term": "piat IV",
         "definitions": [
             {
                 "sense": "1",
@@ -31224,8 +30889,7 @@
         ]
     },
     {
-        "term": "pic",
-        "roman_numeral": "II",
+        "term": "pic II",
         "definitions": [
             {
                 "sense": "1",
@@ -31425,7 +31089,7 @@
         ]
     },
     {
-        "term": "picit",
+        "term": "picit;",
         "definitions": [
             {
                 "sense": "1",
@@ -31619,8 +31283,7 @@
         ]
     },
     {
-        "term": "pigmi",
-        "roman_numeral": "I",
+        "term": "pigmi I",
         "definitions": [
             {
                 "sense": "1",
@@ -31629,8 +31292,7 @@
         ]
     },
     {
-        "term": "Pigmi",
-        "roman_numeral": "II",
+        "term": "Pigmi II",
         "definitions": [
             {
                 "sense": "1",
@@ -31749,7 +31411,7 @@
         ]
     },
     {
-        "term": "pijak",
+        "term": "pijak; pijak-pijak",
         "definitions": [
             {
                 "sense": "1",
@@ -31890,8 +31552,7 @@
         ]
     },
     {
-        "term": "pijar",
-        "roman_numeral": "II",
+        "term": "pijar II, pijar-pijar",
         "definitions": [
             {
                 "sense": "1",
@@ -31900,8 +31561,7 @@
         ]
     },
     {
-        "term": "pijat",
-        "roman_numeral": "I",
+        "term": "pijat I; memijat",
         "definitions": [
             {
                 "sense": "1",
@@ -31910,8 +31570,7 @@
         ]
     },
     {
-        "term": "pijat",
-        "roman_numeral": "II",
+        "term": "pijat II, pijat-pijat",
         "definitions": [
             {
                 "sense": "1",
@@ -31920,7 +31579,7 @@
         ]
     },
     {
-        "term": "pijat-pijat",
+        "term": "pijat-pijat;",
         "definitions": [
             {
                 "sense": "1",
@@ -31948,7 +31607,7 @@
         ]
     },
     {
-        "term": "pijit",
+        "term": "pijit;",
         "definitions": [
             {
                 "sense": "1",
@@ -31999,8 +31658,7 @@
         ]
     },
     {
-        "term": "pika",
-        "roman_numeral": "I",
+        "term": "pika I",
         "definitions": [
             {
                 "sense": "1",
@@ -32009,8 +31667,7 @@
         ]
     },
     {
-        "term": "pika",
-        "roman_numeral": "II",
+        "term": "pika II",
         "origin": "(Ubat)",
         "definitions": [
             {
@@ -32106,8 +31763,7 @@
         ]
     },
     {
-        "term": "pikat",
-        "roman_numeral": "II",
+        "term": "pikat II",
         "definitions": [
             {
                 "sense": "1",
@@ -32116,8 +31772,7 @@
         ]
     },
     {
-        "term": "pikau",
-        "roman_numeral": "I",
+        "term": "pikau I; berpikauan",
         "definitions": [
             {
                 "sense": "1",
@@ -32137,8 +31792,7 @@
         ]
     },
     {
-        "term": "pikau",
-        "roman_numeral": "II",
+        "term": "pikau II",
         "definitions": [
             {
                 "sense": "1",
@@ -32282,7 +31936,7 @@
         ]
     },
     {
-        "term": "pikuk",
+        "term": "pikuk;",
         "definitions": [
             {
                 "sense": "1",
@@ -32464,7 +32118,7 @@
         ]
     },
     {
-        "term": "pilih",
+        "term": "pilih;",
         "definitions": [
             {
                 "sense": "1",
@@ -32575,7 +32229,7 @@
         ]
     },
     {
-        "term": "pilihan",
+        "term": "pilihan raya",
         "definitions": [
             {
                 "sense": "1",
@@ -32593,7 +32247,7 @@
         ]
     },
     {
-        "term": "pilin",
+        "term": "pilin;",
         "definitions": [
             {
                 "sense": "1",
@@ -32676,8 +32330,7 @@
         ]
     },
     {
-        "term": "pilon",
-        "roman_numeral": "I",
+        "term": "pilon I",
         "definitions": [
             {
                 "sense": "1",
@@ -32686,8 +32339,7 @@
         ]
     },
     {
-        "term": "pilon",
-        "roman_numeral": "II",
+        "term": "pilon II",
         "origin": "Jk",
         "definitions": [
             {
@@ -32758,8 +32410,7 @@
         ]
     },
     {
-        "term": "pilu",
-        "roman_numeral": "II",
+        "term": "pilu II",
         "definitions": [
             {
                 "sense": "1",
@@ -32777,7 +32428,7 @@
         ]
     },
     {
-        "term": "pimpan",
+        "term": "pimpan;",
         "definitions": [
             {
                 "sense": "1",
@@ -32884,8 +32535,7 @@
         ]
     },
     {
-        "term": "pimpin",
-        "roman_numeral": "II",
+        "term": "pimpin II",
         "definitions": [
             {
                 "sense": "1",
@@ -32903,8 +32553,7 @@
         ]
     },
     {
-        "term": "pin",
-        "roman_numeral": "I",
+        "term": "pin I",
         "definitions": [
             {
                 "sense": "1",
@@ -32924,8 +32573,7 @@
         ]
     },
     {
-        "term": "pin",
-        "roman_numeral": "II",
+        "term": "pin II",
         "definitions": [
             {
                 "sense": "1",
@@ -32953,7 +32601,7 @@
         ]
     },
     {
-        "term": "pina-pina",
+        "term": "pina-pina;",
         "definitions": [
             {
                 "sense": "1",
@@ -32962,7 +32610,7 @@
         ]
     },
     {
-        "term": "pinak",
+        "term": "pinak;",
         "definitions": [
             {
                 "sense": "1",
@@ -32971,8 +32619,7 @@
         ]
     },
     {
-        "term": "pinang",
-        "roman_numeral": "I",
+        "term": "pinang I",
         "definitions": [
             {
                 "sense": "1",
@@ -33044,8 +32691,7 @@
         ]
     },
     {
-        "term": "pinang",
-        "roman_numeral": "III",
+        "term": "pinang III",
         "origin": "Mn",
         "definitions": [
             {
@@ -33055,8 +32701,7 @@
         ]
     },
     {
-        "term": "pinang",
-        "roman_numeral": "IV",
+        "term": "pinang IV",
         "definitions": [
             {
                 "sense": "1",
@@ -33074,8 +32719,7 @@
         ]
     },
     {
-        "term": "pinar",
-        "roman_numeral": "I",
+        "term": "pinar I",
         "definitions": [
             {
                 "sense": "1",
@@ -33084,8 +32728,7 @@
         ]
     },
     {
-        "term": "pinar",
-        "roman_numeral": "II",
+        "term": "pinar II; berpinar-pinar",
         "definitions": [
             {
                 "sense": "1",
@@ -33106,10 +32749,11 @@
     },
     {
         "term": "pinaremas",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl disulam dgn benang emas atau dihiasi dgn air emas."
+                "definition": "disulam dgn benang emas atau dihiasi dgn air emas."
             }
         ]
     },
@@ -33155,8 +32799,7 @@
         ]
     },
     {
-        "term": "pincang",
-        "roman_numeral": "II",
+        "term": "pincang II; sepincang",
         "origin": "Jk",
         "definitions": [
             {
@@ -33166,8 +32809,7 @@
         ]
     },
     {
-        "term": "pincuk",
-        "roman_numeral": "I",
+        "term": "pincuk I",
         "definitions": [
             {
                 "sense": "1",
@@ -33176,8 +32818,7 @@
         ]
     },
     {
-        "term": "pincuk",
-        "roman_numeral": "II",
+        "term": "pincuk II",
         "origin": "Jk",
         "definitions": [
             {
@@ -33198,7 +32839,7 @@
         ]
     },
     {
-        "term": "pincung",
+        "term": "pincung;",
         "definitions": [
             {
                 "sense": "1",
@@ -33238,7 +32879,7 @@
         ]
     },
     {
-        "term": "pinda",
+        "term": "pinda; meminda",
         "definitions": [
             {
                 "sense": "1",
@@ -33433,7 +33074,7 @@
         ]
     },
     {
-        "term": "pinga",
+        "term": "pinga; terpinga-pinga",
         "definitions": [
             {
                 "sense": "1",
@@ -33608,7 +33249,7 @@
         ]
     },
     {
-        "term": "pingit",
+        "term": "pingit; berpingit",
         "definitions": [
             {
                 "sense": "1",
@@ -33772,8 +33413,7 @@
         ]
     },
     {
-        "term": "pinjul",
-        "roman_numeral": "I",
+        "term": "pinjul I",
         "origin": "Kd",
         "definitions": [
             {
@@ -33783,8 +33423,7 @@
         ]
     },
     {
-        "term": "pinjul",
-        "roman_numeral": "II",
+        "term": "pinjul II",
         "origin": "Kd",
         "definitions": [
             {
@@ -34031,7 +33670,7 @@
         ]
     },
     {
-        "term": "pintas",
+        "term": "pintas;",
         "definitions": [
             {
                 "sense": "1",
@@ -34341,7 +33980,7 @@
         ]
     },
     {
-        "term": "pipis",
+        "term": "pipis; berpipis",
         "definitions": [
             {
                 "sense": "1",
@@ -34379,8 +34018,7 @@
         ]
     },
     {
-        "term": "pipit",
-        "roman_numeral": "I",
+        "term": "pipit I",
         "definitions": [
             {
                 "sense": "1",
@@ -34389,8 +34027,7 @@
         ]
     },
     {
-        "term": "pipit",
-        "roman_numeral": "II",
+        "term": "pipit II",
         "definitions": [
             {
                 "sense": "1",
@@ -34399,8 +34036,7 @@
         ]
     },
     {
-        "term": "pipit",
-        "roman_numeral": "III",
+        "term": "pipit III",
         "origin": "Jw",
         "definitions": [
             {
@@ -34421,8 +34057,7 @@
         ]
     },
     {
-        "term": "pipit",
-        "roman_numeral": "IV",
+        "term": "pipit IV",
         "definitions": [
             {
                 "sense": "1",
@@ -34431,8 +34066,7 @@
         ]
     },
     {
-        "term": "pipit",
-        "roman_numeral": "V",
+        "term": "pipit V",
         "definitions": [
             {
                 "sense": "1",
@@ -34508,8 +34142,7 @@
         ]
     },
     {
-        "term": "pirau",
-        "roman_numeral": "II",
+        "term": "pirau II; berpirau, memirau",
         "definitions": [
             {
                 "sense": "1",
@@ -34552,8 +34185,7 @@
         ]
     },
     {
-        "term": "pirik",
-        "roman_numeral": "I",
+        "term": "pirik I; memirik",
         "definitions": [
             {
                 "sense": "1",
@@ -34562,8 +34194,7 @@
         ]
     },
     {
-        "term": "pirik",
-        "roman_numeral": "II",
+        "term": "pirik II",
         "origin": "Mn",
         "definitions": [
             {
@@ -34645,7 +34276,7 @@
         ]
     },
     {
-        "term": "piruk",
+        "term": "piruk;",
         "definitions": [
             {
                 "sense": "1",
@@ -34654,8 +34285,7 @@
         ]
     },
     {
-        "term": "pisah",
-        "roman_numeral": "I",
+        "term": "pisah I",
         "definitions": [
             {
                 "sense": "1",
@@ -34784,8 +34414,7 @@
         ]
     },
     {
-        "term": "pisah",
-        "roman_numeral": "II",
+        "term": "pisah II",
         "origin": "Kl",
         "definitions": [
             {
@@ -34795,8 +34424,7 @@
         ]
     },
     {
-        "term": "pisah",
-        "roman_numeral": "III",
+        "term": "pisah III",
         "origin": "Tr",
         "definitions": [
             {
@@ -34806,8 +34434,7 @@
         ]
     },
     {
-        "term": "pisang",
-        "roman_numeral": "I",
+        "term": "pisang I",
         "definitions": [
             {
                 "sense": "1",
@@ -34816,8 +34443,7 @@
         ]
     },
     {
-        "term": "pisang",
-        "roman_numeral": "II",
+        "term": "pisang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -34826,8 +34452,7 @@
         ]
     },
     {
-        "term": "pisang",
-        "roman_numeral": "III",
+        "term": "pisang III;",
         "definitions": [
             {
                 "sense": "1",
@@ -34836,8 +34461,7 @@
         ]
     },
     {
-        "term": "pisang-pisang",
-        "roman_numeral": "I",
+        "term": "pisang-pisang I",
         "definitions": [
             {
                 "sense": "1",
@@ -34846,8 +34470,7 @@
         ]
     },
     {
-        "term": "pisang-pisang",
-        "roman_numeral": "II",
+        "term": "pisang-pisang II",
         "definitions": [
             {
                 "sense": "1",
@@ -34877,7 +34500,7 @@
         ]
     },
     {
-        "term": "pisat",
+        "term": "pisat; terpisat-pisat",
         "definitions": [
             {
                 "sense": "1",
@@ -34886,8 +34509,7 @@
         ]
     },
     {
-        "term": "pisau",
-        "roman_numeral": "I",
+        "term": "pisau I",
         "definitions": [
             {
                 "sense": "1",
@@ -34896,8 +34518,7 @@
         ]
     },
     {
-        "term": "pisau",
-        "roman_numeral": "II",
+        "term": "pisau II;",
         "definitions": [
             {
                 "sense": "1",
@@ -34944,8 +34565,7 @@
         ]
     },
     {
-        "term": "pisit",
-        "roman_numeral": "I",
+        "term": "pisit I",
         "definitions": [
             {
                 "sense": "1",
@@ -34954,8 +34574,7 @@
         ]
     },
     {
-        "term": "pisit",
-        "roman_numeral": "II",
+        "term": "pisit II; memisit",
         "definitions": [
             {
                 "sense": "1",
@@ -35033,8 +34652,7 @@
         ]
     },
     {
-        "term": "pit",
-        "roman_numeral": "I",
+        "term": "pit I",
         "origin": "IB",
         "definitions": [
             {
@@ -35044,8 +34662,7 @@
         ]
     },
     {
-        "term": "pit",
-        "roman_numeral": "II",
+        "term": "pit II",
         "origin": "C",
         "definitions": [
             {
@@ -35055,8 +34672,7 @@
         ]
     },
     {
-        "term": "pit",
-        "roman_numeral": "III",
+        "term": "pit III",
         "definitions": [
             {
                 "sense": "1",
@@ -35094,11 +34710,12 @@
         ]
     },
     {
-        "term": "pitar",
+        "term": "pitar, memitar",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl mengarahkan meriam dll."
+                "definition": "mengarahkan meriam dll."
             }
         ]
     },
@@ -35155,8 +34772,7 @@
         ]
     },
     {
-        "term": "piting",
-        "roman_numeral": "I",
+        "term": "piting I",
         "origin": "Jk",
         "definitions": [
             {
@@ -35166,8 +34782,7 @@
         ]
     },
     {
-        "term": "piting",
-        "roman_numeral": "II",
+        "term": "piting II",
         "definitions": [
             {
                 "sense": "1",
@@ -35209,7 +34824,7 @@
         ]
     },
     {
-        "term": "pitpit",
+        "term": "pitpit;",
         "definitions": [
             {
                 "sense": "1",
@@ -35237,7 +34852,7 @@
         ]
     },
     {
-        "term": "piuh",
+        "term": "piuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -35306,10 +34921,11 @@
     },
     {
         "term": "piung",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl anggota polis."
+                "definition": "anggota polis."
             }
         ]
     },
@@ -35512,7 +35128,7 @@
         ]
     },
     {
-        "term": "plagiat",
+        "term": "plagiat; memplagiat",
         "definitions": [
             {
                 "sense": "1",
@@ -35539,8 +35155,7 @@
         ]
     },
     {
-        "term": "plak",
-        "roman_numeral": "II",
+        "term": "plak II",
         "definitions": [
             {
                 "sense": "1",
@@ -35724,8 +35339,7 @@
         ]
     },
     {
-        "term": "plat",
-        "roman_numeral": "I",
+        "term": "plat I",
         "definitions": [
             {
                 "sense": "1",
@@ -35734,8 +35348,7 @@
         ]
     },
     {
-        "term": "plat",
-        "roman_numeral": "II",
+        "term": "plat II",
         "definitions": [
             {
                 "sense": "1",
@@ -36293,8 +35906,7 @@
         ]
     },
     {
-        "term": "pocong",
-        "roman_numeral": "I",
+        "term": "pocong I",
         "origin": "Jw",
         "definitions": [
             {
@@ -36323,7 +35935,7 @@
         ]
     },
     {
-        "term": "podak",
+        "term": "podak;",
         "definitions": [
             {
                 "sense": "1",
@@ -36420,8 +36032,7 @@
         ]
     },
     {
-        "term": "pohon",
-        "roman_numeral": "II",
+        "term": "pohon II; memohon",
         "definitions": [
             {
                 "sense": "1",
@@ -36500,7 +36111,7 @@
         ]
     },
     {
-        "term": "pokat",
+        "term": "pokat;",
         "definitions": [
             {
                 "sense": "1",
@@ -36553,7 +36164,7 @@
         ]
     },
     {
-        "term": "pok-o",
+        "term": "pok-o;",
         "definitions": [
             {
                 "sense": "1",
@@ -36684,10 +36295,11 @@
     },
     {
         "term": "pokta",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tersangat indah (mulia), tidak ada bandingnya, (yg) terbaik."
+                "definition": "tersangat indah (mulia), tidak ada bandingnya, (yg) terbaik."
             }
         ]
     },
@@ -36729,8 +36341,7 @@
         ]
     },
     {
-        "term": "pol",
-        "roman_numeral": "II",
+        "term": "pol II",
         "origin": "Id",
         "definitions": [
             {
@@ -36740,8 +36351,7 @@
         ]
     },
     {
-        "term": "pol",
-        "roman_numeral": "III",
+        "term": "pol III",
         "definitions": [
             {
                 "sense": "1",
@@ -36806,7 +36416,7 @@
         ]
     },
     {
-        "term": "polan",
+        "term": "polan;",
         "definitions": [
             {
                 "sense": "1",
@@ -36815,8 +36425,7 @@
         ]
     },
     {
-        "term": "polang",
-        "roman_numeral": "I",
+        "term": "polang I;",
         "definitions": [
             {
                 "sense": "1",
@@ -36825,8 +36434,7 @@
         ]
     },
     {
-        "term": "polang",
-        "roman_numeral": "II",
+        "term": "polang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -37265,8 +36873,7 @@
         ]
     },
     {
-        "term": "polisi",
-        "roman_numeral": "I",
+        "term": "polisi I",
         "definitions": [
             {
                 "sense": "1",
@@ -37275,8 +36882,7 @@
         ]
     },
     {
-        "term": "polisi",
-        "roman_numeral": "II",
+        "term": "polisi II",
         "definitions": [
             {
                 "sense": "1",
@@ -37285,8 +36891,7 @@
         ]
     },
     {
-        "term": "polisi",
-        "roman_numeral": "III",
+        "term": "polisi III",
         "origin": "IB",
         "definitions": [
             {
@@ -37482,7 +37087,7 @@
         ]
     },
     {
-        "term": "polok",
+        "term": "polok; memolok",
         "definitions": [
             {
                 "sense": "1",
@@ -37504,8 +37109,7 @@
         ]
     },
     {
-        "term": "polong",
-        "roman_numeral": "II",
+        "term": "polong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -37514,8 +37118,7 @@
         ]
     },
     {
-        "term": "polong",
-        "roman_numeral": "III",
+        "term": "polong III",
         "definitions": [
             {
                 "sense": "1",
@@ -37524,8 +37127,7 @@
         ]
     },
     {
-        "term": "polong",
-        "roman_numeral": "IV",
+        "term": "polong IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -37534,8 +37136,7 @@
         ]
     },
     {
-        "term": "polong",
-        "roman_numeral": "V",
+        "term": "polong V; polongan",
         "origin": "Mn",
         "definitions": [
             {
@@ -37672,8 +37273,7 @@
         ]
     },
     {
-        "term": "pompong",
-        "roman_numeral": "I",
+        "term": "pompong I",
         "definitions": [
             {
                 "sense": "1",
@@ -37682,8 +37282,7 @@
         ]
     },
     {
-        "term": "pompong",
-        "roman_numeral": "II",
+        "term": "pompong II",
         "definitions": [
             {
                 "sense": "1",
@@ -37692,8 +37291,7 @@
         ]
     },
     {
-        "term": "pompong",
-        "roman_numeral": "III",
+        "term": "pompong III",
         "origin": "Mn",
         "definitions": [
             {
@@ -37703,8 +37301,7 @@
         ]
     },
     {
-        "term": "pompong",
-        "roman_numeral": "IV",
+        "term": "pompong IV",
         "definitions": [
             {
                 "sense": "1",
@@ -37713,8 +37310,7 @@
         ]
     },
     {
-        "term": "pompong",
-        "roman_numeral": "V",
+        "term": "pompong V",
         "definitions": [
             {
                 "sense": "1",
@@ -37852,8 +37448,7 @@
         ]
     },
     {
-        "term": "pondong",
-        "roman_numeral": "I",
+        "term": "pondong I; memondong",
         "definitions": [
             {
                 "sense": "1",
@@ -37862,8 +37457,7 @@
         ]
     },
     {
-        "term": "pondong",
-        "roman_numeral": "II",
+        "term": "pondong II",
         "definitions": [
             {
                 "sense": "1",
@@ -37890,8 +37484,7 @@
         ]
     },
     {
-        "term": "pong-pong",
-        "roman_numeral": "I",
+        "term": "pong-pong I;",
         "definitions": [
             {
                 "sense": "1",
@@ -37900,8 +37493,7 @@
         ]
     },
     {
-        "term": "pong-pong",
-        "roman_numeral": "II",
+        "term": "pong-pong II;",
         "definitions": [
             {
                 "sense": "1",
@@ -37910,8 +37502,7 @@
         ]
     },
     {
-        "term": "pongah",
-        "roman_numeral": "I",
+        "term": "pongah I",
         "definitions": [
             {
                 "sense": "1",
@@ -37949,8 +37540,7 @@
         ]
     },
     {
-        "term": "pongah",
-        "roman_numeral": "II",
+        "term": "pongah II",
         "origin": "Jk",
         "definitions": [
             {
@@ -37989,8 +37579,7 @@
         ]
     },
     {
-        "term": "ponggok",
-        "roman_numeral": "I",
+        "term": "ponggok I",
         "definitions": [
             {
                 "sense": "1",
@@ -37999,8 +37588,7 @@
         ]
     },
     {
-        "term": "ponggok",
-        "roman_numeral": "II",
+        "term": "ponggok II",
         "origin": "Mn",
         "definitions": [
             {
@@ -38095,8 +37683,7 @@
         ]
     },
     {
-        "term": "pongsu",
-        "roman_numeral": "I",
+        "term": "pongsu I",
         "definitions": [
             {
                 "sense": "1",
@@ -38105,8 +37692,7 @@
         ]
     },
     {
-        "term": "pongsu",
-        "roman_numeral": "II",
+        "term": "pongsu II;",
         "definitions": [
             {
                 "sense": "1",
@@ -38286,10 +37872,11 @@
     },
     {
         "term": "pontoh",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl gelang besar yg berukir dgn naga dll (dipakai di lengan  sebelah atas)."
+                "definition": "gelang besar yg berukir dgn naga dll (dipakai di lengan  sebelah atas)."
             }
         ]
     },
@@ -38313,7 +37900,7 @@
         ]
     },
     {
-        "term": "pooh",
+        "term": "pooh;",
         "definitions": [
             {
                 "sense": "1",
@@ -38340,8 +37927,7 @@
         ]
     },
     {
-        "term": "popi",
-        "roman_numeral": "I",
+        "term": "popi I",
         "definitions": [
             {
                 "sense": "1",
@@ -38350,8 +37936,7 @@
         ]
     },
     {
-        "term": "popi",
-        "roman_numeral": "II",
+        "term": "popi II",
         "origin": "IB",
         "definitions": [
             {
@@ -38379,8 +37964,7 @@
         ]
     },
     {
-        "term": "popok",
-        "roman_numeral": "I",
+        "term": "popok I",
         "origin": "Jw",
         "definitions": [
             {
@@ -38390,8 +37974,7 @@
         ]
     },
     {
-        "term": "popok",
-        "roman_numeral": "II",
+        "term": "popok II; popokan",
         "definitions": [
             {
                 "sense": "1",
@@ -38621,8 +38204,7 @@
         ]
     },
     {
-        "term": "porok",
-        "roman_numeral": "I",
+        "term": "porok I",
         "definitions": [
             {
                 "sense": "1",
@@ -38631,8 +38213,7 @@
         ]
     },
     {
-        "term": "porok",
-        "roman_numeral": "II",
+        "term": "porok II",
         "origin": "Br",
         "definitions": [
             {
@@ -38642,8 +38223,7 @@
         ]
     },
     {
-        "term": "porok",
-        "roman_numeral": "III",
+        "term": "porok III",
         "origin": "IB",
         "definitions": [
             {
@@ -38679,8 +38259,7 @@
         ]
     },
     {
-        "term": "poros",
-        "roman_numeral": "II",
+        "term": "poros II",
         "definitions": [
             {
                 "sense": "1",
@@ -39129,8 +38708,7 @@
         ]
     },
     {
-        "term": "pot",
-        "roman_numeral": "II",
+        "term": "pot II",
         "origin": "Kd",
         "definitions": [
             {
@@ -39544,8 +39122,7 @@
         ]
     },
     {
-        "term": "poyang",
-        "roman_numeral": "I",
+        "term": "poyang I",
         "definitions": [
             {
                 "sense": "1",
@@ -39723,8 +39300,7 @@
         ]
     },
     {
-        "term": "pragmatik",
-        "roman_numeral": "I",
+        "term": "pragmatik I",
         "definitions": [
             {
                 "sense": "1",
@@ -39733,8 +39309,7 @@
         ]
     },
     {
-        "term": "pragmatik",
-        "roman_numeral": "II",
+        "term": "pragmatik II",
         "definitions": [
             {
                 "sense": "1",
@@ -39961,7 +39536,7 @@
         ]
     },
     {
-        "term": "prangas",
+        "term": "prangas;",
         "definitions": [
             {
                 "sense": "1",
@@ -40617,7 +40192,7 @@
         ]
     },
     {
-        "term": "prima",
+        "term": "prima facie",
         "definitions": [
             {
                 "sense": "1",
@@ -40827,8 +40402,7 @@
         ]
     },
     {
-        "term": "pro",
-        "roman_numeral": "I",
+        "term": "pro I",
         "definitions": [
             {
                 "sense": "1",
@@ -40837,8 +40411,7 @@
         ]
     },
     {
-        "term": "pro",
-        "roman_numeral": "II",
+        "term": "pro II",
         "definitions": [
             {
                 "sense": "1",
@@ -41454,8 +41027,7 @@
         ]
     },
     {
-        "term": "Prolog",
-        "roman_numeral": "II",
+        "term": "Prolog II",
         "definitions": [
             {
                 "sense": "1",
@@ -41597,7 +41169,7 @@
         ]
     },
     {
-        "term": "pro",
+        "term": "pro rata",
         "origin": "(Latin)",
         "definitions": [
             {
@@ -42520,10 +42092,11 @@
     },
     {
         "term": "puadai",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj hamparan drpd kain, (tikar dll) utk tempat berjalan atau  tempat duduk orang besar-besar (pengantin ketika bersanding dll)."
+                "definition": "sj hamparan drpd kain, (tikar dll) utk tempat berjalan atau  tempat duduk orang besar-besar (pengantin ketika bersanding dll)."
             }
         ]
     },
@@ -42613,8 +42186,7 @@
         ]
     },
     {
-        "term": "pual",
-        "roman_numeral": "I",
+        "term": "pual I",
         "origin": "IB",
         "definitions": [
             {
@@ -42624,8 +42196,7 @@
         ]
     },
     {
-        "term": "pual",
-        "roman_numeral": "II",
+        "term": "pual II",
         "definitions": [
             {
                 "sense": "1",
@@ -42654,8 +42225,7 @@
         ]
     },
     {
-        "term": "puan",
-        "roman_numeral": "I",
+        "term": "puan I",
         "definitions": [
             {
                 "sense": "1",
@@ -42697,8 +42267,7 @@
         ]
     },
     {
-        "term": "puan",
-        "roman_numeral": "III",
+        "term": "puan III;",
         "definitions": [
             {
                 "sense": "1",
@@ -42707,8 +42276,7 @@
         ]
     },
     {
-        "term": "puan",
-        "roman_numeral": "IV",
+        "term": "puan IV",
         "definitions": [
             {
                 "sense": "1",
@@ -42717,7 +42285,7 @@
         ]
     },
     {
-        "term": "puar",
+        "term": "puar;",
         "definitions": [
             {
                 "sense": "1",
@@ -42956,7 +42524,7 @@
         ]
     },
     {
-        "term": "puca",
+        "term": "puca;",
         "definitions": [
             {
                 "sense": "1",
@@ -43079,8 +42647,7 @@
         ]
     },
     {
-        "term": "pucuk",
-        "roman_numeral": "III",
+        "term": "pucuk III",
         "definitions": [
             {
                 "sense": "1",
@@ -43089,8 +42656,7 @@
         ]
     },
     {
-        "term": "pucung",
-        "roman_numeral": "I",
+        "term": "pucung I",
         "definitions": [
             {
                 "sense": "1",
@@ -43099,8 +42665,7 @@
         ]
     },
     {
-        "term": "pucung",
-        "roman_numeral": "II",
+        "term": "pucung II",
         "origin": "Jw",
         "definitions": [
             {
@@ -43203,8 +42768,7 @@
         ]
     },
     {
-        "term": "puding",
-        "roman_numeral": "I",
+        "term": "puding I",
         "definitions": [
             {
                 "sense": "1",
@@ -43213,8 +42777,7 @@
         ]
     },
     {
-        "term": "puding",
-        "roman_numeral": "II",
+        "term": "puding II",
         "definitions": [
             {
                 "sense": "1",
@@ -43271,8 +42834,7 @@
         ]
     },
     {
-        "term": "pugar",
-        "roman_numeral": "I",
+        "term": "pugar I;",
         "definitions": [
             {
                 "sense": "1",
@@ -43309,8 +42871,7 @@
         ]
     },
     {
-        "term": "pugar",
-        "roman_numeral": "II",
+        "term": "pugar II",
         "origin": "Mn",
         "definitions": [
             {
@@ -43320,7 +42881,7 @@
         ]
     },
     {
-        "term": "pugas",
+        "term": "pugas; memugas",
         "definitions": [
             {
                 "sense": "1",
@@ -43329,7 +42890,7 @@
         ]
     },
     {
-        "term": "pugau",
+        "term": "pugau; terpugau",
         "definitions": [
             {
                 "sense": "1",
@@ -43732,7 +43293,7 @@
         ]
     },
     {
-        "term": "pujut",
+        "term": "pujut; memujut",
         "definitions": [
             {
                 "sense": "1",
@@ -43849,8 +43410,7 @@
         ]
     },
     {
-        "term": "pukang",
-        "roman_numeral": "II",
+        "term": "pukang II;",
         "definitions": [
             {
                 "sense": "1",
@@ -43859,8 +43419,7 @@
         ]
     },
     {
-        "term": "pukang",
-        "roman_numeral": "III",
+        "term": "pukang III",
         "definitions": [
             {
                 "sense": "1",
@@ -44012,8 +43571,7 @@
         ]
     },
     {
-        "term": "puki",
-        "roman_numeral": "II",
+        "term": "puki II;",
         "definitions": [
             {
                 "sense": "1",
@@ -44162,8 +43720,7 @@
         ]
     },
     {
-        "term": "pukul",
-        "roman_numeral": "II",
+        "term": "pukul II;",
         "definitions": [
             {
                 "sense": "1",
@@ -44172,8 +43729,7 @@
         ]
     },
     {
-        "term": "pukul",
-        "roman_numeral": "III",
+        "term": "pukul III;",
         "definitions": [
             {
                 "sense": "1",
@@ -44196,8 +43752,7 @@
         ]
     },
     {
-        "term": "pul",
-        "roman_numeral": "II",
+        "term": "pul II;",
         "definitions": [
             {
                 "sense": "1",
@@ -44375,8 +43930,7 @@
         ]
     },
     {
-        "term": "pulas",
-        "roman_numeral": "I",
+        "term": "pulas I; berpulas, berpulas-pulas",
         "definitions": [
             {
                 "sense": "1",
@@ -44413,8 +43967,7 @@
         ]
     },
     {
-        "term": "pulas",
-        "roman_numeral": "II",
+        "term": "pulas II; memulas",
         "definitions": [
             {
                 "sense": "1",
@@ -44423,8 +43976,7 @@
         ]
     },
     {
-        "term": "pulas",
-        "roman_numeral": "III",
+        "term": "pulas III;",
         "definitions": [
             {
                 "sense": "1",
@@ -44433,8 +43985,7 @@
         ]
     },
     {
-        "term": "pulas",
-        "roman_numeral": "IV",
+        "term": "pulas IV",
         "origin": "Jk",
         "definitions": [
             {
@@ -44488,8 +44039,7 @@
         ]
     },
     {
-        "term": "pulas",
-        "roman_numeral": "VI",
+        "term": "pulas VI;",
         "definitions": [
             {
                 "sense": "1",
@@ -44603,7 +44153,7 @@
         ]
     },
     {
-        "term": "Pulau",
+        "term": "Pulau Pinang",
         "definitions": [
             {
                 "sense": "1",
@@ -44632,8 +44182,7 @@
         ]
     },
     {
-        "term": "pulih",
-        "roman_numeral": "I",
+        "term": "pulih I",
         "definitions": [
             {
                 "sense": "1",
@@ -44684,8 +44233,7 @@
         ]
     },
     {
-        "term": "pulih",
-        "roman_numeral": "II",
+        "term": "pulih II;",
         "definitions": [
             {
                 "sense": "1",
@@ -44694,7 +44242,7 @@
         ]
     },
     {
-        "term": "pulihara",
+        "term": "pulihara; memulihara",
         "definitions": [
             {
                 "sense": "1",
@@ -44714,8 +44262,7 @@
         ]
     },
     {
-        "term": "puling",
-        "roman_numeral": "I",
+        "term": "puling I",
         "definitions": [
             {
                 "sense": "1",
@@ -44724,8 +44271,7 @@
         ]
     },
     {
-        "term": "puling",
-        "roman_numeral": "II",
+        "term": "puling II;",
         "definitions": [
             {
                 "sense": "1",
@@ -44734,8 +44280,7 @@
         ]
     },
     {
-        "term": "puling",
-        "roman_numeral": "III",
+        "term": "puling III",
         "definitions": [
             {
                 "sense": "1",
@@ -44744,8 +44289,7 @@
         ]
     },
     {
-        "term": "puling",
-        "roman_numeral": "IV",
+        "term": "puling IV",
         "origin": "Kl",
         "definitions": [
             {
@@ -44862,8 +44406,7 @@
         ]
     },
     {
-        "term": "pulun",
-        "roman_numeral": "II",
+        "term": "pulun II",
         "origin": "Kd",
         "definitions": [
             {
@@ -44918,8 +44461,7 @@
         ]
     },
     {
-        "term": "pulut",
-        "roman_numeral": "I",
+        "term": "pulut I",
         "definitions": [
             {
                 "sense": "1",
@@ -44969,8 +44511,7 @@
         ]
     },
     {
-        "term": "pulut",
-        "roman_numeral": "III",
+        "term": "pulut III;",
         "definitions": [
             {
                 "sense": "1",
@@ -45012,7 +44553,7 @@
         ]
     },
     {
-        "term": "pumis",
+        "term": "pumis;",
         "definitions": [
             {
                 "sense": "1",
@@ -45021,8 +44562,7 @@
         ]
     },
     {
-        "term": "pumpun",
-        "roman_numeral": "I",
+        "term": "pumpun I",
         "origin": "Mn",
         "definitions": [
             {
@@ -45065,8 +44605,7 @@
         ]
     },
     {
-        "term": "pumpun",
-        "roman_numeral": "II",
+        "term": "pumpun II",
         "definitions": [
             {
                 "sense": "1",
@@ -45075,8 +44614,7 @@
         ]
     },
     {
-        "term": "pumpun",
-        "roman_numeral": "III",
+        "term": "pumpun III",
         "origin": "Mn",
         "definitions": [
             {
@@ -45165,8 +44703,7 @@
         ]
     },
     {
-        "term": "punah",
-        "roman_numeral": "II",
+        "term": "punah II",
         "definitions": [
             {
                 "sense": "1",
@@ -45201,8 +44738,7 @@
         ]
     },
     {
-        "term": "punai",
-        "roman_numeral": "III",
+        "term": "punai III;",
         "definitions": [
             {
                 "sense": "1",
@@ -45282,8 +44818,7 @@
         ]
     },
     {
-        "term": "punca",
-        "roman_numeral": "II",
+        "term": "punca II",
         "origin": "Mn",
         "definitions": [
             {
@@ -45361,10 +44896,11 @@
     },
     {
         "term": "punci",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl baiklah, mujur benar, untunglah:  sekali-sekali tiadalah aku  melihat ia membesarkan dirinya baik drpd kelakuannya ataupun  pakaiannya, ~ orang-orangnya yg memakan gajinya memakai spt  orang besar-besar."
+                "definition": "baiklah, mujur benar, untunglah:  sekali-sekali tiadalah aku  melihat ia membesarkan dirinya baik drpd kelakuannya ataupun  pakaiannya, ~ orang-orangnya yg memakan gajinya memakai spt  orang besar-besar."
             }
         ]
     },
@@ -45391,8 +44927,7 @@
         ]
     },
     {
-        "term": "pundi",
-        "roman_numeral": "II",
+        "term": "pundi II",
         "origin": "Jw",
         "definitions": [
             {
@@ -45451,7 +44986,7 @@
         ]
     },
     {
-        "term": "punggah",
+        "term": "punggah;",
         "definitions": [
             {
                 "sense": "1",
@@ -45506,8 +45041,7 @@
         ]
     },
     {
-        "term": "punggai",
-        "roman_numeral": "I",
+        "term": "punggai I",
         "definitions": [
             {
                 "sense": "1",
@@ -45516,8 +45050,7 @@
         ]
     },
     {
-        "term": "punggai",
-        "roman_numeral": "II",
+        "term": "punggai II; memunggaikan",
         "definitions": [
             {
                 "sense": "1",
@@ -45537,8 +45070,7 @@
         ]
     },
     {
-        "term": "punggal",
-        "roman_numeral": "I",
+        "term": "punggal I",
         "definitions": [
             {
                 "sense": "1",
@@ -45547,8 +45079,7 @@
         ]
     },
     {
-        "term": "punggal",
-        "roman_numeral": "II",
+        "term": "punggal II",
         "origin": "Jk",
         "definitions": [
             {
@@ -45569,8 +45100,7 @@
         ]
     },
     {
-        "term": "pungguk",
-        "roman_numeral": "I",
+        "term": "pungguk I",
         "definitions": [
             {
                 "sense": "1",
@@ -45579,8 +45109,7 @@
         ]
     },
     {
-        "term": "pungguk",
-        "roman_numeral": "II",
+        "term": "pungguk II",
         "definitions": [
             {
                 "sense": "1",
@@ -45663,7 +45192,7 @@
         ]
     },
     {
-        "term": "pungkah",
+        "term": "pungkah, pungkahan",
         "definitions": [
             {
                 "sense": "1",
@@ -45672,8 +45201,7 @@
         ]
     },
     {
-        "term": "pungkas",
-        "roman_numeral": "I",
+        "term": "pungkas I",
         "origin": "Jw",
         "definitions": [
             {
@@ -45683,8 +45211,7 @@
         ]
     },
     {
-        "term": "pungkas",
-        "roman_numeral": "II",
+        "term": "pungkas II",
         "definitions": [
             {
                 "sense": "1",
@@ -45733,7 +45260,7 @@
         ]
     },
     {
-        "term": "pungut",
+        "term": "pungut;",
         "definitions": [
             {
                 "sense": "1",
@@ -45854,8 +45381,7 @@
         ]
     },
     {
-        "term": "punjung",
-        "roman_numeral": "I",
+        "term": "punjung I",
         "definitions": [
             {
                 "sense": "1",
@@ -45944,8 +45470,7 @@
         ]
     },
     {
-        "term": "punti",
-        "roman_numeral": "I",
+        "term": "punti I",
         "definitions": [
             {
                 "sense": "1",
@@ -45967,8 +45492,7 @@
         ]
     },
     {
-        "term": "puntianak",
-        "roman_numeral": "I",
+        "term": "puntianak I",
         "definitions": [
             {
                 "sense": "1",
@@ -45977,8 +45501,7 @@
         ]
     },
     {
-        "term": "puntianak",
-        "roman_numeral": "II",
+        "term": "puntianak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -46087,8 +45610,7 @@
         ]
     },
     {
-        "term": "puntung",
-        "roman_numeral": "II",
+        "term": "puntung II;",
         "definitions": [
             {
                 "sense": "1",
@@ -46206,10 +45728,11 @@
     },
     {
         "term": "pupal",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl pinang."
+                "definition": "pinang."
             }
         ]
     },
@@ -46224,7 +45747,7 @@
         ]
     },
     {
-        "term": "pupu",
+        "term": "pupu;",
         "definitions": [
             {
                 "sense": "1",
@@ -46271,7 +45794,7 @@
         ]
     },
     {
-        "term": "pupuh",
+        "term": "pupuh;",
         "definitions": [
             {
                 "sense": "1",
@@ -46380,8 +45903,7 @@
         ]
     },
     {
-        "term": "pupuk",
-        "roman_numeral": "II",
+        "term": "pupuk II",
         "definitions": [
             {
                 "sense": "1",
@@ -46410,8 +45932,7 @@
         ]
     },
     {
-        "term": "pupur",
-        "roman_numeral": "I",
+        "term": "pupur I",
         "definitions": [
             {
                 "sense": "1",
@@ -46440,8 +45961,7 @@
         ]
     },
     {
-        "term": "pupur",
-        "roman_numeral": "II",
+        "term": "pupur II; memupur",
         "definitions": [
             {
                 "sense": "1",
@@ -46461,8 +45981,7 @@
         ]
     },
     {
-        "term": "pupur",
-        "roman_numeral": "III",
+        "term": "pupur III",
         "definitions": [
             {
                 "sense": "1",
@@ -46471,8 +45990,7 @@
         ]
     },
     {
-        "term": "pupus",
-        "roman_numeral": "I",
+        "term": "pupus I",
         "definitions": [
             {
                 "sense": "1",
@@ -46528,8 +46046,7 @@
         ]
     },
     {
-        "term": "pupus",
-        "roman_numeral": "II",
+        "term": "pupus II",
         "origin": "Jw",
         "definitions": [
             {
@@ -46539,8 +46056,7 @@
         ]
     },
     {
-        "term": "puput",
-        "roman_numeral": "I",
+        "term": "puput I",
         "origin": "Mn",
         "definitions": [
             {
@@ -46587,8 +46103,7 @@
         ]
     },
     {
-        "term": "puput",
-        "roman_numeral": "II",
+        "term": "puput II",
         "origin": "Jk",
         "definitions": [
             {
@@ -46598,8 +46113,7 @@
         ]
     },
     {
-        "term": "puput",
-        "roman_numeral": "III",
+        "term": "puput III",
         "definitions": [
             {
                 "sense": "1",
@@ -46626,12 +46140,12 @@
         ]
     },
     {
-        "term": "pura",
-        "roman_numeral": "II",
+        "term": "pura II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bandar, kota, negeri (Singapura, Inderapura, dll)."
+                "definition": "bandar, kota, negeri (Singapura, Inderapura, dll)."
             }
         ]
     },
@@ -46675,8 +46189,7 @@
         ]
     },
     {
-        "term": "puras",
-        "roman_numeral": "I",
+        "term": "puras I",
         "definitions": [
             {
                 "sense": "1",
@@ -46685,8 +46198,7 @@
         ]
     },
     {
-        "term": "puras",
-        "roman_numeral": "II",
+        "term": "puras II",
         "definitions": [
             {
                 "sense": "1",
@@ -46734,10 +46246,11 @@
     },
     {
         "term": "purba",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl zaman dahulu, dahulu;  masa (zaman) ~  zaman dahulu;"
+                "definition": "zaman dahulu, dahulu;  masa (zaman) ~  zaman dahulu;"
             }
         ],
         "sub_terms": [
@@ -46863,8 +46376,7 @@
         ]
     },
     {
-        "term": "puri",
-        "roman_numeral": "II",
+        "term": "puri II",
         "definitions": [
             {
                 "sense": "1",
@@ -46884,8 +46396,7 @@
         ]
     },
     {
-        "term": "puring",
-        "roman_numeral": "I",
+        "term": "puring I",
         "definitions": [
             {
                 "sense": "1",
@@ -46894,8 +46405,7 @@
         ]
     },
     {
-        "term": "puring",
-        "roman_numeral": "II",
+        "term": "puring II",
         "definitions": [
             {
                 "sense": "1",
@@ -46970,7 +46480,7 @@
         ]
     },
     {
-        "term": "puruh",
+        "term": "puruh;",
         "definitions": [
             {
                 "sense": "1",
@@ -47008,8 +46518,7 @@
         ]
     },
     {
-        "term": "puruk",
-        "roman_numeral": "II",
+        "term": "puruk II;",
         "definitions": [
             {
                 "sense": "1",
@@ -47036,8 +46545,7 @@
         ]
     },
     {
-        "term": "purus",
-        "roman_numeral": "I",
+        "term": "purus I",
         "origin": "Jw",
         "definitions": [
             {
@@ -47047,8 +46555,7 @@
         ]
     },
     {
-        "term": "purus",
-        "roman_numeral": "II",
+        "term": "purus II",
         "definitions": [
             {
                 "sense": "1",
@@ -47057,8 +46564,7 @@
         ]
     },
     {
-        "term": "purus",
-        "roman_numeral": "III",
+        "term": "purus III",
         "origin": "Kd",
         "definitions": [
             {
@@ -47186,8 +46692,7 @@
         ]
     },
     {
-        "term": "pusar",
-        "roman_numeral": "I",
+        "term": "pusar I",
         "definitions": [
             {
                 "sense": "1",
@@ -47196,8 +46701,7 @@
         ]
     },
     {
-        "term": "pusar",
-        "roman_numeral": "II",
+        "term": "pusar II; berpusar, berpusar-pusar",
         "definitions": [
             {
                 "sense": "1",
@@ -47243,8 +46747,7 @@
         ]
     },
     {
-        "term": "pusar",
-        "roman_numeral": "III",
+        "term": "pusar III",
         "origin": "Jw",
         "definitions": [
             {
@@ -47254,8 +46757,7 @@
         ]
     },
     {
-        "term": "pusara",
-        "roman_numeral": "I",
+        "term": "pusara I",
         "origin": "Mn",
         "definitions": [
             {
@@ -47265,8 +46767,7 @@
         ]
     },
     {
-        "term": "pusara",
-        "roman_numeral": "II",
+        "term": "pusara II",
         "origin": "Jw",
         "definitions": [
             {
@@ -47550,18 +47051,17 @@
         ]
     },
     {
-        "term": "puspa",
-        "roman_numeral": "I",
+        "term": "puspa I",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bunga;  ~ hati  ki kekasih, buah hati;  taman ~ (sari)  taman  bunga, jambangan."
+                "definition": "bunga;  ~ hati  ki kekasih, buah hati;  taman ~ (sari)  taman  bunga, jambangan."
             }
         ]
     },
     {
-        "term": "puspa",
-        "roman_numeral": "II",
+        "term": "puspa II",
         "origin": "Br",
         "definitions": [
             {
@@ -47655,10 +47155,11 @@
     },
     {
         "term": "puspita",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl bunga;  ~ hati  kekasih hati."
+                "definition": "bunga;  ~ hati  kekasih hati."
             }
         ]
     },
@@ -47769,8 +47270,7 @@
         ]
     },
     {
-        "term": "pusu",
-        "roman_numeral": "I",
+        "term": "pusu I",
         "definitions": [
             {
                 "sense": "1",
@@ -47779,8 +47279,7 @@
         ]
     },
     {
-        "term": "pusu",
-        "roman_numeral": "II",
+        "term": "pusu II",
         "definitions": [
             {
                 "sense": "1",
@@ -47800,8 +47299,7 @@
         ]
     },
     {
-        "term": "pusu",
-        "roman_numeral": "III",
+        "term": "pusu III",
         "origin": "Mn",
         "definitions": [
             {
@@ -48175,8 +47673,7 @@
         ]
     },
     {
-        "term": "puteri",
-        "roman_numeral": "II",
+        "term": "puteri II;",
         "definitions": [
             {
                 "sense": "1",
@@ -48185,8 +47682,7 @@
         ]
     },
     {
-        "term": "puteri",
-        "roman_numeral": "III",
+        "term": "puteri III;",
         "definitions": [
             {
                 "sense": "1",
@@ -48299,8 +47795,7 @@
         ]
     },
     {
-        "term": "putih",
-        "roman_numeral": "II",
+        "term": "putih II",
         "origin": "Pr",
         "definitions": [
             {
@@ -48310,8 +47805,7 @@
         ]
     },
     {
-        "term": "putih",
-        "roman_numeral": "III",
+        "term": "putih III",
         "definitions": [
             {
                 "sense": "1",
@@ -48320,8 +47814,7 @@
         ]
     },
     {
-        "term": "putih",
-        "roman_numeral": "IV",
+        "term": "putih IV;",
         "definitions": [
             {
                 "sense": "1",
@@ -48394,8 +47887,7 @@
         ]
     },
     {
-        "term": "puting",
-        "roman_numeral": "II",
+        "term": "puting II;",
         "definitions": [
             {
                 "sense": "1",
@@ -48612,7 +48104,7 @@
         ]
     },
     {
-        "term": "putus",
+        "term": "putus asa",
         "definitions": [
             {
                 "sense": "1",
@@ -48642,16 +48134,16 @@
     },
     {
         "term": "putut",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl peputut."
+                "definition": "peputut."
             }
         ]
     },
     {
-        "term": "puyan",
-        "roman_numeral": "I",
+        "term": "puyan I",
         "origin": "Jk",
         "definitions": [
             {
@@ -48672,8 +48164,7 @@
         ]
     },
     {
-        "term": "puyan",
-        "roman_numeral": "II",
+        "term": "puyan II",
         "origin": "Kl",
         "definitions": [
             {
@@ -48702,8 +48193,7 @@
         ]
     },
     {
-        "term": "puyu",
-        "roman_numeral": "I",
+        "term": "puyu I;",
         "definitions": [
             {
                 "sense": "1",
@@ -48712,8 +48202,7 @@
         ]
     },
     {
-        "term": "puyu",
-        "roman_numeral": "II",
+        "term": "puyu II",
         "definitions": [
             {
                 "sense": "1",
@@ -48722,8 +48211,7 @@
         ]
     },
     {
-        "term": "puyu",
-        "roman_numeral": "III",
+        "term": "puyu III",
         "origin": "Mn",
         "definitions": [
             {
@@ -48733,8 +48221,7 @@
         ]
     },
     {
-        "term": "puyuh",
-        "roman_numeral": "I",
+        "term": "puyuh I",
         "definitions": [
             {
                 "sense": "1",
@@ -48743,8 +48230,7 @@
         ]
     },
     {
-        "term": "puyuh",
-        "roman_numeral": "II",
+        "term": "puyuh II;",
         "definitions": [
             {
                 "sense": "1",
@@ -48753,8 +48239,7 @@
         ]
     },
     {
-        "term": "puyuh",
-        "roman_numeral": "III",
+        "term": "puyuh III",
         "definitions": [
             {
                 "sense": "1",

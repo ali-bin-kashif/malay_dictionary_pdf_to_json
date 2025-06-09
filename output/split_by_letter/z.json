@@ -81,7 +81,7 @@
         ]
     },
     {
-        "term": "zadah",
+        "term": "zadah;",
         "definitions": [
             {
                 "sense": "1",
@@ -618,10 +618,11 @@
     },
     {
         "term": "zib",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl sj serigala."
+                "definition": "sj serigala."
             }
         ]
     },
@@ -903,7 +904,7 @@
         ]
     },
     {
-        "term": "zirah",
+        "term": "zirah;",
         "definitions": [
             {
                 "sense": "1",
@@ -913,10 +914,11 @@
     },
     {
         "term": "zirbad",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl negeri di bawah angin."
+                "definition": "negeri di bawah angin."
             }
         ]
     },
@@ -1187,7 +1189,7 @@
         ]
     },
     {
-        "term": "Zu",
+        "term": "Zu al-Jalal wa al-Ikram",
         "definitions": [
             {
                 "sense": "1",
@@ -1335,6 +1337,15 @@
                     {
                         "sense": "1",
                         "definition": "sama zuriat:  antara definisi saudara yg  dimaksudkan  mengikut akta itu termasuk keturunan ~;"
+                    }
+                ]
+            },
+            {
+                "sub_term": "berzuriat",
+                "definitions": [
+                    {
+                        "sense": "1",
+                        "definition": "mempunyai zuriat: orang yg tidak ~."
                     }
                 ]
             }

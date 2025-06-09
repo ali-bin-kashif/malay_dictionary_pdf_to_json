@@ -68,8 +68,7 @@
         ]
     },
     {
-        "term": "ya",
-        "roman_numeral": "III",
+        "term": "ya III",
         "definitions": [
             {
                 "sense": "1",
@@ -187,7 +186,7 @@
         ]
     },
     {
-        "term": "yahum",
+        "term": "yahum;",
         "definitions": [
             {
                 "sense": "1",
@@ -206,7 +205,7 @@
         ]
     },
     {
-        "term": "Yakjuj",
+        "term": "Yakjuj wa Makjuj",
         "origin": "Ar",
         "definitions": [
             {
@@ -216,8 +215,7 @@
         ]
     },
     {
-        "term": "yak",
-        "roman_numeral": "I",
+        "term": "yak I;",
         "definitions": [
             {
                 "sense": "1",
@@ -237,8 +235,7 @@
         ]
     },
     {
-        "term": "yak",
-        "roman_numeral": "II",
+        "term": "yak II",
         "definitions": [
             {
                 "sense": "1",
@@ -429,8 +426,7 @@
         ]
     },
     {
-        "term": "yang",
-        "roman_numeral": "II",
+        "term": "yang II",
         "definitions": [
             {
                 "sense": "1",
@@ -472,7 +468,7 @@
         ]
     },
     {
-        "term": "yang-yang",
+        "term": "yang-yang;",
         "definitions": [
             {
                 "sense": "1",
@@ -732,10 +728,11 @@
     },
     {
         "term": "yojana",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl jarak (ukuran) jauh, jauh:  beberapa ribu ~ jauhnya;"
+                "definition": "jarak (ukuran) jauh, jauh:  beberapa ribu ~ jauhnya;"
             }
         ],
         "sub_terms": [
@@ -830,8 +827,7 @@
         ]
     },
     {
-        "term": "yu",
-        "roman_numeral": "I",
+        "term": "yu I",
         "definitions": [
             {
                 "sense": "1",
@@ -840,8 +836,7 @@
         ]
     },
     {
-        "term": "yu",
-        "roman_numeral": "II",
+        "term": "yu II",
         "origin": "Jw",
         "definitions": [
             {
@@ -861,10 +856,11 @@
     },
     {
         "term": "yuda",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl perang, peperangan."
+                "definition": "perang, peperangan."
             }
         ]
     },

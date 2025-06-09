@@ -1,7 +1,6 @@
 [
     {
-        "term": "o",
-        "roman_numeral": "I",
+        "term": "o I",
         "definitions": [
             {
                 "sense": "1",
@@ -23,8 +22,7 @@
         ]
     },
     {
-        "term": "o",
-        "roman_numeral": "III",
+        "term": "o III;",
         "definitions": [
             {
                 "sense": "1",
@@ -228,8 +226,7 @@
         ]
     },
     {
-        "term": "obligasi",
-        "roman_numeral": "I",
+        "term": "obligasi I",
         "definitions": [
             {
                 "sense": "1",
@@ -238,8 +235,7 @@
         ]
     },
     {
-        "term": "obligasi",
-        "roman_numeral": "II",
+        "term": "obligasi II",
         "definitions": [
             {
                 "sense": "1",
@@ -658,8 +654,7 @@
         ]
     },
     {
-        "term": "ogah",
-        "roman_numeral": "I",
+        "term": "ogah I",
         "definitions": [
             {
                 "sense": "1",
@@ -668,8 +663,7 @@
         ]
     },
     {
-        "term": "ogah",
-        "roman_numeral": "II",
+        "term": "ogah II; mengogah",
         "definitions": [
             {
                 "sense": "1",
@@ -678,8 +672,7 @@
         ]
     },
     {
-        "term": "ogah",
-        "roman_numeral": "III",
+        "term": "ogah III",
         "origin": "Jk",
         "definitions": [
             {
@@ -700,11 +693,12 @@
         ]
     },
     {
-        "term": "ogak-ogak",
+        "term": "ogak-ogak; pengogak-ogak",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl tukang lawak (jenaka), alan-alan, badut;"
+                "definition": "tukang lawak (jenaka), alan-alan, badut;"
             }
         ],
         "sub_terms": [
@@ -720,7 +714,7 @@
         ]
     },
     {
-        "term": "ogoh",
+        "term": "ogoh; mengogoh",
         "definitions": [
             {
                 "sense": "1",
@@ -729,8 +723,7 @@
         ]
     },
     {
-        "term": "ogok",
-        "roman_numeral": "I",
+        "term": "ogok I",
         "origin": "Mn",
         "definitions": [
             {
@@ -740,8 +733,7 @@
         ]
     },
     {
-        "term": "ogok",
-        "roman_numeral": "II",
+        "term": "ogok II",
         "origin": "Mn",
         "definitions": [
             {
@@ -842,8 +834,7 @@
         ]
     },
     {
-        "term": "ok",
-        "roman_numeral": "II",
+        "term": "ok II",
         "definitions": [
             {
                 "sense": "1",
@@ -1215,8 +1206,7 @@
         ]
     },
     {
-        "term": "olah",
-        "roman_numeral": "II",
+        "term": "olah II; mengolah",
         "definitions": [
             {
                 "sense": "1",
@@ -1365,8 +1355,7 @@
         ]
     },
     {
-        "term": "olak",
-        "roman_numeral": "II",
+        "term": "olak II",
         "definitions": [
             {
                 "sense": "1",
@@ -1455,7 +1444,7 @@
         ]
     },
     {
-        "term": "olang",
+        "term": "olang;",
         "definitions": [
             {
                 "sense": "1",
@@ -1840,7 +1829,7 @@
         ]
     },
     {
-        "term": "Olimpik",
+        "term": "Olimpik;",
         "definitions": [
             {
                 "sense": "1",
@@ -1859,7 +1848,7 @@
         ]
     },
     {
-        "term": "olok",
+        "term": "olok; olok-olok",
         "definitions": [
             {
                 "sense": "1",
@@ -2221,7 +2210,7 @@
         ]
     },
     {
-        "term": "onang",
+        "term": "onang;",
         "definitions": [
             {
                 "sense": "1",
@@ -2250,8 +2239,7 @@
         ]
     },
     {
-        "term": "onar",
-        "roman_numeral": "I",
+        "term": "onar I",
         "definitions": [
             {
                 "sense": "1",
@@ -2280,12 +2268,12 @@
         ]
     },
     {
-        "term": "onar",
-        "roman_numeral": "II",
+        "term": "onar II",
+        "origin": "sl",
         "definitions": [
             {
                 "sense": "1",
-                "definition": "sl akal busuk, tipu daya."
+                "definition": "akal busuk, tipu daya."
             }
         ]
     },
@@ -2299,7 +2287,7 @@
         ]
     },
     {
-        "term": "ondak",
+        "term": "ondak; berondak-ondak",
         "definitions": [
             {
                 "sense": "1",
@@ -2351,7 +2339,7 @@
         ]
     },
     {
-        "term": "ondoh",
+        "term": "ondoh; berondoh-ondoh",
         "definitions": [
             {
                 "sense": "1",
@@ -2380,7 +2368,7 @@
         ]
     },
     {
-        "term": "ondok",
+        "term": "ondok; mengondokkan",
         "definitions": [
             {
                 "sense": "1",
@@ -2398,8 +2386,7 @@
         ]
     },
     {
-        "term": "ong",
-        "roman_numeral": "I",
+        "term": "ong I",
         "definitions": [
             {
                 "sense": "1",
@@ -2408,8 +2395,7 @@
         ]
     },
     {
-        "term": "ong",
-        "roman_numeral": "II",
+        "term": "ong II",
         "origin": "C",
         "definitions": [
             {
@@ -2437,7 +2423,7 @@
         ]
     },
     {
-        "term": "onggak",
+        "term": "onggak; mengonggak-onggak;",
         "definitions": [
             {
                 "sense": "1",
@@ -2535,8 +2521,7 @@
         ]
     },
     {
-        "term": "ongkang",
-        "roman_numeral": "II",
+        "term": "ongkang II",
         "origin": "Mn",
         "definitions": [
             {
@@ -2718,7 +2703,7 @@
         ]
     },
     {
-        "term": "onyah",
+        "term": "onyah;",
         "definitions": [
             {
                 "sense": "1",
@@ -2727,7 +2712,7 @@
         ]
     },
     {
-        "term": "onyak",
+        "term": "onyak;",
         "definitions": [
             {
                 "sense": "1",
@@ -2736,7 +2721,7 @@
         ]
     },
     {
-        "term": "onyok",
+        "term": "onyok; mengonyok, mengonyokkan",
         "definitions": [
             {
                 "sense": "1",
@@ -2765,8 +2750,7 @@
         ]
     },
     {
-        "term": "opak",
-        "roman_numeral": "I",
+        "term": "opak I;",
         "definitions": [
             {
                 "sense": "1",
@@ -2775,8 +2759,7 @@
         ]
     },
     {
-        "term": "opak",
-        "roman_numeral": "II",
+        "term": "opak II",
         "definitions": [
             {
                 "sense": "1",
@@ -3084,7 +3067,7 @@
         ]
     },
     {
-        "term": "opsiner",
+        "term": "opsiner, opsinder",
         "origin": "IB",
         "definitions": [
             {
@@ -3277,8 +3260,7 @@
         ]
     },
     {
-        "term": "orak",
-        "roman_numeral": "II",
+        "term": "orak II;",
         "definitions": [
             {
                 "sense": "1",
@@ -3287,7 +3269,7 @@
         ]
     },
     {
-        "term": "oran",
+        "term": "oran;",
         "definitions": [
             {
                 "sense": "1",
@@ -3513,7 +3495,7 @@
         ]
     },
     {
-        "term": "ordinal",
+        "term": "ordinal;",
         "definitions": [
             {
                 "sense": "1",
@@ -3608,8 +3590,7 @@
         ]
     },
     {
-        "term": "organ",
-        "roman_numeral": "II",
+        "term": "organ II",
         "origin": "IB",
         "definitions": [
             {
@@ -3619,8 +3600,7 @@
         ]
     },
     {
-        "term": "organ",
-        "roman_numeral": "III",
+        "term": "organ III",
         "definitions": [
             {
                 "sense": "1",
@@ -3638,7 +3618,7 @@
         ]
     },
     {
-        "term": "organik",
+        "term": "organik;",
         "definitions": [
             {
                 "sense": "1",
@@ -3984,8 +3964,7 @@
         ]
     },
     {
-        "term": "orok",
-        "roman_numeral": "I",
+        "term": "orok I;",
         "definitions": [
             {
                 "sense": "1",
@@ -3994,8 +3973,7 @@
         ]
     },
     {
-        "term": "orok",
-        "roman_numeral": "II",
+        "term": "orok II; mengorok",
         "definitions": [
             {
                 "sense": "1",
@@ -4014,8 +3992,7 @@
         ]
     },
     {
-        "term": "orong-orong",
-        "roman_numeral": "I",
+        "term": "orong-orong I",
         "origin": "Mn",
         "definitions": [
             {
@@ -4025,8 +4002,7 @@
         ]
     },
     {
-        "term": "orong-orong",
-        "roman_numeral": "II",
+        "term": "orong-orong II",
         "origin": "Jw",
         "definitions": [
             {
@@ -4219,7 +4195,7 @@
         ]
     },
     {
-        "term": "oso",
+        "term": "oso;",
         "definitions": [
             {
                 "sense": "1",
@@ -4332,8 +4308,7 @@
         ]
     },
     {
-        "term": "otak",
-        "roman_numeral": "II",
+        "term": "otak II; otak-otakan",
         "origin": "Jk",
         "definitions": [
             {
@@ -4436,8 +4411,7 @@
         ]
     },
     {
-        "term": "oto",
-        "roman_numeral": "I",
+        "term": "oto I",
         "origin": "Id",
         "definitions": [
             {
@@ -4447,8 +4421,7 @@
         ]
     },
     {
-        "term": "oto",
-        "roman_numeral": "II",
+        "term": "oto II",
         "definitions": [
             {
                 "sense": "1",
@@ -4733,8 +4706,7 @@
         ]
     },
     {
-        "term": "oyak",
-        "roman_numeral": "I",
+        "term": "oyak I",
         "origin": "Mn",
         "definitions": [
             {
@@ -4774,8 +4746,7 @@
         ]
     },
     {
-        "term": "oyong",
-        "roman_numeral": "I",
+        "term": "oyong I",
         "definitions": [
             {
                 "sense": "1",
@@ -4804,8 +4775,7 @@
         ]
     },
     {
-        "term": "oyong",
-        "roman_numeral": "II",
+        "term": "oyong II",
         "origin": "Jk",
         "definitions": [
             {
